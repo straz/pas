@@ -1,0 +1,15 @@
+# Site settings
+title: A test blog site
+email: steve@strassmann.com
+description: > # this means to ignore newlines until "baseurl:"
+  I have a pair of shoes.
+  They are not new.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: ostraz
+github_username:  straz
+
+# Build settings
+markdown: kramdown
+
+timezone: America/New_York
