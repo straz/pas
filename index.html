@@ -4,20 +4,42 @@ layout: default
  
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+{% assign pages_list = site.pages %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+      <ul class="nav">
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        
+	zo
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<h1 class="page-heading">Articles</h1>
+
+  {% for post in site.posts %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+
+
+   <ul class="toc">
+   {% assign sorted_articles = site.data.articles | sort:"iso_date" %}
+
+   {% for article in sorted_articles reversed %}
+    <li>
+      <a href="{{ article.url }}">{{ article.title }}</a><br/>
+      <span class="post-meta">{{ article.desc }}, {{ article.iso_date | date: "%B %Y" }}</span>
+    </li>
+   {% endfor %}
+   </ul>
+
 
 </div>

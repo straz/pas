@@ -161,6 +161,11 @@
 /**
  * Page content
  */
+
+ul.toc {
+  list-style-type: none;
+}
+
 .page-content {
     padding: $spacing-unit 0;
 }

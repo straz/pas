@@ -1,0 +1,127 @@
+<html> 
+<head>
+
+<title>To cut costs, find the costliest users</title> 
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p> 
+<h2>To Cut Costs, Find the Costliest Users</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+December 8, 1997<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size=+6>T</font><font size=+1>he price of "low-cost computing"
+has gotten very high: Distributed computing has become the largest single
+item in every company's computer budget.</font><p>
+
+
+If there's good news in this, it's that the money needed for year 2000
+remedies and bailing out failed client/server projects can be squeezed
+out of bloated total cost of ownership (TCO) figures. The problem is
+knowing where most of the fat is hidden.<P>
+
+Here's where to start: Find the most expensive users. By analyzing how
+much money is spent to meet the needs of different kinds of users, we
+can find the fat.<P>
+
+Banks make the best laboratory subjects for examining TCO. They
+closely monitor IT costs, and nearly all bank workers are information
+workers. And, banks spend about half their IT budgets on distributed
+computing.<P>
+
+I have reliable numbers of total IT spending last year by 13 U.S.
+commercial banks. Those banks rank among the top IT spenders. Their
+total IT budgets now average 25% of what they pay out to their
+employees as compensation, consume 13% of noninterest costs (overhead)
+and eat up one-third of the total profits the banks earn. With all
+that spending, there's certainly room for reducing total ownership
+costs.<P>
+
+<h3>Direct and indirect costs</h3>
+
+I looked at both Direct Budgeted Costs (DBC) and Indirect User Costs
+(IUC), which together make up the total cost of ownership. Banks
+define DBCs as their IT spending. IT includes the costs of hardware,
+software, telecommunications, systems development, systems maintenance
+and computer operations. IUCs represent the time users spend on chores
+that the IT organization can't or won't deliver, such as rebooting a
+crashed desktop, waiting for the help desk to answer a request and
+then waiting for someone to fix the problem, or trying to fix a
+problem without anyone's assistance.<P>
+
+I have found that the per-employee DBC -- the visible component of TCO
+-- is related to employee compensation. Low-paid tellers will work
+with terminals whose DBC is perhaps as little as $2,000 per year. The
+most-often quoted benchmarks are based on an average employee salary
+of $32,000 per year and show up as having DBCs from $4,500 to $6,000.
+Investment analysts, currency traders and top techies would consider
+it a blow to their status if they had to use anything but the biggest
+and best. That can run up the DBC to between $12,000 and $15,000
+because the equipment consumes large amounts of unproductive labor.<P>
+
+Most of the excessive total cost of ownership figures can be found
+among those users who will be the most vocal in defending their unique
+computer configurations. I have found cases where it's much less
+expensive to give such a complainer two computers: one to experiment
+with and another that conforms to corporate standards. After all, the
+cost of hardware is now less than 35 cents per hour, which is a small
+fraction of the nuisance one can create by tying up support staff that
+costs $40 per hour.<P>
+
+Then there are the IUCs. Employees waste time coping with avoidable
+mishaps. They also lose productivity because they take time to do work
+for which they aren't qualified. The IUCs are, therefore, related to
+the employee's compensation and the failure of the computing
+infrastructure to eliminate avoidable disruptions.<P>
+
+The IUC for a low-reliability network used by highly paid
+professionals can run as high as $11,000. In contrast, a
+high-reliability network can have an IUC as low as $1,400. Cutting
+back on unproductive downtime, for whatever cause, can be the source
+of enormous savings.<P>
+
+<h3>Implications for executives</h3>
+
+I believe most companies have costly users, their own equivalent of
+those banks' investment analysts and traders. But how fast one can
+slim down high TCO depends on how quickly the executives responsible
+for IT can halt the profligate practices that have grown along with
+the distribution of computing power. Most of this can be achieved by
+shifting much of the labor-intensive support costs to sophisticated
+network controls. That requires standardization of operating practices
+while finding solutions that don't interfere with personal privacy and
+individuals' freedom to use the computer for knowledge enhancement.<P>
+
+It may take a change in management to accomplish that. (About 40% of
+CIO turnover is a harbinger of things to come; see CW, Nov. 10.) But
+the smart operators won't wait. CIOs can't hide the real costs of
+computing much longer. Profits have been good recently and interest
+rates low, but if that changes, cutting total cost of ownership will
+be high on everybody's list. For the 13 banks, we're talking about
+reducing the TCO for 291,000 PCs. That's $1.5 billion per year. It
+will surely get attention as soon as top management figures out what
+TCO is all about.<P>
+
+The time has come to start extracting savings from excessive total
+cost of ownership before one is mandated to do so under duress that
+involves a hasty transition. A CIO must act now to cut the excess from
+TCO or be forced to do it later -- and have to hunt for a new job at
+the same time.<p>
+
+<hr> <font size="-1"> Strassmann (<A
+href="http://www.strassmann.com">www.strassmann.com</a>) favors
+cutting avoidable operating costs before requesting funds for 
+worthwhile new investments in information management.</font>
+
+
+</td></tr>
+</table>
+
+<!--#include file="cw97-footer.shtml"-->

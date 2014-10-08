@@ -1,0 +1,184 @@
+<html>
+<!--Copyright ©1996 Strassmann, Inc. All rights reserved -->
+<head>
+<!-- -->
+<title>CIO Job-Holding Expectancy</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p>
+<h2>CIO Job-Holding Expectancy</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+June 10, 1996<br>
+
+<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="480">
+
+<tr><td>
+<hr>
+
+Matching the names of CIOs who appeared on a verified lists at the start of
+1994 and again at the start of 1995 confirms that their average job-holding
+expectancy was about  30 months, and probably less than that. If such a high
+instability persists, it is likely to accelerate the outsourcing of information
+systems support services. It will reinforce the prevailing tendencies towards
+increasingly chaotic solutions to systems management problems.<p>
+
+In the story about the three little pigs the rationale for building a house out
+of twigs is a short-term thinking perspective. If the prospects of a CIO's
+career continue to be brief, firms can expect to operate with flimsy systems.<p>
+
+To build a long-lasting, low-maintenance systems architecture for a corporation
+would take at least seven years. Where the burden of maintaining legacy
+applications consumes most of the available resources, the planning cycle for
+getting things right may extend well beyond ten years. This is why the subject
+of CIO job-holding experiences should be of interest.
+
+<h3>Earlier Studies</h3>
+
+Stories about the short life of CIOs have been widely quoted in magazine
+articles for the last four years. When tracing the origins of these stories I
+always ended up with three surveys - two from major consulting firms, one by a
+recruiting consultant. In each instance the average job-holding time for a CIO
+was alleged to be either 25 or 28 months. <p>
+
+A recent survey report in <i>Computerworld</i> suggested that the
+CIO's time-on-the-job may be somewhat longer, about 34 months. How
+these surveys were obtained remains a mystery. My first reaction to
+these numbers was one of incredulity. One does not survey nurses in
+the emergency ward of an inner-city hospital for statistically valid
+opinions about the health of urban population. <p>
+
+The 1994 <i>CW Premier 100</i> survey did examine the question of CIO
+longevity. It concluded that the mean time of CIOs in position was 6.1 years,
+with a median of four years. There was one CIO who has been on the job for over
+25 years - clearly a candidate for a medal!<p>
+
+<img SRC="jobholding.gif" WIDTH="368" HEIGHT="224"><p>
+
+The <i>Premier 100</i> were the best of the Fortune 1000 in terms of
+information productivity. Therefore, they were not a representative sample of
+what could be expected. Nevertheless,  I could not believe that the differences
+in job longevity between the U.S. average and the Premier 100 firms could be
+very large.
+
+<h3>Taking Names</h3>
+
+There was only one way of finding out for sure what was the CIO turnover rate.
+It just happens that I have an independently validated 1994 and 1995 mailing
+list of CIOs. All I had to do is to merge the two lists and see which names
+remained the same from year to year.<p>
+
+From a list of 496 firms only 232 names of CIOs showed up both in 1994 as well
+as in 1995. Seventy four firms (see list below) changed CIOs in one year. That
+yields a turnover rate of 24.2%, or an average tenure expectancy of 30 months.
+<p>
+
+The fate of the CIOs in the 109 firms for which I could not account for the
+CIOs longevity is a matter of anyone's guess. I gave good reasons to believe
+that about half of these firms have swapped out their CIOs. If that guess is
+approximately correct, the consultants' and the recruiter's findings alleging
+25-28 months terms in will be right.
+
+<h3>Implications</h3>
+
+One view of the roles of a CIO defines it as the development, custody,
+preservation, safeguarding and enhancement of the information assets of a firm.
+That implies that CIO should take a long-term view of what needs to be done.
+Holding a job only for a short time is inconsistent with carrying out long term
+commitments.<p>
+
+In fact, the relaxation with which many CIOs have viewed the coming of
+year 2000 suggests that they have always counted on not being around
+when time comes to account for a perfectly predictable disaster. Thus,
+short time on a job becomes a self-fulfilling prophecy. It is a
+telling symptom of the disease that makes our information technologies
+less effective than their potential.<p>
+ 
+
+<pre>  <b>74 Firms That Changed CIOs in 1994</b>
+
+    1       AEtna Life and Casualty Co.            
+    2       Alltel Corp.                          
+    3       American International Grou           
+    4       Ameritech Corp.                       
+    5       AMR Corp.                             
+    6       Anheuser-Busch Cos. Inc.              
+    7       Apple Computer Inc.                   
+    8       Avnet Inc.                            
+    9       Avon Products Inc.                    
+    10      Baxter International Inc              
+    11      Becton Dickinson &amp; Co.                
+    12      Black &amp; Decker Corp.                  
+    13      Bristol-Myers Squibb Co.              
+    14      CBS Inc.                              
+    15      Chemical Banking Corp.                
+    16      CMS Energy Corp.                      
+    17      Columbia  HCA Healthcare              
+    18      Comerica Inc.                         
+    19      Computer Sciences Corp.               
+    20      ConAgra Inc.                          
+    21      CSX Corp.                             
+    22      Deere &amp; Co.                           
+    23      Digital Equipment Corp.               
+    24      Dow Chemical Co.                      
+    25      Eli Lilly and Co.                     
+    26      FHP International Corp.               
+    27      First Bank System Inc.                
+    28      Fleet Financial Group                 
+    29      Fleming Cos. Inc.                     
+    30      Florida Power &amp; Light Co.             
+    31      Ford Motor Co.                        
+    32      Gannett Co. Inc.                      
+    33      General Electric Co.                  
+    34      Great Western Financial Corp.         
+    35      GTE Corp.                             
+    36      Harcourt General Inc.                 
+    37      Illinois Tool Works Inc.              
+    38      Ingersoll Rand Co.                    
+    39      ITT Corp.                             
+    40      Johnson &amp; Johnson                     
+    41      Kerr McGee Corp.                      
+    42      Key Corp.                             
+    43      Kmart Corp.                           
+    44      Lockheed Martin Corp.                 
+    45      May Department Stores Co.             
+    46      Maytag Corp.                          
+    47      McDermott International Inc.          
+    48      MCI Communications Corp.              
+    49      McKesson Corp.                        
+    50      Merrill Lynch &amp; Co. Inc.              
+    51      Microsoft Corp.                       
+    52      Monsanto Co.                          
+    53      NBD Bancorp Inc.                      
+    54      Olin Corp.                            
+    55      PacifiCorp                            
+    56      Phillips Petroleum Co.                
+    57      Raytheon Co.                          
+    58      Reliance Group Holdings Inc.          
+    59      Reynolds Metals Co.                   
+    60      RR Donnelley &amp; Sons Ca                
+    61      Ryder System Inc.                     
+    62      Safeway Inc.                          
+    63      Sara Lee Corp.                        
+    64      SCEcorp                               
+    65      Scott Paper Co.                       
+    66      Sherwin Williams Co.                  
+    67      Southern Co.                          
+    68      Sun Co. Inc.                          
+    69      Supervalu Inc.                        
+    70      Texas Instruments Inc.                
+    71      TRW Inc.                              
+    72      Union Camp Corp.                      
+    73      Unisys Corp.                          
+    74      Westinghouse Electric Corp.           
+
+</pre>
+<p>
+
+</td></tr>
+</table>
+
+
+<!--#include file="cw96-footer.shtml"-->
