@@ -91,12 +91,13 @@ computer-based organizations, as millions of disk drives fill up with
 redundant, and unretrievable, information stashed away in proprietary
 formats. 
 
-As we evolve toward data-centric architectures (see [Why IT Will Continue to Matter](it-continue.html)), the
-management of systems for collaboration and for knowledge sharing will
-be central to profitable investments in IT. Judging from Google's
-research and its current marketing probes, it appears to be focused on
-competing for this opportunity. How Microsoft proposes to address this
-challenge is yet to be seen. 
+As we evolve toward data-centric architectures (see [Why IT Will
+Continue to Matter](it-continue.html)), the management of systems for
+collaboration and for knowledge sharing will be central to profitable
+investments in IT. Judging from Google's research and its current
+marketing probes, it appears to be focused on competing for this
+opportunity. How Microsoft proposes to address this challenge is yet
+to be seen.
 
 ---
 
