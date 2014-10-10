@@ -1,3 +1,43 @@
+<style>
+ nav h2 {
+  font-weight: 500;
+  font-size: 100%;
+  margin: 3px;
+ }
+ nav li {
+   line-height: 1;
+ }
+ nav li.column {
+  padding: 0px 20px;
+  }
+
+  nav ul li {
+    list-style:none;
+    float: left;
+  }
+  nav ul.links li {
+    padding: 3px;
+  }
+  nav ul.links li:hover {
+    background-color: #E4E4FF;
+  }
+  nav ul.links li:hover a {
+    text-decoration: none;
+  }
+  nav ul {
+    margin: 0px;
+    clear: both;
+  }
+  .column li {
+     clear: both;
+  }
+
+</style>
+
+
+
+
+</style>
 <header class="site-header">
 
   <div class="wrapper">
@@ -17,9 +57,32 @@
         </svg>
       </a>
 
-      <div class="trigger">
 
-      </div>
+    <ul class="grid" id="headerOne">
+        <li class="column">
+          <h2 class="columnhead">Publications</h2>
+           <ul class="links">
+             <li><a href="http://infoeconomics.com">Books</a></li>
+             <li><a href="{{ site.baseurl }}/">All articles</a></li>
+             <li><a href="{{ site.baseurl }}/pubs/cw">Computerworld</a></li>
+             <li><a href="cw">IDC</a></li>
+             <li><a href="cw">AFCEA Signal</a></li>
+             <li><a href="cw">Baseline</a></li>
+             <li><a href="cw">Videos</a></li>
+           </ul>
+        </li>
+        </li>
+        <li class="column">
+          <h2 class="columnhead">Paul Strassmann</h2>
+           <ul class="links">
+             <li><a href="{{ site.baseurl }}/bio">Bio</a></li>
+             <li><a href="http://pstrassmann.blogspot.com">Blog</a></li>
+             <li><a href="http://strassmann.com/consulting">Consulting</a></li>
+           </ul>
+        </li>
+    </ul>
+
+
 
     </nav>
 
