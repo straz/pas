@@ -1,6 +1,7 @@
 ---
 title: Paul A. Strassmann
 layout: post
+category: Bio
 ---
 
 # Biography

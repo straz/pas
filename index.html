@@ -1,24 +1,22 @@
 ---
 layout: default
 ---
- 
+
+<style>
+  ul.toc-main li {
+    list-style: none;
+    width: 200px;
+    height: 150px;
+    background-color: #dfe;
+    float: left;
+    margin: 30px; 
+  }
+</style>
+
 <div class="home">
-
-{% assign pages_list = site.pages %}
-
-<h1 class="page-heading">Articles</h1>
-
-
-   <ul class="toc">
-   {% assign sorted_articles = site.data.articles | sort_by:"iso_date" %}
-
-   {% for article in sorted_articles reversed %}
-    <li>
-      <a href="{{ article.url }}">{{ article.title }}</a><br/>
-      <span class="post-meta">{{ article.desc }}, {{ article.iso_date | date: "%B %Y" }}</span>
-    </li>
-   {% endfor %}
+   <ul class="toc-main">
+     <li>All articles</li>
+     <li>Computerworld</li>
+     <li>AFCEA Signal</li>
    </ul>
-
-
 </div>
