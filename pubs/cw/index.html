@@ -17,10 +17,10 @@ layout: default
 information management and security have been
 a feature of Computerworld for over a decade</p>
 
-
    <ul class="toc">
    {% assign last_year = -1 %}
-   {% assign sorted_articles = site.data.articles  | sort_by:"julian" %}
+   {% assign sorted_articles = site.data.articles  | sort:"julian" %}
+
 
    {% for article in sorted_articles reversed %}
 

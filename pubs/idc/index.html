@@ -1,18 +1,19 @@
 ---
+title: AFCEA/Signal
+category: IDC
 layout: default
-category: Articles
 ---
- 
+
 <style>
   h2 {margin-top: 20px}
+  img {margin-right: 70px; margin-bottom: 20px}
 </style>
 
 
-<div class="home">
+<a href="http://idc.com"><img src="logo-idc.png" alt="IDC" border=0/></A>
 
-{% assign pages_list = site.pages %}
-
-<h1 class="page-heading">Articles</h1>
+<P>Paul Strassmann is an Adjunct Research Advisor at the International Data Corporation (IDC).
+Through IDC, you can read his research or request direct contact for consulting and speaking engagements.</P>
 
 
    <ul class="toc">
@@ -22,6 +23,7 @@ category: Articles
 
    {% for article in sorted_articles reversed %}
 
+     {% if article.desc contains 'IDC' %}
 
       {% capture year %}{{ article.iso_date | date: "%Y" }} {% endcapture %}
         {% if year != last_year %}
@@ -31,10 +33,6 @@ category: Articles
         <li><a href="{{ article.url }}">{{ article.title }}</a><br/>
 	  <span class="post-meta">{{ article.desc }}, {{ article.iso_date | date: "%B %Y" }}</span>
 	</li>
+     {% endif %}   
    {% endfor %}
    </ul>
-
-
-
-
-</div>

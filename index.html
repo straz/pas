@@ -1,22 +1,64 @@
 ---
+category: home
 layout: default
 ---
 
 <style>
-  ul.toc-main li {
-    list-style: none;
-    width: 200px;
-    height: 150px;
-    background-color: #dfe;
-    float: left;
-    margin: 30px; 
+  a.browse {
+   font-weight: 500;
+   font-size: 120%;
   }
+
+  #banner {
+  min-width: 100%;
+  position:absolute;
+  left: 0;
+  bottom:0;
+  }
+
+form input[type=text] {
+  margin-top: 4px;
+  width: 250px;
+  font-size: 90%;
+  font-weight: normal;
+  border: solid 1px #bbb;
+}
+div.fa-search {
+  right: 1.5em;
+  top: 0em;
+  font-size: 90%;
+  position: relative;
+  color: #bbb;
+}
+
 </style>
 
-<div class="home">
-   <ul class="toc-main">
-     <li>All articles</li>
-     <li>Computerworld</li>
-     <li>AFCEA Signal</li>
-   </ul>
-</div>
+
+<P>
+<a href="bio">Paul Strassmann</a>'s career includes service as 
+chief corporate information systems executive,
+information systems researcher, and professor. He has written and spoken
+<a href="articles.html">extensively</a> on topics including 
+IT governance, economics of IT, security, and cyberwarfare.</P>
+
+<P><a class="browse" href="articles.html">Browse articles</a></P>
+
+   <FORM method=GET action=http://www.google.com/custom>
+     <INPUT type=hidden name=cof 
+        VALUE="LW:285;L:http://www.strassmann.com/pix/strassmann-inc.gif;LH:35;AH:left;GL:0;AWFID:700910fd6275caf8;">
+     <INPUT type=hidden name=domains value="strassmann.com">
+     <INPUT type=hidden name=sitesearch value="strassmann.com">
+     <INPUT type=text name=q size=31 maxlength=255 value="">
+     <DIV class="fa fa-search"></DIV>
+   </FORM>
+
+<!-- 
+   photo credit
+   Natural History museum in London, UK
+   http://www.flickr.com/photos/sagesolar/11954841195
+-->
+<img id="banner" src="assets/uk-nat-history.jpg"/>
+
+
+
+

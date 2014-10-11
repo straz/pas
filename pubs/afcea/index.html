@@ -1,18 +1,20 @@
 ---
+title: AFCEA/Signal
+category: AFCEA
 layout: default
-category: Articles
 ---
- 
+
 <style>
   h2 {margin-top: 20px}
+  img {margin-right: 70px; margin-bottom: 20px}
 </style>
 
 
-<div class="home">
+<a href="http://www.afcea.org/signal/signalscape/"><img src="SIGNALscape.jpg" width=312 height=50 alt="AFCEA SignalScape" border=0/></A>
 
-{% assign pages_list = site.pages %}
-
-<h1 class="page-heading">Articles</h1>
+<P>Paul Strassmann writes regularly for both print and blog editions of 
+<a href="http://www.afcea.org/signal/signalscape/">AFCEA Signal</a>,
+published by the Armed Forces Communications and Electronics Association</P>
 
 
    <ul class="toc">
@@ -22,6 +24,7 @@ category: Articles
 
    {% for article in sorted_articles reversed %}
 
+     {% if article.desc contains 'AFCEA' %}
 
       {% capture year %}{{ article.iso_date | date: "%Y" }} {% endcapture %}
         {% if year != last_year %}
@@ -31,10 +34,6 @@ category: Articles
         <li><a href="{{ article.url }}">{{ article.title }}</a><br/>
 	  <span class="post-meta">{{ article.desc }}, {{ article.iso_date | date: "%B %Y" }}</span>
 	</li>
+     {% endif %}   
    {% endfor %}
    </ul>
-
-
-
-
-</div>

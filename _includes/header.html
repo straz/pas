@@ -39,49 +39,47 @@
 
 <style>
 
-form input[type=text] {
-  margin-top: 4px;
-  font-size: 120%;
-  width: 100px;
-  padding-left: 1em;
-  border: solid 1px #bbb;
+
+nav {
+  padding-top: 3em;
 }
-div.fa-search {
-   position: relative;
-   left: 1.5em;
-   top: -.2em;
-   color: #bbb;
+
+.home-link {
+  position: relative;
+  top: 45px;
+  font-size: 150%;
 }
+
+div.columns {
+  display: inline-block;
+}
+
+#nav-books {
+  margin-top: 10px;
+}
+
+
 
 </style> 
 
 <header class="site-header">
 
   <div class="wrapper">
-
-    <a class="page-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="page-link home-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-
+      <div class="columns">
       <ul>
         <li class="column">
           <h2>Publications</h2>
            <ul class="links">
-             <li id="nav-books"><a href="http://infoeconomics.com">Books</a></li>
              <li id="nav-articles"><a href="{{ site.baseurl }}/articles.html">All articles</a></li>
              <li id="nav-cw"><a href="{{ site.baseurl }}/pubs/cw">Computerworld</a></li>
-             <li id="nav-idc"><a href="cw">IDC</a></li>
-             <li id="nav-afcea"><a href="cw">AFCEA Signal</a></li>
-             <li id="nav-baseline"><a href="cw">Baseline</a></li>
-             <li id="nav-videos"><a href="cw">Videos</a></li>
+             <li id="nav-idc"><a href="{{ site.baseurl }}/pubs/idc">IDC</a></li>
+             <li id="nav-afcea"><a href="{{ site.baseurl }}/pubs/afcea">AFCEA Signal</a></li>
+             <li id="nav-baseline"><a href="{{ site.baseurl }}/pubs/baseline">Baseline</a></li>
+             <li id="nav-books"><a href="http://infoeconomics.com">Books</a></li>
+             <li id="nav-videos"><a href="{{ site.baseurl }}/pubs/videos">Videos</a></li>
            </ul>
         </li>
         </li>
@@ -100,19 +98,12 @@ div.fa-search {
 </li>
         <li>
 
-   <FORM method=GET action=http://www.google.com/custom>
-     <INPUT type=hidden name=cof 
-        VALUE="LW:285;L:http://www.strassmann.com/pix/strassmann-inc.gif;LH:35;AH:left;GL:0;AWFID:700910fd6275caf8;">
-     <INPUT type=hidden name=domains value="strassmann.com">
-     <INPUT type=hidden name=sitesearch value="strassmann.com">
-     <DIV class="fa fa-search"></DIV>
-     <INPUT type=text name=q size=31 maxlength=255 value="">
-   </FORM>
+
 
         </li>
       </ul>
 
-
+     </div>
 
     </nav>
 
@@ -128,6 +119,12 @@ $(document).ready(function() {
        $("#nav-cw").addClass("active");
     } else if (category == "Bio"){
        $("#nav-bio").addClass("active");
+    } else if (category == "AFCEA"){
+       $("#nav-afcea").addClass("active");
+    } else if (category == "IDC"){
+       $("#nav-idc").addClass("active");
+    } else if (category == "Baseline"){
+       $("#nav-baseline").addClass("active");
     } else if (category == "Articles"){
        $("#nav-articles").addClass("active");
     }
