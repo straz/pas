@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Quack software warranties have got to go</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p>
+<h2>Quack software warranties have got to go</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+July 7, 1998<p>
+
+
+<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+
+<font size="+2">T</font>he vendors of off-the-shelf software are getting away with product  
+ warranties whose language renders them worthless. They are forcing us to 
+ accept fault-free cover-ups of persistently defective software. <p>
+
+ You would never buy an automobile or a refrigerator that offers as little 
+ protection and as great dependency as the software on which our information 
+ society is built. If we made trucks, pharmaceuticals and radios the way we 
+ engineer software, our economy would still be stuck in the early era of 
+ industrial development.<p> 
+ 
+<h3>Customer Expectations</h3>
+ 
+ In just about every other industry, consumers have many ways to get faulty 
+ products replaced. Many companies offer meaningful guarantees and 
+ warranties. Consumers may successfully sue manufacturers for damages from 
+ defective products, especially if the manufacturer was negligent.<p>
+
+ Manufacturers have been forced to disclose information about the quality and 
+ dangers of their products. The old buyer-beware attitude is out. Consumers 
+ now demand that sellers be accountable for how their products are used.<p> 
+  
+<h3>Accountability Avoidance</h3> 
+ Unfortunately, off-the-shelf-software companies still think they don't have 
+ to be responsible for product quality. 
+ Consider a typical software installation process. First, you get a window 
+ with 14 lines of tiny type asking, "Do you accept all of the terms?" If you 
+ choose "No," the setup will close. So everyone clicks "Yes" and prays 
+ nothing will crash the system. <p> 
+ 
+ What did you just agree to? To find out, you have to scroll through at least 
+ 10 hard-to-read windows because you can't enlarge or print the text. 
+ Typically, you will find you have given consent to absolve the vendor from 
+ any responsibility whatsoever. The vendor has agreed only that "... software 
+ will substantially conform to the applicable documentation ..." (ha!) and 
+ that it "... makes no warranty or representation, either express or implied, 
+ with respect to the software, documentation, quality, performance, 
+ usability, condition, compatibility, security, accuracy, merchantability, or 
+ fitness for a particular purpose." I particularly relish the clause that 
+ states "... customer waives any claims even if the vendor has been advised 
+ of the possibility of damages ..." <p> 
+ 
+ What does that mean? For instance, by clicking Yes, you will have absolved 
+ the vendor of responsibility for known defects in security that would lead 
+ to a compromise of your confidential data. By clicking Yes, you will have 
+ agreed not to blame the vendor for a rare combination of commands that will 
+ wipe clear your entire disk. <p> 
+ 
+ Even the few, ephemeral commitments contained in these warranties are 
+ worthless. Consider this pledge: "What you accepted is that the software 
+ vendor will only have to cover either the purchase price paid or the costs 
+ of repairs [bug fixes] to the software package, but only if such fixes are 
+ available." But even that is void in case of your "misapplication," as 
+ judged in the sole discretion of the courts in the vendor's hometown. <p>
+
+ In dollar terms, such remedies are meaningless. For instance, I have just 
+ completed a review of the time lost by a large financial firm from failures 
+ caused by off-the-shelf software. It added up to approximately 6.5 hours per 
+ month per person, or a total of $135 million per year. That's a very large 
+ multiple of the purchase price for the firm's software for one year. <p> 
+ 
+ The manufacturers of electrical devices -- motors, spark plugs and circuit 
+ boards -- provide generous warranties because their products are 
+ manufactured to defined specifications and quality standards. The software 
+ industry doesn't offer such warranties because its products are rushed to 
+ market after insufficient testing, in disregard of the pain the products may 
+ inflict on the buyers. <p> 
+ 
+ It's time the software industry joined the universal quest for greater 
+ product reliability and ended to shoddy software. <p> 
+ 
+ We users can't accept any more quack claims about capabilities and features 
+ for which the vendor assumes no responsibility. We must have performance 
+ warranties, test certification and assured performance levels to keep costs 
+ down and productivity up. We can't let a vendor ship operating systems with 
+ gaping holes that let infocriminals gain control of a business. We can't 
+ suffer applications that destroy data and wipe out ongoing work. We must not 
+ tolerate software so faulty that even the vendor's own experts can't install 
+ a peripheral device without crashing the system in a public demonstration. <p> 
+ 
+ My advice to buyers of off-the-shelf software is to rebel against 
+ contractual language that will place their careers at risk. Soon, negligence 
+ lawyers with experience gained from year 2000 lawsuits will turn their 
+ sights on organizations that have put up with software that's causing damage. <p>
+
+ Please read the fine print. The verbiage you strike out may be the words 
+ that could hang you.<p> 
+
+<hr>
+
+<font size="-1">
+
+ Strassmann (<a href="mailto:ceo@stacorp.com">ceo@stacorp.com</a>)
+ expects that if the software industry doesn't 
+ deliver quality products, lawyers and regulators will ensure that it does, 
+ in a most unpleasant manner. </font><p>
+
+</td></tr>
+</table>
+
+<!--#include file="cw98-footer.shtml"-->
+
+  

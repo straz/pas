@@ -1,0 +1,132 @@
+<html>
+<head>
+ <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+ <meta NAME="date" CONTENT="2000-12-04">
+<meta NAME="publicationDate" CONTENT="2000-12-04">
+<meta NAME="description" CONTENT="Knowing something about fishing helps you understand what you get when you click on any popular search engine.">
+<meta NAME="keywords" CONTENT="app dev/tools, app software, website mgt, paul a. strassmann">
+<meta NAME="contenttype" CONTENT="Opinion Column">
+<meta NAME="audienceetype" CONTENT="IT management,website">
+<meta NAME="publisher" CONTENT="Computerworld Inc.">
+<meta NAME="source" CONTENT="Computerworld">
+<meta NAME="creator" CONTENT="Paul A. Strassmann">
+<meta NAME="author" CONTENT="Paul A. Strassmann">
+<meta NAME="copyright" CONTENT="Copyright (c) 2000 Computerworld Inc.  All Rights Reserved">
+<meta NAME="rights" CONTENT="http://www.computerworld.com/cwi/subscriptions/privacy_policy/">
+<meta NAME="language" CONTENT="eng">
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="rating" CONTENT="General"> 
+ <!--link href="http://www.computerworld.com/computerworld_new.css" rel="STYLESHEET" type="text/css" -->
+	
+ <title>Fishing for Data</title>
+	
+</head>
+ 
+<BODY BGCOLOR=white>
+
+<p>
+<p>
+<h2>Fishing for Data</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+December 4, 2000<p>
+
+
+<hr>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">K</font><font size="+1">nowing something about
+fishing helps to understand</font> what you get when you click on
+AltaVista, Google, Ask Jeeves or any other popular search engine.
+First, you never search directly for what's on the Web. Of the
+estimated 550 billion documents floating in cyberspace, you get a
+chance to explore only about 1 billion. You "fish" in compartments
+that each search engine has set up, making it possible to easily
+retrieve your "catch" in seconds.<p>
+
+What you can find each time you cast your line is limited by the
+extraction and retention techniques that give you simplicity over
+thoroughness, meaning any findings will be superficial. What you get
+is what has already been found by a search engine "spider," such as
+pages logically linked to other pages. If others haven't shown
+interest in the documents you're looking for, the chances of those
+pages showing up in a search aren't good.<p>
+
+The authors' eagerness to be noticed has led to tricks for tuning Web
+pages to exploit the idiosyncrasies of proprietary search methods. For
+example, I get offers every week to dress up my own Web pages so that
+some searches will favor my content over that of my competitors.<p>
+
+Second, you'll never find out how complete or reliable a search
+engine's findings are. The boasts about unique "crawling" methods are
+only promises, because proof is always missing. Vendor-specific
+Web-exploring software decides what's revealed and what remains
+hidden. In rare instances, a search engine will locate only the catch
+that's further enhanced by an editorial staff that sorts and
+classifies the subject matter. For instance, one of the most
+frequently visited Web sites, Yahoo, employs more than 1,000 indexers
+who place Web content in predefined categories.<p>
+
+Third, existing search engines work off the flawed assumption that
+everything must be searchable in one pass. Consequently, you're
+encouraged to inquire by using only a few keywords. In some of the
+more sophisticated searches, a two- to four-word phrase is also
+allowed. Occasionally, you're offered "advanced" options where you can
+call for some elementary logic that would sort what to include from
+what to exclude. <p>
+
+Unfortunately, this doesn't work well in cases where
+the choice of a popular term, such as "Web," yields more than 30
+million results, in no particular order. The existing search engines
+don't let you play a game of 20 questions, which would make it
+possible for an inquirer to interact sequentially with databases. In
+that game, when an ambiguous question is asked, it usually takes a few
+tries before the query's correct meaning is understood. Then, it may
+take repeated give-and-take before you get a meaningful response. No
+current search engine engages in anything that would look like an
+intelligent exploration of what's being sought.<p>
+
+The Web represents the most awesome accumulation of data ever. But
+converting it into knowledge capital requires better retrieval
+methods. The shallow techniques of commercial search engines may
+satisfy casual employee inquiries, most journalists and certainly all
+politicians, but they won't serve the needs of comprehensive
+commercial intelligence. As these engines are deployed as elements of
+corporate business intelligence, their simplistic inadequacies become
+dangerous because they may not find information on certain critical
+events that can make a difference in one's research.<p>
+
+If the goal of your knowledge management program is to retain the
+relative simplicity of existing keyword searches, most of your
+employees will waste time browsing the Web and ending up with
+incomplete findings. If you invest serious money in
+enterprise-specific knowledge repositories such as sophisticated
+information-mining software, you'll still need more tools to fully
+explore the Web.<p>
+
+Start planning to buy search software that allows an ongoing discourse
+between those who ask questions and those who answer. Finding,
+correctly identifying and then deploying superior information
+intelligence will be a decisive weapon in tomorrow's world of business
+competition. <p>
+
+<P> <hr>
+
+<font size="-1">
+
+Strassmann (<A
+href="mailto:paul@strassmann.com">paul@strassmann.com</A>) believes
+information competition is the extension of economic competition that
+has been pursued by material means.
+<P>
+</FONT>
+
+
+</td></tr> </table>
+
+<!--#include file="cw2000-footer.shtml"-->
+

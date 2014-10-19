@@ -1,0 +1,146 @@
+<html>
+<head>
+
+<title>People: The Untold Part of the Total Cost Story</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p>
+<h2>People: The Untold Part<br>
+ of the Total Cost Story</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+April 14, 1997<hr>
+
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+The battlefield of Microsoft vs. Sun, IBM, Novell, Netscape and Oracle
+has been redefined in terms of the companies' Total Ownership Cost (TOC)
+claims.<p>
+
+The missiles in this battle are press releases and consultants'
+estimates of the TOC of network computers, network personal computers
+and personal computers.<p>
+
+     <h3>The TOC Claims</h3>
+
+The basis for the widely quoted estimates of TOC remains shrouded in
+mystery. Granted, everyone includes the costs of equipment and operating
+system software. But those numbers aren't decisive because they can
+account for as little as 16% of a TOC.<p>
+
+The various estimates don't explain what else is included. For instance,
+the "Cost of End-User Operations," which makes up 56% of Gartner Group's
+TOC, doesn't reveal how much of that is forunplanned downtime, how long
+it takes to recover from system crashes, time lost in recovering data,
+the negative revenue impact, how that affects customers and how much
+time is wasted before someone calls the help desk.<p>
+
+Instead, one finds vague references to "futz" factors. Yet, blaming
+futzing has little meaning in the absence of explaining who, when, why
+and how it happens. There's no reason to believe any of that would
+diminish with a network computer or a NetPC.<p>
+
+Consequently, IS managers are in a quandary. How can they reconcile
+Gartner's estimate of $9,784, Zona Research's $3,679, Forrester
+Research's $2,680 and Entext's Information Services' $1,500? How can one
+believe pronouncements from Oracle that its Network Computer would have
+"costs equal to that of a TV"? How can anyone accept that Microsoft can
+field PCs that have "zero administration costs"?<p>
+
+There's a simple answer: You can't reconcile any of the conflicting
+claims. In the absence of adequate disclosures about what makes up the
+various cost components, any comparisons of TOCs are guesses. No one is
+itemizing the verifiable costs of what matters the most: the people who
+try to use a network computer in their jobs.<p>
+
+<h3>The Business View</h3>
+
+The total ownership cost depends on what one counts. Just consider that
+an equipment purchase of $3,000, amortized over four years and operating
+for 52 five-day weeks, would cost 36 cents per hour. A typical
+information worker earning $40,000 per year would cost at least $40 per
+hour.<p>
+
+The biggest contributors to idling workers aren't failures of
+semiconductors or disk errors. When work stops, it's predominantly a
+reflection of systems management practices, software reliability and
+user behavior. Identical networks that have identical equipment
+configurations will experience widely different failure characteristics,
+depending on the quality of network management and the capabilities of
+the people. <p>
+
+I'm on the board of directors of a network management company that
+operates client/server networks for a fixed fee per client. I obtained
+the following listing of customer help desk calls for a typical time
+period:<p>
+
+<ul>
+
+<li>Ninety-eight calls were made primarily because the PC users didn't
+know what to do. I doubt that swapping computers would overcome such a
+lack of employee training.<p>
+
+<li>Ninety-four calls reported that the printer didn't work. That's not
+anything that a downloadable Java applet or a diskless computer could
+cure.<p>
+
+<li>There were 43 incidents of failed log-on attempts. Only improved
+administrative practices and reduced employee turnover could remedy
+that.<p>
+
+<li>In 40 instances, somebody kicked or loosened the connecting cables.
+I have yet to hear an argument that lower-cost computer equipment will
+simplify the ever-present cabling hazards.<p>
+
+<li>Only 84 calls conceivably could have been fixed by choosing a more
+robust and reliable client/server configuration, such as eliminating
+operating system crashes (31 incidents for Windows 95), automating
+resolution of error messages (28 incidents) and resolving NT 3.51
+Pentium server downtime (25 incidents).<p>
+
+</ul>
+
+The above network is exceptionally well-managed, with a competitive
+outsourcing price per seat of less than $3,000 per year. Even after
+applying superior administration and automated diagnostic aids, 77% of
+the cost of ownership was largely attributable to human errors that were
+only vaguely related to choosing different equipment.<p>
+
+<h3>The Significance</h3>
+
+Computer executives shouldn't believe that mere changes in network
+configuration will reduce their TOC. Those responsible for justifying IS
+spending would be well-advised to examine notonly the technology
+expenses that show up in their IS budgets but also the personnel and
+business consequences if computer-aided people don't do what they're
+supposed to do.<p>
+
+As for Microsoft, Sun, Oracle and a long list of consultants, IS
+managers should be aware that the public relations missile barrages are
+mostly vapor trails. Until verifiable operating results become available
+about the ability of employees to complete their work efficiently, one
+should suspend judgment about any expected savings from a proposition
+that doesn't recognize that humans will always cost more than
+computers.<p>
+
+
+
+<hr>
+<font size="-1">
+The topic of this column is addressed in an upcoming book by Paul
+Strassmann (<A href="http://www.strassmann.com">www.strassmann.com</a>)
+and Tom Pisello, The Mythical Personal Computer: The Real Ownership
+Costs of Personal Computing (<A
+href="http://www.strassmann.com/iep/iep.html">The Information Economics
+Press</a>).     
+<p> </font>
+
+</td></tr>
+</table>
+
+<!--#include file="cw97-footer.shtml"-->

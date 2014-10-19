@@ -1,0 +1,133 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta NAME="date" CONTENT="2001-03-05">
+<meta NAME="publicationDate" CONTENT="2001-03-05">
+<meta NAME="description" CONTENT="Have computers really improved productivity and driven the rising U.S. economic prosperity of the past several years? A look at the banking industry tells a different story.">
+<meta NAME="keywords" CONTENT="financial, it spending, roi, paul a. strassmann">
+<meta NAME="contenttype" CONTENT="Opinion Column">
+<meta NAME="audienceetype" CONTENT="business management,CIO,IT management">
+<meta NAME="publisher" CONTENT="Computerworld Inc.">
+<meta NAME="source" CONTENT="Computerworld">
+<meta NAME="creator" CONTENT="Paul A. Strassmann">
+<meta NAME="author" CONTENT="Paul A. Strassmann">
+<meta NAME="copyright" CONTENT="Copyright (c) 2000 Computerworld Inc.  All Rights Reserved">
+<meta NAME="rights" CONTENT="http://www.computerworld.com/cwi/subscriptions/privacy_policy/">
+<meta NAME="language" CONTENT="eng">
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="rating" CONTENT="General">
+ <!-- link href="http://www.computerworld.com/computerworld_new.css" rel="STYLESHEET" type="text/css" -->
+	
+<title>Debunking Dogma</title>
+</head>
+<body bgcolor=white>
+
+<p>
+<p>
+<h2>Debunking Dogma</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+March 5, 2001<p>
+
+
+<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">T</font><font size="+1">he assertion that computers
+improve productivity is generally accepted as economic dogma</font>
+and is reflected in government, industry and media pronouncements.
+Computerization has been credited as a principal cause of rising U.S.
+prosperity, the source of low inflation and the engine that drives
+favorable stock market performance.<P>
+
+But the problem with such claims is that there's very little hard data
+to conclusively support them. Admirers of computerization rely
+primarily on anecdotal case studies as evidence of astounding
+productivity gains. But such stories rarely hold up as independently
+verifiable proof. Such claims are almost always authored by public
+relations departments of vendors, consultants or firms boasting about
+their high-tech prowess based on well-written anecdotes. <P>
+
+Some academics have generated a small number of studies trying to show
+that spending on computers has been extremely profitable. But the
+studies are flawed because they base their findings on questionable
+government statistics [
+<!--A HREF="http://www.computerworld.com/cwi/story/0,1199,NAV47-81_STO55897,00.html" -->
+<A href="fuzzymath.shtml">Fuzzy Math</A>, Jan. 8] and rely on arcane econometric formulas. <P>
+
+Published financial statements from commercial banks offer perhaps the
+best data for tracking recent changes in productivity. Only banking
+firms publish detailed data about overhead costs, payrolls, employment
+and equipment purchases. Banks are also unique in that their
+statistics reflect their total economic value added. Because of tight
+regulatory controls, their reporting practices are more uniform than
+those in other industries. Banks also spend the most of any industry
+on computers per employee: more than 20% to 30% of payroll. Such high
+spending rates should give computers every opportunity to demonstrate
+improved productivity results, since increased computerization would
+figure as a critical influence in operating results. And showing such
+a favorable impact of computerization on productivity may indicate
+that IT could be profitable for other industries. <P>
+
+To find out if banking productivity has made recent gains, I collected
+financial statistics for 497 U.S. commercial banks. I excluded 36 that
+had drastically reduced employees through mergers, leaving 461 firms
+employing more than 1.2 million people. <P>
+
+The principal indicator that would signal productivity gains would be
+the ratio of staff payroll to revenue. Effective IT would make it
+possible to generate more revenue for the same amount of payroll
+dollars. A decline in this ratio would confirm the widely believed
+assumption that capital spending on computers is always more
+profitable than paying staff. But the ratio didn't decline - in fact,
+it showed a slight increase, from 19.9% in 1995 to 20.1% in 1999. <P>
+
+Then there's the ratio of noninterest costs to revenue, which
+reflects the banks' median overhead cost ratio - the sum of
+administrative, data processing and managerial expenses - divided by
+total revenue from fees and interest. After a decline from 1995
+through 1997 (39.1% to 37.2%), it rose to 38.3% in 1999, showing only
+an unimpressive improvement over five years.<P>
+
+The ratio of equipment cost to staff payroll (down from 16.3% in 1995
+to 15.9% in 1999) represents only an approximation of IT hardware
+spending. This indicates that banks continued to spend heavily on
+computer equipment and suggests that policies of devoting
+exceptionally high levels of capital investment on hardware were
+necessary. <P>
+
+<center><img src="debunking-dogma.gif" alt="debunking dogma" width=522 height=410></center><p>
+
+This confirms that the much-debated "computer paradox" that MIT
+professor Robert Solow wrote in 1987 ("You see computers everywhere
+except in the economic statistics.") hasn't been banished. None of
+that should be discouraging, since there are quite a few banks that
+deliver staff payroll-to-revenue improvements materially better than
+the median values. Some 93 banks delivered better than 10%
+improvements in that ratio. The extent to which such superior
+performance can be directly attributed to computers can be understood
+only by studying the quality of leadership, especially in cases where
+superior management - and not technology - made the difference. <P>
+
+Be very skeptical of general pronouncements about universal benefits of computerization. <P>
+
+
+<P> <hr>
+
+<font size="-1">
+
+Strassmann (<A
+HREF="mailto:paul@strassmann.com">paul@strassmann.com</A>) updates his
+studies about information productivity, begun in 1982, as new data
+becomes available.</font>
+
+
+</td></tr> </table>
+
+<!--#include file="cw2001-footer.shtml"-->
+

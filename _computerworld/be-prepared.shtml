@@ -1,0 +1,148 @@
+<html>
+<!--Copyright ©1997 Strassmann, Inc. All rights reserved -->
+<head>
+<!-- -->
+<title>What's the Best IS Defense? Being Prepared.</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p>
+<h2>What's the Best IS Defense? Being Prepared.</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+February 10, 1997<br>
+<hr>
+
+<blockquote>
+<B>The time has come for information executives to turn fearful.<br>
+   CIOs must become as aggressive about information security<br>
+  as the professional spies and thieves who threaten them.</B>
+</blockquote>
+<p>
+
+Professional thieves and blackmailers, not amateur or prankster
+hackers, traverse the global network seeking opportunities to steal
+money, launder illegal funds or extort political concessions. They
+have an exceptionally high level of technological sophistication. <P>
+
+Information warfare is raging on the economic front. Governments and
+businesses seek an advantage over rivals through cybercrime and
+electronic espionage. Their targets: information assets such as
+engineering drawings, process flowcharts, experimental data, software,
+patent applications, test results, financial data, customer prospect
+lists, business proposals and litigation documents.  <P>
+
+How will your company's computers fare when they come under attack?
+And if you are the CIO, how will you fare? Like it or not, chief
+information officers are also chief information security officers. You
+must answer for the fragility of your company's information
+systems.<P>
+
+<B>Here's what CIOs need to do:</B><P>
+
+<h4>1. Take Charge of Security</h4>
+
+CIOs must accept the security, integrity and availability of their
+companies' computer networks as one of their key responsibilities.
+That responsibility can't be outsourced. <P>
+
+The office of the CIO must have the charter to collect, analyze and
+understand incidents whenever it detects information-security
+infractions, regardless of where they occur. The CIO must have the
+means to monitor compliance with information-assurance policies. The
+board of directors, and specifically the board's audit committee,
+should look to the CIO to certify that information-security exposures
+don't exceed specified expectations.  <P>
+
+CIOs also must direct their development staff to make information
+security an inherent element of IS design. Retrofitting security into
+a system designed on the presumption of innocence and honesty is often
+too expensive -- or too late -- to be worth doing.<p>
+
+
+<h4>2. Create Independent Central Security Staffs</h4>
+
+Large companies need a knowledgeable and trusted staff of experts who
+can analyze threats to their business and install countermeasures
+against information attacks. That includes attacks that ask for help
+from trusted insiders, such as employees and contractors. The staff
+should oversee the following:
+
+<UL> 
+ <LI>Information-security assurance: Informing top managers about
+ the quality, robustness and reliability of existing
+ information-security capabilities.<P>
+
+ <LI>Security coordination: Making sure the functions that influence
+ information security perform as an integrated process, not as separate
+ tasks.<P>
+
+ <LI>Incident evaluation: Evaluating and accounting for every case in
+ which information security is compromised or suspected of being
+ compromised.
+</UL>
+
+The security staff must have the authority to review all
+information-handling practices and procedures to ensure that systems
+are secure.<P>
+
+Companies also need an independent technical review organization to
+certify their information-security design practices. Without
+independent certification, the danger frequently is that those who
+cause information-security exposures won't recognize that they have
+done so.<p>
+
+<h4>3. Protect the Security Budget</h4>
+
+CIOs must champion investing a significant share of IS resources in security.<P>
+
+Companies are kept from taking security seriously by organizational
+indifference to strict security precautions; competing interests, such
+as quickly filling technical positions without thoroughly checking the
+personal backgrounds of candidates; and disincentives to security
+cooperation, such as making information easily available to everyone.
+Security funding becomes a tempting target for executives seeking
+money for pet projects.  <P>
+
+Security funding faces two problems: Information security is
+expensive, and the payback isn't apparent until it's too late. One
+security-minded company budgeted $310 per person to cover the cost of
+security: secure ID cards, antivirus software, an Internet firewall
+server, secure ID numbers for employees in transit, encryption
+software, intrusion detection systems, central security administration
+and a security-testing staff. Add the cost of delays and
+inconveniences caused by security practices, and the cost balloons to
+$1,000 per person per year -- as much as 10% to 15% of workstation
+expenses.  <P>
+
+One solution is to eliminate all use of diskettes, floppy disks,
+removable disk cartridges and removable hard drives from the network
+unless a verifiable and tamper-proof usage record can be left. At
+least a quarter of the cost of ownership can be traced to incidents
+involving removable media. When a user inserts incompatible or faulty
+software, he creates conditions that magnify the demand for support
+services. Almost every breach in information security is traceable to
+network access via a removable disk.  <P>
+
+Corporate executives sometimes find my information-security
+observations unduly alarming. To them I say, "It's only a matter of
+time before a crippling failure of a critically important computer
+installation takes place. Paranoia -- a state of anxiety that somebody
+may do you harm -- isn't always based on imaginary fears. If you can
+think of a rival who wishes your company harm, then prudence may be
+essential for survival."<p>
+
+<p> <blockquote> <font size=2>
+
+<a href="mailto:paul@strassmann.com">Paul Strassmann</a> is adjunct
+professor of information warfare at National Defense University, on
+the grounds of Fort McNair in Washington, D.C. He recently
+participated in a one-year study for the U.S. secretary of defense on
+how to protect the nation's defense information infrastructure. Visit
+his Web site at <A
+HREF="http://www.strassmann.com">www.strassmann.com</A>
+</font>
+</blockquote>
+
+<!--#include file="cw97-footer.shtml"-->

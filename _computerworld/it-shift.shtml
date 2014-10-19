@@ -1,0 +1,113 @@
+<html> 
+<head>
+
+<title>IT's Upcoming Shift</title> 
+</head>
+
+<body bgcolor=white>
+<p>
+<p> 
+<h2>IT's Upcoming Shift</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+August 2, 1999<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">W</font><font size="+1">indows, Unix, Linux, SPARC,
+Pentium and Merced</font> &#151; there's nothing technologists love more than a debate
+about operating systems and microprocessors. But soon, those debates will be
+irrelevant. We have reached the end of computer history as we know it. <p>
+
+Fifty years of CPU- and operating-system-centric computing is ending. Large
+organizations are on the  threshold of an era that will be characterized by
+widespread diffusion of the computing function. In the next five years, the
+economics of computing will cause work to be dispersed to autonomous systems that
+will combine as needed for cooperation, without having to depend on specific
+operating systems and microprocessors to function at all. <p>
+
+According to International Data Corp., this year's worldwide spending on IT will be $1.6
+trillion. At a conservative future annual growth rate of 9%, total IT spending
+for the next decade will be $30 trillion. That's simply not affordable. The
+demise of computing as we know it will be forced by the following:<p>
+
+<ul>
+<LI>In 1997, U.S. spending of $660 billion on IT neared that of corporate wages
+and salaries ($732 billion) and was rising at a faster rate. That makes IT an
+attractive target for cost reduction when an economic slowdown occurs.<p>
+
+<LI>Forty-six percent (and rising) of business capital investment is  in
+computing equipment. Now that corporate allocations to IT have been reached,
+growing needs for investments in energy, transportation and manufacturing must be
+met.<p>
+
+<LI>The "computer paradox" remains. There's no demonstrable relationship between
+computer spending and corporate profits. Executives can no longer tolerate that.<p>
+
+<LI>There's no technical reason why each of the 500 million corporate desktop
+computers estimated to be put in place in the next five years needs
+mainframe-like overhead such as 20 million to 60 million lines of code, gigabyte
+files and a managerial complexity that I estimate amounts to at least $3,000 to
+$5,000 each in excess overhead.<p>
+
+</ul>
+
+Despite all the talk about distributed computing and e-commerce, the reality is
+that the principal appliances of the computer age are the Wintel machines. Their
+architecture is an embodiment of centralized thinking. The operating system must
+be fully informed about every conceivable feature and event.<p>
+
+The extremely successful Wintel offerings are the result of valiant efforts to
+include everyone within their fold through cooperation, backward compatibility,
+software engineering tools, added features and options that accommodate increased
+variety. Although commendable, those efforts have led inevitably to a level of
+complexity that is manageable only at exorbitant costs.<p>
+
+The Wintel central control approach to computing is doomed to economic failure
+because it passes on to its customers huge administrative costs and enormous
+risks for uninsurable failures. Corporate management is searching for simple,
+low-cost and reliable solutions.<p>
+
+My bets are on these major innovations:<p>
+
+<ul>
+<LI>User devices without an operating system, memory, compilers, browsers and
+peripheral drivers. With high-speed corporate intranets, most office workers need
+only a panel driven from network servers that can benefit from the economies of
+reduced overhead costs, increased reliability and superior security.<p>
+
+<LI>Software applets that run on "virtual machines," which make every "client"
+device independent of processor technology and unrelated to the choice of an
+operating system. Because they can function without requiring support from a
+specific choice of technology, such software will also have a much longer
+economic life than today's software, resulting in an enormous improvement in
+life-cycle costs.<p>
+
+<LI>Software that can communicate, interact and support business services without
+central control that guides their every step.<p>
+</ul>
+
+The consequences of this transformation are far-reaching. Most of the code and
+all of the organizational forms based on central planning will crumble. Those who
+bet on the new architectures will prosper. <P> 
+
+
+
+
+<hr> <font size="-1">
+Strassmann (<a href="mailto:paul@strassmann.com">paul@strassmann.com</a>) 
+would like to see much more money available for
+innovations that create value instead of costly maintenance.
+
+</FONT>
+
+
+</td></tr>
+</table>
+
+<!--#include file="cw99-footer.shtml"-->
+
+

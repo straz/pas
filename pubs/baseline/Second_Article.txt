@@ -1,0 +1,33 @@
+Baseline Magazine, October 18, 2004
+
+Who Led the Baseline 500 & Why
+By Larry Dignan with Paul Strassmann 
+
+The premise of the Baseline 500 rankings is that capital no longer constitutes the most important factor in the success of a corporation. How that company manages information is the key. In fact, if you take sales, general and administrative costs—essentially the costs to conduct a transaction—and compare them with capital costs such as land and equipment, SG&A outpaces capital costs by 3 to 1. In a global market, capital assets become commodities and don't even have to be owned. Land and equipment can be leased, for instance.
+
+Information Productivity ranks companies by how well they manage information, the source of their competitive edge. The example below looks at Washington Real Estate Investment Trust and how it achieved the highest Information Productivity of more than 2,500 publicly traded firms.
+
+The formula:
+
+Information Productivity = Information Value-Added (output) divided by Transaction Costs (input)
+
+Information Value-Added (IVA): $44M
+
+You start with a company's profit after taxes but before preferred dividends, special charges and adjustments. For Washington REIT, this is shown as Income Before Extra Items of $45M.
+
+This amount then has to be reduced by the minimum return paid out to shareholders annually to meet their investing expectations. This return is captured in a financial formula known as a Capital Asset Pricing Model. That percentage return is then multiplied against the money invested by owners, known as Shareholders' Equity.
+
+ Washington REIT's Capital Asset Pricing Model is low at 0.15% because of government financing to make the mortgage market liquid. Data for figuring the return is at sources such as Standard & Poor's or Value Line Reports. We multiplied 0.15% against Shareholders' Equity of $378.75M, found in financial statements. The result is subtracted from Income Before Extra Items, leaving Information Value-Added (IVA) of $44M (rounded to nearest whole number).
+
+Information Productivity: 840.2%
+
+This is a simpler calculation. You take the number you just calculated, Information Value-Added (IVA) of $44M, and divide it by the Transaction Costs involved in producing that result.
+
+These costs are captured in the financial statements of Washington REIT as its sales, general and administrative expenses (SG&A). This figure includes all the costs of managing, coordinating, training, communicating, planning, accounting, marketing and research. In the chart above, the amount is shown as Estimated Transaction Costs of $5M.
+
+So, pull out your calculator. Divide the Information Value-Added (IVA) of $44M by the Estimated Transaction Costs of $5M.
+
+You will get 8.8, or 880%. That is actually due to rounding of both numbers.
+
+ The precise number is 840.2%.
+     

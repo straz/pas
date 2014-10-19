@@ -1,0 +1,136 @@
+<html>
+
+<head>
+	<title>IT Spending: The CFOs Strike Back - Computerworld</title>
+	<meta NAME="date" CONTENT="2003-10-06">
+	<meta NAME="publicationDate" CONTENT="2003-10-06">
+	<meta NAME="description" CONTENT="Opinion: Columnist Paul A. Strassmann takes a look at the federal government's method of assessing IT projects.">
+	<meta NAME="keywords" CONTENT="government, it, spending, it, in, government, it, management, leadership">
+	<meta NAME="pagetype" CONTENT="itspending">
+	<meta NAME="headline" CONTENT="IT Spending: The CFOs Strike Back">
+	<meta NAME="contenttype" CONTENT="Opinion">
+	<meta NAME="publisher" CONTENT="Computerworld Inc.">
+	<meta NAME="source" CONTENT="Computerworld">
+	<meta NAME="creator" CONTENT="Paul A. Strassmann">
+	<meta NAME="author" CONTENT="Paul A. Strassmann">
+	<meta NAME="copyright" CONTENT="Copyright (c) 2003 Computerworld Inc.  All Rights Reserved">
+	<meta NAME="rights" CONTENT="http://www.computerworld.com/cwi/subscriptions/privacy_policy/">
+	<meta NAME="language" CONTENT="eng">
+	<meta NAME="resource-type" CONTENT="document">
+	<meta NAME="rating" CONTENT="General">
+</head>
+
+<body bgcolor="white">
+
+<p>
+<p>
+<h2>IT Spending: The CFOs Strike Back</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+October 6, 2003<p>
+
+
+<hr>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">I</font><font size="+1">n 2000, the CIO Magazine Tech
+Poll reported a 22% annual growth rate in IT budgets.</font> The same poll
+has recorded growth rates below 2% from January 2002 to the present.
+For the past two years, CIOs have persistently predicted a resurgence
+in IT spending. But the harsh reality is that chief financial officers
+now dictate IT spending, and they will throttle IT budgets until
+there's hard evidence that IT delivers profits.<p>
+
+<P>How CFOs can extract proof of IT profitability is a source of
+puzzlement. During the years of easy IT money, the established
+procedures for capital budgeting couldn't cope with a growing appetite
+for computerization. Now that companies have slammed on the brakes,
+CFOs are searching for new ways to harness IT.
+
+<P>The most elaborate scheme yet is the one the Office of Management
+and Budget conceived for constraining the more than $57 billion in
+annual federal IT spending (or $32,000 per employee). OMB efforts,
+conducted under the federal enterprise architecture and e-government
+strategies, are scripts for imposing order and uniformity on an IT
+landscape that comprises more than 100 independent agencies and
+includes more than 5,000 major projects. The OMB plan reflects the
+thinking of many CFOs and is therefore worthy of attention. It would
+do the following:
+
+<ul>
+<P><b>1. Impose a standard method for classifying IT expenses.</b><br> An
+elaborate business-reference model defines how to describe the
+business operations of the federal government. The purpose is to
+capture information about any duplication of efforts.
+
+<P><b>2. Prescribe a self-appraisal method for characterizing the
+performance of IT, with an emphasis on identifying system
+deficiencies.</b><br> The purpose is to identify targets where IT spending
+must be examined.
+
+<P><b>3. Require classification of governmentwide standard IT
+components to enable consolidation of application development.</b><br> The
+purpose is to set the stage for centralized procurement of software
+and services.
+
+<P><b>4. Direct IT organizations to conform with a technical reference
+model for reuse of technology.</b><br> The purpose is to establish
+favorable conditions for creating a shared infrastructure that would
+save money.
+
+<P><b>5. Require the submission of a "business case" for every
+project.</b><br> It's through the scrutiny of such business cases that the
+CFO intends to assert budgetary controls. OMB officials have already
+declared that "771 projects in FY04 budget (for $20.9B) are 'at risk'
+and will not be allowed to proceed." So how do OMB budget examiners
+sort out which of the more than 5,000 projects are at risk?
+</ul>
+
+<P>The so-called business-case forms have been conceived by auditors
+for budget examiners. For each project, the CIO of the organization
+must fill out a form containing 132 detailed questions about the best
+IT practices ever conceived by consultants. The checklist covers
+topics such as demonstrated fit with business strategy, linking to
+management plans, support of a modernization strategy, demonstration
+of low-risk acquisition methods, proofs of strong project management,
+closing of performance gaps, assurance of security over a project's
+life cycle, privacy protection, paperwork reduction, management of
+risk-adjusted life cycle costs -- and many others.
+
+<P>For good measure, the business-case forms require documented
+confirmation of compliance with a long list of regulatory and
+legislative measures.
+
+<P>To sort out which projects are at risk, the OMB follows a routine
+procedure. First, each item for every project is rated on a scale from
+1 to 5.
+
+<P>Second, all of the scores are added up, regardless of their
+importance, though a poor score in a few selected areas (such as
+security) will automatically disqualify the entire project. If the
+scores fall below predefined levels, the project is classified as
+being at risk and scheduled for further examination. Projects with low
+scores won't be funded.
+
+<P>How effective is the OMB methodology in delivering the stated
+objectives of savings through sharing of IT resources? One way of
+judging that is to examine the OMB schedule of fiscal 2004
+governmentwide sharing of IT. If you remove unique Homeland Security
+Department projects, you end up with only 0.21% of the total federal
+IT budget as benefiting from synergy through sharing. I guess that
+leaves the OMB -- like many CFOs -- with the hatchet-on-a-pole method
+of IT budget pruning and management.
+
+<P><i><b>Paul A. Strassmann</b> (<A
+HREF="mailto:paul@strassmann.com">paul@strassmann.com</A>) has been
+fighting budgetary amputations as a way of curing IT disabilities for
+over 40 years.</i>
+
+</td></tr> </table>
+
+<!--#include file="cw2003-footer.shtml"-->
+

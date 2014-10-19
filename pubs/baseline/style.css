@@ -1,0 +1,59 @@
+BODY { background : #FFFFFF; 
+       color : #000000;
+       font-family:  times, times new roman, serif;
+       font-size:      16px;
+      }
+
+H2   { 
+	text-decoration: none;
+        font-family:    Arial, Helvetica, sans-serif;
+        font-size:      18px;
+	color:         #000000;
+	font-weight: normal;
+}
+
+
+:visited, :active, :link {
+	TEXT-DECORATION: none;
+	COLOR: #0000B0;
+}
+
+
+:hover {
+	COLOR: #ff6600
+}
+
+.alpha {
+	list-style-type=upper-alpha;
+}
+
+
+.navbar2 {
+        font-family:    Arial, Helvetica, sans-serif;
+        font-size:      12px;
+        margin-left:     4px;
+        margin-bottom:   6px;
+}
+
+
+.author {
+        font-family:    Arial, Helvetica, sans-serif;
+        font-size:      12px;
+        margin-left:     4px;
+        margin-bottom:   6px;
+}
+
+.inputlabel {
+        font-family:    Arial, Helvetica, sans-serif;
+        font-size:      12px;
+        margin-left:     8px;
+        margin-bottom:   6px;
+}
+
+.mini {
+        font-family:    Arial, Helvetica, sans-serif;
+        font-size:      10px;
+        font-decoration: bold;
+}
+
+

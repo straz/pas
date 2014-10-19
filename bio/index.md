@@ -9,7 +9,7 @@ category: Bio
 
 ![Paul A. Strassmann](../assets/pas-01.jpg)
 
-PAUL A. STRASSMANN's
+PAUL A. STRASSMANN&rsquo;s
 career includes service as chief corporate information systems
 executive (1956-1978; 1990-1993, and 2002-2003), vice-president of
 strategic planning for office automation (1978-1985), and information
@@ -35,11 +35,11 @@ He was responsible for organizing and managing the corporate information
 management (CIM) program across the **Department of Defense** which
 included a major cost reduction and business reengineering program
 of the defense information infrastructure. Strassmann had policy
-oversight for Defense Department's information technology
+oversight for Defense Department&rsquo;s information technology
 expenditures.
 
 He is a 1993 recipient of the **Defense Medal for Distinguished 
-Public Service** - the Defense Department's highest civilian recognition.
+Public Service** - the Defense Department&rsquo;s highest civilian recognition.
 
 In 2002 he was recalled to government service as the
 acting Chief Information Officer of the **National Aeronautics
@@ -68,7 +68,7 @@ productivity of computer investments.
 Until his retirement from Xerox he served as vice president of
 strategic planning for the Information Products Group, with
 responsibility for strategic investments, acquisitions and product
-plans involving the corporation's world-wide electronic businesses.
+plans involving the corporation&rsquo;s world-wide electronic businesses.
 
 
 Afterwards he became an author, lecturer and consultant to
@@ -98,7 +98,7 @@ computers dates back to 1954 when he designed a method for scheduling
 toll collection personnel on the basis of punch card toll receipts.
 
 He earned an engineering degree from the **Cooper Union**, a
-master's degree in industrial management from **MIT**,
+master&rsquo;s degree in industrial management from **MIT**,
 and a PhD from **George Mason University**
 
 He is author of over 250 articles on information management and
@@ -122,15 +122,15 @@ Irreverent Dictionary of Information Politics</a> reflects on the
 inconsistencies in information management practices.
 
 His 1997 book, <a href="http://www.strassmann.com/iep/squandered.html">The
-Squandered Computer</a> was Amazon.com's #1 best selling book on information management.
+Squandered Computer</a> was Amazon.com&rsquo;s #1 best selling book on information management.
 
 His latest books include
 <a href="http://www.strassmann.com/iep/info-productivity.html">Information 
 Productivity - Assessing the Information Management Costs of U.S. Industrial 
 Corporations</a> (1999),  <a href="http://www.lulu.com/content/1082222">
 The Economics of Corporate Information Systems</a> (2007), 
-<a href="http://www.infoeconomics.com/pauls-war.php">Paul's War</a> (2008)
-and <a href="http://www.infoeconomics.com/odyssey.php">Paul's Odyssey</a>
+<a href="http://www.infoeconomics.com/pauls-war.php">Paul&rsquo;s War</a> (2008)
+and <a href="http://www.infoeconomics.com/odyssey.php">Paul&rsquo;s Odyssey</a>
   (2009) and <a href="http://www.lulu.com/product/paperback/the-computers-nobody-wanted-my-years-at-xerox/4780945">
 The Computers Nobody Wanted: My Years at Xerox</a>
 (2009). His lectures are now available as video recordings on the
