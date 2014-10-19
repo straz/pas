@@ -7,34 +7,11 @@ category: Articles
   h2 {margin-top: 20px}
 </style>
 
+<script>
+var all_articles = {{ site.data.articles | jsonify }}
+</script>
 
 <div class="home">
-
-{% assign pages_list = site.pages %}
-
-<h1 class="page-heading">Articles</h1>
-
-
-   <ul class="toc">
-   {% assign last_year = -1 %}
-   {% assign sorted_articles = site.data.articles  | sort:"julian" %}
-
-
-   {% for article in sorted_articles reversed %}
-
-
-      {% capture year %}{{ article.iso_date | date: "%Y" }} {% endcapture %}
-        {% if year != last_year %}
-        <h2>{{ year }}</h2>
-	{% assign last_year = year %}     
-	{% endif %}
-        <li><a href="{{ article.url }}">{{ article.title }}</a><br/>
-	  <span class="post-meta">{{ article.desc }}, {{ article.iso_date | date: "%B %Y" }}</span>
-	</li>
-   {% endfor %}
-   </ul>
-
-
-
-
+  <h1 class="page-heading">Articles</h1>
+  <ul class="toc"></ul>
 </div>
