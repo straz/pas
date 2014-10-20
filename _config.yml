@@ -2,7 +2,7 @@
 title: Paul A. Strassmann
 email: paul@strassmann.com
 description: Strassmann, Inc.
-baseurl: "/pas" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://strassmann.com" # the base hostname & protocol for your site
 
 timezone: America/New_York
