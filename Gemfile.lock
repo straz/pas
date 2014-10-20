@@ -123,3 +123,4 @@ PLATFORMS
 DEPENDENCIES
   debugger
   github-pages
+  jekyll-redirect-from
