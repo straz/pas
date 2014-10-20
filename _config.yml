@@ -21,6 +21,7 @@ collections:
   idc:
     output: true
     permalink: pubs/idc/:name.html
+
 defaults:
  - 
   scope:
@@ -46,3 +47,6 @@ defaults:
   values:
     layout: "post"
     author: "Paul A. Strassmann"
+
+gems:
+ - jekyll-redirect-from
