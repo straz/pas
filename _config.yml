@@ -48,5 +48,5 @@ defaults:
     layout: "post"
     author: "Paul A. Strassmann"
 
-gems:
- - jekyll-redirect-from
+#gems:
+# - jekyll-redirect-from
