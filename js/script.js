@@ -6,14 +6,20 @@ var MONTHS = new Array("January", "February", "March",
 $(document).ready(init);
 
 
+var PAGE_TAGS = {'/all-articles.html': 'all'};
+
 function init() {
   check_hash_change();
-  fetch_and_render_articles('all');
+  var tag = PAGE_TAGS[window.location.pathname];
+  if (tag != undefined ) {
+    fetch_and_render_articles(tag);
+  }
 }
 
 function fetch_and_render_articles(tag){
   render_articles(get_articles(tag), true);
 }
+
 
 // if by_years is true, sort and group articles by year
 function render_articles(articles, by_years){
@@ -24,8 +30,8 @@ function render_articles(articles, by_years){
   }
   for (var i = 0; i < articles.length; i++) {
     var article = articles[i];
-    var date = article.iso_date;
-    var new_year = new Date(date).getFullYear();
+    var date = parse_date(article.date);
+    var new_year = date.getFullYear();
     if (by_years && (new_year != year)) {
       year = new_year;
       result.push($('<h2/>').text(new_year));
@@ -40,14 +46,38 @@ function render_article(article){
 			   .html(article.title),
 			   $('<br/>'),
 			   $('<span/>').attr('class','post-meta')
-			   .html(article.desc + ', ' + get_date(article)));
+			   .html(article.desc + ', ' + pretty_date(article)));
+}
+
+//-------------
+// Dates
+
+// date is a string like '2014-5' or '2014-5-31'
+function parse_date(date){
+  var val = date.split('-'),
+      year = parseInt(val[0], 10),
+      month = parseInt(val[1], 10) - 1,
+      day = parseInt(val[2], 10);
+ if (isNaN(day)){
+   day = 1;
+ }
+ return new Date(year, month, day, 0, 0, 0);
 }
 
 // returns something like 'January 2005'
-function get_date(article){
-  var date = new Date(article.iso_date);
+function pretty_date(article){
+  var date = article.date_obj;
   return MONTHS[date.getMonth()] + ' ' + date.getFullYear();
 }
+
+function sort_by_date(array){
+  array.sort(function(a,b){
+	       return b.date_obj - a.date_obj;
+	     });
+}
+
+// ------------
+// Tags
 
 // returns true if tag describes article
 function is_member(article, tag){
@@ -60,17 +90,15 @@ function get_articles(tag){
   for (var i = 0; i < all_articles.length; i++) {
     var article = all_articles[i];
     if (is_member(article, tag)){
+      article.date_obj = parse_date(article.date);
       result.push(article);
     }
   }
   return result;
 }
 
-function sort_by_date(array){
-  array.sort(function(a,b){
-	       return new Date(b.date) - new Date(a.date);
-	     });
-}
+// -----------
+// Hash change
 
 // this change hook is triggered any time the page's hashtag changes
 function hash_changed(){
