@@ -1,48 +1,18 @@
-<style>
 
- nav h2 {
+<style>
+ nav.site-nav h2 {
     font-weight: 500;
     font-size: 100%;
-    margin: 3px;
- }
- nav li {
-    line-height: 1;
- }
- nav li.column {
-    padding: 0px 20px;
+    margin-bottom: 3px;
  }
 
- nav ul li {
+ nav.site-nav {
+  line-height: 1.4em;
+ }
+
+ nav.site-nav li {
     list-style:none;
-    float: left;
  }
- nav ul.links li {
-    padding: 3px;
- }
- nav ul.links li.active {
-    background-color: #d4d4ef;
- }
- nav ul.links li:hover {
-    background-color: #E4E4FF;
- }
- nav ul.links li:hover a {
-    text-decoration: none;
- }
- nav ul {
-    margin: 0px;
-    clear: both;
- }
- .column li {
-    clear: both;
- }
-</style>
-
-<style>
-
-
-nav.idle {
-  padding-top: 3em;
-}
 
 .home-link {
   position: relative;
@@ -55,9 +25,25 @@ div.columns {
 }
 
 #nav-books, #nav-idc {
-  margin-top: 10px;
+  margin-top: 1em;
 }
+ nav.site-nav li.column {
+    float: left;
+    margin-left: 2em;
+ }
 
+ nav.site-nav ul.links {
+   margin-left: 0px;
+ } 
+ nav.site-nav ul.links li.active {
+    background-color: #d4d4ef;
+ }
+ nav.site-nav ul.links li:hover {
+    background-color: #E4E4FF;
+ }
+ nav.site-nav ul.links li:hover a {
+    text-decoration: none;
+ }
 
 
 </style> 
@@ -77,13 +63,28 @@ div.columns {
       </a>
 
      <div class="trigger">
+       <ul>
+       <li class="column">
+       <h2>Publications</h2>
+           <ul class="links">
+             <li id="nav-articles"><a href="{{ site.baseurl }}/all-articles.html">All articles</a></li>
+             <li id="nav-idc"><a href="{{ site.baseurl }}/pubs/idc">IDC</a></li>
+             <li id="nav-afcea"><a href="{{ site.baseurl }}/pubs/afcea">AFCEA Signal</a></li>
+             <li id="nav-baseline"><a href="{{ site.baseurl }}/pubs/baseline">Baseline</a></li>
+             <li id="nav-cw"><a href="{{ site.baseurl }}/pubs/cw">Computerworld</a></li>
+             <li id="nav-books"><a href="http://infoeconomics.com">Books</a></li>
+             <li id="nav-videos"><a href="{{ site.baseurl }}/pubs/videos">Videos</a></li>
+           </ul>
+        </li>
+        <li class="column">
         <h2 class="columnhead">About</h2>
            <ul class="links">
              <li id="nav-bio"><a href="{{ site.baseurl }}/bio">Bio</a></li>
              <li id="nav-blog"><a href="http://pstrassmann.blogspot.com">Blog</a></li>
              <li id="nav-consulting"><a href="http://strassmann.com/consulting">Consulting</a></li>
            </ul>
-
+        </li>
+     </ul>
      </div>
      </nav>
 
