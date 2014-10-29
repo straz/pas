@@ -18,6 +18,21 @@ redirect_from: "/book"
    font-size: 120%;
   }
 
+ .wide-tile {
+  color: #fff;
+  /* background-color: #b84d45; */
+  background-color: #8B95f8;
+  background-image: url(/assets/tiles.png);
+  padding: 50px 0px;
+  box-sizing: border-box;
+  left: 0px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+  z-index: -10;
+}
+
+
   #banner {
   min-width: 100%;
   position:absolute;
@@ -57,6 +72,8 @@ form input[type=text] {
  width: 16px;
  height: 16px;
 }
+
+
 </style>
 
 
@@ -85,5 +102,10 @@ cyberwarfare.</P>
    Natural History museum in London, UK
    http://www.flickr.com/photos/sagesolar/11954841195
 -->
-<div id="white"></div>
-<img id="banner" src="assets/uk-nat-history.jpg"/>
+
+   <div id="white"></div>
+
+<!-- 
+   <img id="banner" src="assets/uk-nat-history.jpg"/> 
+-->
+<div class="wide-tile"/>
