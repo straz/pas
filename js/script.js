@@ -25,6 +25,7 @@ function fetch_and_render_articles(tag){
 function render_articles(articles, by_years){
   var result = [];
   var year = -1;
+  var decades = {};
   if (by_years){
     sort_by_date(articles);
   }
@@ -34,16 +35,61 @@ function render_articles(articles, by_years){
     var new_year = date.getFullYear();
     if (by_years && (new_year != year)) {
       year = new_year;
-      result.push($('<h2/>').text(new_year));
+      result.push($('<h2/>').append($('<a/>').attr('name', new_year).text(new_year)));
     }
+    var decade = get_decade(year);
+    if (!(decade in decades)){
+      decades[decade] = 0;
+    }
+    decades[decade] += 1;
     result.push(render_article(article));
   }
-  $('ul.toc').append(result);
+  var first = parse_date(articles[0].date);
+  var last = parse_date(articles[articles.length - 1].date);
+  var max = get_decade(first.getFullYear());
+  var min = get_decade(last.getFullYear());
+
+  $('ul.toc').html('').append(result);
+  add_year_picker(decades, min, max);
+}
+
+function get_decade(year){
+  return Math.floor(year/ 10) * 10;
+}
+
+function add_year_picker(decades, min, max){
+  $('.years').html('');
+  for (var d = max; d >= min; d--) {
+    if (d in decades){
+      $('.years').append($('<a/>').attr({href: '#'+min_year(d)}).html(d + "&rsquo;s"));
+   }
+  }
+}
+
+// decade is a year like 1960
+// returns the earliest year anchor (on the page, e.g. <a name="1962">) in the given decade
+function min_year(decade) {
+  var min = 9999;
+  $('a').each(function(i, elt) {
+		var year = $(elt).attr('name');
+		if (year != undefined &&
+		    get_decade(year) == decade &&
+		    year < min){
+		  min = year;
+		}
+	       }
+	      );
+  return min;
 }
 
 function render_article(article){
+  var pdf = '';
+  if ('pdf' in article){
+    pdf = $('<span/>').addClass('pdf').text('[pdf]');
+  }
   return $('<li/>').append($('<a/>').attr('href', article.url)
 			   .html(article.title),
+			   pdf,
 			   $('<br/>'),
 			   $('<span/>').attr('class','post-meta')
 			   .html(article.desc + ', ' + pretty_date(article)));
