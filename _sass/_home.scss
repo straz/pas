@@ -1,0 +1,47 @@
+a.browse {
+    font-weight: 500;
+    font-size: 120%;
+}
+
+.wide-tile {
+  color: #fff;
+  /* background-color: #b84d45; */
+  background-color: #8B95f8;
+  background-image: url(/assets/tiles.png);
+  padding: 50px 0px;
+  box-sizing: border-box;
+  left: 0px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+  z-index: -10;
+}
+
+#banner {
+  min-width: 100%;
+  position:absolute;
+  left: 0;
+  bottom:0;
+  z-index: -10;
+}
+  
+#white {
+    min-width: 100%;
+    height: 500px;
+    position: absolute;
+    background-color: white;
+    left: 0px;
+    top: 0px;
+    z-index: -5;
+}
+
+form input[type=text] {
+  margin-top: 4px;
+  padding: 4px;
+  width: 250px;
+  font-size: 90%;
+  font-weight: normal;
+  border: solid 1px $grey-color;
+}
+
+
