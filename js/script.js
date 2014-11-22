@@ -88,6 +88,7 @@ function render_article(article){
     pdf = $('<span/>').addClass('pdf').text('[pdf]');
   }
   return $('<li/>').append($('<a/>').attr('href', article.url)
+			   .addClass('article')
 			   .html(article.title),
 			   pdf,
 			   $('<br/>'),
