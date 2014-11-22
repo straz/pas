@@ -11,7 +11,7 @@ layout: post
 
 [original](http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm)
 
-![infoworld](inbanner.gif){: .right}
+![infoworld](inbanner.gif)
 
 ![opinions](rhopin.gif)  
 May 31, 1999 (Vol. 21, Issue 22)  
