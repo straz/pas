@@ -1,0 +1,113 @@
+<html> 
+<head>
+
+<TITLE>GAAP helps whom?</TITLE>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p> 
+<h2>GAAP helps whom?</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+December 6, 1999<hr>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+<p>
+
+<font size="+2">O</font><font size="+1">n Jan. 1, 1999, a new set of accounting rules</font>
+ governing systems development and software assets took effect. CIOs,
+software vendors and Washington bureaucrats will love the financial
+tricks it enables. But these rules will also expose the financial
+drain caused by inefficient and ineffective IT departments. All
+financial reports from public corporations must comply with the
+Generally Accepted Accounting Principles (GAAP) from the American
+Institute of Certified PublicAccountants. The new ruling, known as SOP
+98-1, "Accounting for the Costs of Computer Software Developed or
+Obtained for Internal Use," requires:
+
+<ul>
+<P><li>Purchased off-the-shelf software, systems development and
+systems integration costs must be treated as assets and capitalized.
+
+<P><li>Planning, operations and implementation costs for all
+internally developed software may be expensed as a current operating
+cost and need not be capitalized ("Holding IT Accountable," Business,
+Oct. 18).
+</ul>
+
+<P>Software vendors love GAAP's new rules. A $10,000 software license
+shows up as only $2,000 or $2,500 (assuming five- or four-year
+depreciation) in the customer's current-year IT budget. It sets up a
+cycle of planned obsolescence: When the accountants have fully
+depreciated the software's book value, it's time to buy the new model!
+
+<P>CIOs will love these rules, too. Because software shows up only as
+a depreciation line in the budget, they will be able to show an
+immediate cut in IT costs and claim improved efficiencies. GAAP will
+make conventional (and faulty) reporting metrics, such as IT spending
+as a percentage of revenue, look better. Software investments now
+account for 30% of the total IT budget. The costs of keeping faulty
+software operating consume another 24% for maintenance and support,
+migration of existing systems and personnel retraining. The change in
+accounting rules will enable CIOs to defer up to half of their
+reported IT expenses for successors to explain.
+
+<P>Corporate management will also snap up GAAP. The transfer of any
+costs from this year's financial statement to the balance sheet will
+improve reported profits and please the stock market analysts. Plus,
+the new rules are sufficiently ambiguous to let imaginative recording
+of assets match the expected earnings.
+
+<P>Washington already loves GAAP. By reclassifying software as an
+asset, the new rules enabled the Clinton administration to count
+software sales as an addition to the economic wealth of the U.S. That
+enabled the feds to revise upward this year's gross domestic product
+-- great news that's sure to set the stage for election-year boasting
+and taking care of high-tech lobbies that advocate tax credits to
+boost software sales.
+
+<P>But if GAAP's new rules are so wonderful, why worry? The problem is
+that they make CIOs much more accountable. When you set up software as
+a depreciable asset, you must account for the useful life of those
+investments to construct a defensible amortization schedule. If IT
+executives have spent $1 trillion to install client/ server
+infrastructures, why do you need another $2 trillion to replace them
+with Web-based e-commerce? (Folks, those are the numbers!)<p>
+
+If you spent $300 billion fixing Y2K, why do you need $150 billion to
+replace failing "windowing" and "encapsulation" patches? The new
+standard will impose demanding reporting requirements on corporate IT.
+That will increase administrative costs and squabbling at the highest
+corporate levels. What will CEOs and chief financial officers say as
+they discover that for every 30 cents invested in new software, the IT
+department spends 24 cents to keep applications alive?
+
+<P>Compliance with the new regulations will mortally wound many
+corporate IT departments. As a result, the economic viability of these
+organizations will be subverted by emerging application services that
+will be able to depreciate their software assets over a large
+installed base. Software asset accounting will determine whether
+obtaining computing power from networked computer utilities is more
+advantageous than retaining large, in-house systems development shops.
+
+<P> 
+
+<hr> <font size="-1">
+<p>
+
+Strassmann (<a
+href="mailto:paul@strassmann.com">paul@strassmann.com</a>) in 1971 set
+up and operated a large computer utility for delivering inexpensive
+computing power. It fell short of its promise because software
+economics weren't as favorable to networked support as they are today.
+</FONT>
+<p>
+
+</td></tr>
+</table>
+
+<!--#include file="cw99-footer.shtml"-->
+

@@ -1,0 +1,4 @@
+howto get new files
+
+1) wget "http://www.destinationcrm.com/km/dcrm_km_article.asp?id=806"
+ (article, cover gif)

@@ -1,0 +1,103 @@
+<html>
+<head>
+<!-- -->
+<title>Preface to "The Year 2000 Software Problem"</title>
+</head>
+
+<body bgcolor="#ffffff">
+<p>
+<p>
+Preface to<br>
+<font size="+3"><a href="http://www.amazon.com/exec/obidos/ISBN=0201309645/theinformatioecoA/">
+The Year 2000 Software Problem</a></font><br>
+<b>by Capers Jones</b><p>
+Addison-Wesley<br>
+December 1997<br>
+ISBN: 0201309645<br>
+335 pages<p>
+
+Preface by Paul A. Strassmann<p>
+
+
+<table width=460>
+<tr><td>
+<p>
+
+<a href="http://www.amazon.com/exec/obidos/ISBN=0201309645/theinformatioecoA/">
+<img src="capers.gif" align=right width=95 height=140 border=0 alt="The Y2K Software Problem"></a>
+
+<font size="+4">A</font><font size="+2">n acute awareness of the
+potential severity</font> of the year 2000 problem has now surfaced on
+the agenda of every executive responsible for information management.
+This includes not only CIOs and computer operations managers, but also
+boards of directors, audit committees, and computer steering
+committees. Such consciousness is only of a recent origin. Judging
+from articles in the press, professional papers, and technical
+meetings, the year 2000 has become a topic worthy of focused
+discussion only in the last two years. Such a recent awakening of
+threats to the operational and financial health of organizations may
+be puzzling, especially in retrospect. The delays in dealing with what
+are now likely widespread damages will surely be argued when
+litigation suits base their compensatory claims as incontrovertible
+proof of managerial negligence.<p>
+
+The coming of a new century has been predictable for at least a
+thousand years. Why then the delays, surprises, and the rapidly
+escalating panic that a year 2000 debacle may not only jeopardize the
+financial health of a firm, but also destroy careers and reputations?<p>
+
+I find that the principal reason for the current confusion and dismay
+has been the absence of a thoughtful and well documented analysis of
+the severity of the problem. The early warnings about the incipient
+year 2000 problems were dismissed with incredulity. They lacked
+sufficient and substantive documentation about the amount and quality
+of the work that had to be accomplished. Even headline-grabbing
+research service pronouncements were greeted with skepticism because
+they could not explain how they arrived at their estimated
+expenditures to fix the problem. Individual organizations had no way
+of coming up with a budget that would assure their management that any
+proposed spending was based on demonstrable and sound cost-estimating
+principles. Multiplying the inventory of lines of code under control
+of the CIO - if such an inventory was available at all - by one of the
+wide-ranging cost quotes per line of code yielded numbers that very
+few financial executives could accept for redirecting funds.<p>
+
+This book stands out as the best, most thorough, and monumental
+contribution in defining what the year 2000 problem is all about. In
+painstaking detail it describes what is the scope of the year 2000
+problem and what are the most likely approaches that could lead to
+alleviating its damage. It documents the dimensions of the software
+defects, organizational problems in managing year 2000 projects, and
+resource limitations in much greater detail than anything that has
+been published so far by anyone. For that reason, it should receive
+immediate acceptance as a much sought-after reference for anyone who
+wishes to check the adequacy of their year 2000 protective measures.<p>
+
+This book is required reading for all executives who may have to
+account for their custodianship of the year 2000 solutions whenever
+the inevitable after-the-fact recriminations occur. In the same way as
+the fall of the Berlin Wall became the symbolic event marking the
+downfall of a mismanaged Soviet Empire, it is likely that the enormous
+costs, litigation, and adverse publicity of any year 2000 failures
+will be seen as the end of trust in the management of information
+technologies. What will follow are inevitable changes in organization
+budgeting, and accountability. There is still a preciously small
+amount of time to get a grip on dealing with the year 2000 challenges,
+but that must be done with the aid of rational and comprehensive
+analysis. I trust that this new book by Capers Jones will provide
+those insights and guidance.<p>
+
+<i>Paul A. Strassmann<br>
+New Canaan, Connecticut</i>
+
+</td></tr></table>
+
+<hr>
+<a href="http://www.strassmann.com/copyright.html">(c) Copyright 1997, Strassmann, 
+Inc.</a><br>
+Go back up to the Strassmann, Inc. <a href="http://www.strassmann.com">home page</a>.<p>
+<p>
+</body>
+</html>
+
+

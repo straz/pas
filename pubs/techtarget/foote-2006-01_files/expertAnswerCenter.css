@@ -1,0 +1,189 @@
+<style type="type/css"> {   }
+
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: arial, verdana, helvetica;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+}
+
+td, input {
+	font-family: arial, verdana, helvetica;
+	font-size: 12px;
+	color: #000000;
+}
+
+.color1 {background-color: #8a9c84}
+.color2 {background-color: #99cccc}
+
+.color0 {background-color: #000000}
+.color9 {background-color: #999999}
+.colorC {background-color: #cccccc}
+.colorF {background-color: #ffffff}
+
+.colorLine {background-color: #a0b19c}
+.colorHeader {background-color: #8a9c84}
+.colorPageLine {background-color: #000000}
+.colorBorder {background-color: #999999}
+.colorLite {background-color: #efefef}
+.colorBack {background-color: #eefeea}
+.colorGrayLite {background-color: #efefef}
+
+.textNeo {color: #8a9c84}
+
+img.block {display: block}
+.block {display: block}
+
+
+.carrot { font-family: Trebuchet MS, arial, helvetica; font-size: 10px; }
+.star { font-family: verdana; font-size: 10px; color: #ff0000}
+.small {font-family: arial, verdana, helvetica; font-size: 10px}
+.smallBold {font-size: 11px}
+.text6 {color: #666666}
+.textPageTitle {font-size: 16px}
+.textHighlite {color: #660066}
+.contentTitle {font-size: 14px}
+
+/* needed for searchsite webcast stuff that used dg code */
+
+.textRed {color: #ff0000}
+a.textRed {color: #ff0000}
+a:hover.textRed {color: #ff0000}
+a:visited.textRed {color: #ff0000}
+
+.textOnColor1 {color: #ffffff}
+.textOnColor2 {color: #ffffff}
+a.textOnColor1 {color: #ffffff}
+a:hover.textOnColor1 {color: #ffffff}
+a:visited.textOnColor1 {color: #ffffff}
+
+a1, .a2, .a3, .a4, .a5, .a6 {font-family: arial, verdana, helvetica}
+
+.a1 {font-size: 10px}
+.a2 {font-size: 11px}
+.a3 {font-size: 12px}
+.a4 {font-size: 14px}
+.a5 {font-size: 16px}
+.a6 {font-size: 18px}
+
+a.a1 {font-size: 10px; font-family: arial, verdana, helvetica}
+a:hover.a1 {font-size: 10px; font-family: arial, verdana, helvetica}
+a:visited.a1 {font-size: 10px; font-family: arial, verdana, helvetica}
+
+a.a2 {font-size: 11px; font-family: arial, verdana, helvetica}
+a:hover.a2 {font-size: 11px; font-family: arial, verdana, helvetica}
+a:visited.a2 {font-size: 11px; font-family: arial, verdana, helvetica}
+
+a.a4 {font-size: 14px; font-family: arial, verdana, helvetica}
+a:hover.a4 {font-size: 14px; font-family: arial, verdana, helvetica}
+a:visited.a4 {font-size: 14px; font-family: arial, verdana, helvetica}
+
+a.a5 {font-size: 16px; font-family: arial, verdana, helvetica}
+a:hover.a5 {font-size: 16px; font-family: arial, verdana, helvetica}
+a:visited.a5 {font-size: 16px; font-family: arial, verdana, helvetica}
+
+a.a6 {font-size: 18px; font-family: arial, verdana, helvetica}
+a:hover.a6 {font-size: 18px; font-family: arial, verdana, helvetica}
+a:visited.a6 {font-size: 18px; font-family: arial, verdana, helvetica}
+
+
+.breadcrumbRed {font-size: 10px; font-family: arial, verdana, helvetica; color: #ff0000}
+.breadcrumbGray {font-size: 10px; font-family: arial, verdana, helvetica; color: #666666}
+
+a.breadcrumbRed {font-size: 10px; font-family: arial, verdana, helvetica; color: #ff0000}
+a:hover.breadcrumbRed {font-size: 10px; font-family: arial, verdana, helvetica; color: #ff0000}
+a:visited.breadcrumbRed {font-size: 10px; font-family: arial, verdana, helvetica; color: #ff0000}
+
+a.breadcrumbGray {font-size: 10px; font-family: arial, verdana, helvetica; color: #666666}
+a:hover.breadcrumbGray {font-size: 10px; font-family: arial, verdana, helvetica; color: #666666}
+a:visited.breadcrumbGray {font-size: 10px; font-family: arial, verdana, helvetica; color: #666666}
+
+.dg_codeReuse img {display: inline}
+
+.bl {display: block}
+
+a.red .small {color: #ff0000; font-weight: normal; font-size: 10px}
+
+/* needed for searchsite webcast stuff that used dg code */
+
+
+/* calendar stuff */
+#calendar td {text-align: center; font-size: 10px; color: #cccccc}
+#calendar a {font-size: 10px; color: #666666; text-decoration: none}
+#calendar a:hover {font-size: 10px; color: #666666; text-decoration: underline}
+
+.colorCalenarBorder {background-color: #999999}
+.colorCalendarBack {background-color: #ffffff}
+
+.calendarMonth {color: #666666}
+
+/* calendar stuff */
+
+
+
+a {font-family: arial, verdana, helvetica; font-size: 12px; color: #0066ff; text-decoration: underline}
+a:hover {font-family: arial, verdana, helvetica; font-size: 12px; color: #0066ff; text-decoration: underline}
+a:visited {font-family: arial, verdana, helvetica; font-size: 12px; color: #0066ff; text-decoration: underline}
+
+a.red {color: #ff0000; font-size: 12px}
+a:hover.red {color: #ff0000; font-size: 12px}
+a:visited.red {color: #ff0000; font-size: 12px}
+
+a.text6 {color: #666666; font-size: 12px}
+a:hover.text6 {color: #666666; font-size: 12px}
+a:visited.text6 {color: #666666; font-size: 12px}
+
+a.text0 {color: #000000; font-size: 12px}
+a:hover.text0 {color: #000000; font-size: 12px}
+a:visited.text0 {color: #000000; font-size: 12px}
+
+a.small {font-family: arial, verdana, helvetica; font-size: 10px; color: #0066ff}
+a:hover.small {font-family: arial, verdana, helvetica; font-size: 10px; color: #0066ff}
+a:visited.small {font-family: arial, verdana, helvetica; font-size: 10px; color: #0066ff}
+
+a.smallNarrowGray {font-family: Trebuchet MS, arial, verdana, helvetica; font-size: 10px; color: #666666}
+a:hover.smallNarrowGray {font-family: Trebuchet MS, arial, verdana, helvetica; font-size: 10px; color: #666666}
+a:visited.smallNarrowGray {font-family: Trebuchet MS, arial, verdana, helvetica; font-size: 10px; color: #666666}
+
+
+a.pageNav {font-size: 10px; color: #505c4c; text-decoration: none}
+a:hover.pageNav {font-size: 10px; color: #505c4c; text-decoration: none}
+a:visited.pageNav {font-size: 10px; color: #505c4c; text-decoration: none}
+
+form {display: inline}
+input.text {border: 1 solid #000000}
+
+ul.list_bullet {
+	list-style: none;
+	margin: 0 0 10px 0;
+	padding-left: 5px;
+}
+
+li.list_bullet_item {
+	padding: 0 0 0px 6px;
+	background: url(/digitalguide/images/Misc/li_bullet_square_999999.gif) no-repeat 0 0px;
+}
+
+li.list_bullet_item_spaced {
+	padding: 0 0 10px 6px;
+	background: url(/digitalguide/images/Misc/li_bullet_square_999999.gif) no-repeat 0 0px;
+}
+
+ul.list_carrot {
+	list-style: none;
+	margin: 0 0 10px 0;
+	padding-left: 15px;
+}
+
+li.list_carrot {
+	padding: 0 0 0px 6px;
+	background: url(/digitalguide/images/Misc/li_carrot.gif) no-repeat 0 0px;
+}
+
+.list_item_indent {	padding: 0px 0px 0px 10px; }
+
+.indentMe {padding: 0 0 0px 15px}
+
+</style>

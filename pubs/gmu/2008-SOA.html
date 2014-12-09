@@ -1,0 +1,580 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<meta name="description" content="The Department of Defense (DoD) Business Mission Area (BMA) accounts for roughly half of the DoD Information Technology (IT) budget. Many of the DoD&#8217;s business systems have been in use for years and are straining to support the agility of business operations necessary today. As well, many new systems are being developed on such a scale that it takes nearly a decade to produce the first results. A potential answer to this situation is delivering business capabilities through a service-oriented architecture (SOA)1. Much of the private sector is rapidly moving in this direction. The question is, will it work for the DoD? This article is about the results of market research conducted by the BMA Chief Technical Officer (CTO) and Chief Architect (CA) over a period of about six months to learn about state-of-the-art SOA and what the DoD can count on from SOA vendors to deliver both business services and SOA infrastructure in the near- to mid-term.">
+<title>STSC CrossTalk - DoD Business Mission Area Service-Oriented Architecture to Support Business Transformation - Oct&nbsp;2008</title>
+<link rel="stylesheet" type="text/css" href="2008-SOA_files/stsc.css">
+<script language="JavaScript" type="text/javascript">
+var root = "/";
+var menuRoot = "/menus";
+var imageRoot = "/images";
+</script>
+<script language="JavaScript1.2" type="text/javascript" src="2008-SOA_files/drop_down_menu_defns.js"></script><script language="JavaScript1.2" src="2008-SOA_files/HM_ScriptDOM.js" type="text/javascript"></script>
+<script language="JavaScript" src="2008-SOA_files/rollovers.js" type="text/javascript"></script>
+<script language="JavaScript" src="2008-SOA_files/left_nav.js" type="text/javascript"></script>
+<script language="JavaScript" src="2008-SOA_files/disclaim.js" type="text/javascript"></script>
+</head><body topmargin="0" leftmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+<table summary="Header" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td rowspan="2"><a href="http://www.stsc.hill.af.mil/index.html"><img src="2008-SOA_files/logo_stsc.gif" alt="STSC Logo" border="0" width="140" height="71"></a></td>
+		<td>
+		
+<img src="2008-SOA_files/nav_top_spacer.gif" alt="" border="0" width="11" height="16">
+		
+<a href="http://www.stsc.hill.af.mil/about/index.html" onmouseover="imgon('img01'); popUp( 'HM_Menu1',event )" onmouseout="imgoff('img01');popDown('HM_Menu1')">
+
+<img src="2008-SOA_files/nav_top_about_off.gif" name="img01" alt="About Us" border="0" width="58" height="16"></a>
+
+<img src="2008-SOA_files/nav_top_spacer.gif" alt="" border="0" width="15" height="16">
+
+<a href="http://www.stsc.hill.af.mil/consulting/" onmouseover="imgon('img02'); popUp( 'HM_Menu2',event )" onmouseout="imgoff('img02'); popDown( 'HM_Menu2',event )"><img src="2008-SOA_files/nav_top_consulting_off.gif" name="img02" alt="Consulting Services" border="0" width="110" height="16"></a>
+
+<img src="2008-SOA_files/nav_top_spacer.gif" alt="" border="0" width="14" height="16">
+
+<a href="http://www.stsc.hill.af.mil/crosstalk/about.html" onmouseover="imgon('img03'); popUp( 'HM_Menu3',event )" onmouseout="imgoff('img03'); popDown( 'HM_Menu3',event )"><img src="2008-SOA_files/nav_top_crosstalk_off.gif" alt="CrossTalk" name="img03" id="img03" border="0" width="58" height="16"></a>
+
+<img src="2008-SOA_files/nav_top_spacer.gif" alt="" border="0" width="15" height="16">
+
+<a href="http://www.stsc.hill.af.mil/conference/" onmouseover="imgon('img04'); popUp( 'HM_Menu4',event )" onmouseout="imgoff('img04'); popDown( 'HM_Menu4',event )"><img src="2008-SOA_files/nav_top_conference_off.gif" name="img04" alt="STC Conference" border="0" width="67" height="16"></a>
+
+<img src="2008-SOA_files/nav_top_spacer.gif" alt="" border="0" width="15" height="16">
+
+<a href="http://www.stsc.hill.af.mil/resources/" onmouseover="imgon('img05'); popUp( 'HM_Menu5',event )" onmouseout="imgoff('img05'); popDown( 'HM_Menu5',event )"><img src="2008-SOA_files/nav_top_resources_off.gif" name="img05" alt="Resources" border="0" width="60" height="16"></a>
+
+<img src="2008-SOA_files/bnr_top_right.gif" alt="" border="0" width="56" height="16"></td>
+
+
+		<form name="searchForm" action="/scripts/search.idq" method="post"></form>
+		<td rowspan="2" valign="top"><label for="search"><img src="2008-SOA_files/title_search.gif" alt="Search" border="0" width="46" height="16"></label><br>
+		<input class="searchBox" id="search" name="CiRestriction" size="9" maxlength="100" type="text"><input src="2008-SOA_files/btn_search.gif" name="search" alt="GO" border="0" type="image" width="22" height="19"><br>
+		<select class="searchSelect" id="scope" name="CiScope">
+			<option value="/" selected="selected">Entire Site</option>
+			<option value="/crosstalk/">CrossTalk Only</option>
+		</select><label for="scope">&nbsp;</label>
+		<input name="CiMaxRecordsPerPage" value="20" type="hidden">
+		<input name="TemplateName" value="search" type="hidden">
+		<input name="CiSort" value="rank[d],write[d]" type="hidden">
+		</td>
+		
+	</tr>
+	<tr>
+		<td valign="top"><img src="2008-SOA_files/bnr_top_secondary.jpg" alt="Software Technology Support Center" border="0" width="478" height="55"></td>
+	</tr>
+</tbody></table>
+
+<table summary="Left Navigation and Content" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="leftNav" valign="top"><img src="2008-SOA_files/nav_left_spacer.gif" alt="" border="0" width="131" height="30"><br>
+			<script language="JavaScript" type="text/javascript">
+		document.searchForm.CiScope.selectedIndex=1;
+	</script><table summary="Left Navigation" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="leftSubnav" valign="top"><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/about.html" onmouseover="imgon('img09')" onmouseout="imgoff('img09')"><img src="2008-SOA_files/nav_left_aboutCT_off.gif" name="img09" alt="About CrossTalk" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/about.html#mission">Mission</a><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/about.html#staff">Staff</a><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/about.html#contact">Contact Us</a><br><img src="2008-SOA_files/clear.gif" alt="" border="0" width="131" height="5"><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/" onmouseover="imgon('img14')" onmouseout="imgoff('img14')"><img src="2008-SOA_files/nav_left_current_off.gif" name="img14" alt="About Us" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/subscribe.html" onmouseover="imgon('img10')" onmouseout="imgoff('img10')"><img src="2008-SOA_files/nav_left_subscription_off.gif" name="img10" alt="Subscription" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/subscribe.asp?subscribe">Subscribe Now</a><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/subscribe.asp?update">Update</a><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/subscribe.asp?cancel">Cancel</a><br>
+						&nbsp;&nbsp;-&nbsp;<a href="http://www.stsc.hill.af.mil/crosstalk/CrossTalk.rss"><img src="2008-SOA_files/rss20.gif" align="bottom" border="0" width="47" height="15"></a><br><img src="2008-SOA_files/clear.gif" alt="" border="0" width="131" height="5"><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/theme.html" onmouseover="imgon('img11')" onmouseout="imgoff('img11')"><img src="2008-SOA_files/nav_left_theme_off.gif" name="img11" alt="Themes Calendar" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/author.html" onmouseover="imgon('img12')" onmouseout="imgoff('img12')"><img src="2008-SOA_files/nav_left_author_off.gif" name="img12" alt="Author Guidelines" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/back_issues.asp" onmouseover="imgon('img13')" onmouseout="imgoff('img13')"><img src="2008-SOA_files/nav_left_back_off.gif" name="img13" alt="Back Issues" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/articles.asp" onmouseover="imgon('img15')" onmouseout="imgoff('img15')"><img src="2008-SOA_files/nav_left_article_off.gif" alt="Article Index" name="img15" border="0" width="131" height="21"></a><br><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="131" height="1"><br><a href="http://www.stsc.hill.af.mil/crosstalk/comments.html" onmouseover="imgon('img16')" onmouseout="imgoff('img16')"><img src="2008-SOA_files/nav_left_your_off.gif" alt="Your Comments" name="img16" border="0" width="131" height="21"></a><br></td>
+</tr>
+</tbody></table>
+		</td>
+		<td valign="top"><img src="2008-SOA_files/clear.gif" alt="" border="0" width="18" height="100"></td>
+		<td valign="top"> 
+        
+        <span class="breadCrumb"><a href="http://www.stsc.hill.af.mil/index.html">Home</a> &gt; <a href="http://www.stsc.hill.af.mil/crosstalk/2008/10/index.html">CrossTalk&nbsp;Oct&nbsp;2008</a> &gt; Article</span><br>
+        <table border="0" cellpadding="0" cellspacing="0" width="525">
+<tbody><tr>
+<td valign="bottom"><span class="titleSpace"><br></span><img src="2008-SOA_files/title_ct_secondary.gif" alt="CrossTalk - The Journal of Defense Software Engineering" border="0" width="424" height="55"></td>
+<td class="ctArticleGroup" align="right" valign="top">Oct&nbsp;2008&nbsp;Issue</td>
+</tr>
+<tr>
+<td colspan="2"><br><span class="ctArticleTitle">DoD Business Mission Area Service-Oriented Architecture to Support Business Transformation</span><br><span class="ctAuthor">Dennis E. Wisnosky,
+					Department of Defense<br>Al (Edward) Gough,
+					Department of Defense<br>Dimitry Feldshteyn,
+					Department of Defense<br>Eric J. Riutort,
+					Department of Defense<br>Wil Mancuso,
+					Department of Defense<br>Paul A. Strassmann,
+					Department of Defense<br></span><br><span class="ctAbstract">The
+Department of Defense (DoD) Business Mission Area (BMA) accounts for
+roughly half of the DoD Information Technology (IT) budget. Many of the
+DoD&#8217;s business systems have been in use for years and are straining to
+support the agility of business operations necessary today. As well,
+many new systems are being developed on such a scale that it takes
+nearly a decade to produce the first results. A potential answer to
+this situation is delivering business capabilities through a
+service-oriented architecture (SOA)<sup xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">1</sup>.
+Much of the private sector is rapidly moving in this direction. The
+question is, will it work for the DoD? This article is about the
+results of market research conducted by the BMA Chief Technical Officer
+(CTO) and Chief Architect (CA) over a period of about six months to
+learn about state-of-the-art SOA and what the DoD can count on from SOA
+vendors to deliver both business services and SOA infrastructure in the
+near- to mid-term.</span><hr>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+DoD is perhaps the largest and most complex organization in the world,
+employing nearly 1.4 million people and holding approximately $1.4
+trillion in assets. IT spending for business support activities in the
+DoD BMA&#8212;funds to operate, maintain, and modernize business
+systems&#8212;comprise $15.7 billion of annual DoD IT spending, roughly equal
+to the rest of the federal government.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">While
+the DoD has long been acknowledged for its premier warfighting
+capabilities, fragmentation of financial and business management
+practices leaves the DoD vulnerable to waste, fraud, and abuse, as well
+as risk of failure on attempts to build larger, more complex systems.
+To support the DoD mission and the changing nature of the threats to
+which the federal government must respond, the DoD BMA is engaged in a
+massive business transformation. It must modernize and become agile in
+order to support 21st century national security requirements. The BMA
+CTO evaluated DoD BMA enterprise processes and associated
+systems&#8212;including human resource and personnel management, supply
+chain, and logistics, as well as financial and accounting management
+functions&#8212;to determine the best strategy for achieving agility. After
+analysis and assessment of BMA objectives and study of the overall
+direction for IT within the DoD, the strategy selected to move the BMA
+forward is the adoption of an SOA.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+U.S. Government Accountability Office describes an SOA as an &#8220;approach
+for sharing functions and applications across an organization by
+designing them as discrete, reusable, business-oriented services&#8221; [1].
+Most importantly, an SOA is a mechanism by which business capabilities
+can be aligned with the technical infrastructure in support of an agile
+business strategy. The DoD&#8217;s SOA vision calls for such alignment
+through an architecture of discrete components called<i> services </i>delivering
+business capabilities deployed in a supportive infrastructure designed
+for this purpose. The Office of the BMA CTO and CA collaborated with
+the chief information officers (CIOs) representing the military
+services, defense agencies, combatant commands, mission areas, and DoD
+Enterprise Services to develop an SOA strategy, including a supporting
+environment termed the Business Operating Environment (BOE). The BOE
+leverages industry best practices to federate technical architectures,
+develop capability requirements, and support the delivery of portfolios
+of business capabilities based on collections of atomic and/or
+composite service orchestrations. The BOE is defined in [2], which
+details the infrastructure component of the BOE and the business
+transformation infrastructure (BTI), shown in Figure 1. Some functions
+of the BTI will be met through and built upon the DoD Global
+Information Grid Enterprise Services. The technical core of the BTI,
+designated the Business Transformation Engine (BTE), is to be built
+from commercially available products.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">To
+assess the feasibility of this strategy, the BMA CTO conducted market
+research into maturity and readiness to support this strategy in SOA
+technologies from more than 30 organizations. These had survived a
+preliminary screening to ensure that they were realistic and relevant.
+The technical research included all components of the BTE, and was
+conducted in accordance with departmental regulations guiding
+pre-acquisition market research. The organizations provided live
+demonstrations of their development, test, operational, and production
+environments. CIO offices from each military service and many defense
+agencies were invited to attend and participate in the presentations.
+This article provides research conclusions across the BTE components
+(numbered in Figure 1), as well as SOA information assurance and
+governance.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				<br><br><a href="javascript:launchImageWindow('0810WisnoskyFeldshteynMancusoGoughRiutortStrassman_Fig1.jpg',799,406)"><img src="2008-SOA_files/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman_Fig1.jpg" alt="Figure 1:  The Business Transformation Infrastructure " border="1" width="525" height="267"></a><br>Figure 1: <span class="ctCaption">  The Business Transformation Infrastructure </span><br>
+		(Click on image above to show full-size version in pop-up window.)<br>
+			</p><span class="ctSectionTitle">Industry Readiness to Support Key BTI Capabilities</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+research approach gathered data to correspond to key technical
+capabilities required to build the BTI and included an assessment of
+the industry&#8217;s maturity in providing tools to support these technical
+capabilities. The research did not consider SOA technologies not
+relevant to the BTI. In this section, we present the assessment.</p><span class="ctSubsectionTitle">Interoperability Controller </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+interoperability controller component of the BTI is a pattern or
+foundation architecture for brokering, routing, and processing messages
+and service invocations within an SOA. It consists of an extensible set
+of integration brokers interconnected on the network by robust
+messaging middleware. The research looked at products supporting this
+pattern, examining them for a number of characteristics, including
+support for indirection and interception, loose coupling, scalability,
+and robustness. In general, the products that most closely support this
+pattern are enterprise service bus (ESB) products, as well as
+enterprise application integration and message-oriented middleware
+through composition.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+market research shows that the state of industry products as reasonably
+mature and can support the implementation of the BMA vision for the
+BTI&#8217;s interoperability controller component. The message-oriented
+middleware and enterprise application integration product vendors have
+been working in this direction through many generations of products.
+The ESB vendors have built on this experience to provide an
+enterprise-wide solution, though often with proprietary features. The
+challenge with the latter is to build a standards-based SOA that
+leverages the success of Web technologies rather than an ESB-based
+solution that provides some aspects of SOA but could lead to
+over-dependence on a particular vendor&#8217;s technology.</p><span class="ctSubsectionTitle">Mediation &#8211; Standard and High Volume </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">While
+increasingly more BMA systems and data sources will communicate
+natively in terms of standard message sets and vocabularies, there is a
+short-term need for mediation of information exchanges, translating,
+and transforming messages between information providers and consumers.
+The research found good support of this pattern in both the standard
+and high-volume variations. Many vendors, (such as Fiorano, BEA
+Systems, IBM, Iona, Tibco, and webMethods) are producing capable
+transformation engines, especially those focused on eXtensible Markup
+Language (XML) messaging and the use of Extensible Stylesheet Language
+Transformation engines. For high volume, Ab Initio, with its advanced
+parallel processing capabilities, allows for the development of
+high-performance, straight-through mediation services. However, the
+vision for dynamic generation of transformations on a semantic
+mediation basis was found to still be a future capability. The semantic
+technology needed is immature, so semantic tools from companies like
+Revelytix and IBM are best suited for supporting development time
+activities, with semantics being early-bound into runtime environments.</p><span class="ctSubsectionTitle">Service Discovery and Metadata Registries </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+BMA&#8217;s approach to SOA calls for metadata registries and repositories
+supporting the discovery of services and information assets. DoD
+registries are built around Organization for the Advancement of
+Structured Information standards, such as Universal Description and
+Discovery Interface (UDDI) and electronic business XML (ebXML) Registry
+Information Model and Registry Services (including a UDDI service
+registry), a Metadata Registry that contains the DoD&#8217;s structural and
+semantic metadata, and an enterprise catalog containing DoD
+specification metadata to support discovery of information assets.
+Given the DoD&#8217;s size and the likely need to federate registries, the
+BMA included this category in the market research.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Many
+of the vendors in the market research provide UDDI service registries,
+notably Systinet, now a part of HP. Many vendors include UDDI
+capability (e.g., IBM, BEA, Software AG), with a number of vendors
+using Systinet. Many vendors also include metadata management
+capabilities and repository components (e.g., Fiorano, Lombardi), while
+others such as Revelytix specialize around semantic metadata. The DoD&#8217;s
+metadata discovery specification is not directly supported by vendors,
+though those that support the ebXML architecture can act as enterprise
+catalog instances.</p><span class="ctSubsectionTitle">Business Activity Monitoring </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Business
+activity monitoring (BAM) allows management of an SOA in business
+terms. Market research found that BAM is still in early development.
+There are many vendors providing BAM functionality coming from diverse
+industry segments. Application integration and enterprise software
+vendors (BEA, Fiorano, IBM, IONA Technologies, Microsoft, Oracle, SAP,
+TIBCO, web-Methods, etc.) are extending existing assets and acquiring
+additional capabilities in order to support BAM. Business intelligence
+vendors (Business Objects, Cognos, Software AG, etc.) are working to
+adapt technology and incorporate business rules engines into their
+solutions to support real-time BAM operations. There is also a set of
+pure-play BAM providers who focus on complete BAM solutions. Overall,
+the research found little standardization across vendor
+implementations, making true interoperability difficult to achieve on
+an enterprise level. The most common uses found in the research revolve
+more around project-based, application-specific uses rather than as
+general enterprise infrastructure.</p><span class="ctSubsectionTitle">Enterprise Services Management </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Enterprise
+services management (ESM) provides for managing the service life cycle
+and is the foundation for SOA runtime governance. Market research found
+a limited number of SOA ESM vendors. The main vendors (e.g., IBM,
+Hewlett-Packard) possess strong portfolios in traditional network
+management and integrated service management markets that they have
+extended to ESM. Most of the tools researched include feature sets
+spanning the range from low-level IT service management to the
+higher-level business management needs, and the differences are more in
+terms of focus. Often, a more comprehensive solution can be composed by
+combining products (e.g., AmberPoint and HP OpenView SOA Manager).</p><span class="ctSubsectionTitle">Business Process and Workflow Automation (Business Process Modeling, Execution, and Monitoring)</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+BTI must provide for the modeling and execution of business processes
+through the orchestration of services, and the monitoring of those
+business processes. While the research found that there are still many
+proprietary modeling offerings, there is considerable convergence
+around Business Process Modeling Notation (BPMN). The research also
+found strong support across vendors for the Business Process Execution
+Language standard, though there is also emerging support for direct
+execution of BPMN through the use of the XML Process Definition
+Language, an XML serialization of BPMN. Many vendors also provide the
+needed monitoring of those processes at runtime, often building on
+extensive experience with network and application monitoring
+capabilities. Still further in the future are tools with semantic
+continuity from modeling to execution in the business process arena;
+however, the research did find that what already exists is maturing
+rapidly, and can provide a base for implementing the BTI. Perhaps
+surprisingly, not a single vendor included the Unified Modeling
+Language in either its list of product offerings relative to an SOA, or
+as a tool that it uses in its SOA engagements.</p><span class="ctSubsectionTitle">Data Virtualization and Data Services </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Among
+virtualization trends, virtualizing data sources has emerged as a
+real-world capability, and is a key component of the BMA SOA vision in
+which a virtual data store makes information from many sources
+available in real time without a physical store. The vendors include
+Composite Software, Red Hat Meta-matrix, IBM, and Streambase.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+BMA research found that overall data virtualization and associated data
+services have matured to the point that there are many cases where they
+can produce high-performance and robust data sources and services to be
+used in a net-centric environment, significantly reducing the latency
+in data availability to business analysts and decision makers who do
+not need to wait for the periodic load of a data warehouse or data mart.</p><span class="ctSectionTitle">Information Assurance for SOA</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">An
+SOA introduces new information assurance (IA) challenges. The
+interoperability and extended, net-centric data sharing capabilities
+enabled by SOAs are themselves potential points of vulnerability. A
+compromised service registry provides an attacker with a detailed map
+of the operations and capabilities of an organization. Standards and
+standard protocols narrow the range of network capabilities that an
+attacker must subvert, and success wins wide access. Deploying an SOA
+in a responsible fashion must consider the effects of information
+warfare in addition to other planning. Only through such IA diligence
+will the DoD be able to truly realize the savings and benefits that an
+SOA promises for a large, geographically dispersed organization that
+must operate in the face of the exigencies of war. Additionally, SOAs
+must also meet old IA challenges including reliability, availability,
+and non-repudiation. An SOA does not relieve implementers of the
+responsibility for solid engineering in areas of platforms, networking,
+back-ups, and auditing. Past best practices and standards must be
+brought to bear on SOA implementations as well as traditional ones.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">As
+would be expected, the DoD is making IA services a part of the
+Net-Centric Core Enterprise Services so that security is ubiquitous,
+well-tested, and a part of the infrastructure. An SOA provides the
+possibility to externalize security as a common, cross-cutting set of
+capabilities, themselves presented as services. In this way, each
+application or program does not have to master the complex technical
+capabilities required, but can declaratively define IA requirements and
+expect them to be honored and enforced by the infrastructure. At the
+same time, DoD-level IA policy can be enforced on SOA operations,
+including authorization control, redaction, and auditing. An SOA must
+also work with the DoD&#8217;s Public Key Infrastructure to enable secure
+single sign-on, and to ensure preservation of appropriate
+non-repudiation characteristics as people and systems take action
+against DoD and BMA data assets.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+BTI is intended to embrace and extend the DoD SOA and IA foundations.
+During the research, the BMA team studied vendor capabilities with
+regard to IA and security in a number of areas. In particular, there
+was support for emerging Web Services security standards and the
+inclusion of IA capabilities, both for enabling IA and for working with
+an enterprise&#8217;s existing IA infrastructure.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				</p><ul>
+					<li>
+						<strong>Support for Web Services IA Standards. </strong>Vendor
+support for the Web Services standards stack (WS-*) and related sets of
+XML and network IA standards&#8212;such as the WS-Security Assertion Markup
+Language, and the eXtensible Access Control Markup Language&#8212;is maturing
+rapidly along with the standards themselves. These standards are key to
+moving IA into the infrastructure, the SOA foundation, and enabling a
+declarative IA. Most of the deep stacks of SOA capability, such as
+those from IBM, BEA, Oracle, and Microsoft, have incorporated these
+standards throughout. </li>
+					<li>
+						<strong>Enabling IA Infrastructure Capabilities. </strong>Some
+organizations included in the research (such as AmberPoint) focus
+explicitly on providing SOA security capabilities. The market research
+found that there is a trend to make IA an integral part of SOA through
+provisioning, governance, and key infrastructure, such as with the
+BTI&#8217;s interoperability controller. This holds out the promise that as
+an SOA is implemented in the BMA, it will not prove to be the <i> soft and chewy inside </i>of a <i> hard and crunchy </i>perimeter defense. </li>
+					<li>
+						<strong>Integration With Existing IA Infrastructure. </strong>DoD
+IA must be a consideration from the beginning of the life cycle. An SOA
+must be able to work and interoperate with IA standards, practices, and
+approaches developed during the DoD and U.S. intelligence community&#8217;s
+long experience in producing networked IT systems to provide defense in
+depth. The market research found that there is a convergence in this
+arena, with the DoD looking to adopt industry and commercial best
+practices in IA for its solutions, and SOA vendors (included in the
+research) willing to meet and accommodate the stringent IA requirements
+of the DoD. </li>
+				</ul>
+			<p></p><span class="ctSectionTitle">Governance</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Governance&#8212;the
+means to assure that laws, regulations, and policies are met in IT
+operations and investments&#8212;is of key importance for the move to an SOA.
+An SOA introduces new challenges for IT and business governance due to
+solutions composed from numerous distributed services in an environment
+of heterogeneous ownership and control, and by enabling widespread
+sharing of information and capabilities. The BMA strategy for SOA
+governance addresses both buildtime and runtime needs.</p><span class="ctSubsectionTitle">Buildtime (Investment) Governance  </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The research assessed buildtime governance in the following areas:</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				</p><ul>
+					<li>
+						<strong>Enterprise Architecture Satisfaction. </strong>The
+research found that enterprise architecture tools are moving to
+explicitly model services, such as those from Mega Software or IBM
+(Telelogic). However, these tools have (at most) limited
+interoperability with tools used to design and develop services. These
+tools also provide little in the way of automated compliance checking
+or management of the transition between enterprise architecture models
+and service designs and implementations. </li>
+					<li>
+						<strong>Duplication Avoidance. </strong>The
+research found that this aspect of governance is provided largely by
+the ability of SOA development tools and environments to access service
+registries and repositories. This allows developers to determine
+whether an implementation for their service already exists. Additional
+metadata repository capabilities (providing further information)
+support this process. </li>
+					<li>
+						<strong>Service Usage. </strong>The
+market research found that the main mechanisms for assuring that
+existing services are used as appropriate are through development tools
+that integrate with an enterprise&#8217;s service registries and
+repositories. These tools provide developers with service descriptions
+and specifications at design and build time. Many tool vendors, such as
+Lombardi and IBM, provide this capability. </li>
+					<li>
+						<strong>Service Verification. </strong>The
+market research found that there is good support for test and verify
+SOA services&#8212;against functional requirements and service level
+agreements (SLAs)&#8212;when combined with more traditional automated testing
+tools. </li>
+					<li>
+						<strong>SLA Development. </strong>The
+market research found support for capturing SLAs, but support for the
+actual initial development of the SLAs is more limited. System
+architects and designers need to pay close attention to how they
+develop SLAs and translate them into digital form for use by automated
+SLA management capabilities. </li>
+				</ul>
+			<p></p><span class="ctSubsectionTitle">Runtime (Operations) Governance </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Runtime
+governance should provide visibility into service operation allowing
+management of services, the ability to take corrective action (as
+needed) to ensure effectively uninterrupted business operations, and
+the capture of operation audit information. Provisioning, deploying new
+services, and taking old services out of operation without significant
+impact on business activities or overall operations, are key parts of
+overall runtime governance. Characteristics looked for in runtime
+governance include the following:</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				</p><ul>
+					<li>
+						<strong>Operational Visibility. </strong>Make the runtime state visible in both technical (network and machine usage) and business terms. </li>
+					<li>
+						<strong>Service Management. </strong>Monitor and manage the execution and operation of services in an SOA. </li>
+					<li>
+						<strong>Policy Enforcement. </strong>Enforce
+security and other policy-based constraints in a declarative fashion,
+external to SOA services, allowing systems to adapt quickly to changing
+policy circumstances without coding. </li>
+					<li>
+						<strong>Auditing. </strong>Track and record key events and actions within the SOA environment for later analysis. </li>
+					<li>
+						<strong>Provisioning and Configuration Management. </strong>Provision services for deployment in the SOA and track its configuration across changes as they occur. </li>
+				</ul>
+			<p></p><span class="ctSubsectionTitle">Governance Conclusions </span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+market research found no complete solution available as a single
+package, but there is considerable governance capability available in
+the marketplace. For example, in the area of provisioning and
+configuration management, the research found that SOA management tools
+provide some of this capability, but may need to be joined with more
+traditional configuration management and deployment tools for
+reasonable capability. Governance capability (as required by the BMA
+strategy for SOA) can be provided through commercial tools, but
+designers must carefully assess and acquire the components from various
+vendors in accordance with a strong design and plan that they must
+create for themselves.</p><span class="ctSectionTitle">Conclusion</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+DoD BMA has embarked on an SOA strategy. The &#8220;BMA Architecture
+Federation Strategy and Roadmap&#8221; provides guidance for the DoD BMA to
+quickly gain business value by delivering capability to support the
+warfighter through an SOA, while using a phased approach for
+transforming legacy systems. The market research performed by the BMA
+Office of the CTO and CA has found that industry capabilities to
+implement or enable the components defined in the BMA Service-Oriented
+Infrastructure have matured in the marketplace. While serious caution
+remains in the areas of IA and security, and the need for significant
+cultural change for successful SOA implementation cannot be
+overemphasized, it is clear that it is feasible for an enterprise the
+size of the DoD to move forward on implementing an SOA and to realize
+the business benefits of agility, interoperability, and net-centric
+data sharing that an SOA provides.</p>
+<p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">The
+opinions expressed in this article are those of the authors only and in
+no way constitutes the policy or express direction of the DoD. Click <a href="http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyVendorList.html" target="_blank">here</a> for additional information about the vendors.</p><span class="ctSectionTitle">Note</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				</p><ol>
+					<li>According
+to the U.S. Government Accountability Office, &#8220;A service-oriented
+architecture is an approach for sharing functions and applications
+across an organization by designing them as discrete, reusable,
+business-oriented services. These services need to be, among other
+things, (1) self-contained &#8230;; (2) published and exposed as
+self-describing &#8230;; and (3) subscribed to via well-defined and
+standardized interfaces.&#8221;</li>
+				</ol>
+			<p></p><span class="ctSectionTitle">References</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				</p><ol>
+					<li>United States. Government Accountability Office.<i>
+Defense Business Transformation: A Comprehensive Plan, Integrated
+Efforts, and Sustained Leadership Are Needed to Assure Success</i>. 16 Nov. 2006 &lt;www.gao.gov/new.items/d07229t.pdf&gt;. </li>
+					<li>United States. DoD.<i> Business Mission Area Architecture Federation Strategy and Roadmap</i>. Ver. 2.4a. 29 Jan. 2008 &lt;www.defenselink.mil/dbt/federation_strategy.html&gt;. </li>
+				</ol>
+			<p></p><span class="ctSectionTitle">Additional Reading</span><br><p xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+				</p><ol>
+					<li>United States. DoD CIO.<i> Global Information Grid Architectural Vision for a Net-Centric, Service-Oriented DoD Enterprise</i>. 21 Mar. 2008. Ver. 1.0. June 2007 &lt;www.defenselink.mil/cio-nii/docs/GIGArchVision.pdf&gt;. </li>
+					<li>Erl, Thomas.<i> Service-Oriented Architecture: Concepts, Technology, and Design</i>. New Jersey: Prentice Hall PTR, 2005. </li>
+				</ol>
+			<p></p>
+<hr><span class="ctSectionTitle">About the Authors</span><br><img src="2008-SOA_files/0810Wisnosky.jpg" alt="Dennis E. Wisnosky" align="center" border="0" width="134" height="158"><p>
+			<strong xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Dennis E. Wisnosky&#8217;s </strong>responsibilities
+include guiding development of Federated Architectures and SOA within
+the DoD&#8217;s BMA. He is recognized as the father of the Integrated
+Definition Language and the author of several books. Wisnosky holds a
+bachelor&#8217;s degree from California University of Pennsylvania and
+master&#8217;s degrees from both the University of Dayton and the University
+of Pittsburgh. He has received numerous honors for his work, including
+the Federal 100 Award in 2007. <br><br>DoD<br>Office of Business Transformation<br>3600 Defense Pentagon<br>Room 3C889A<br>Washington, D.C. 20301-2600<br>
+		                	Phone:  (703) 607-3440<br>
+		                	Fax:  (703) 607-2451<br>
+		                	E-mail: <a href="mailto:%20dennis.wisnosky@osd.mil"> dennis.wisnosky@osd.mil</a><br></p><br clear="all"><hr>
+<p>
+			<strong xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Al (Edward) Gough </strong>is
+a senior enterprise architect supporting the DoD BMA CTO and CA. Gough
+is chief technology officer for CAC International Inc.&#8217;s transformation
+solutions group. He works on furthering the adoption and implementation
+of SOA across the BMA and DoD. <br><br></p><br clear="all"><hr>
+<p>
+			<strong xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Dimitry Feldshteyn</strong>
+is a chief of SOA strategy supporting the DoD BMA CTO and CA. He is
+president for eMillennium Inc., and has 18 years experience working in
+the IT industry, 12 years of which he has spent in leadership and
+executive positions at Hewlett-Packard and IBM. <br><br></p><br clear="all"><hr>
+<p>
+			<strong xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Eric J. Riutort </strong>is
+a business and IT management consultant supporting the DoD BMA CTO and
+CA. He works for Tech Team Government Solutions, Inc., and has 15 years
+of industry experience in software development, semiconductor, and
+automotive manufacturing. Riutort wrote the BMA&#8217;s SOA governance and
+change management strategies. <br><br></p><br clear="all"><hr>
+<p>
+			<strong xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wil Mancuso</strong>
+is one of the lead SOA architects supporting the DoD BMA CTO and CA. He
+is the president of Information Management Solutions Consultants, Inc.,
+and has more than 20 years of experience in industry. Mancuso developed
+the DoD Log EA, the Defense Logistics Agency&#8217;s Integrated Data
+Environment, and the BMA&#8217;s Common Vocabulary. <br><br></p><br clear="all"><hr>
+<p>
+			<strong xmlns:msn="http://www.stsc.hill.af.mil/msn" xmlns:xs="http://www.w3.org/2001/XMLSchema">Paul A. Strassmann </strong>was
+DoD CIO from 1988 to 1992. In addition, he has been the chief
+information executive of General Foods, Kraft, Xerox, and NASA. He is
+presently distinguished professor of information sciences at George
+Mason University. He received the Distinguished Public Service Medal
+from the DoD as well as the Exceptional Service Medal from NASA for his
+work on information security and systems architecture. <br><br></p><br clear="all"></td>
+</tr>
+</tbody></table>
+		
+		</td>
+	</tr>
+</tbody></table>
+<table summary="Footer" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr> 
+		<td rowspan="4" class="leftNav"><br><img src="2008-SOA_files/nav_left_logo_usaf.gif" alt="USAF Logo" border="0" width="131" height="95"></td>
+		<td align="right"><br><img src="2008-SOA_files/vert_line.gif" alt="" border="0" width="1" height="26" hspace="11"></td>
+		<td><br><a href="http://www.stsc.hill.af.mil/about/privacysecurity.html">Privacy and Security Notice</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="http://www.stsc.hill.af.mil/about/disclaimer.html">External Links Disclaimer</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="http://www.stsc.hill.af.mil/about/sitemap.html">Site Map</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="http://www.stsc.hill.af.mil/about/info.html">Contact Us</a></td>
+	</tr>
+	<tr>
+		<td class="rule"><img src="2008-SOA_files/spacer.gif" alt="" border="0" width="18" height="1"></td>
+		<td class="rule"><img src="2008-SOA_files/clear.gif" alt="" border="0" width="200" height="1"></td>
+	</tr>
+	<tr>
+		<td><img src="2008-SOA_files/clear.gif" alt="" border="0" width="30" height="1"></td>
+		<td class="footer"><img src="2008-SOA_files/clear.gif" alt="" border="0" width="18" height="10"><br>
+
+
+		Please <a href="http://www.stsc.hill.af.mil/emailstsc.html" target="_blank">E-mail</a> or call 801-775-5555 (DSN 775-5555) if you have any questions regarding your <a href="http://www.stsc.hill.af.mil/crosstalk/subscribe.html">CrossTalk subscription</a> or for additional STSC information.<br><br>
+		<strong>Webmaster:</strong> 517th SMXS/MDEA, 801-777-0857 (DSN 777-0857), <a href="http://www.stsc.hill.af.mil/emailstsc.html" target="_blank">E-mail</a><br><br>
+      	<strong>STSC Parent Organizations: </strong> <a href="http://www.309smxg.hill.af.mil/" target="_blank">309SMXG</a> <a href="http://www.hill.af.mil/" target="_blank">Ogden Air Logistics Center, Hill AFB</a>
+
+
+</td>
+	</tr>
+</tbody></table>
+<br>
+<br>
+
+
+<div style="border: 1px solid rgb(153, 102, 204); overflow: hidden; position: absolute; visibility: hidden; left: -500px; top: 0px; width: 98px; cursor: default; height: 125px;" id="HM_Menu1"><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 92px; top: 0px;" id="HM_Item1_1">Consulting Svcs</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 92px; top: 21px;" id="HM_Item1_2">CrossTalk</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 92px; top: 42px;" id="HM_Item1_3">Conference</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 92px; top: 63px;" id="HM_Item1_4">Customers</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 92px; top: 84px;" id="HM_Item1_5">Contact Us</div><div style="padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 92px; top: 105px;" id="HM_Item1_6">Site Map</div></div><div style="border: 1px solid rgb(153, 102, 204); overflow: hidden; position: absolute; visibility: hidden; left: -500px; top: 0px; width: 148px; cursor: default; height: 188px;" id="HM_Menu2"><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 0px;" id="HM_Item2_1">CMMI</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 21px;" id="HM_Item2_2">SW Estimation</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 42px;" id="HM_Item2_3">Proc Improvement</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 63px;" id="HM_Item2_4">Project Mgmt</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 84px;" id="HM_Item2_5">Configuration Mgmt</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 105px;" id="HM_Item2_6">Sys Eng &amp; Development</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 126px;" id="HM_Item2_7">SW Measurement</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 147px;" id="HM_Item2_8">SW Quality Engineering</div><div style="padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 142px; top: 168px;" id="HM_Item2_9">Tech Adoption Svcs</div></div><div style="border: 1px solid rgb(153, 102, 204); overflow: hidden; position: absolute; visibility: hidden; left: -500px; top: 0px; width: 108px; cursor: default; height: 167px;" id="HM_Menu3"><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 0px;" id="HM_Item3_1">About CrossTalk</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 21px;" id="HM_Item3_2">Current Issue</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 42px;" id="HM_Item3_3">Subscription</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 63px;" id="HM_Item3_4">Theme Calendar</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 84px;" id="HM_Item3_5">Author Guidelines</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 105px;" id="HM_Item3_6">Back Issues</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 126px;" id="HM_Item3_7">Article Index</div><div style="padding: 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 102px; top: 147px;" id="HM_Item3_8">Your Comments</div></div><div style="border: 1px solid rgb(153, 102, 204); overflow: hidden; position: absolute; visibility: hidden; left: -500px; top: 0px; width: 108px; cursor: default; height: 125px;" id="HM_Menu5"><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px 16px 3px 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 89px; top: 0px;" id="HM_Item5_1">Seminars</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px 16px 3px 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 89px; top: 21px;" id="HM_Item5_2">Events</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px 16px 3px 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 89px; top: 42px;" id="HM_Item5_3">Technical Docs</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px 16px 3px 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 89px; top: 63px;" id="HM_Item5_4">Web Sites</div><div style="border-bottom: 1px solid rgb(0, 0, 0); padding: 3px 16px 3px 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 89px; top: 84px;" id="HM_Item5_5">FAQ</div><div style="padding: 3px 16px 3px 3px; position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(204, 204, 255); color: rgb(51, 0, 102); font-family: Verdana,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8pt; line-height: normal; font-size-adjust: none; font-stretch: ; -x-system-font: none; left: 0px; width: 89px; top: 105px;" id="HM_Item5_6">Help Desk</div></div></body></html>

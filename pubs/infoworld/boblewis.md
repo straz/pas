@@ -1,6 +1,8 @@
 ---
 title: Peer To Peer
 layout: post
+date: 1999-5-31
+desc: Infoworld
 ---
 
 # Computer productivity

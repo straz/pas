@@ -1,0 +1,150 @@
+<html>
+<!--Copyright ©1996 Strassmann, Inc. All rights reserved -->
+<head>
+<!-- -->
+<title>The Real Costs of Personal Computers</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p>
+<h2>The Real Costs of Personal Computers</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+January 13, 1997<br>
+<hr>
+
+<h4>What are the real costs of personal computing?</h4>
+
+The average costs of ownership of a personal computer have finally
+made the headlines. Recently, Fortune Magazine quoted the annual cost
+of PC ownership at more than $9,000, The Economist at $6,400, The New
+York Times at $13,000 and Business Week at $8,000. The most frequent
+source of these numbers is the Gartner Group, who will oblige with
+estimates ranging from $7,138 to $13,000.<p>
+
+<h4>Talking about large sums</h4>
+
+The sudden interest is due to the prospects of a $500 network computer
+displacing a $2,500 personal computer.<p>
+
+For senior executives contemplating NCs and PCs, these conflicting
+numbers are bound to cause confusion. A typical Fortune 1000
+corporation with an annual IT budget of $200 million is likely to have
+about 10,000 personal computers. If you take the highest Gartner
+numbers and the low-ball claims of $2,500 for the cost of ownership of
+an NC, you have a hypothetical cost reduction of $105 million. If you
+prefer The Economist, you could argue that there is only $34 million
+worth of savings.<p>
+
+Whatever number you choose, to deliver intranet-run NCs this company
+will need, by my estimate, at least $60 million worth of new
+development money to extricate yourself from a fully implemented
+client/server architecture. That represents one full year's
+development and maintenance cost.<p>
+
+Taking these average cost figures at face value can lead to fiscal
+disaster. Concocting hypothetical savings based on mythical costs are
+a sure-fire way for NC-minded CIOs to get into real trouble.<p>
+
+The fact is that PC ownership costs are driven by how people work and
+how they are managed. These factors make "average cost of ownership" a
+meaningless abstraction.<p>
+
+<h4>Learning about PC costs</h4>
+
+I saw this in 1991, when I commissioned a study of 32 PC local area
+networks while I was CIO of the U.S. Department of Defense. I found
+the "average cost" per LAN ranged from $3,500 to more than $60,000 per
+seat. Clearly, there was no such thing as an average cost for personal
+computing.<p>
+
+<h4>Influences on PC Ownership</h4>
+
+
+There are two major influences determining the costs of PC ownership:
+workload and management practices. Both are shaped by the customers,
+technology and applications.<p>
+
+<ul>
+
+<li><b>Customers</b>: The occupational profile of employees drives computing
+demand. Professionals devour computing capacity whereas craft labor
+hardly uses any. The penetration of computing will also vary. It is
+extremely high with engineers and the accounting types, much less with
+technicians and salespeople.<p>
+
+Mobile workers require less computing than sedentary number crunchers.
+Computer literacy also matters. Employee turnover places enormous
+burdens on the support staffs for hand-holding, training, error
+correction and equipment relocation. 
+
+For instance, the Bank Administration Institute reports a 50% turnover
+rate among consumer credit officers. That staggering instability must
+surely increase the costs of all support.</li><p>
+
+<li><b>Technology</b>: Technology architecture and adherence to standards
+also influence costs. The choice of the identical versions of
+applications and operating systems greatly simplifies diagnostics and
+network maintenance.  Liberal Internet access is a killer, especially
+on network capacity. 
+
+Without central configuration controls over equipment and software,
+one can easily double the staff at the help desks. Most importantly,
+there are enormous economies of scale in central network
+administration costs. The statistics of queuing theory will always
+favor large networks over small ones.</li><p>
+
+<li><b>Applications</b>: The failure of application software is perhaps the
+most severe cause of all customer dissatisfaction. Some of it comes
+from poor design, insufficient testing of maintenance and excessive
+permissiveness for local operators to futz around with features and
+options. Removable disk drives that allow insertion of private
+software increase the workload for everyone. Strict enforcement of
+security procedures and controls may cost as much as $1,000 per PC per
+year.</li>
+
+</ul>
+
+<p>
+<h4>Cost management</h4>
+
+Though customer, technology and application characteristics can easily
+account for thousands of dollars of additional expense for a PC, poor
+management explains most of the difference between low and high costs.
+You don't need NCs to reduce desktop ownership costs. All it takes are
+users and technicians who are reasonably competent at what they are
+doing.<p>
+
+Sophisticated network management systems mean very little if nobody
+takes the time to assist a few chronically incompetent PC users.
+Tutoring and assistance are needed to reduce computing costs, not just
+technological fixes. Making users, as well as IS, accountable for
+costs is essential to offer the right inducements for cost reduction
+and continuous quality improvement.<p>
+
+<h4>Implications for CIOs</h4>
+
+You can't manage PC costs by going after average costs. Average travel
+time doesn't tell much about traffic jams. Likewise, there is no such
+thing as an average cost benchmark for the cost of PC or NC ownership.
+The costs of PC networks will differ for every firm, since personal
+computing reflects the unique characteristics of how a firm manages
+its computers. I've counted 30 possible PC expense drivers, each of
+which can increase ownership costs if managed poorly. The only way to
+reduce costs is to uncover the primary causes of poor choices,
+neglectful practices and dysfunctional computing behavior.
+
+
+<p>
+<blockquote>
+<font size=2><a href="mailto:paul@strassmann.com">Paul Strassmann</a>
+ works on a PC bought for $2,356. At his consulting rates, the
+monthly cost for recovering from crashes, hanging on the phone with
+vendor help desks and de-conflicting incompatible software exceeds the
+purchase cost.</font>
+</blockquote>
+
+<p>
+
+<!--#include file="cw97-footer.shtml"-->

@@ -1,0 +1,151 @@
+<html>
+<!--Copyright ©1998 Strassmann, Inc. All rights reserved -->
+<head>
+<!-- -->
+<title>Quality Is the Answer to the Labor 'Crisis'</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<h2>Quality Is the Answer to the Labor 'Crisis'</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+June 8, 1998<br>
+<hr>
+
+<font size="+3">T</font><font size="+1">he shortage of systems personnel is a temporary phenomenon.</font><p>
+
+<P> A historical study of all shortages - whether they were for food,
+gold, oil, land or fish - teaches us that they are aberrations caused
+mostly by temporarily excessive demand.<p>
+
+<P> The economics of rising prices will always generate corrective
+measures that ultimately deliver a sufficient supply.<p>
+
+<h3>Shortage and self-interest</h3>
+
+Vendors are happy about any "shortages" because they make selling
+easier and prices higher. The recent discovery that there was a
+shortage of systems and programming personnel was welcomed by just
+about everyone who stands to benefit from it.<p>
+
+For example, the Information Technology Association of America, a
+trade organization that represents primarily the computer industry,
+favors more liberal immigration quotas for computer experts. The
+National Research Council and the Computer Research Association, both
+of which mostly reflect the views of academia, favor more subsidies
+for computer departments. The Software Publishers Association, which
+represents lobbies for Microsoft, Oracle and others, advocates
+spending public money to boost the supply of programmers. Computer
+people love the news about scarcity of talent because it enhances
+their sense of importance and legitimizes requests for
+larger-than-average raises.<p>
+
+For someone aspiring to become a computer professional, enter the
+head-hunting business or form a software company, it would be useful
+to understand how real and sustainable the current shortages are.<p>
+
+<h3>Shortages Don't Last</h3>
+
+There's a simple way to eliminate shortages: cut waste and improve
+productivity. There's no lack of examples.<p>
+
+Every few years New York runs into alarming water shortfalls because
+much of its supply goes to waste from leaking pipes and poor supply
+management. The land-rich Soviet Union experienced chronic shortages
+of food while most of the crops were left rotting in fertile fields.
+Only 15 years ago, the price of gold was expected to rise to more than
+$1,000 an ounce on account of shortages. Speculators lost money when a
+drop in demand brought the price down to less than a quarter of what
+was expected.<p>
+
+The yesteryear scarcities of oil were supposed to lead to prices of
+more than $100 a barrel. Nowadays, oil costs less, in real dollars,
+than when the scarcity scare started. The food famines and fuel
+shortages that were accepted as a reliable prediction in the 1960s
+have now been replaced by surpluses in all raw materials, with prices
+dropping relative to the rising global personal income.<p>
+
+There are many reasons to believe that the IT labor "crisis" will
+follow this pattern: resistance to rising labor costs, automation of
+programming tasks, standardization of applications, adoption of total
+quality methods, institution of systems engineering disciplines and
+certification requirements. Management will resist hiring more systems
+professionals as the solution to their problems. Instead, they will
+start boosting ways to deliver greater productivity through improved
+software quality.<p>
+
+<h3>The Demand-Management Proponents </h3>
+
+Early this year, a task force report focused on how software
+productivity and quality relates to the U.S. information technology
+workforce shortage. Howard Rubin, chairman of the computer science
+department at Hunter College in New York, chaired and authored that
+effort, which included contributions from other software quality
+luminaries such as Barry Boehm, Jerry Grochow and Capers Jones.<p>
+
+The report concluded that U.S. software productivity is unsatisfactory
+and that it has been declining since 1993. The management of software
+continues to be unacceptable, with only 6% of organizations meeting
+the criteria of having "defined" software management processes in
+place. The report's authors concluded that increasing software
+quality, as well as reducing the "destructive feedback loop" from
+excessive employee turnover, would relieve the current tendency to
+compensate for unsatisfactory performance by adding more people.<p>
+
+Contributors to the software quality and productivity report favor
+increasing the supply of skilled systems personnel. But they also
+identify the following practices that are necessary to achieve greater
+efficiencies: software reuse, systems integration standards that
+aren't vendor-specific, simulation methods for capture of customer
+requirements, and formal software testing processes and certification
+of software for conformity with generally accepted standards. Of those
+measures, the reuse of high-quality software components would yield,
+by far, the highest cost-reduction potential.<p>
+
+<h3>Implications for Management</h3>
+
+Rising prices, short technology life and chronic systems failures are
+rapidly reducing executive tolerance for waste. Boards of directors
+are recognizing that the current shortages of qualified systems
+personnel are largely self-inflicted, with the year 2000 fiasco
+offering the most immediate proof of software mismanagement.<p>
+
+The prevailing waste in managing software as a corporate asset is
+scandalous. According to a study by Jones, chairman of Software
+Productivity Research, Inc. in Burlington, Mass., canceled projects
+consume more than 15% of all software efforts. Furthermore, about 60%
+of the U.S. software workforce is engaged in fixing errors that are
+largely avoidable if total quality management practices were applied.<p>
+
+If those numbers are correct, proper software management practices
+could lead to more than a 1 million personnel surplus. Therefore, I
+don't believe that we suffer from a 350,000-person shortage, as has
+been alleged by those who are looking for more billable bodies to cure
+a situation that has been caused by mismanagement of valuable people.<p>
+
+The present shortages of systems personnel in the U.S. will vanish as
+normal growth, global competition and improved systems management
+practices alter the current conditions. That will happen within the
+next decade, for sure. One should not count on the persistence of
+premium prices and the imbalance between demand and supply to make
+decisions that bank on that flawed assumption.<p>
+
+<blockquote>
+<font size=-1>
+Strassmann (<a href="mailto:ceo@stacorp.com">ceo@stacorp.com</a>) says
+certification of reusable software components to high-quality
+standards will displace large amounts of handcrafted programming.
+</font>
+</blockquote>
+
+</td></tr>
+</table>
+
+<!--#include file="cw98-footer.shtml"-->
+

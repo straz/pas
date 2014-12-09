@@ -1,0 +1,129 @@
+<HTML>
+<!-- Lotus-Domino (Release 4.6.5 - June 16, 1999 on Windows NT/Intel) -->
+<HEAD>
+<meta NAME="description" CONTENT="Business-to-business e-commerce is being hailed as the next great opportunity to expand the influence of IT people. Terms such as value-chain streamlining and disintermediation of workflow processes have crept into the vocabulary of aspiring IT job candidates, as corporate executives push their IT shops to abandon newly installed client/ servers or half-completed enterprise systems for another round of huge investments.">
+<meta NAME="keywords" CONTENT="Advice/Opinion,Ecommerce,Business to Business">
+<meta NAME="contenttype" CONTENT="news analysis">
+<meta NAME="audienceetype" CONTENT="">
+<meta NAME="publicationDate" CONTENT="2000-05-01">
+<meta NAME="contributor" CONTENT="Computerworld">
+<meta NAME="publisher" CONTENT="Computerworld Inc.">
+<meta NAME="source" CONTENT="Computerworld">
+<meta NAME="creator" CONTENT="Paul A. Strassmann">
+<meta NAME="copyright" CONTENT="Copyright (c) 2000 Computerworld Inc. All Rights Reserved">
+<meta NAME="rights" CONTENT="http://www.computerworld.com/inc/policies.html">
+<meta NAME="language" CONTENT="eng">
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="robots" CONTENT="All">
+<meta NAME="rating" CONTENT="General">
+<meta NAME="idg-url" CONTENT="http://www.computerworld.com/home/print.nsf/idgnet/000501D9D2">
+<TITLE>Finding Net profits</TITLE>
+
+</HEAD>
+<BODY BGCOLOR=white>
+
+<p>
+<p>
+<h2>Finding Net Profits</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+May 1, 2000<p>
+
+
+<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">B</font><font size="+1">usiness-to-business e-commerce
+is being hailed as the next great opportunity </font> to expand the
+influence of IT people. Terms such as value-chain streamlining and
+disintermediation of workflow processes have crept into the vocabulary
+of aspiring IT job candidates, as corporate executives push their IT
+shops to abandon newly installed client/servers or half-completed
+enterprise systems for another round of huge investments.<P>
+
+As the frenzy escalates to junk old systems or transform software
+into Internet-based e-commerce applications, who will benefit from an
+enormous opportunity to cut previously untouchable information costs
+now embedded within the existing value chain? Costs will be cut when
+the dynamics of purchasing decisions shift from supplier-to-supplier
+bargaining to centralized management of the entire procurement process
+through e-commerce applications that link the production systems of
+millions of suppliers without intervention by brokers, dealers,
+wholesalers and promotion agents.<P>
+
+ Nevertheless, whenever predictions of huge savings call for a CFO to
+write a multimillion-dollar check, an IT executive may boost his
+standing by offering clues for where the profits may end up after the
+business-to-business e-commerce revolution settles down in the near
+future.<P>
+
+It's difficult to find authoritative estimates that quantify the cost
+savings that e-commerce generates. I was intrigued to read (Fortune,
+March 20) that Delphi Automotive, Owens Corning and United
+Technologies saved $60 million, $9 million and $32 million,
+respectively, by purchasing components, packaging materials and
+circuit boards on the Internet. Such savings -- ranging from 9% to 43%
+-- are difficult to conceive if one considers that suppliers of
+industrial goods already suffer from very slim profit margins. The
+huge savings must come from something else!<P>
+
+<h3>An Examination</h3> 
+
+Looking for clues, I examined the financial databases of more than
+10,000 U.S. industrial suppliers and analyzed their cost structures.
+Since suppliers of finished goods, in turn, depend on other suppliers,
+I was able to construct a simplified financial model of the median
+costs of the supply pipeline. It offers an explanation of where the
+money is spent:<p>
+
+<center><img src="netprofits.gif" height=354 width=600 
+   alt="Value Chain Accumulation"></center>
+<p>
+
+In the chart, 100% of the value-chain contribution equals the price
+charged by a typical manufacturer. At each step in the chain, each
+supplier spends money for materials, labor and logistics. Then, each
+succeeding supplier adds overhead (information costs) then tags on
+profit. Therefore, for example, the "other suppliers" contribute 15%
+to the value chain and "secondary suppliers" contribute the difference
+between 33% and 15%, until it all adds up to 100%.<P>
+
+At each stage, a firm adds information expenses for sales, marketing,
+administration, research and development and IT. These costs,
+averaging 15.9%, are included in the manufacturer's sales price, thus
+taking a big chunk out of the manufacturer's value added of 44% of
+revenue (the difference between its 100% and the 56% paid to "prime
+suppliers").<P>
+
+The suppliers also contribute their shares of information costs to a
+product's final sales price. All told, the information costs at each
+of the four stages add up to 34.5% of a product's price, which sticks
+out as the largest cost-cutting target for boosting profits.<P>
+
+What does this mean for the CIO? It's imperative that he begin to
+analyze the total costs of delivering information within the entire
+value chain before launching an e-commerce project. Remember that
+whomever has the power to extract value chain savings and add to
+profits will see the greatest benefits.<P>
+
+<P>
+<hr>
+
+<font size="-1">
+
+Strassmann can be reached at <A
+href="mailto:paul@strassmann.com">paul@strassmann.com</A>. This is the
+first in a series of articles in which he will analyze the costs of
+processing information from a raw materials supplier to the consumer.
+<P>
+</FONT>
+
+</td></tr> </table>
+
+<!--#include file="cw2000-footer.shtml"-->
+

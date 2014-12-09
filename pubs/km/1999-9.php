@@ -1,0 +1,258 @@
+<?php
+
+require("utils.php");
+
+$title = "Does Knowledge Capital Explain Market/Book Valuations?";
+$date = "September, 1999";
+$pdate = "9-1-99";
+$coverart = "0999-cover.jpg";
+$subhead = "Two cheers for Professor Lev's approach to valuation. But his numbers still fall short.";
+
+$body = "<font size=+2>T</font><font size=+1>he value of knowledge capital</font>
+has become the financial community's favorite rationalization for the
+current stratospheric prices of some stocks. If you probe further and
+ask a broker to define \"knowledge capital,\" you are likely to hear
+that it is the difference between what investors are willing to pay
+and the book value of a firm. </P>
+
+<P>This circular reasoning is sufficiently vague that it seems to
+confirm the view that everyone in the U.S. is getting smarter because
+the stock market says so. It appeals to newly minted MBAs because it
+justifies high salaries and stock options. Gurus, pundits and
+intellectuals can then make claims about the priceless value of their
+knowledge capital despite the fact that it is not feasible to
+determine a valuation that can be verified independently. </P>
+
+<P>There are, however, those who detest the flimsy rationale of
+self-serving knowledge capital claimants. It is the job of CFOs,
+auditors and accountants to come up with assessments of the worth of a
+firm's intangible assets. This is critically important when explaining
+the price paid for an acquisition, in granting stock options and in
+paying sign-up bonuses for unique talent. It is up to the financial
+scorekeepers to rein in exaggerated claims of intangible wealth and
+juxtapose reality against fantasy. </P>
+
+<P>So when a recent issue of <I>CFO Magazine</I> - perhaps the most
+widely read monthly for senior financial executives - arrived, I
+was delighted to see that it tackled, for the first time, the thorny
+topic of knowledge capital. The cover proclaimed: \"Seeing Is Believing
+- A Better Approach To Estimating Knowledge Capital.\" Indeed, my
+excitement was well rewarded. The article was by Baruch Lev, professor
+of accounting and finance at New York University. Professor. Lev is
+widely respected because of his record as a critic of current
+corporate accounting practices. His article was also heralded in the
+June 12 edition of <I>The Economist</I> as a major new and
+innovative insight into the valuation of knowledge and ideas.</P>
+
+<P>In the article, Lev introduces a simple ratio for determining the
+valuation of a firm's knowledge capital. He defines it as \"... the
+normalized earning minus earnings from tangible and financial assets
+divided by knowledge capital discount rate.\" The significance of Lev's
+article is great. In contrast to attempts published by other experts,
+which are more akin to judging beauty contests, we finally have before
+us a reproducible and independently verifiable calculation. Even more
+important is that Lev's concept of \"comprehensive value,\" defined as
+the sum of financial capital (e.g. book value) and knowledge capital,
+provides a way to determine the worth of corporate knowledge and
+ideas.</P>
+
+<P>Though I have some problems with the application of Lev's ratio (to
+be discussed in future columns I will be writing), what matters now is
+to test the utility of his theories as they apply to current stock
+market valuations. If the value of a firm is the sum of its tangible
+assets plus its knowledge capital assets, what does Lev's theory tell
+us about recent stock market valuations?</P>
+
+<P>The following table is an extract from Lev's calculations as shown in CFO Magazine:</P>
+
+<TABLE BORDER CELLSPACING=1 CELLPADDING=5 WIDTH=450>
+<TR valign=top bgcolor=#DDDDFF>
+<TH>(Valuations in $ Millions)</TH>
+<TH>
+<P>Book Value</TH>
+<TH>
+<P>Market Valuation</TH>
+<TH>
+<P>Lev-Calculated Knowledge Capital</TH>
+<TH>
+<P>Market Valuation of Knowledge Capital</TH>
+<TH>
+<P>Market/<br>Calculated Knowledge Capital</TH>
+</TR>
+<TR bgcolor=#EFFFEF><TD>Merck</TD>
+<TD>
+<P ALIGN=RIGHT>12,614</TD>
+<TD>
+<P ALIGN=RIGHT>139,910</TD>
+<TD>
+<P ALIGN=RIGHT>48,038</TD>
+<TD>
+<P ALIGN=RIGHT>127,296</TD>
+<TD>
+<P ALIGN=RIGHT>265%</TD>
+</TR>
+<TR bgcolor=\"#FFFFEE\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Bristol-Meyers Squibb</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>7,219</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>106,994</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>30,470</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>99,775</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>327%</TD>
+</TR>
+<TR bgcolor=\"#EFFFEF\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Johnson &amp; Johnson</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>12,359</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>92,884</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>29,695</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>80,585</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>271%</TD>
+</TR>
+<TR bgcolor=\"#FFFFEE\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Pfizer</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>7,933</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>136,846</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>23,890</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>128,913</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>540%</TD>
+</TR>
+<TR bgcolor=\"#EFFFEF\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>American Home Products</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>8,175</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>63,392</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>22,822</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>55,217</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>242%</TD>
+</TR>
+<TR bgcolor=\"#FFFFEE\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Forest Labs</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>614</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>2,653</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>553</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>2,039</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>369%</TD>
+</TR>
+<TR bgcolor=\"#EFFFEF\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Barr Lab</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>156</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>909</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>376</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>753</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>200%</TD>
+</TR>
+<TR bgcolor=\"#FFFFEE\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Perrigo</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>426</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>821</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>254</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>395</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>156%</TD>
+</TR>
+<TR bgcolor=\"#EFFFEF\"><TD WIDTH=\"29%\" VALIGN=TOP>
+<P>Agouron Pharmaceuticals</TD>
+<TD WIDTH=\"11%\" VALIGN=TOP>
+<P ALIGN=RIGHT>236</TD>
+<TD WIDTH=\"14%\" VALIGN=TOP>
+<P ALIGN=RIGHT>1,049</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>152</TD>
+<TD WIDTH=\"16%\" VALIGN=TOP>
+<P ALIGN=RIGHT>813</TD>
+<TD WIDTH=\"15%\" VALIGN=TOP>
+<P ALIGN=RIGHT>535%</TD>
+</TR>
+</TABLE>
+
+<FONT FACE=\"Garamond,Times\" SIZE=1>
+</FONT><P>&nbsp;</P>
+
+<P>The stock market, as of May 31, 1998 (when the data for the above
+table was collected), did not care much about the calculated
+estimates. For instance, Merck&#150;with calculated knowledge capital
+of about $48 billion and book value of $12.6 billion - had a market
+valuation of about $140 billion. Thus the market valuation of
+knowledge capital was total market valuation minus book value, more
+than $127 billion. That's a 265 percent overvaluation over the
+calculated number! Similarly, the market valuations of knowledge
+capital for most of the 47 firms listed in the CFO article are much
+greater than what Lev suggests.</P>
+
+<h3>Summary</h3>
+
+<P>Indeed, there is such a thing as knowledge capital. Indeed it can
+be calculated. If calculated correctly, it could explain why the
+purchase cost of most U.S. firms is greater than their book value
+(\"carcass value\") that accountants attribute to it as a generally
+accepted practice. As much as Professor Lev deserves our thanks and
+appreciation for opening a discourse on placing a dollar value on
+knowledge capital, his formula still does not reflect the valuations
+that the market places on firms. Stocks are either enormously
+overpriced or the knowledge capital, according to the Lev's ratio, is
+vastly under-priced.</P>
+
+<P>I do not believe that the marketplace awards unreasonably excessive
+premiums to the valuation of corporate assets. A valuation bubble here
+and there has been always present, but that observation is not useful.
+This gets us back to the question whether one can arrive at the
+valuations of knowledge capital that are independent of any
+manic/depressive phenomena on the stock exchanges or the mumbo-jumbo
+of arbitrarily weighted multi-factor indicators. Professor Lev says
+that is possible, and I agree. However, we may have to sharpen our
+analytic methods to make the differences between theory and reality
+reproducible and verifiable. That's what the follow-on articles in
+this series will explore. </P>
+
+<hr> <font size=\"-1\">
+Paul Strassmann, formerly the Deputy Asst. Secretary of Defense
+and vice president of strategic planning for Xerox Corp., is the
+originator of the \"Information Productivity&reg;\", \"Return-On-Management&reg;\"
+and \"Knowledge Capital&reg;\" trademarked concepts. He is currently
+president of a publishing company and adjunct professor at two
+universities. 
+</FONT>";
+
+ $article = array ( 
+  title => "$title",
+  date => "$date",
+  pdate => "$pdate",
+  coverart => "$coverart",
+  subhead => "$subhead",
+  body => "$body");
+
+echo show_km_article ($article);
+
+?>

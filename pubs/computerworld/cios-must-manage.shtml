@@ -1,0 +1,278 @@
+<html>
+<head>
+        <title>CIOs Must Manage What's Left</title>
+	<meta NAME="date" CONTENT="2004-07-05">
+	<meta NAME="publicationDate" CONTENT="2004-07-05">
+	<meta NAME="description" CONTENT="Opinion: Paul A. Strassmann says that outsourcing has always been a favorite strategy of CFOs looking to cut costs and that IT should get used to it.">
+	<meta NAME="keywords" CONTENT="Advice/Opinion Outsourcing ">
+	<meta NAME="pagetype" CONTENT="printthis">
+	<meta NAME="headline" CONTENT="CIOs Must Manage What's Left">
+	<meta NAME="contenttype" CONTENT="">
+	<meta NAME="publisher" CONTENT="Computerworld Inc.">
+	<meta NAME="source" CONTENT="Computerworld">
+	<meta NAME="creator" CONTENT="Paul A. Strassmann">
+	<meta NAME="author" CONTENT="Paul A. Strassmann">
+	<meta NAME="copyright" CONTENT="Copyright (c) 2004 Computerworld Inc.  All Rights Reserved">
+	<meta NAME="rights" CONTENT="http://www.computerworld.com/cwi/subscriptions/privacy_policy/">
+	<meta NAME="language" CONTENT="eng">
+	<meta NAME="resource-type" CONTENT="document">
+	<meta NAME="robots" CONTENT="NOFOLLOW">
+	<meta NAME="rating" CONTENT="General">
+
+</head>
+
+<body bgcolor="white">
+
+<p>
+<p>
+<h2>CIOs Must Manage What's Left</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+July 5, 2004<p>
+
+
+<hr>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<p><font size="+2">I</font><font size="+1">f all your neighbors lose
+their jobs, you call that an economic recession. If you lose your job,
+you call it a depression.</font> The same reasoning seems to apply to
+the enormous attention that computer people are suddenly giving to
+outsourcing. The fact is that CFOs have always pushed for outsourcing
+everything associated with the cost of goods sold. What is different
+now is that CFOs have shifted their target and placed IT on the top of
+their list of functions that should be subjected to competitive
+pricing.</p>
+
+<p>Outsourcing is widely practiced with regard to factory labor and
+materials supplies, without distinction between domestic or foreign
+sources. It is labeled as "competitive purchasing,"
+"best value procurement" or "commercial off-the-shelf
+acquisitions" (in government). After 50 years of abnormal growth
+in the number of IT jobs, and after a period of above-average
+increases in compensation for IT people, CFOs are seeking lower
+overhead expenses. That's where IT is most vulnerable, because most of
+IT is an overhead burden.</p>
+
+<p>A squeeze on profits necessitates cost-cutting. When it comes to
+picking where to cut, why not select what has escaped pruning for at
+least 20 years? The CFOs - still nursing a grudge for having lost
+possession of IT - are happy to oblige [<A HREF="cfos.shtml">"IT Spending: The CFOs Strike Back"</A>]. </p>
+
+<p>The CFOs understand that corporations already purchase (e.g.,
+outsource) most of their costs, as shown in the pie chart below of
+median values for over 2,000 U.S. corporations.</p>
+
+<p></p>
+<center>
+
+<table border="0" cellpadding="1" cellspacing="0" width="275" bgcolor="#000000">
+<tr>
+<td bgcolor="black" align="center"><img src="1pixclear.gif" width="1" height="2"></td>
+</tr>
+<tr>
+<td bgcolor="black" valign="top">
+<table border="0" cellpadding="8" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+<tr>
+<td rowspan="3" bgcolor="#FFFFFF" valign="top"><b class="sections14">Slicing the Corporate Pie</b><br>
+
+<span class="leading"><br></span>
+<img src="cios-must-manage.gif" width="281" height="162" border="0"><br>
+<span class="leading"><br></span>
+<span class="textspackagegray">Source: Standard &amp; Poor's CompuStat database</span>
+</td></tr></table>
+</td></tr></table> 
+</center>
+
+<p>Given the high percentage already devoted to purchasing to gain a
+competitive cost advantage, the current outsourcing initiatives
+shouldn't come as a surprise. Offshore procurement would be a logical
+choice, since imports already account for 14% of the gross national
+product of the U.S. </p>
+
+<p><a name="chart">I have calculated "outsourcing ratios"
+(e.g., the ratio of purchases to revenues) for over 1,000 global
+companies (see chart below).</p>
+
+<p></p>
+
+<table border="0" cellpadding="1" cellspacing="0" width="375" bgcolor="#000000">
+
+<tr>
+<td bgcolor="black" align="center"><img src="/computerworld/images/1by1.gif" width="1" height="2"></td>
+</tr>
+
+<tr>
+<td bgcolor="black" valign="top">
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+
+<tr>
+<td rowspan="3" bgcolor="#FFFFFF" valign="top">
+
+<table border="0" cellpadding="3" cellspacing="2" width="100%" class="textssecondarysummary">
+
+<tr>
+<td valign="bottom" align="center" bgcolor="silver"><b>Company Name</b></td>
+<td valign="bottom" align="center" bgcolor="silver"><b>Sales</b></td>
+<td valign="bottom" align="center" bgcolor="silver"><b>Value Added</b></td>
+<td valign="bottom" align="center" bgcolor="silver"><b>Purchases</b></td>
+<td valign="bottom" align="center" bgcolor="silver"><b>Outsourcing Ratio</b></td>
+</tr>
+
+<tr>
+<td valign="top"><b>Royal Dutch/Shell</b></td>
+<td valign="top" align="center">179,431</td>
+<td valign="top" align="center">36,870</td>
+<td valign="top" align="center">142,561</td>
+<td valign="top" align="center">79%</td>
+</tr>
+
+<tr>
+<td valign="top" bgcolor="#dcdcdc"><b>Deutsche Bank</b></td>
+<td valign="top" align="center" bgcolor="#dcdcdc">57,816</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">8,255</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">49,561</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">86%</td>
+</tr>
+
+<tr>
+<td valign="top"><b>Volkswagen</b></td>
+<td valign="top" align="center">98,708</td>
+<td valign="top" align="center">26,273</td>
+<td valign="top" align="center">72,435</td>
+<td valign="top" align="center">73%</td>
+</tr>
+
+<tr>
+<td valign="top" bgcolor="#dcdcdc"><b>France Telecom</b></td>
+<td valign="top" align="center" bgcolor="#dcdcdc">48,892</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">-13,146</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">62,038</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">127%</td>
+</tr>
+
+<tr>
+<td valign="top"><b>CitiCorp</b></td>
+<td valign="top" align="center">65,874</td>
+<td valign="top" align="center">18,796</td>
+<td valign="top" align="center">47,078</td>
+<td valign="top" align="center">71%</td>
+</tr>
+
+<tr>
+<td valign="top" bgcolor="#dcdcdc"><b>Johnson &amp; Johnson</b></td>
+<td valign="top" align="center" bgcolor="#dcdcdc">36,298</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">19,532</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">16,766</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">46%</td>
+</tr>
+
+<tr>
+<td valign="top"><b>GlaxoSmithKline</b></td>
+<td valign="top" align="center">34,261</td>
+<td valign="top" align="center">17,151</td>
+<td valign="top" align="center">17,111</td>
+<td valign="top" align="center">50%</td>
+</tr>
+
+<tr>
+<td valign="top" bgcolor="#dcdcdc"><b>Unilever</b></td>
+<td valign="top" align="center" bgcolor="#dcdcdc">50,611</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">14,646</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">35,965</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">71%</td>
+</tr>
+<tr>
+<td valign="top"><b>Siemens</b></td>
+<td valign="top" align="center">82,999</td>
+<td valign="top" align="center">35,922</td>
+<td valign="top" align="center">47,077</td>
+<td valign="top" align="center">57%</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#dcdcdc"><b>General Moters</b></td>
+<td valign="top" align="center" bgcolor="#dcdcdc">184,214</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">46,660</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">137,554</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">75%</td>
+</tr>
+<tr>
+<td valign="top"><b>DaimlerChrysler</b></td>
+<td valign="top" align="center">156,838</td>
+<td valign="top" align="center">51,113</td>
+<td valign="top" align="center">105,724</td>
+<td valign="top" align="center">67%</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#dcdcdc"><b>Nestle SA</b></td>
+<td valign="top" align="center" bgcolor="#dcdcdc">64,455</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">23,017</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">41,438</td>
+<td valign="top" align="center" bgcolor="#dcdcdc">64%</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p></p>
+
+<p>As a rule, I find that diversified multinational
+corporations - already engaged in global commerce - show higher
+outsourcing ratios than smaller firms. Therefore, one can expect an
+acceleration in the awarding of outsourcing contracts in $100 million
+increments. The primary purpose of such contracts is to take over the
+job of migrating the obsolete client/server architectures to
+network-based data-centric designs. As I previously noted in
+<i>Computerworld</i> [<A HREF=curse.shtml>"The Curse of IT
+Infrastructure"</A>], such outsourcing would pass on to vendors the
+technology risks for fixing the creaky and unaffordable computing
+infrastructures.</p>
+
+<p>Sensational headlines notwithstanding, the CFOs fully comprehend
+that IT does matter! IT median costs now equal median corporate
+profits. They are not a mere 3% of revenues but 13% of overhead (e.g.,
+transaction costs), which is nowadays the principal cause of eroding
+corporate profits. </p>
+
+<p>In about a quarter of companies, IT constitutes the largest cost
+center and therefore will get intense attention in budget reviews. In
+this environment, asking for massive reductions in IT spending will
+always be a politically popular move - except that IT innovation
+has now become a strategic necessity. Without injections of new sums
+of money, we won't be able to free companies from 50 years of emphasis
+on intracompany information processing and start moving toward a
+future that mandates global interoperability with vendors and
+customers.</p>
+
+<p>Whether refocusing your firm's IT infrastructure results in a
+bleeding amputation or in simple outpatient surgery depends on your
+information architecture. If you have built up your infrastructures
+separately for each organization, invested in isolated client/server
+farms, depend on desktop-centric applications for too many
+applications or do not have a companywide data dictionary, you will
+need to remedy your conditions prior to passing on your IT
+infrastructure to the outsourcers with the most attractive bids. </p>
+
+<p>The CFO will always show reasons for outsourcing to reduce
+costs. The job of the CIO after outsourcing more than three quarters
+of IT spending is to manage risks and preserve those parts of the IT
+organization that are the essential core competency for safeguarding
+future prosperity. </p>
+
+<p><i>Paul A. Strassmann (<A
+HREF="mailto:paul@strassmann.com">paul@strassmann.com</A>) finds that
+much of the organizational conflict associated with outsourcing
+reflects a neglect in anticipating the inevitable.</i></p>
+
+</td></tr> </table>
+
+<!--#include file="cw2004-footer.shtml"-->

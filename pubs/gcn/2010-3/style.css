@@ -1,0 +1,145 @@
+/* 1105Media stylesheets
+-------------------------------*/
+
+/* reset margins / paddings */
+@import url("initial.css");
+
+/* layout */
+@import url("layout.css");
+
+/* components */
+@import url("components.css");
+
+/* tabs */
+@import url("tabs.css");
+
+/* topnav */
+@import url("topnav_multi.css");
+
+/* sidenav */
+@import url("sidenav_multi.css");
+
+/* editor */
+@import url("editor.css");
+
+/* homepage slides */
+@import url("contentslider.css");
+
+
+/* customstyles */
+@import url("customstyles.css");
+
+
+#sContent .homerightbox .storybody .story p {
+	padding-left: 5px;
+}
+
+/* homecboxnoborder
+-------------------------------*/
+#pContent .homecboxnoborder {
+	margin-top: 0;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 5px;
+	clear: both;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+* html #pContent .homecboxnoborder {/*IE6*/
+	height: 1%;
+}
+*+ html #pContent .homecboxnoborder {/*IE7*/
+	zoom: 1;
+}
+#pContent .homecboxnoborder img {
+	margin: 0 10px 10px 0;
+	padding: 3px;
+	border: 1px solid #666666;
+	float: left;
+}
+
+#pContent .homecboxnoborder h3 {
+	font-size: 15px;
+	color: #7D5500;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+#pContent .homecboxnoborder ul {
+	padding: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 2px;
+	margin-left: 0;
+}
+#pContent .homecboxnoborder li.featured {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	clear: none;
+}
+#pContent .homecboxnoborder li {
+	padding: 0;
+	font-weight: normal;
+	clear: both;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0px;
+}
+
+#pContent .homecboxnoborder li a{
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+#pContent .homecboxnoborder li a:hover{
+	color: #7D5500;
+	text-decoration: underline;
+}
+
+#pContent .homecboxnoborder li span {
+	margin: 0;
+	padding: 0 0 0 5px;
+	color: #005680;
+	font-size: 11px;
+	font-weight: bold;
+}
+#pContent .homecboxnoborder p.summary {
+	margin: 0;
+	color: #666666;
+	font-size: 11px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 8px;
+	padding-left: 0;
+	line-height: 1.6em;
+}
+#pContent .homecboxnoborder span.more {
+	margin: 0;
+	padding: 0 0 0 0px;
+	font-size: 11px;
+}
+#pContent .homecboxnoborder span.more a {
+	margin: 0;
+	padding: 0 0 2px 0px;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#pContent .homecboxnoborder p.footer {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+}

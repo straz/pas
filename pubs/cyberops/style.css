@@ -1,0 +1,80 @@
+@import url(http://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(http://fonts.googleapis.com/css?family=Oswald:700);
+
+/* @import url(http://fonts.googleapis.com/css?family=Russo+One);
+   @import url(http://fonts.googleapis.com/css?family=Black+Ops+One);
+   @import url(http://fonts.googleapis.com/css?family=Alfa+Slab+One); */
+
+body {
+ margin: 0px;
+ font-family: EB Garamond, serif;
+ font-size: 22px;
+ background-color: #444;
+}
+
+.head {
+  background-color: #444;
+  color: #CCC;
+  padding: 40px 0px;
+  width: 1040px;
+  height: 400px;
+  margin: 0px;
+}
+
+.head h1 {
+   font-family: Oswald;
+   font-size: 300%;
+   margin-left: 120px;
+   margin-bottom: 0px;
+}
+
+div.subH1 {
+   font-size: 150%;
+   margin-left: 120px;
+}
+
+h2 {
+   color: #444;
+}
+
+.leftcol {
+ background-color: #DDF;
+ padding: 40px 20px;
+ position: absolute;
+ top: 300px;
+ left: 100px;
+ width: 500px;
+ height: 2200px;
+ margin:0px;
+}
+
+.rightcol {
+ background-color: #CCF;
+ padding: 40px 20px;
+ position: absolute;
+ top: 300px;
+ left: 641px;
+ width: 500px;
+ height: 2200px;
+ margin: 0px;
+}
+
+.quote {
+ font-style: italic;
+}
+
+ol.classes li {
+ margin-bottom: 6px;
+}
+
+ul.contact {
+ list-style: none;
+}
+
+li.bio {
+ margin-bottom: 12px;
+}
+
+span.sc {
+  font-size: 70%;
+}

@@ -1,0 +1,150 @@
+<html>
+<!--Copyright ©1996 Strassmann, Inc. All rights reserved -->
+<head>
+<!-- -->
+<title>Software: So Bad, It Can Only Get Better</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p>
+<h2>Software: So Bad, It Can Only Get Better</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+December 9, 1996<br>
+<hr>
+
+<font size="+1">
+Software can easily rate among the most poorly constructed, unreliable
+and least maintainable technological artifacts ever invented by man --
+with perhaps the exception of Icarus' wings.</font><p>
+
+
+Nobody would tolerate telephones that crash every other day. Nobody
+would buy a house if taxes and upkeep were seven times the purchase
+price.  Nobody would acquire a microwave oven if it meant rewiring the
+entire house every time some other new appliance was plugged in.
+Absolutely nobody would spend a year's rent to replace all doors
+because somebody attached the hinges with only two screws instead of
+the required four.<p>
+
+Yet these are the analogies executives think of when systems developers
+explain why it's hard to implement an important new technology. No wonder
+executives become exasperated. No wonder they turn to vendors who can
+make  the software mess disappear from sight, whatever the cost and
+whether or not they fix what was wrong to begin with.<p>
+
+Still, the suffering goes on. There is always a champion who demands
+that IS develop a new computer application for coping with operating
+problems.  What champions and their followers don't understand is that
+applications become increasingly difficult to service over time as an
+unceasing stream of upgrades and what is loosely called
+``maintenance'' replaces what was previously constructed at great
+expense.<p>
+
+Software does not physically wear out. It is supposed to improve with use
+as errors are discovered, then corrected. Yet, software tends to
+degenerate much faster than any computer equipment - or any other
+consumer appliance or consumer good - because of its inherently poor
+characteristics.<p>
+
+<h3>Software Characteristics</h3>
+
+<font size="+1">Software becomes obsolete because programmers and vendors can't keep
+up with rapid change coming from many directions.</font><p>
+
+Here are some of the sources of disturbance:<p>
+
+<h4>Increasing Incompatibility</h4>
+
+There is the erosion in compatibility in the microprocessor
+architecture upon which all operating systems are constructed. The
+capacity to pack millions and soon billions of semiconductor elements
+on a silicon chip corrodes the foundation on which everything else is
+constructed. As hardware moves from an eight-bit processor to a 64-bit
+processor, all of the software must be adapted accordingly. As
+communication speeds quicken, the concept of what must be processed
+centrally and what can be handled locally undergoes radical change.
+The layers upon layers on which the useful applications rest are not
+bedrock, but continually shifting quicksand. No wonder what rests on
+top is prone to sudden collapse.<p>
+
+<h4>Creeping Featurism</h4>
+
+The software market, with its rapidly changing cast of suppliers, is a
+rat race fueled by generous advertising allowances, conventions,
+magazines and clever vendor tactics that support only the latest
+version of a software package. Under such conditions programmers have
+little incentive to create something of more than immediate use.<p>
+
+<h4>Unqualified Programmers</h4>
+
+Even though the market will deliver, in due course, operating system
+platforms that are more stable than what's out there at the time, it's
+unlikely that most programmers will have the incentives to program
+reliable applications unless management insists on and verifies them.
+Most of today's programming of business applications is not done by
+programming professionals. It is performed by amateurs whose
+competency has never been formally tested. Plumbers, beauticians and
+truck drivers are subjected to tougher certification standards than
+those who deliver most business applications. It is office workers who
+write applications for data management, financial analysis and
+report-retrieval.
+
+These amateur programmers are self-taught refugees from careers like
+accounting, chemistry or jazz.  They work on unreasonably short
+deadlines. They have at their disposal mediocre testing and
+integration tools. They report to ill-informed corporate bureaucrats
+who believe the advertising claims that writing significant
+applications is as easy as using a spreadsheet.<p>
+
+<h4>Short term-thinking</h4>
+
+The year 2000 bug is only one example of the short-sightedness of what
+some claim to be a professional occupation. A typical programmer makes
+hundreds of such myopic decisions. They just follow management's
+wishes for speedy completion and minimal expense. The only reason why
+the year 2000 bug has attracted so much attention is because it is
+ubiquitous and has a definite deadline when its effects will become
+universally observable. There are millions of other bugs just as
+negligent but they pop up randomly, one location at a time, most
+likely costing more than the $300 billion for the threatened collapse
+in 37 months.  <p>
+
+<h4>Tolerance of pain</h4>
+
+IS managers are willing to accept frequent systems crashes from
+software incompatibilities as a natural phenomenon. It's all a matter
+of conditioning. Businesspeople expect to get a dial tone from their
+phone 99.99% of the time. Most users of personal computers consider
+themselves lucky if their desired applications stay up for a week
+without some mishap. Conditioning to pain can make people tolerant to
+pain, even if they don't like it.<p>
+
+<h3>Prospects for recognizing total costs</h3>
+
+Though erosion in compatibility, creeping featurism, unqualified
+programmers and vendor incentives result in conditions that are
+wasteful and onerous, all of that must be corrected in due course.
+Competent management will accept damage to its business only if the
+effects are either insignificant, or if a remedy is unavailable. I'm
+confident that the current state of the software business will not be
+allowed to continue. The costs are not insignificant and in many cases
+represent a considerably greater percentage of corporate profits than
+before.<p>
+
+With regard to the remedies, I expect that sooner or later some vendor
+who seeks to gain an inordinate competitive advantage will start selling
+computer technologies that recognize the total costs of the customer's
+ownership instead of just the purchase price of what they sell.<p>
+
+Icarus' wings were said to be held together only with wax that ultimately
+melted. Yet, progress overcame even this improbable feat. The history of
+technology and competition proves us that quality, reliability and ease of
+use will always prevail.<p>
+
+In software's case, that's likely to happen soon. There are just too many
+businesses than can't keep up with wasting money on shoddy programming
+solutions.<p><p>
+
+<!--#include file="cw96-footer.shtml"-->

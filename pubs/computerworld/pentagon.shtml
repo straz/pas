@@ -1,0 +1,135 @@
+<html>
+<head>
+<title>Pentagon Devises Innovative IT Strategy</title>
+<meta NAME="date" CONTENT="2004-06-07">
+<meta NAME="publicationDate" CONTENT="2004-06-07">
+<meta NAME="description" CONTENT="Opinion: Paul A. Strassmann says the Defense Department has become a pioneer in IT systems architecture.">
+<meta NAME="keywords" CONTENT="advice, opinion, applications, data, management, government, it, in, government, defense, aerospace">
+<meta NAME="pagetype" CONTENT="defense">
+<meta NAME="headline" CONTENT="Pentagon Devises Innovative IT Strategy">
+<meta NAME="contenttype" CONTENT="Opinion">
+<meta NAME="publisher" CONTENT="Computerworld Inc.">
+<meta NAME="source" CONTENT="Computerworld">
+<meta NAME="creator" CONTENT="Paul A. Strassmann">
+<meta NAME="author" CONTENT="Paul A. Strassmann">
+<meta NAME="copyright" CONTENT="Copyright (c) 2004 Computerworld Inc.  All Rights Reserved">
+<meta NAME="rights" CONTENT="http://www.computerworld.com/cwi/subscriptions/privacy_policy/">
+<meta NAME="language" CONTENT="eng">
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="rating" CONTENT="General">
+</head>
+
+<body bgcolor="white">
+
+<p>
+<p>
+<h2>Pentagon Devises Innovative IT Strategy</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+June 7, 2004<p>
+
+
+<hr>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">I</font><font size="+1">n a talk in March, John
+Chambers, the knowledgeable CEO of Cisco Systems, noted that the
+U.S. Department of Defense is emerging as a pioneer in systems
+architectures.</font> The DOD has become an innovator in supporting
+real-time responsiveness across an enterprise.<P>
+
+Noteworthy is the technology guidance from Deputy Secretary of Defense
+Paul Wolfowitz and the just-retired DOD CIO John Stenbit. They
+proposed strategies to cope with the war on terrorism as the DOD finds
+itself saddled with a computing and telecommunications infrastructure
+that consumes over half of the department's IT resources [<A
+HREF="curse.shtml">"The Curse of IT Infrastructure"</A>]. The
+DOD doesn't have sufficient capabilities to meet rising operational
+requirements. Just about all of its assets are mortgaged to keep the
+existing systems running. Only a radical transformation, now defined
+as the Global Information Grid (GIG), can offer a viable way to
+achieve real-time interoperability among defense systems.<P>
+
+Suppliers and contractors are replacing obsolete technologies with
+lower-cost products and services, but that won't yield sufficient
+funds to pay for urgently needed innovations. There isn't enough time
+to gradually swap old technologies for new ones, as has been the
+practice for half a century. New needs can be satisfied only by speedy
+changes in the ways systems are designed and operated.<P>
+
+The DOD is stuck with the fixed costs to support well over $1 trillion
+worth of accumulation from mainframe- and desktop-centric
+acquisitions. To escape that bondage and confront rapidly rising
+threats to our security, the DOD has come up with an architecture that
+meets the new requirements at materially lower costs. It's an
+architecture that makes it possible to migrate rapidly without the
+resulting chaos seen in the efforts to modernize information systems
+for the Navy and the Marine Corps.<P>
+
+The objective of the GIG is to move all DOD applications from the
+current broadcast, point-to-point and interapplication communications
+to a virtual and secure, enterprisewide ultrawideband bus. It's based
+on the operating doctrine of "posting information and knowledge for
+real-time availability" by means of "universal data-element-level
+interoperability." This is quite a mouthful, but it means that the GIG
+will (1) support the entry of data to readily accessible files as
+early as possible, and preferably at the point of origin; (2) provide
+users with the improved capability to pull whatever data they need,
+whenever they need it; and (3) ensure that information security
+measures are applied at every point of entry and exit from the GIG.<P>
+
+The central capability of the GIG will be to deliver Six Sigma-quality
+secure messaging, collaboration, services management, content
+assurance, knowledge discovery and enterprisewide archiving
+services. The GIG will provide visibility, access and delivery of
+information services to all of the DOD as well as to others engaged in
+national security. It will enable authorized and individually
+authenticated persons to search the networks for information
+services.<P>
+
+The GIG represents a fundamental shift to a service-oriented view of what an information infrastructure must make feasible. It requires a dedicated and fully assured network environment, populated with information that's readily available, secure, reliable and scalable on demand - not just as specified in budget estimates. To the extent possible, the GIG will use existing applications via standard middleware gateways for eventual migration of all information assets into the GIG architecture.<P>
+
+The Pentagon accumulated incompatible hardware and noninteroperable
+software because it relied on obsolete assumptions about technology
+acquisitions. To save money as it moves to its GIG architecture, the
+DOD must take a new approach that involves the following steps:<P>
+
+<UL><LI>Substitute communications bandwidth for computing hardware.</LI><P>
+
+<LI>Rely on standardized data in lieu of costly integration of unique
+data. All data will have associated metadata to help users discover
+the utility of shared data.</LI><P>
+
+<LI>Replace wired networks with wireless connectivity.</LI><P>
+
+<LI>Eliminate application-specific architectures for enterprisewide
+grid systems.</LI><P>
+
+<LI>Eliminate on-site support for fixing hardware and software by
+using preventive remote diagnostics.</LI><P>
+
+<LI>Apply middleware interfaces to deal with nonstandard data
+definitions.</LI><P>
+
+<LI>Implement perimeter security instead of relying on local
+security.</LI></UL><P>
+
+The GIG architecture is a breakthrough in thinking about all
+information infrastructures. It's worthy of consideration by every
+CIO, whether in business or in government. The development of the GIG
+warrants watching because it's based on an approach that applies to
+all who depend on information superiority to compete.<p>
+
+<b>Paul A. Strassmann</b> (<A
+HREF="mailto:paul@strassmann.com">paul@strassmann.com</A>) <i>once
+served as the director of Defense Information. The GIG plans -- at
+least on paper -- look like dreams that ought to come true.</i>
+
+</td></tr> </table>
+
+<!--#include file="cw2004-footer.shtml"-->
+

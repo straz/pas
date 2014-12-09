@@ -1,0 +1,475 @@
+/*   STSC website stylesheet   */ 
+/*   updated 24 July 2002 by Marie Chen, Design Matters   */ 
+
+/*    Colors   
+.rule {#FF9933}
+.white {#FFFFFF}
+.dropDownPad { #CCCCFF }
+.dropDownHighlight {#663399 }
+.dropDownBorder { #9966CC }
+*/
+
+@page {
+	margin-left: 0.25in;
+	margin-right: 0.25in; 
+}
+
+/*   HTML Elements    */ 
+
+body {
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 11px; 
+	font-weight: normal;
+	margin-top : 0px;
+	margin-left : 0px;
+}
+
+table {
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	border: 0px;
+}
+
+th {
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+}
+
+td {
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-size: 11px;
+}
+
+ul {
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-size: 11px;
+}
+ 
+ol {
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-size: 11px;
+}
+li {
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-size: 11px;
+}
+li sup {
+	font-size: 9px;
+}
+hr {
+	color: #330066;
+	height: 1px;
+}
+
+a:link {
+	color: #330066;
+}   
+a:visited {
+	color: #330066;
+}    
+a:active {
+	color: #330066;
+}
+a:hover {
+	color: #CC6600;
+	text-decoration: underline;
+}
+
+em {
+	/*bold  text non italics*/
+	font-style: normal;
+	font-weight: bold;
+}
+
+p {
+	margin-top: 0px;
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-size: 11px;
+}
+p sup {
+	font-size: 9px;
+}
+
+bio {
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	font-size: 11px;
+}
+
+/*   Classes    */ 
+
+.bodyText {
+/*body text for home and secondary pages */
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 14px;
+}
+
+.title {
+/* title of a page */
+	color: #330066;
+	font-family: Arial, sans-serif, Verdana, Helvetica; 
+	font-size: 20px; 
+	font-weight: bold;
+	line-height: 120%; 
+}
+
+.titleSpace {
+/* vertical space immediately after title of a page */ 
+	font-size: 7px; 
+	line-height: 100%;
+}
+
+.subtitle {
+/* title within body text paragraphs */
+	color: #330066;
+	font-family: Arial, sans-serif, Verdana, Helvetica; 
+	font-size: 16px; 
+	font-weight: bold;
+}
+
+.footer {
+/* footer text */
+	color: #666666;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 10px; 
+}
+.footer a:link {
+	color: #666666;
+}   
+.footer a:visited {
+	color: #666666;
+}    
+
+.breadCrumb {
+/* breadcrumb text */
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	color: #330066;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 16px;
+}
+.breadCrumb a:link {
+	color: #330066;
+}   
+.breadCrumb a:visited {
+	color: #330066;
+}    
+
+
+.dropDownText {
+/* text for drop down menus */
+	border-color: #9966CC;
+	background-color: #ccccff;
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 14px; 
+	font-weight: normal;
+}
+
+.dropDownTextSel {
+/* selected text for drop down menus */
+	border-color: #9966CC;
+	background-color: #663399;
+	color: #ffffff;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 14px; 
+	font-weight: normal;
+}
+
+.searchPageBox {
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 10px;
+	width: 350px; 
+}
+
+.searchPageSelect {
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 10px;
+	width: 115px;
+}
+
+.rule {
+	background-color: #FF9933;
+}
+/* This is only for IE and Netscape 6.2 to avoid wrapping for netscape 4.75 */
+/*/*/a{}
+
+.searchBox {
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 10px;
+	width: 115px; 
+}
+
+/* */
+
+.searchSelect {
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 10px;
+	width: 115px;
+}
+
+.stdTable {
+	width: 771px;
+	max-width: 771px;
+}
+
+.promo {
+/* Back ground for promotions */
+	background-color: #ccccff;
+}
+
+#promo {
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #000000;
+	width: 100%;
+	background: #ccccff;
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 11px;
+}
+
+.articleTitle {
+	line-height: 19px;
+}
+
+.leftNav {
+	background-color: #886aa7;
+}
+
+.featureTitle {
+	color: #986838;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 16px;
+}
+
+.featureTitleDate {
+	color: #c86808;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 16px;
+}
+
+/* CrossTalk styles... */
+
+.ctAbstract {
+	color: #663333;
+	font-style: italic;
+	border-right: 0px;
+	padding: 0 50px;
+	width: 500px;
+}
+
+.ctArticleAuthor {
+	color: #663399;
+	font-style: italic;
+}
+
+.ctArticleGroup {
+	color: #96340e;
+	font-family: Arial,sans-serif; 
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.ctArticleSubGroup {
+	color: #96340e;
+	font-family: Arial,sans-serif; 
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.ctArticleSubSubGroup {
+	color: #330066;
+	font-family: Arial,sans-serif; 
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.ctArticleTitle {
+	color: #330066;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.ctAuthor {
+	font-weight: bold;
+	font-style: normal;
+}
+
+.ctCaption {
+	font-style: italic;
+}
+
+.ctCoverImage {
+	border-color: #000000;
+	}
+
+.ctFootnote {
+	font-style: italic;
+	font-size: 10px;
+}
+
+#ctInsetBox {
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #000000;
+	width: 100%;
+	background: #ccccff;
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 11px;
+}
+
+#ctInsetBox h1 {
+	font-size: 18px;
+	text-align: center;
+}
+
+.ctInsetBox {
+	background-color: #ccccff;
+}
+.ctInsetBox td {
+	background-color: #ccccff;
+	padding: 2px 8px;
+}
+.ctInsetBox th {
+	background-color: #ccccff;
+	margin: 0px;
+	padding: 2px 8px;
+	color: #330099;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+
+.ctIssue {
+	color: #000066;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.ctMonthTitle {
+	font-family: Arial,sans-serif; 
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #666699;
+	letter-spacing : 3px;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+
+.ctPdf {
+	color: #000000;
+}
+
+.ctSearch {
+/* Background for Crosstalk Issues Search */
+	background-color: #666699;
+}
+
+.ctSectionTitle {
+	color: #330099;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.ctSubsectionTitle {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	color: #330066;
+}
+
+.ctsubSubsectionTitle {
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Verdana,Helvetica,Arial,sans-serif;
+	color: #330066;
+}
+
+.leftSubnav {
+	background-color: #663399;
+	color: #ffffff;
+}
+.leftSubnav a:link {
+	color: #ffffff;
+}
+.leftSubnav a:visited {
+	color: #ffffff;
+}
+.leftSubnav a:active {
+	color: #ffffff;
+}
+.leftSubnav td {
+	color: #ffffff;
+}
+
+.columnHead {
+/* background for column headings */
+	border-color: #ffffff;
+	background-color: #ccccff;
+	color: #330066;
+	font-family: Verdana,Helvetica,Arial,sans-serif; 
+	font-size: 11px; 
+	font-weight: bold;
+}
+
+.requiredField {
+	color: #ff0000;
+}
+
+.fieldPrompt {
+	font-weight: bold;
+}
+
+.error404 {
+	background-color: #ccccff;
+}
+.error404 td {
+	background-color: #ccccff;
+	padding: 2px 8px;
+}
+.error404 th {
+	background-color: #ccccff;
+	margin: 0px;
+	padding: 2px 8px;
+	color: #330099;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial;
+}
+.error404 a:link {
+	color: #96340e;
+}   
+.error404 a:visited {
+	color: #96340e;
+}    
+.error404 a:active {
+	color: #96340e;
+}
+.error404 a:hover {
+	color: #CC6600;
+	text-decoration: underline;
+}
+
+
+.siteMap {
+/* Back ground for promotions */
+	background-color : #ccccff;
+}
+
+.siteMapRule {
+/* Back ground for promotions */
+	background-color :#9966cc;	
+}

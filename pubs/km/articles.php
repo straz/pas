@@ -1,0 +1,57 @@
+<?php
+
+$articles = array ( 
+		   
+   array("1999-4", "", "April, 1999",
+	 "What's the Key to Implementing Knowledge Management?"),
+
+    array("1999-9", "valuation.php",
+          "September, 1999", 
+          "Does Knowledge Capital Explain Market/Book Valuations?"),
+    array("1999-10", "calc-km.php",
+          "October, 1999",
+	  "Calculating Knowledge Capital"),
+    array("1999-11", "tickertape.php",
+          "November, 1999",
+	  "Knowledge Metrics-Ticker-Tape Charade"),
+    array("1999-12", "emp-worth.php",
+	  "December, 1999",
+	  "What's the Worth of an Employee?"),
+    array("2000-1", "spendinvest.php",
+	  "January, 2000", "When Spending is Investing"),
+    array("2000-2", "knowlege-efficiency.php",
+	  "February, 2000", "Accumulating Knowledge Efficiency"),
+    array("2000-3a", "importance2.php",
+	  "March, 2000", "Sidebar: Winners and Losers"),
+    array("2000-3", "importance.php",
+	  "March, 2000", "The Importance of Knowledge Capital"),
+    array("2000-4", "devourweb.php",
+	  "April, 2000", "The Knowledge-Devouring Web"),
+    array("2000-5", "knowledgepower.php",
+	  "May, 2000", "Knowledge Power in the Cyber-Economy"),
+    array("2000-6", "globalpower.php",
+	  "June, 2000", "Global Knowledge Power"),
+    array("2000-7", "",
+	  "July, 2000", "Prices, Finances and Knowledge Capital"),
+    array("2000-8", "expecttoomuch.php",
+	  "August, 2000", "Expecting Too Much of Knowledge"),
+    array("2000-10", "intelligence-q.php",
+	  "October, 2000", "Intelligence in Question"),
+    array("2000-11", "",
+	  "November, 2000", "How E-Business Affects Knowledge Capital"),
+    array("2001-1", "",
+	  "January, 2001", "Bending the Numbers"),
+    array("2001-2", "",
+	  "February, 2001", "How to Value Information Security Risks"),
+    array("2001-3", "",
+	  "March, 2001", "Prophecies Don't Serve Knowledge Capital"),
+    array("2001-4", "",
+	  "April, 2001", "KM, IT and Organizational Capital"),
+    array("2001-5", "",
+	  "May, 2001", "Personal Capitalists"),
+    array("2001-6", "",
+	  "June, 2001", "R&amp;D and Knowledge")
+    );
+
+
+?>

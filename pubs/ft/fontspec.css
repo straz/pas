@@ -1,0 +1,183 @@
+UL {
+	LIST-STYLE: square outside
+}
+.all {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px
+}
+.allBold {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.allRed {
+	COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.allGreen {
+	COLOR: #006600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.allBlue {
+	COLOR: #3300ff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.allWide {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.allWideRed {
+	COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.allGold {
+	COLOR: #996600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.smallRed {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.smallPurple {
+	COLOR: #660066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.footer {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.footerWhite {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.headline {
+	COLOR: #996600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.bigCrumb {
+	COLOR: #330033; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.bigCrumbhp {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.redLink {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.purpleLink {
+	COLOR: #660066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.yellowLink {
+	COLOR: #996600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.yellowLinkSm {
+	COLOR: #996600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.bigHeadline {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.midHeadline {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px
+}
+.Headlinehp {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.boxHeader {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.boxHeaderGold {
+	COLOR: #996600; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+SELECT {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.link {
+	COLOR: #330033; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px
+}
+.footerNav {
+	COLOR: #996600; FONT-FAMILY: verdana, Arial, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; LETTER-SPACING: -1px; TEXT-DECORATION: none
+}
+.homeBrown {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.hdrBrown {
+	COLOR: #660000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11px; LETTER-SPACING: -1px
+}
+.toolbarLinks1 {
+	COLOR: #330000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.toolbarLinks2 {
+	COLOR: #330000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+.toolbarLinks3 {
+	COLOR: #330000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.smallHeadline {
+	COLOR: #330000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.selectMenuLhn {
+	WIDTH: 131px
+}
+.selectMenuRhn {
+	WIDTH: 136px
+}
+.smallBurgundy {
+	COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.formHide {
+	VISIBILITY: hidden
+}
+.formHide2 {
+	VISIBILITY: visible
+}
+.ftcpNav {
+	BACKGROUND-COLOR: #ffffff; LEFT: 160px; POSITION: absolute; TOP: 225px; WIDTH: 447px; layer-background-color: #ffffff
+}
+.ftcpMyDiv {
+	LEFT: 160px; POSITION: absolute; TOP: 385px; WIDTH: 614px
+}
+.allTitle {
+	COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.topleftad {
+	LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+.leftmid {
+	LEFT: 6px; POSITION: absolute; TOP: 65px
+}
+.logo {
+	LEFT: 156px; POSITION: absolute; TOP: 0px
+}
+.banad {
+	LEFT: 306px; POSITION: absolute; TOP: 0px
+}
+.searchbg {
+	LEFT: 319px; POSITION: absolute; TOP: 70px
+}
+.search {
+	LEFT: 407px; POSITION: absolute; TOP: 70px
+}
+.searchBadMacIE {
+	LEFT: 407px; POSITION: absolute; TOP: 58px
+}
+.searchns6 {
+	LEFT: 410px; POSITION: absolute; TOP: 70px
+}
+.nav {
+	LEFT: 320px; POSITION: absolute; TOP: 115px
+}
+.reghp {
+	LEFT: 6px; POSITION: absolute; TOP: 100px
+}
+.date {
+	LEFT: 6px; POSITION: absolute; TOP: 80px
+}
+.logoLoRes {
+	LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+.banadLoRes {
+	LEFT: 150px; POSITION: absolute; TOP: 0px; WIDTH: 470px
+}
+.shadeLoRes {
+	LEFT: 150px; POSITION: absolute; TOP: 61px
+}
+.searchbgLoRes {
+	LEFT: 170px; POSITION: absolute; TOP: 74px
+}
+.searchLoRes {
+	LEFT: 266px; POSITION: relative; TOP: 74px
+}
+.searchns6LoRes {
+	LEFT: 258px; POSITION: absolute; TOP: 74px
+}
+.navLoRes {
+	LEFT: 170px; POSITION: absolute; TOP: 112px
+}
+.reghpLoRes {
+	LEFT: 5px; POSITION: absolute; TOP: 114px
+}

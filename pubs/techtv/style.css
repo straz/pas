@@ -1,0 +1,217 @@
+/* for messageboards */
+
+td#general {font-family:arial,helvetica,sanserif; font-size:13px; color: #000000;}
+td#message {font-family:arial,helvetica,sanserif; font-size:13px; color: #000000;}
+
+/* default */
+
+td {font-family:arial,helvetica,sanserif; font-size: 11px; color: #000000;}
+
+/* headers */
+
+.header-large {font-family:arial,helvetica,sanserif; font-size: x-small}
+.header-med {font-family:arial,helvetica,sanserif; font-size: x-small}
+.header-link {font-family:arial,helvetica,sanserif; font-size: x-small; line-height: 1.2em; font-weight: bold;}
+.header-blue {font-family:arial,helvetica,sanserif; font-size: 11px; color:#ffffff; font-weight: bold}
+.header-grey {font-family:arial,helvetica,sanserif; font-size:11px; color:#333333; font-weight: bold}
+.header-buy {font-family:arial,helvetica,sanserif; font-size:11px; color:#ffffff}
+.header-story{ font-family:arial,helvetica,sanserif; font-size:20px; color:#003366}
+.subhead-story {font-family:arial,helvetica,sanserif; font-size:18px; color:#333333}
+.topic {font-family:arial,helvetica,sanserif; font-size:15px; color:#333333}
+.headline {font-family:arial,helvetica,sanserif; font-size:15px; color:#cc0000}
+
+/* text */
+
+.content {font-family:arial,helvetica,sanserif; font-size:  color:#333333}
+.content-wocolor {font-family:arial,helvetica,sanserif; font-size:}
+.content-nav {font-family:arial,helvetica,sanserif; font-size: color:#003366}
+.list-small {font-family:arial,helvetica,sanserif; font-size:11px}
+.navfont {font-family:arial,helvetica,sanserif; font-size:9px;}
+.bottomnavfont {font-family:arial,helvetica,sanserif; font-size:10px;}
+.sub-nav {font-family:arial,helvetica,sanserif; font-size:11px; color:#003366}
+.smallest {font-family:arial,helvetica,sanserif; font-size:11px}
+.footer {font-family:arial,helvetica,sanserif; font-size:11px}
+.ad-text {font-family:arial,helvetica,sanserif; font-size:11px; color:#99c0e6; letter-spacing:1px}
+
+/* text color */
+
+.banner {color:#99ccff}
+.topnav {color:#ffffff}
+.red {color:#cc0000}
+.blue {color:#336699}
+.grey {color:#666666}
+
+/* forms */
+
+.search {height:20px; font-family:arial,helvetica,sanserif; font-size:11px}
+
+/* text layout */
+
+.indent {margin-left:12px}
+.indent-more {margin-left:30px}
+#line {width:100%; border:solid #cc0000; border-left:0px; border-right:0px; border-top:0px; border-bottom:1px}
+
+/* borders */
+
+/* layer attributes */
+
+#nav {position: absolute; top: 186px; left: 10px; z-index:1}
+#tlnav {position: absolute; top: 187px; left: 16px; z-index:1}
+#msnav  {position: absolute; top: 186px; left: 5px; z-index:1}
+
+body {
+scrollbar-face-color: #99c0e6;
+scrollbar-shadow-color: #dceaf4; 
+scrollbar-highlight-color: #dceaf4; 
+scrollbar-3dlight-color: #99c0e6; 
+scrollbar-darkshadow-color: #dceaf4; 
+scrollbar-track-color: #dceaf4; 
+scrollbar-arrow-color: #003366;
+}
+
+/* box borders */
+
+.greybox {width: 150; border: 1px solid #eeeeee; margin: 0px;}
+.bluebox {width: 150; border: 1px solid #336699; margin: 0px;}
+.litebluebox {width: 150; border: 1px solid #99c0e6; margin: 0px;}
+
+#titlefield {border: solid #336699; border-left-width: 1px; border-right-width: 1px; border-top-width: 0px; border-bottom-width: 0px; margin: 0px; padding: 1px;}
+
+/* for the navigation */
+
+.TVMenu {
+	position: absolute; 
+	border: 0px solid; 
+	background-color: #000066; 
+	layer-background-color: #000066; 
+	visibility: hidden; 
+	top: 197 px;
+	left: 161 px;
+}
+.HomeTVMenu {
+	position: absolute; 
+	border: 0px solid; 
+	background-color: #000066; 
+	layer-background-color: #000066; 
+	visibility: hidden; 
+	top: 135 px;
+	left: 161 px;
+}
+.TLTVMenu {
+	position: absolute; 
+	border: 0px solid; 
+	background-color: #000066; 
+	layer-background-color: #000066; 
+	visibility: hidden; 
+	top: 205 px;
+	left: 167 px;
+}
+#onenav {left: 0}
+#twonav {position: absolute;}
+
+.flyoutLink a#subnav {
+	color: #ffffff;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+	cursor: hand; 
+}
+.flyoutLink a#onsubnav  {
+	color:#ffffff; text-decoration:none; 
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+	cursor: hand; 
+}
+.flyoutLink a#subnav:hover {
+	color: #ffffff;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+	cursor: hand; 
+}
+.flyoutLink a:visited {
+	color: color:#ffffff;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+	cursor: hand; 
+}
+
+
+a.home  {
+	padding-right: 106px;	
+}
+a.tvshows  {
+	padding-right: 9px;
+}
+a.technews  {
+	padding-right: 77px;
+}
+a.productsreviews  {
+	padding-right: 26px;
+}
+a.helphowto  {
+	padding-right: 59px;
+}
+a.businessmoney  {
+	padding-right: 40px;
+}
+a.entertainment  {
+	padding-right: 56px;
+}
+a.interact  {
+	padding-right: 99px;
+}
+a.videoaudio  {
+	padding-right: 69px;
+}
+a.shopping  {
+	padding-right: 88px;
+}
+a.audiofile  {
+	padding-right: 74px;
+}
+a.bigthinkers  {
+	padding-right: 59px;
+
+}
+a.callforhelp  {
+	padding-right: 60px;
+}
+a.cybercrime  {
+	padding-right: 63px;
+}
+a.dash  {
+	padding-right:95px;
+}
+a.extendedplay  {
+	padding-right: 50px;
+}
+a.freshgear  {
+	padding-right: 65px;
+}
+a.screensavers  {
+	padding-right: 26px;
+}
+a.siliconspin  {
+	padding-right: 61px;
+}
+a.techlive  {
+	padding-right: 72px;
+}
+a.techtvnews  {
+	padding-right: 54px;
+}
+a.titansoftech  {
+	padding-right: 53px;
+}
+a.tomorrowsworld  {
+	padding-right: 34px;
+}
+a.schedule  {
+	padding-right: 38px;
+}

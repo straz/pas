@@ -1,0 +1,195 @@
+<html>
+<head>
+<title>New Weapons of Information Warfare</title>
+	<meta NAME="date" CONTENT="2003-12-01">
+	<meta NAME="publicationDate" CONTENT="2003-12-01">
+	<meta NAME="description" CONTENT="Opinion: Paul A. Strassmann says security threats are the flip side of the potential of self-adapting software.">
+	<meta NAME="keywords" CONTENT="it, management, leadership">
+	<meta NAME="pagetype" CONTENT="security">
+	<meta NAME="headline" CONTENT="New Weapons of Information Warfare">
+	<meta NAME="contenttype" CONTENT="Opinion">
+	<meta NAME="publisher" CONTENT="Computerworld Inc.">
+	<meta NAME="source" CONTENT="Computerworld">
+	<meta NAME="creator" CONTENT="Paul A. Strassmann">
+	<meta NAME="author" CONTENT="Paul A. Strassmann">
+	<meta NAME="copyright" CONTENT="Copyright (c) 2003 Computerworld Inc.  All Rights Reserved">
+	<meta NAME="rights" CONTENT="http://www.computerworld.com/cwi/subscriptions/privacy_policy/">
+	<meta NAME="language" CONTENT="eng">
+	<meta NAME="resource-type" CONTENT="document">
+	<meta NAME="rating" CONTENT="General">
+</head>
+<body bgcolor="white">
+
+<p>
+<p>
+<h2>New Weapons of Information Warfare</h2>
+
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+December 1, 2003<p>
+
+
+<hr>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">T</font><font size="+1">he October issue of
+<i>Communications of the ACM</i> featured papers about future robots
+capable of performing self-organizing tasks.</font> The authors showed how
+acceleration in the processing power of computers means that machines
+could soon reach the capabilities of living creatures, at an
+affordable cost.
+
+<P>The table below, from the Association for Computing Machinery
+article, shows the "computing" capacity of organisms and illustrates
+when commercial computers had or are expected to have equivalent
+processing power.
+
+<P>Instead of thinking about the rising potential for robotic
+machines, it occurred to me that software with the intelligence of a
+mouse or a monkey would have the frightening capacity to launch a new
+form of network-based warfare.
+
+<P><hideag><table cellpadding="1" cellspacing="0" width="400" bgcolor="black">
+ <tr>
+     <td bgcolor="black" align="center"><span class="textssecondarysummary"><font color="white"><b>Processing Power Accelerates</b></font></span></td></tr>
+ <tr>
+     <td bgcolor="black" valign="top"><table cellpadding="4" cellspacing="0" width="100%" bgcolor="#c64731">
+ <tr>
+     <td rowspan="3" bgcolor="white" valign="top"><table cellpadding="2" cellspacing="2" width="100%"><span class="textssecondarysummary">
+ <tr>
+     <td valign="top" align="center" bgcolor="#cccc00" width="16%"><b>ORGANISM</b></td>
+     <td valign="top" align="center" bgcolor="#cccc00" width="16%"><b>NUMBER OF NEURONS</b></td>
+     <td valign="top" align="center" bgcolor="#cccc00" width="16%"><b>EQUIVAL</b><b>ENT MIPS</b></td>
+     <td valign="top" align="center" bgcolor="#cccc00" width="16%"><b>COMPUTER PROCESSING AVAILABLE</b></td>
+     <td valign="top" align="center" bgcolor="#cccc00" width="16%"><b>MIPS/$1,000</b></td>
+     <td valign="top" align="center" bgcolor="#cccc00" width="16%"><b>COMPUTING COSTS</b></td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Bacterium</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1</td>
+     <td bgcolor="#cccccc" align="center" width="16%">0.001</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1975</td>
+     <td bgcolor="#cccccc" align="center" width="16%">0.001</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$1,000</td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Worm</td>
+     <td bgcolor="#cccccc" align="center" width="16%">300</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1990</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$1,000</td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Guppy</td>
+     <td bgcolor="#cccccc" align="center" width="16%">100,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">100</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1996</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$100</td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Lizard</td>
+     <td bgcolor="#cccccc" align="center" width="16%">2,000,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">10,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">2000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">10,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$1,000</td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Mouse</td>
+     <td bgcolor="#cccccc" align="center" width="16%">60,000,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">100,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">2005 - 2010</td>
+     <td bgcolor="#cccccc" align="center" width="16%">100,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$1,000</td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Monkey</td>
+     <td bgcolor="#cccccc" align="center" width="16%">3 billion</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1,000,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">2010 - 2020</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1 million</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$1,000</td></tr>
+ <tr>
+     <td bgcolor="#ffff33" align="center" width="16%">Human</td>
+     <td bgcolor="#cccccc" align="center" width="16%">100 billion </td>
+     <td bgcolor="#cccccc" align="center" width="16%">100,000,000</td>
+     <td bgcolor="#cccccc" align="center" width="16%">2020 - beyond</td>
+     <td bgcolor="#cccccc" align="center" width="16%">1 billion</td>
+     <td bgcolor="#cccccc" align="center" width="16%">$100</td></tr></span></table></td></tr></table></td></tr></table></hideag>
+
+
+
+<P>So far, our approach to securing information networks has been
+static. The attackers write clever code that's then dispatched to
+potentially vulnerable apparatus on the Internet. The hostile code is
+designed to exploit the known weaknesses of millions of computers as
+well as those of other programmable devices connected to the global
+Web. The extent of the damage depends on the speed with which the
+corruption propagates and on the speed with which defenders can deploy
+countermeasures.
+
+<P>The Security Intelligence Products and Systems organization
+estimates the worldwide cost of damage from digital attacks from
+Jan. 1 to mid-November of this year to be between $170 billion and
+$203 billion &mdash; up from $110 billion to $130 billion for all of
+2002. And that estimate doesn't include costs for installing
+increasingly burdensome defensive measures.
+
+<P>To place this figure into perspective, one must consider that the
+estimated total cost of information security failures is about 10% of
+the total global cost of business computing. In a year when the
+increases in budgets for business computing remain in the 1%-to-2%
+range, the net effect of the losses from attacks is a cut in available
+spending to support money-making business applications. From that
+point of view, the costs of software attacks can be seen as inflicting
+economic damage comparable to that of a major terrorist incident.
+
+
+<p>The question then arises of whether the current approaches to
+instituting defensive measures &mdash; as promised by software vendors,
+consultants and your own security personnel &mdash; will be sufficient to
+overcome steadily escalating security threats. This is a classic
+problem in waging defensive warfare, where the forces of attackers
+must be neutralized by the capabilities of the defenders. In force
+vs. counterforce war games, attackers can be defeated if the learning
+cycle of the defenders is faster and their resources are adequate to
+disable the aggressors.
+
+<P>Unfortunately, the outlook for information security from the
+standpoint of information warfare isn't encouraging. Current methods
+of blocking intruders aren't likely to be adequate to secure Internet
+commerce. When swarms of adaptively learning software attackers are
+launched, they will have the capacity to sense and learn the
+capabilities of the defenders and to modify their attack plans
+accordingly. The balance of power will shift in favor of the
+attackers. The cost of launching attacks will decrease and the expense
+for defenses will escalate until it becomes prohibitive for companies
+to pursue the current policy of adhering to static defensive measures.
+
+<P>The present methods for security assurance are as obsolete as Cold
+War military tactics. Regardless of how many firewalls you put up, a
+software "robot" with monkey-like intelligence will find ways to punch
+through and then inform other roaming attackers where to
+penetrate. Regardless of how frequently you patch your software or how
+often you download virus updates, self-aware mutant code will bypass
+defenses that were programmed for old patterns of attack.
+
+<P>In the new era of information warfare, network defenders must use
+new tactics. They will have to launch active countermeasures to
+disable the learning capabilities of the aggressors. Networks will
+have to be designed for initiating search-and-destroy software that
+will find attackers faster than the malevolent software can locate new
+vulnerabilities. International cooperation will be essential in
+identifying and neutralizing the sources of disruption. Punitive
+liability will have to be applied in cases where negligence fosters
+the proliferation of insecurity. Most important, the influence of CIOs
+will have to rise, because security has now become the primary
+impediment to further progress of a global information society.
+
+<P><i><b>Paul A. Strassmann</b> (<A
+HREF="mailto:paul@strassmann.com">paul@strassmann.com</A>) has studied
+and taught the subject of information warfare since 1993.</i>
+
+</td></tr> </table>
+
+<!--#include file="cw2003-footer.shtml"-->
+

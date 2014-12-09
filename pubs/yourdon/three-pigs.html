@@ -1,0 +1,450 @@
+<html>
+<!--Copyright ©1996 Strassmann, Inc. All rights reserved -->
+<head>
+<!-- -->
+<title>Strategic Planning and the Three Little Pigs</title>
+</head>
+
+<body style="margin:80px">
+<p>
+<p>
+<h2>Strategic Planning and the Three Little Pigs</h2>
+<b>by Paul A. Strassmann<br><br>
+<a href="http://www.yourdon.com/ap/apsummary.html">American Programmer</a></b><br>
+March, 1996<br>
+<hr>
+
+In the story about the three little pigs and the big bad wolf, the
+little pigs' project planning horizons determine the outcomes of their
+projects.  Similarly, we have project managers who deliver
+applications that crash easily and cannot be restored except by heroic
+efforts and emergency doses of cash.  Project managers with the
+put-the-twigs-together mentality are a widespread phenomenon.  Their
+costs are low.  They deliver on budget.  But woe to anyone who
+inherits their output.  Their successors are stuck with escalating
+maintenance expenses, customer complaints, and blame for poor
+management.<p>
+
+There are also project managers who build projects as if they were made
+of bricks.  Their budgets are large.  After installation, the
+maintenance expenses remain low, since well-architected systems can
+withstand a great deal of alteration.<p>
+
+When disaster strikes, the little pigs with flimsy "legacy" systems do
+not necessarily end up in the house built by their long-range-planning
+brother.  In my updated version of the old tale -- with which I
+entertained my grandchildren -- the pigs end up outsourcing their
+living quarters to wolves who advertise prefabricated pigpens.<p>
+
+Why do most project managers persist in delivering flimsy results?  It
+is not because they are self-destructive or ignorant of the likely
+consequences.  In this article, I will show that one of the prime
+reasons for the delivery of shoddy projects is the myopic approach to
+the planning and budgeting of information systems projects.<p>
+
+<h3>Planning Horizons And Residual Value</h3>
+
+The appropriate "planning horizon" for computer systems varies
+depending on the quality of the initial project investment and the
+expense of making changes.  Any investment that has an annual
+maintenance expense of 25 percent of the initial cost -- a
+not-uncommon case -- can be said to have a "planning horizon" of only
+four years.<p>
+
+Your controller may insist on project investments that have a payback
+of less than 24 months.  Indirectly, he or she is telling you that what
+is left of your project after two years isn't worth a dime.  In
+financial terms, a two-year payback requirement implies that the
+corporate treasury considers your project a sufficiently high credit
+risk that it will charge you an interest rate of 50 percent per annum.<p>
+
+If a bank were to ask you that for an automobile loan, you would take
+it as an insult to your personal integrity.  Computer project managers
+instead respond by delivering on such a demand.  They know that the
+life of what they deliver will be short.  The two-year payback will
+turn out to be a self-fulfilling outcome.<p>
+
+Yet the amazing thing about computer project investments is their
+longevity.  I have installed applications over 20 years ago that, with
+some technological reincarnation and reasonable maintenance expense,
+are still in place today.  I have clients that are running applications
+whose core has aged gracefully over 30 years.<p>
+
+There are elements of investments that intrinsically become very
+long-term commitments.  There is no way one can establish data
+dictionaries and data models for an enterprise without taking a very
+long-term view of such a commitment.  This will require a very costly
+and difficult initial effort, as evidenced by the great pain and costs
+of all of those firms currently installing the SAP integrated
+applications.  However, once a data dictionary and data model process
+is in place, it is most likely going to remain in place for more than
+20 years, and perhaps longer than that.<p>
+
+Strategic planning for information technology projects must therefore
+include scenarios that explicitly recognize cash flows that extend
+beyond the usual three- or five-year long-range plans.  In other words,
+the "residual" value of a project must become an element in all project
+payoff calculations.<p>
+
+I find that the concept of assessing the residual value of a project is
+not used for information technology planning and budgeting.  Yet nobody
+who rejects the idea would ever consider buying a house instead of
+renting one.  Without estimating the resale value of a house, one would
+always continue renting.<p>
+
+The reason information project managers feel compelled to construct the
+flimsiest solutions to systemic problems is their failure to consider
+the residual value.  By not considering the residual value of an
+investment, systems managers shortchange their management.  Whatever
+management saves in initial investment expense will ultimately show up
+as higher ongoing overhead expenses and lower profits.  Without paying
+attention to residual value, executive management will get exactly what
+it locked into in the payoff calculations when approving a project
+budget.  The corporation will get what the little pig got by
+constructing a shelter out of twigs to have more time for play and fun.<p>
+
+<h3>Financial Analysis For Residual Value Calculation</h3>
+
+The key financial cost parameters for project investment decisions are:
+
+<ol>
+<li>The initial cost (investment), on which everyone concentrates.<p>
+
+<li>The installation costs beyond the project manager's control, such as
+training, support, and conflict resolution (which rarely shows up in
+project budgets).<p>
+
+<li>The ongoing maintenance costs over the life cycle, including costs
+of errors, effort needed to retrace undocumented logic, retraining, and
+enhancements to accommodate organizational change.  These elements are
+usually left out of project planning and budgeting lest management
+become discouraged.<p>
+
+<li>The residual value (e.g., the value of an investment at the end of
+the planning period), which nobody calculates because nobody wishes to
+raise questions about the lasting value of previous investment
+decisions.<p>
+
+</ol>
+
+<h3>Residual Value</h3>
+The residual value is one of the key factors to consider when
+evaluating information technology projects.  The residual value is the
+discounted cash flow today from the values that still generate net
+benefits to the corporation beyond the planning period.  I have found
+that for well-conceived projects, approximately half of the discounted
+cash value comes from a cash flow beyond a six-year planning horizon!<p>
+
+Table 1 shows what an investment would look like without residual value
+-- the way these analyses are usually done.  The number that is
+important is the cash benefit to cash expenditure ratio of 31 percent.
+This allows for the discounting of future gains, but that is not
+adequately realized even at a high discount rate such as the 25 percent
+that I have used in this example. <a href="three-pigs-fn.html">[1]</a><p>
+
+<pre><b>   Table 1:  Project Benefit/Cost Ratio</b>
+
+               1986    1987    1988    1989    1990    1991
+   Benefits       0       0    83.4    72.3    82.2    91.4
+   Costs       63.3    31.5    14.5    15.0    15.0    17.2
+
+   Net present value of cash benefits @ 25% = 123
+      Net present value of cash costs @ 25% =  94
+         Benefit/Cost Ratio = (123 - 94)/94 = 31%
+</pre>
+
+
+Table 2 provides the identical example but with a residual value.  The
+payback has now gone up to 81 percent.  What this demonstrates is that
+if the useful life of the application can be extended beyond the
+immediate planning period, the return on the investment is almost
+tripled.<p>
+
+<pre><b>   Table 2: Project Benefit/Cost Ratio with a 12-year Residual Value</b>
+
+               1986    1987    1988    1989    1990    1991    <b>Residual Value</b>
+   Benefits       0       0    83.4    72.3    82.2    91.4    <b>340.5</b>
+   Costs       63.3    31.5    14.5    15.0    15.0    17.2    <b> 64.1</b>
+
+   Net present value of cash benefits @ 25% with residual value = 195
+      Net present value of cash costs @ 25% with residual value = 107
+             Cash+Residual Benefit/Cost Ratio = (195 - 107)/107 =  81%
+
+</pre>
+
+ Any standard spreadsheet can be used to compute the present value of
+discounted cash flow.<a href="three-pigs-fn.html">[2]</a><p>
+
+It is in the interest of information managers
+to come up with a standard approach for determining the risk-adjusted
+discounted economic value of every project over its entire life cycle.
+This will make it possible to explain to top management why projects
+made like "brick houses" may be better investments than shanties made
+out of scraps of lumber.<p>
+
+<h3>How To Create A Greater Residual Value</h3>
+
+When you examine the total functional cost of information handling for
+an organization, the most valuable property is the training of people
+to understand and apply the information delivered by computers.  Rather
+than considering information technology as hardware and software that
+must be used until they become obsolete, it should be noted that most
+of the costs are incurred by the user.  When rapid-response online
+systems are applied to enlarge the roles and responsibilities of the
+people who operate personal computers, the user cost is particularly
+severe because the operators have to use information technology under
+conditions of stress.  Dissimilar protocols, inconsistent graphic
+interfaces, and application-unique commands are not only costly but
+confusing and lead to errors.<p>
+
+Greater residual value of individual projects can be created by
+imposing familiar information manipulation methods across all
+applications.  It is this capability that explains the amazing growth
+in the acceptance of Mosaic and Netscape.<p>
+
+The other crucial long-term information assets are data and software.
+Software increasingly represents the collective intelligence of how an
+enterprise is put together.  The accumulation of data represents the
+facts about the enterprise's environment and how it copes with that
+environment.  Everything in between -- equipment and operating
+software -- is a commodity product that becomes obsolete at a
+prodigious rate.<p>
+
+Consequently, the goal of the residual value approach is to preserve
+the long-term assets, such as the training contents.  Residual value is
+enhanced if the supporting intelligence of an enterprise can be
+retained while the hardware and operating system software are upgraded,
+modified, or migrated.<p>
+
+To be able to detach obsolescent technologies, organizations should
+adopt tools that keep the long-term knowledge assets and short-term
+technological assets separated.  This calls for the creation of a
+snap-in, snap-out, disposable type of information infrastructure that
+must be standardized at the highest levels of the architecture while
+leaving much autonomy in adapting to user needs, such as for local
+applications.  One way of looking at the value of so-called "open
+systems" is to define them in terms of the magnitude of their residual
+value.<p>
+
+To achieve this snap-in, snap-out environment requires the adoption of
+an integrated computer-aided systems engineering environment.  "Open
+systems" without open systems tools will not work.  You must have a way
+of bolting large quantities of reusable code onto new hardware without
+incurring much pain during the migration from the old to the new.<p>
+
+The underlying concept is to have a development environment
+sufficiently long-lived that some of the most important possessions,
+such as data structures, may be preserved for up to 25 to 30 years.
+Such a development environment should not be based upon a particular
+procedural code or hardware, but upon the functional processes that
+define the operational rules and work flow patterns.  It should employ
+machine-independent languages.  Nothing I say here is just wishful
+thinking.  The overwhelming and rapid acceptance of the Java language
+is good evidence that the time has come for organizations to seek
+solutions that have a residual value that outlasts short-term hardware
+and operating systems product offerings.<p>
+
+I cannot overemphasize the pivotal importance of software tools as the
+enablers for joining long-term software assets with transient assets
+such as hardware and operating systems.  Open systems toolsets are the
+means for creating a greater economic value through the enhancement of
+the residual value of any technological investment.<p>
+
+Are standard software engineering tools sufficient to preserve the
+long-term residual value?  In the same way that operating systems stan-
+dards, interoperability architectures, and communications protocols are
+necessary but not sufficient, systems engineering tools are also
+necessary but not sufficient.  We have to raise our sights to ensure
+that organizational knowledge is preserved within our organizations.<p>
+
+<h3>Reusable Software</h3>
+
+In my last job, we determined that half of the potential reductions in
+software life-cycle costs were achievable through one variable only --
+reusable software.  This is by far the most critical element in
+generating a residual value gain from software investments.<p>
+
+To be economically advantageous, new systems must have substantially
+lower maintenance costs than earlier implementations, and they must
+have a very high degree of code portability.  My minimum target for
+portability is for 60 percent of the software code to be portable to
+the next generation of hardware after six years of initial life.<p>
+
+The six-year cycle is dictated not by hardware technology, which is now
+on an 18-month cycle, but by the rate of innovation in business.  It is
+crucial to understand that it is the internal organizational structure
+that generates the diversity in information systems requirements that
+leads to demands for new applications.  It is the rate of change in
+internal procedures that drives the rate of replacement of applications
+systems.  Any corporation that believes that its procedures and
+organizational structure will be able to survive more than six years is
+working under questionable assumptions.<p>
+
+<h3>Software As Collective Organizational Memory</h3>
+
+One way of looking at software is to view it as a continuation of
+organizational communications.  Software encapsulates the agreements
+reached among contending bureaucracies.  Software requirements are the
+means by which users communicate with programmers.  Software statements
+are the means by which programmers communicate with machines and
+machines respond to users.<p>
+
+To increase the residual value of software embedded in databases, there
+must be a good understanding of what is to be done among all those who
+participate in the software creation process.  All of this must be
+adaptable and rapid.  Programmers, testers, analysts, and users must
+employ shared methods for understanding the outcomes in order to
+achieve lasting cooperation.<p>
+
+This leads me to conclude that what we call software expense is, in
+fact, a way of recording expenses that mostly cover meetings, head
+scratching, and shouting matches.  Only a small fraction of the
+development cost of a project is in the act of programming!  Therefore,
+if you want systems that last, the human dimensions of software
+creation, maintenance, and development have to be easier, more open,
+and more graceful than has been the case thus far.<p>
+
+How, then, do you conserve organizational memory?  You look at software
+as a way of codifying how people increase their understanding of the
+way their enterprise conducts its business.  What matters is the
+capacity to capture in the form of software the collective experience
+of every person who has participated in the conception of business
+procedures and work flow arrangements.  You can start looking at
+systems development as a means for collective knowledge-sharing.  The
+formalization of business processes is then a method for recording
+organizational memory and for displaying how members of the
+organization negotiated terms of their cooperation.  Systems
+development and maintenance should therefore be seen as part of a
+continual, evolutionary process rather than a discrete project.<p>
+
+Organizations have deep roots.  This is often referred to as the
+"culture," which is rarely articulated.  It remains unfathomable, as if
+it were unspoken tribal customs that can be understood only by an
+anthropologist or somebody who has been around for a long time.  Such
+"culture" provides stability that is independent of the members of the
+organization.  As many of the customs, processes, and conventions of an
+organization now migrate into a software-managed relationship, the
+poverty of current systems engineering methods ends up diminishing the
+ways in which people used to work out terms of cooperation through
+implicit codes of behavior.<a href="three-pigs-fn.html">[3]</a><p>
+
+For an organization to enhance the residual value of its
+knowledge-management systems, it must be able to carry its
+culture-like codes from generation to generation without
+technology-induced mutations.  New projects conceived to replace
+"legacy" systems, especially if imposed by outside consultants or
+off-the-shelf packages, always introduce such random mutations.  This
+is why a high residual value of information systems preserves not only
+the technical but also the human values.<p>
+
+Software is a form of wealth.  In fact, a large number of organizations
+today have software assets that are worth more than the tangible assets
+on their balance sheet.  Thus the primary objective of modern
+information systems management is to manage that wealth and conserve it
+so that as little value as possible is destroyed in the process of
+technological innovation.  Creating residual value is one means of
+assuring the continued accumulation of knowledge.  Projects with
+short-term expiration dates will make certain that knowledge is not
+accumulated but is instead transformed into profit-sapping adventures.<p>
+
+<h3>Software As The Organization's Inheritance</h3>
+Legacy systems and legacy software should not be viewed as something
+you get rid of so you can start anew.  Instead they should be
+considered more as an inheritance that is to be built upon through
+continual rejuvenation and replenishment, because these systems were
+originally conceived for extended longevity.  Some of the best
+programming talent should be devoted to assuring the residual value of
+legacy systems instead of the current practice of heaping the greatest
+rewards on builders of brand-new applications.<p>
+
+Every new system enhancement should be conceived of as a way to exploit
+and increase the value of the accumulated know-how.  When you analyze
+the structure of information systems, you will discover it is not the
+elements of logic that change but the way they are put together.  In a
+typical business application, more than 85 percent of basic routines
+deal with information retrieval, information management, and
+information displays.  We continually discard systems even though the
+underlying business attributes remain very much alike.  We can no
+longer afford to do this, because the accumulation of systems code is
+simply too large to be replaceable.  The implementation of an
+environment that enhances residual value calls not just for hardware
+independence, but also for a discipline that emphasizes software
+preservation throughout the entire design process, starting from
+business process engineering and ending in reuse of software objects.<p>
+
+<h3>Political Structure For Creating Residual Value</h3>
+
+There is a political dimension to all of this that has not been
+adequately aired.  For sharing and accumulation of knowledge, you need
+an open political structure that allows people to work together in a
+spirit of cooperation.  If information systems are to achieve
+longevity, they must gracefully accommodate changing administrative
+processes and evolving relationships with vendors and customers.  You
+want to design systems that can be extended -- even if that costs more
+-- because you need the capacity to evolve your business processes in
+short learning cycles, rather than the stop-and-go mode associated with
+projects that take years to approve and to build.  The winner in the
+accumulation of residual values will be the firm that possesses designs
+that accommodate a wide range of business process options.  With the
+pendulum swinging back and forth between centralization and
+decentralization, mergers and divestment, information systems designs
+must be able to adapt to a wide range of choices of how to organize for
+tactical purposes.<p>
+
+If you wish to preserve the collective knowledge of the enterprise,
+insist that any major new investment proposal include a large residual
+value forecast.  You need to ensure that you put as much of the
+investment as possible into long-lasting assets such as data, the
+telecommunications structure, and configuration management.<p>
+
+It is also important that innovation, which is fleeting, local, and
+absolutely essential for preserving a sense of freedom and
+independence, is not stifled by heavy-handed emphasis on only the
+long-range outcomes.  The beauty of a federation-like approach to
+organizational politics<a href="three-pigs-fn.html">[4]</a> is that
+you can encourage local
+applications.  When these turn out to have permanent value, they can be
+quickly moved up in the hierarchy and fitted into more permanent
+designs.  It is important that the dynamics of innovation be preserved
+in a layered concept of how to structure information systems designs,
+because most of the good ideas are usually found in "bootleg"
+adventures that cannot withstand the examination of any of the formal
+methods of financial analysis.<p>
+
+<h3>Summary</h3>
+The current approach to calculating payoff from information technology
+investments is faulty in that it disregards what are perhaps the most
+valuable contributions toward building up the knowledge-based assets of
+a firm.<p>
+  
+The current methods of investment analysis focus only on the
+apparent costs of acquiring information technologies.  They do not
+explore the full life-cycle cost effects.  They neglect systems
+impacts beyond the typical short-term corporate planning horizons of
+not more than three to five years.<p>
+
+Software does not wear out; indeed, it is potentially immortal.  Given
+this fact, the IT industry's disregard of the effects of software's
+residual value is especially harmful.  It will tend to increase
+maintenance, conversion, and overhead expenses.  It will continue to
+destroy the incentive to build up the knowledge assets of a firm.<p>
+
+For the last 85 years, children have grown up with various versions of
+the story of the three little pigs.  The moral of that story is known
+to just about all literate persons.  The time has come for the managers
+of information systems to apply that lesson to project management.<p>
+
+Ventures that build shanty-like constructs out of scraps of code,
+glued-together shrink-wrap applications, and consultants' packages are
+not likely to hold up over an extended time.  Lasting careers will be
+made only by those systems managers who can demonstrate that their
+projects make it possible to accumulate enduring knowledge assets.<p>
+
+<p>
+<hr>
+<a href="http://www.strassmann.com/copyright.html">(c) Copyright 1996, Strassmann, 
+Inc.</a><br>
+Go back up to the Strassmann, Inc. <a href="http://www.strassmann.com">home page</a>.<p>
+<p>
+</body>
+</html>

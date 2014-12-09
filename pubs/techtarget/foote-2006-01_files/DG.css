@@ -1,0 +1,225 @@
+<style type="type/css"> {   }
+
+body {color: #000000; margin:0}
+a {font-family: arial, verdana, helvetica; font-weight: normal}
+.nunder {text-decoration: none}
+
+
+td, input, .a1, .a2, .a3, .a3b, .a4, .a4b, .a5, .a6
+	{font-family: arial, verdana, helvetica}
+
+.v1, .v2, .v3, .v3b, .v4, .v4b, .v5, .v6
+	{font-family: verdana, helvetica}
+
+.t1, .t2, .t3, .t3b, .t4, .t4b, .t5, .t6
+	{font-family: trebuchet ms, arial, verdana, helvetica}
+	
+.h1, .h2, .h3, .h3b, .h4, .h4b, .h5, .h6
+	{font-family: tahoma, arial, verdana, helvetica}
+
+
+.a1, .v1, .t1, .h1
+	{font-size: 10px}
+
+.a2, .v2, .t2, .h2
+	{font-size: 11px}
+
+input, body, td, a, .a3, .v3, .t3, .h3, .textcolor1, .color1-inline
+	{font-size: 12px}
+
+.a3b, .v3b, .t3b, .h3b
+	{font-size: 13px}
+
+.a4, .v4, .t4, .h4
+	{font-size: 14px}
+	
+.a4b, .v4b, .t4b, .h4b
+	{font-size: 15px}
+
+.a5, .v5, .t5, .h5
+	{font-size: 16px}
+
+.a6, .v6, .t6, .h6
+	{font-size: 18px}
+
+a.textOnColorPortfolioBand {color: #ffcc00}
+
+a.hoverLink:link						{text-decoration: none}
+a.hoverLink:visited					{text-decoration: none}
+a.hoverLink:hover					{text-decoration: underline}
+a.hoverLink:active					{text-decoration: none}
+
+.bold {font-weight: bold}
+
+
+.lh10
+	{line-height: 10pt}  
+
+.lh11
+	{line-height: 11pt}  
+	 
+.lh12
+	{line-height: 12pt}  
+
+.lh13
+	{line-height: 13pt}  
+
+.lh14
+	{line-height: 14pt}  
+	 
+.lh15
+	{line-height: 15pt}  
+
+
+.textF {color: #ffffff}
+.textEF {color: #efefef}
+.textC {color: #cccccc}
+.text9 {color: #999999}
+.text6 {color: #666666}
+.text3 {color: #333333}
+.text0 {color: #000000}
+
+.textRed {color: #FF0000}
+.textDkRed {color: #cc0000}
+.textDkRed9 {color: #990000}
+.textDkRed6 {color: #660000}
+.textDkRed3 {color: #330000}
+
+.textBlue {color: #0000FF}
+.textBlueC {color: #0000CC}
+.textBlue9 {color: #000099}
+.textBlue6 {color: #000066}
+.textBlue3 {color: #000033}
+
+.textGreen {color: #009900}
+.textOrange {color: #FF6600}
+.textYellow {color: #ffcc00}
+.textOnColorPortfolioBand {color: #ffffff}
+
+
+
+.colorF {background-color: #ffffff}
+.colorEF {background-color: #efefef}
+.colorC {background-color: #cccccc}
+.color9 {background-color: #999999}
+.color6 {background-color: #666666}
+.color3 {background-color: #333333}
+.color0 {background-color: #000000}
+.colorRedF {background-color: #FF0000}
+.colorRedC {background-color: #CC0000}
+.colorRed9 {background-color: #990000}
+.colorRed6 {background-color: #660000}
+.colorRed3 {background-color: #330000}
+.colorPortfolioBand {background-color: #000000}
+.colorlite {background-color: #f2f2f2}
+
+.borderColorF   {border-style: solid; border-color: #ffffff; border-width:1px}
+.borderColorEF {border-style: solid; border-color: #efefef; border-width:1px}
+.borderColorC   {border-style: solid; border-color: #cccccc; border-width:1px}
+.borderColor9   {border-style: solid; border-color: #999999; border-width:1px}
+.borderColor6   {border-style: solid; border-color: #666666; border-width:1px}
+.borderColor3   {border-style: solid; border-color: #333333; border-width:1px}
+.borderColor0   {border-style: solid; border-color: #000000; border-width:1px}
+
+.colorGraph1 {background-color: #eeeeee}
+.colorGraph2 {background-color: #dddddd}
+.colorGraph3 {background-color: #cccccc}
+.colorGraph4 {background-color: #bbbbbb}
+.colorGraph5 {background-color: #aaaaaa}
+
+
+.i3width25, .i3width35, .i3width50, .i3width75, .i3width90, .i3width100,
+.i3width125, .i3width150, .i3width175, .i3width200, .i3width225, .i3width250
+	{border: 1 solid #333333}
+
+.i3width25 {width: 25px;}
+.i3width35 {width: 35px;}
+.i3width50 {width: 50px;}
+.i3width75 {width: 75x;}
+.i3width90 {width: 90px;}
+.i3width100 {width: 100px;}
+.i3width125 {width: 125px;}
+.i3width150 {width: 150px;}
+.i3width175 {width: 175px;}
+.i3width200 {width: 200px;}
+.i3width225 {width: 225px;}
+.i3width250 {width: 250px;}
+
+.selectbox {font-size: 11px; border: #000000; border-style: solid; border-width: 1px} 
+
+.textarea1 {border: 1 solid #333333}
+
+.padd5 {margin-left: 5px; margin-right: 5px}
+
+
+
+#menusOff {position: absolute; left: 0px; top: 0px; visibility: hidden; z-index: 1;}
+
+.navImageOn {position: absolute; visibility: hidden; z-index: 5}
+.navImageOff {position: absolute; visibility: hidden; z-index: 0}
+.navDropDowns {position: absolute; visibility: hidden; z-index: 5}
+.navIntPad {padding: 3px}
+
+
+
+h1.a1, h2.a1, h3.a1, h4.a1, h5.a1, h6.a1 {display: inline}
+h1.a2, h2.a2, h3.a2, h4.a2, h5.a2, h6.a2 {display: inline}
+h1.a3, h2.a3, h3.a3, h4.a3, h5.a3, h6.a3 {display: inline}
+h1.a4, h2.a4, h3.a4, h4.a4, h5.a4, h6.a4 {display: inline}
+h1.a5, h2.a5, h3.a5, h4.a5, h5.a5, h6.a5 {display: inline}
+h1.a6, h2.a6, h3.a6, h4.a6, h5.a6, h6.a6 {display: inline}
+
+h1.breadcrumbGray, h2.breadcrumbGray, h3.breadcrumbGray, h4.breadcrumbGray, h5.breadcrumbGray, h6.breadcrumbGray {display: inline}
+
+h1.textHighlite, h2.textHighlite, h3.textHighlite, h4.textHighlite, h5.textHighlite, h6.textHighlite {display: inline; font-size: 12px}
+h1.subheaderBlack, h2.subheaderBlack, h3.subheaderBlack, h4.subheaderBlack, h5.subheaderBlack, h6.subheaderBlack {display: inline; font-size: 12px}
+h1.textcolor1, h2.textcolor1, h3.textcolor1, h4.textcolor1, h5.textcolor1, h6.textcolor1 {display: inline; font-size: 12px}
+
+
+/* Start text ads styles */
+
+.leaderboardadrow { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+.leaderboardadtitle { font-weight: bold; font-size: 11px; color: blue; text-decoration: underline; }
+
+.skyscraperadrow { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+.skyscraperadtitle { font-weight: bold; font-size: 11px; color: blue; text-decoration: underline; }
+
+.boomboxadrow { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+.boomboxadtitle { font-weight: bold; font-size: 11px; color: blue; text-decoration: underline; }
+
+/* End text ads */
+
+/* copied over from expert answer center css */
+
+ul.list_bullet {
+	list-style: none;
+	margin: 0 0 10px 0;
+	padding-left: 5px;
+}
+
+li.list_bullet_item {
+	padding: 0 0 0px 6px;
+	background: url(/digitalguide/images/Misc/li_bullet_square_999999.gif) no-repeat 0 0px;
+}
+
+li.list_bullet_item_spaced {
+	padding: 0 0 10px 6px;
+	background: url(/digitalguide/images/Misc/li_bullet_square_999999.gif) no-repeat 0 0px;
+}
+
+ul.list_carrot {
+	list-style: none;
+	margin: 0 0 10px 0;
+	padding-left: 15px;
+}
+
+li.list_carrot {
+	padding: 0 0 0px 6px;
+	background: url(/digitalguide/images/Misc/li_carrot.gif) no-repeat 0 0px;
+}
+
+.list_item_indent {	padding: 0px 0px 0px 10px; }
+
+/* copied over from expert answer center css */
+
+</style>

@@ -1,0 +1,112 @@
+<html> 
+<head>
+
+<title>End Build-and-Junk</title> 
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p> 
+<h2>End Build-and-Junk</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+July 5, 1999<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">T</font><font size="+1">he past 50 years of
+computing</font> can be seen not only as a fantastic explosion of new
+capabilities, but also as a progressive accumulation of costly
+software junk. The entire history of computing can be characterized as
+an evolutionary -- and increasingly expensive -- sequence of
+build-and-destroy cycles. That has to change: We're on the verge of an
+intolerably expensive new cycle. But thanks to the options being
+offered by outsourcers and software innovators, there's a way to break
+the cycle.
+
+<p>With each new computing cycle, much of what had been invested had
+to be junked for progress to take place. Consider the following:
+
+<p><ul><li> At the end of the punch-card accounting cycle (about
+1958), more than $100 million worth of hard-wired control boards had
+no utility.
+
+<p><li> When applications began to be stored on disk memory instead of
+magnetic tape (about 1972), more than $5 billion worth of programs had
+to be replaced.
+
+<p><li> When minicomputers began shaping the distributed computing
+environment (about 1976), as much as $150 billion of software needed a
+complete overhaul.
+
+<p><li> The advent of the microcomputer (starting in 1983) saw an
+exodus of applications from mainframes and minicomputers to desktops.
+More than $650 billion worth of installed software lost value.</ul>
+
+<P>By 1990, the chaotic proliferation of powerful personal computers
+had created a control crisis that it was hoped would be cured by
+client/server architectures. We have now come to the end of that
+cycle, and the pundits tell us that the Internet ande-commerce offer
+the magic solution. Be ready to write down about $3 trillion worth of
+hard-to-maintain and insecure programs.
+
+<p>That $3 trillion is a significant share of total anticipated
+software spending in the next 10 years. With the hardware component of
+IT budgets dropping because of falling hardware prices, most of the
+world's spending for IT in the next technology cycle will be for
+software and software-related costs. With rising IT budgets, that
+suggests software spending in the next 10 years of well over $10
+trillion. Unfortunately, migration, conversion, integration and
+maintenance will absorb most of all software costs if the current,
+wasteful practices are allowed to continue.
+
+<p>Executives looking for competitive advantage won't be satisfied
+with only a fraction of their total software budget being deployed for
+profitable value creation. U.S. executives need rapid innovation, not
+expensive preservation of what is becoming an increasingly costly
+relic.
+
+<p>Executives have three options. First, they can continue on the
+current course of escalating computer budgets and painfully extracting
+value-creating applications from whatever funding is left over from
+maintaining the systems now in place. Second, they can find
+outsourcers that will act as custodians of the junk pile. Third, they
+can find technically capable innovators to come up with
+technologically advanced solutions at radically lower prices than a
+firm could on its own.
+
+<p>The third option is in reach. New software technologies -- such as
+Java running in a networking environment, and relying on
+processor-independent code -- have life-cycle costs of less than
+$1,500 per function point. That's far lower than the comparable
+life-cycle cost of more than $4,500 of the current installed base.
+(The estimates come from software metrics expert Capers Jones, a
+credible source of such data, and my own estimates of code
+obsolescence.) Clearly, there's money to be found in managing
+softwarelibraries for modernization if you can set up a clever way to
+manage that transition.
+
+<p>There will be profit opportunities for the junkyard custodians as
+well as for the innovators who can lead us out of the next cycle of
+trillion-dollar waste. I'm betting that most companies will wager on
+the innovators. There's much more value available from delivering new
+profit opportunities than from managing a dying well of assets.
+
+<p>
+
+<hr> <font size="-1">
+Strassmann (<a href="mailto:paul@strassmann.com">paul@strassmann.com</a>) has managed
+his way through every computer cycle because money was always
+available to pay for replacements. Unfortunately for current IT
+executives, there isn't enough money left to do that again in the next
+cycle.</FONT>
+
+
+</td></tr>
+</table>
+
+<!--#include file="cw99-footer.shtml"-->
+

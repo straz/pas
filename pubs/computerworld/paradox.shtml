@@ -1,0 +1,123 @@
+<html> 
+<head>
+
+<title>IT Paradox Number</title> 
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>
+<p> 
+<h2>IT Paradox Number</h2>
+<b>by Paul A. Strassmann<br><br>
+Computerworld</b><br>
+May 3, 1999<hr>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=480>
+
+<tr><td>
+
+<font size="+2">T</font><font size="+1">he idea that something is
+amiss with IT investments</font> dates back at least 15 years to when
+Nobel Prize-winning economist Bob Solow quipped that computers are
+everywhere except in the economic statistics. Hence, the productivity
+paradox: the inability to convincingly demonstrate that our
+investments in technology have resulted in measurable productivity
+improvements.<p>
+
+Much has been written about the phenomenon. But nobody has yet offered
+a number that would help executives define whether their own company's
+productivity paradox is small or large. I'd like to introduce a way. I
+call it the IT paradox number, the difference between a firm's actual
+computer hardware spending and what Moore's Law would predict it to
+be.<p>
+
+Moore's Law states that the number of transistors that can be crammed
+into a semiconductor chip doubles every 24 months without increasing
+the costs of making it. That means that electronics costs can decline
+33.3% annually.<p>
+
+The U.S. Department of Commerce settled on an average decrease in "IT
+costs" at a compound annual rate of 17.5%. It applies that number to
+economic calculations such as the gross domestic product and the
+cost-of-living indicators.<p>
+
+Hence, the formula for calculating one's own IT paradox number: It's
+your company's IT budget today, compared with what it could have been
+if you had previously bought your computing capacity every year for
+17.5% less.<p>
+
+If you're alarmed by your company's paradox number, I can offer some
+consolation: You have company.<p>
+
+I have been tracking corporate IT costs for a long time. U.S.
+corporate computer hardware costs increased from $67 billion in 1990
+to $153 billion last year. If Moore's Law would have delivered to its
+full potential, the 1998 IT budgets would have bought $558 billion
+worth of computing power. Therefore, the U.S. corporate IT paradox
+number now stands at $405 billion, the difference between $558 billion
+and $153 billion.<p>
+
+The objections to such a calculation will come from those who claim
+that computers now do much more, and therefore the additional spending
+is justified.<p>
+
+I'm not so sure. If CIOs can explain to their executive committees
+that they delivered 833% more computer-induced business capabilities
+($558 billion divided by $67 billion) since 1990, I will gladly
+acknowledge that Moore's Law applies not only to semiconductor
+manufacturing, but also to IT budgets.<p>
+
+What, then, explains the differences between the potential gains of
+Moore's Law and the harsh realities of IT spending?<p>
+
+<ol>
+<li><u>Bloated software.</u> Whatever performance gains one gets from
+electronics manufacturers is chewed up by software that compensates
+for its inadequacies by gobbling up all the computing power it can
+get.<p>
+
+<li><u>Excessive support costs.</u> Hardware maintenance and support costs are
+included in the reported hardware budgets. The total cost of ownership
+of a desktop computer now includes as little as 10% for hardware
+depreciation. Most costs are for expensive support labor to keep the
+hardware alive and to tranquilize unhappy customers.<p>
+
+<li><u>Negligent systems engineering.</u> Corporate hardware assets
+are put in place with hardly any configuration management, safeguards
+against early obsolescence or provisions for future growth. The
+hardware landscape of most corporations looks to me more like a
+shantytown than a metropolis.<p>
+
+</ol>
+
+The consequences of those effects generate the paradox number.
+Hardware is acquired and junked for no reason other than IT's
+inability to cope with what it already has. What appears as
+inexpensive hardware is purchased (or outsourced) as the preferred
+solution to the software bloat, uncontrolled support costs and
+improvised systems engineering.<p>
+
+The IT paradox number can be calculated by anyone and for any
+corporate computer budget. It may be a good idea for a corporate CIO
+to know what this number is before some smart chief financial officer
+brings it up next time budget cuts are on the agenda. <p>
+
+
+<p>
+
+<hr> <font size="-1">
+<P>Strassmann (<a
+href="mailto:paul@strassmann.com">paul@strassmann.com</a>) is still
+looking for the one organization that can explain its IT spending by
+applying Moore's Law.<p></font>
+
+</td></tr>
+</table>
+
+<!--#include file="cw99-footer.shtml"-->
+
+
+
+
+
