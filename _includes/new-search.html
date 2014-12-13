@@ -1,0 +1,34 @@
+<script>
+  (function() {
+    var r = false;
+    var cx = '012132534391986700465:his8pz_xliu';
+    var url = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    $.getScript(url).done(clean_gcse);
+  })();
+
+  var poll = setTimeout(clean_gcse, 100);
+
+  function clean_gcse() {
+    var bg = $('input.gsc-input').css('background');
+    if (bg == undefined){
+      poll = setTimeout(clean_gcse, 100);
+    } else {
+      $('input.gsc-input').css('background', 'none');
+      poll_gsc_results();
+    }
+  }
+
+  function poll_gsc_results(){
+    if ($('.gsc-results-wrapper-nooverlay').hasClass('gsc-results-wrapper-visible')){
+       $('.wide-tile').css('bottom','auto');
+    } else {
+       $('.wide-tile').css('bottom','0px');
+    }
+    setTimeout(poll_gsc_results, 200);
+  }
+
+  // 
+
+</script>
+<gcse:search></gcse:search>

@@ -101,6 +101,12 @@ a {
     }
 }
 
+a[name] {
+ color: lighten($text-color, 35%);
+ text-decoration: none;
+}
+
+
 
 
 /**
@@ -119,7 +125,17 @@ blockquote {
     }
 }
 
+.tags {
+   margin-bottom: 1em;
+}
 
+.tag {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
+    padding: 1px 5px;
+}
 
 /**
  * Code formatting

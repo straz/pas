@@ -22,16 +22,14 @@ ul.toc li img {
 
 .wide-tile {
   color: #fff;
-  /* background-color: #b84d45; */
   background-color: #8B95f8;
   background-image: url(/assets/tiles.png);
   padding: 50px 0px;
   box-sizing: border-box;
-  left: 0px;
-  bottom: 0px;
   position: absolute;
-  width: 100%;
-  z-index: -10;
+  left: 0;
+  width:100%;
+  bottom: 0;
 }
 
 #banner {

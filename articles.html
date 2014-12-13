@@ -1,5 +1,20 @@
 ---
-author: paul
+layout: default
+category: Articles
 ---
+ 
+<style>
+  h2 {margin-top: 20px}
+</style>
 
-{{ site.data.articles }}
+<script>
+var all_articles = {{ site.data.articles | jsonify }};
+var tags = {{ site.data.tags | jsonify}};
+
+</script>
+
+<div class="home">
+  <h1 class="page-heading">All Articles</h1>
+  <div class="years"></div>
+  <ul class="toc"></ul>
+</div>

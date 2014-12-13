@@ -9,20 +9,23 @@ $(document).ready(init);
 var PAGE_TAGS = {'/all-articles.html': 'all'};
 
 function init() {
-  check_hash_change();
-  var tag = PAGE_TAGS[window.location.pathname];
-  if (tag != undefined ) {
+  if (window.location.pathname == '/articles.html'){
+    check_search_change();
+    var tag = detect_tag();
+    if (tag == '' ) {
+      tag = 'all';
+    }
     fetch_and_render_articles(tag);
   }
 }
 
 function fetch_and_render_articles(tag){
-  render_articles(get_articles(tag), true);
+  render_articles(get_articles(tag), tag, true);
 }
 
 
 // if by_years is true, sort and group articles by year
-function render_articles(articles, by_years){
+function render_articles(articles, tag, by_years){
   var result = [];
   var year = -1;
   var decades = {};
@@ -51,6 +54,19 @@ function render_articles(articles, by_years){
 
   $('ul.toc').html('').append(result);
   add_year_picker(decades, min, max);
+  update_page_heading(tag);
+}
+
+function update_page_heading(tag){
+  var heading = tag;
+  for (var i in tags){
+    var entry = tags[i];
+    if (entry['tag']==tag){
+      heading = entry['full'];
+      break;
+    }
+  }
+  $('.page-heading').text(heading);
 }
 
 function get_decade(year){
@@ -58,6 +74,9 @@ function get_decade(year){
 }
 
 function add_year_picker(decades, min, max){
+  if (min == max){
+    return;
+  }
   $('.years').html('');
   for (var d = max; d >= min; d--) {
     if (d in decades){
@@ -128,11 +147,25 @@ function sort_by_date(array){
 
 // returns true if tag describes article
 function is_member(article, tag){
-  return true;
+  if (tag == 'all'){
+    return true;
+  }
+  for (var key in article){
+    var field = article[key].toString();
+    var needle = tag.toLowerCase();
+    if (field == undefined){
+      continue;
+    }
+    if (field.toLowerCase().indexOf(needle) != -1) {
+      return true;
+    }
+  }
+  return false;
 }
 
 // returns all articles described by tag
 function get_articles(tag){
+  console.log('get-articles', tag);
   var result = [];
   for (var i = 0; i < all_articles.length; i++) {
     var article = all_articles[i];
@@ -147,11 +180,25 @@ function get_articles(tag){
 // -----------
 // Hash change
 
+function detect_tag(){
+  return getParameterByName('t');
+}
+
 // this change hook is triggered any time the page's hashtag changes
 function hash_changed(){
-  var tag = window.location.hash.replace('#', '');
-  fetch_and_render_articles(tag);
+  fetch_and_render_articles(detect_tag());
 }
+
+function check_search_change(){
+  var storedSearch = window.location.search;
+  window.setInterval(function () {
+		       if (window.location.search != storedSearch) {
+			 storedSearch = window.location.search;
+			 search_changed(storedSearch);
+		       }
+		     }, 100);
+}
+
 
 // install watcher. When hash tag changes, calls the change hook.
 function check_hash_change(){
@@ -169,3 +216,12 @@ function check_hash_change(){
 			}, 100);
    }
 }
+
+
+function getParameterByName(name) {
+  name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+  var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+  results = regex.exec(location.search);
+  return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+

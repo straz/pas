@@ -9,42 +9,12 @@ timezone: America/New_York
 exclude: ['Gemfile', 'Gemfile.lock']
 
 collections:
-  afcea:
-    output: true
-    permalink: pubs/afcea/:name.html
-  baseline:
-    output: true
-    permalink: pubs/baseline/:name.html
-  computerworld:
-    output: true
-    permalink: pubs/cw/:name.html
-  idc:
-    output: true
-    permalink: pubs/idc/:name.html
+  afcea: {output: true, permalink: 'pubs/afcea/:name.html'}
+  baseline: {output: true, permalink: 'pubs/baseline/:name.html'}
+  computerworld: {output: true, permalink: 'pubs/cw/:name.html'}
+  idc: {output: true, permalink: 'pubs/idc/:name.html'}
 
 defaults:
- - 
-  scope:
-    type: "afcea"
-  values:
-    layout: "post"
-    author: "Paul A. Strassmann"
- -
-  scope:
-    type: "baseline"
-  values:
-    layout: "post"
-    author: "Paul A. Strassmann"
- -
-  scope:
-    type: "computerworld"
-  values:
-    layout: "post"
-    author: "Paul A. Strassmann"
- -
-  scope:
-    type: "idc"
-  values:
-    layout: "post"
-    author: "Paul A. Strassmann"
+- scope: {path: pubs}
+  values: {author: Paul A. Strassmann, layout: post}
 
