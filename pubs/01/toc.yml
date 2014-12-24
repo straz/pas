@@ -1,0 +1,17 @@
+- {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', 
+   language: French,
+   original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', 
+   title: 'Paul Strassmann, L''information prend le pouvoir', 
+   url: 'prend-le-pouvoir.html'}
+- {date: 1992-5, desc: 'L''informatique Professionnelle, No. 104', language: French,
+   title: Interview de Paul Strassmann,
+   url: 'interview.html'}
+- {date: 2004-1-30, desc: 01 Informatique, 
+   language: French, 
+   pdf: 102kb, 
+   title: Les processus de restructuration et de licenciement ne sont pas achev&eacute;s, 
+   url: '01i-2004.pdf'}
+- {date: 1996-6, desc: 'by Paul Strassmann, 01 Informatique, June 1996', 
+   language: French,
+   title: Le pouvoir aux fournisseurs de services, 
+   url: 'le-pouvoir.html'}

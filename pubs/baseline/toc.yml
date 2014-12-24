@@ -1,3 +1,10 @@
+- title: The 100 Smartest Companies of 2007
+  url: 2007-04-eweek.pdf
+  author: Robert Hertzberg
+  original: http://www.eweek.com/article2/0,1895,2113008,00.asp
+  date: 2007-04-11
+  pdf: 749kb
+  desc: eWeek
 - title: 'Real Numbers: 5 Secure Reasons for Thin Clients'
   desc: 'Baseline Magazine'
   url: '2008-01.pdf'
@@ -204,6 +211,7 @@
   desc: 'Baseline Magazine'
   url: 'http://www.baselinemag.com/article2/0,1397,1815748,00.asp'
   date: '2005-5'
+  broken: true
 - title: 'Real Numbers: Does Outsourcing Deliver the Goods?'
   desc: 'Baseline Magazine'
   url: '2005-03.pdf'
@@ -213,6 +221,7 @@
   desc: 'Baseline Magazine'
   url: 'http://www.baselinemag.com/article2/0,1540,1776165,00.asp'
   date: '2005-3'
+  broken: true
 - title: 'Why JP Morgan Chase Really Dropped IBM'
   desc: 'Baseline Magazine'
   url: '2005-01.php'
