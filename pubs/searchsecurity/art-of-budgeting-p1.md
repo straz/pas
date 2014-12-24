@@ -1,12 +1,16 @@
 ---
 title: "Art of budgeting: How to explain spending on information security (Part 1)"
 original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1'
-date: 2000-9
+date: 2000-9-28
 desc: SearchSecurity
 alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security'
----
 
-## Part 1 deals with how to justify security spending
+---
+[part 1](art-of-budgeting-p1.html)
+[part 2](art-of-budgeting-p2.html)
+[part 3](art-of-budgeting-p3.html)
+
+> Part 1 deals with how to justify security spending
 
 The famous bank robber Willie Sutton was reputed to reply to the judge, when asked why he robbed banks, "because that's where the money is."
 
@@ -30,4 +34,7 @@ Just do a web search on "Intellectual Capital" and you will be overwhelmed by th
 
 For the next installment of budget survival instructions please tune in next month.
 
-Paul A. Strassmann (paul@strassmann.com) services as the chief information systems executive started in 1957. Since his "retirement" in 1993, he has continued engagements in matters related to information security.
+> Paul A. Strassmann (paul@strassmann.com)'s services as the chief
+> information systems executive started in 1957. Since his "retirement"
+> in 1993, he has continued engagements in matters related to
+> information security.

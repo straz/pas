@@ -1,13 +1,21 @@
 ---
 original: http://searchsecurity.techtarget.com/tip/Art-of-budgeting-Part-3
-date: 2001-1
+date: 2001-1-12
 desc: SearchSecurity
 title: "Art of budgeting: How to justify security spending (Part 3)"
 ---
 
-Part 3 addresses how to justify security spending through "valuation of knowledge capital."
+[part 1](art-of-budgeting-p1.html)
+[part 2](art-of-budgeting-p2.html)
+[part 3](art-of-budgeting-p3.html)
 
-(Editor's note: Art of budgeting is a series of articles that looks at several aspects of IT security budgeting. In this third part, SearchSecurity.com columnist and defense expert Paul Strassmann will address how to justify security spending through "valuation of knowledge capital." And just what is that? Read on...)
+> Part 3 addresses how to justify security spending through "valuation of knowledge capital."
+
+> Editor's note: Art of budgeting is a series of articles that looks at
+> several aspects of IT security budgeting. In this third part,
+> SearchSecurity.com columnist and defense expert Paul Strassmann will
+> address how to justify security spending through "valuation of
+> knowledge capital." And just what is that? Read on...)
 
 By Paul A. Strassmann
 
@@ -50,8 +58,10 @@ Their brains have become repositories of insights about "how things work here" -
 
 Stay tuned for another installment of budget survival guidelines over the next month when I will show how to apply the calculation of Knowledge Capital / Employee indicator for explaining information security risks.
 
-To read my previous Art of Budgeting articles, please click here.
+To read my previous Art of Budgeting articles, please click [here](art-of-budgeting-p2.html).
 
-About the author:
-
-Paul A. Strassmann (paul@strassmann.com) services as the chief information systems executive started in 1957. Since his "retirement" in 1993 he has continued engagements in matters related to information security.
+> About the author:
+> Paul A. Strassmann (paul@strassmann.com)'s services as the chief
+> information systems executive started in 1957. Since his "retirement"
+> in 1993 he has continued engagements in matters related to information
+> security.

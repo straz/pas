@@ -2,15 +2,28 @@
 title: "Art of budgeting: How to ask for money for information security (Part 2)"
 original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2'
 desc: SearchSecurity
-date: 2000-12
+date: 2000-12-11
 ---
+[part 1](art-of-budgeting-p1.html)
+[part 2](art-of-budgeting-p2.html)
+[part 3](art-of-budgeting-p3.html)
 
-Part 2 deals with how to explain the risks of not investing in security
+> Part 2 deals with how to explain the risks of not investing in security
 
 All great ideas ultimately regress into budgets. That is the cast-iron law of corporate and governmental conduct. It particularly applies to all matters of the technological persuasion. It guides any pleadings to spend on information security. Information security programs will choke without an adequate and steady supply of cash. That is just like trying to live on rarified oxygen. The difference is that a strangled information security program is not only dangerous but can also produce unpredictable consequences costing far more than anybody can imagine. Therefore, the art of securing money for information security is perhaps the most important skill if you are to safeguard the information assets of an organization.
 
 
-This story is a sequel to what I wrote at the end of September for SearchSecurity.com. I explained that you do not apply the same logic as when asking for protection against a bank hold-up. Just consider that your networked information systems contain thousands of cracks open to electronic intrusions. What you most likely have are millions of lines of shantytown quality codes, mostly exposed to destructive infections. As compared with your problems, the job of securing a brick bank building is easy, except that your budget-time examiners will continue to reflect a banker's mentality. That's why trying to get money for information security is tough.
+This story is a sequel to what I [wrote](art-of-budgeting-p1.html) at
+the end of September for SearchSecurity.com. I explained that you do
+not apply the same logic as when asking for protection against a bank
+hold-up. Just consider that your networked information systems contain
+thousands of cracks open to electronic intrusions. What you most
+likely have are millions of lines of shantytown quality codes, mostly
+exposed to destructive infections. As compared with your problems, the
+job of securing a brick bank building is easy, except that your
+budget-time examiners will continue to reflect a banker's
+mentality. That's why trying to get money for information security is
+tough.
 
 
 In the preceding story, I explained that you must start the budget-pleading process by following the principle: "If you wish to justify it, you must be able to value it." I pointed out that the information security business is actually a peculiar form of an insurance business where the worth of the insured property must be set before you can start talking about the insurance premiums. That leads me directly to the next steps in the budget justification process: How do I explain the inherent risks I am supposed to protect against?
@@ -38,14 +51,23 @@ Trying to explain the security vulnerabilities of Microsoft NT is even more hope
 To secure the crumbling footings supporting your software shantytown requires funding that should not be peddled as "information security" but as "independently verifiable software engineering." Your principal effort should be to instill into your software sources the fear that their transgressions will be always noted and never forgotten. Your executive management should see you as the supreme Auditor that safeguards their shareholders' interests and not as just another short-tenure techie who speaks incomprehensiblese.
 
 
-When it comes to budgets, you should realize that management rarely debates well thought out money requests from the Comptroller and the Auditor (or Inspector General). The designation for such classes of people is that they are "fiduciaries." Well, it will ease your budget-period pains if you can clothe your information security budget requests into such packaging.
+When it comes to budgets, you should realize that management rarely
+debates well thought out money requests from the Comptroller and the
+Auditor (or Inspector General). The designation for such classes of
+people is that they are "fiduciaries." Well, it will ease your
+budget-period pains if you can clothe your information security budget
+requests into such packaging.
 
 
-For another installment of budget survival instructions, please tune in next month. December is hacker-month because kids are on vacation and nobody talks budget X-mas time!
+For another installment of budget survival instructions, please tune
+in next month. December is hacker-month because kids are on vacation
+and nobody talks budget X-mas time!
 
+To read the preceding article, click [here](art-of-budgeting-p1.html). 
 
-To read the preceding article, click here. 
-
-### About the author:
-
-Paul A. Strassmann (paul@strassmann.com) services as the chief information systems executive started in 1957. Since his "retirement" in 1993, he has continued engagements in matters related to information security.
+> About the author: 
+> 
+> Paul A. Strassmann (paul@strassmann.com)'s services
+> as the chief information systems executive started in 1957. Since
+> his "retirement" in 1993, he has continued engagements in matters
+> related to information security.
