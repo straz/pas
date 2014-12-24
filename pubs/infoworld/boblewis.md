@@ -1,27 +1,10 @@
 ---
-title: Peer To Peer
+title: 'Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo; fiction?'
 layout: post
 date: 1999-5-31
 desc: Infoworld
+original: http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm
 ---
-
-# Computer productivity
-
-## Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo; fiction?
-
-## InfoWorld
-
-[original](http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm)
-
-![infoworld](inbanner.gif)
-
-![opinions](rhopin.gif)  
-May 31, 1999 (Vol. 21, Issue 22)  
-PEER TO PEER
-
-BY PAUL A. STRASSMANN
-
-# Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo; fiction?
 
 
 The question of whether computers do or do not demonstrably improve
@@ -97,10 +80,10 @@ href="http://www.infoworld.com/printlinks">www.infoworld.com/printlinks</a>.)
 She suggested that I write this guest column to set the record right,
 for which I am most grateful.
 
-Paul A. Strassmann was a CIO from 1961 through 1993.  He is the author
-of Information Payoff, The Business Value of Computers, The Politics
-of Information Management, The Squandered Computer, and the
-forthcoming Information Productivity.  He is also a columnist for
-Computerworld, a sister publication of InfoWorld.  He can be reached
-at [paul@strassmann.com](mailto:paul@strassmann.com).
+> Paul A. Strassmann was a CIO from 1961 through 1993.  He is the author
+> of Information Payoff, The Business Value of Computers, The Politics
+> of Information Management, The Squandered Computer, and the
+> forthcoming Information Productivity.  He is also a columnist for
+> Computerworld, a sister publication of InfoWorld.  He can be reached
+> at [paul@strassmann.com](mailto:paul@strassmann.com).
 

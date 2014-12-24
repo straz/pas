@@ -194,6 +194,31 @@ ul.toc {
 }
 
 
+.origin_str {
+  background-color: #FFE0E0;
+  &:before {
+    content: 'str: ';
+  }
+}
+.origin_pubs {
+  background-color: #FFD0D0;
+  &:before {
+    content: 'pubs: ';
+  }
+}
+.origin_local {
+  background-color: #E0FFE0;
+  &:before {
+    content: 'local: ';
+  }
+}
+.origin_other {
+  background-color: #E0E0FF;
+  &:before {
+    content: 'other: ';
+  }
+}
+
 
 /**
  * Posts

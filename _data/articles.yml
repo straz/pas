@@ -1,19 +1,15 @@
+- {date: 2014-12, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=252906',
+  title: 'IT Security: Leadership Guide &mdash; Partnerships for Sharing Information
+    About Cyberthreats', url: 'http://www.idc.com/getdoc.jsp?containerId=252906'}
+- {date: 2014-12, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=252903',
+  title: 'IT Security: Leadership Guide &mdash; Looking to Cloud Networks for Cybersecurity',
+  url: 'http://www.idc.com/getdoc.jsp?containerId=252903'}
 - {date: 2014-11, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=252441',
-  title: 'IT Security: Guide Leadership Detecting Hidden Malware', url: 'http://www.idc.com/getdoc.jsp?containerId=252441'}
+  title: 'IT Security: Leadership Guide &mdash; Detecting Hidden Malware', url: 'http://www.idc.com/getdoc.jsp?containerId=252441'}
 - {date: 2014-10, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=252029',
   title: 'IT Security: Role of the National Vulnerability Database in Choosing Cyberprotection
     Vendors', url: 'http://www.idc.com/getdoc.jsp?containerId=252029'}
 - {date: 2014-9-11, desc: Lecture (video), title: 'Partisan Warfare, 1944', url: 'https://www.youtube.com/watch?v=G-ejnCWNklY'}
-- {date: '1989-05-26', desc: Babbage Institute, original: 'http://purl.umn.edu/107640',
-  title: Interview with Paul A. Strassmann (part 2), url: 'http://pubs.strassmann.com/babbage-oh172pas.pdf'}
-- {date: '1987-05-15', desc: Babbage Institute, original: 'http://purl.umn.edu/107641',
-  title: Interview with Paul A. Strassmann (part 1), url: 'http://pubs.strassmann.com/babbage-oh131pas.pdf'}
-- {date: 2014-10, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/13437',
-  title: A New Approach Is Needed to Protect Defense Department Cybersystems, url: 'http://pubs.strassmann.com/afcea/2014-10.html'}
-- {date: 2004-3, desc: Computerworld, title: Measuring Information Work Productivity,
-  url: 'computerworld/http://pubs.strassmann.com/cw/measuring-info.shtml'}
-- {date: 2004-3, desc: Computerworld, title: Defining and Measuring Information Productivity,
-  url: 'computerworld/http://pubs.strassmann.com/cw/rankings/ip_rankings_v3.pdf'}
 - {date: 2002-3, desc: White paper, title: 'Introduction to ROM&reg; Analysis: Linking
     Management Productivity and Information Technology', url: 'http://www.strassmann.com/consulting/ROM-intro/Intro_to_ROM.html'}
 - {date: 2013-1-2, desc: Lecture (video), title: Partisan Warfare in World War II,
@@ -35,8 +31,6 @@
   title: 'IT Security: Defending Against Internet Incursions', url: 'http://www.idc.com/getdoc.jsp?containerId=247598'}
 - {date: 2014-03, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=247584',
   title: 'IDC Maturity Model: IT Security', url: 'http://www.idc.com/getdoc.jsp?containerId=247584'}
-- {date: 2014-01, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/12110',
-  title: Readying for Third-Generation Defense Systems, url: 'http://pubs.strassmann.com/afcea/2014-01.html'}
 - {date: 2013-11, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=244366',
   title: 'IT Security: Intercepting Malware Through Cloud Services', url: 'http://www.idc.com/getdoc.jsp?containerId=244366'}
 - {date: 2013-9, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=243467',
@@ -47,14 +41,10 @@
   url: 'http://www.idc.com/getdoc.jsp?containerId=243263'}
 - {date: 2013-8, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=242849',
   title: 'IT Security: Using Big Data for Enterprise Security', url: 'http://www.idc.com/getdoc.jsp?containerId=242849'}
-- {date: 2013-9, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/11602',
-  title: Bringing Together Signal and Cyber, url: 'http://pubs.strassmann.com/afcea/2013-09.html'}
 - {date: 2013-7, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=242374',
   title: 'IT Security: Executive Guide to Cyberthreats', url: 'http://www.idc.com/getdoc.jsp?containerId=242374'}
 - {date: 2013-7, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=242192',
   title: 'IT Security: The Executive Guide to Distributed Denial of Service', url: 'http://www.idc.com/getdoc.jsp?containerId=242192'}
-- {date: 2013-7, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/11269',
-  title: Asymmetric Cyberwarfare Demands a New Information Assurance Approach, url: 'http://pubs.strassmann.com/afcea/2013-07.html'}
 - {date: 2013-6, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=241880',
   title: 'IT Security: The Executive Role in Cyber-Regulations', url: 'http://www.idc.com/getdoc.jsp?containerId=241880'}
 - {date: 2013-5, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=241241',
@@ -67,67 +57,11 @@
   title: 'IT Security: Insider Threats Through IT Sabotage', url: 'http://www.idc.com/getdoc.jsp?containerId=239045'}
 - {date: 2012-09, desc: 'by Allan Zullo, Scholastic Books', original: 'http://shop.scholastic.com/shop/en/teacherstore/we-fought-back-9780545385787',
   title: We Fought Back - Paul Strassmann's experiences as a partisan, url: 'http://www.scholastic.com/teachers/book/we-fought-back'}
-- {date: 2012-12, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10375',
-  title: Implementing the Defense Department Cloud Computer Strategy Poses New Challenges,
-  url: 'http://pubs.strassmann.com/afcea/2012-12.html'}
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
   title: Commentary, url: 'http://pubs.strassmann.com/usni/2012-7.html'}
-- {date: 2012-11, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10269',
-  title: Defense Board Computing Recommendations Lack Strength, url: 'http://pubs.strassmann.com/afcea/2012-11.html'}
-- {date: 2012-10, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10198',
-  title: Evolution Is Leading Us to Software-Defined Networks, url: 'http://pubs.strassmann.com/afcea/2012-10.html'}
-- {date: 2012-09, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10106',
-  title: Thrifty Can Do It for the Defense Department, url: 'http://pubs.strassmann.com/afcea/2012-09.html'}
 - {date: 2012-09, desc: Memoir, title: The Thesis at M.I.T. 1953-1954, url: 'http://pubs.strassmann.com/mit/early-computing.html'}
-- {date: 2012-08, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=3030&zoneid=357',
-  title: Old Defense Department Silos Must Be Swept Out, url: 'http://pubs.strassmann.com/afcea/2012-08.html'}
-- {date: 2012-07, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=3003&zoneid=200',
-  title: The Defense Department Must Account for its Information Technology Silos,
-  url: 'http://pubs.strassmann.com/afcea/2012-07.html'}
-- {date: 2012-06, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2978&zoneid=200',
-  title: 'How Efficient Is the Management of Defense Enterprise Systems?', url: 'http://pubs.strassmann.com/afcea/2012-06.html'}
-- {date: 2012-05, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2949&zoneid=200',
-  title: The Efficiency of Defense Department Information Technology Spending, url: 'http://pubs.strassmann.com/afcea/2012-05.html'}
 - {date: '2012-04-10', desc: Federal Computer Week, original: 'http://fcw.com/Blogs/Insider/2012/04/anniversary-issue-pivotal-people.aspx',
   title: 'The most influential federal IT leaders since 1987: A short list', url: 'http://pubs.strassmann.com/fcw-2012.html'}
-- {date: 2012-04, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2922&zoneid=345',
-  title: Now May Be the Time for Defense Department Enterprise Email, url: 'http://pubs.strassmann.com/afcea/2012-04.html'}
-- {date: 2012-03, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2894&zoneid=200',
-  title: 'The Defense Department Has Its Information Systems Strategy--Now What?',
-  url: 'http://pubs.strassmann.com/afcea/2012-03.html'}
-- {date: 2012-02, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2869&zoneid=338',
-  title: The Key to Cutting Information Technology Costs, url: 'http://pubs.strassmann.com/afcea/2012-02.html'}
-- {date: 2012-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2832&zoneid=200',
-  title: Listen Carefully ... Computers Now Can Understand What You Say, url: 'http://pubs.strassmann.com/afcea/2012-01.html'}
-- {date: 2011-11, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2786&zoneid=333',
-  title: Two Barriers Block New Architecture, url: 'http://pubs.strassmann.com/afcea/2011-11.html'}
-- {date: 2011-9, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2725&zoneid=327',
-  title: About Face, url: 'http://pubs.strassmann.com/afcea/2011-09.html'}
-- {date: 2011-7, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2665&zoneid=323',
-  title: A Culture Shock Is Coming, url: 'http://pubs.strassmann.com/afcea/2011-7.html'}
-- {date: 2011-5, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2609&zoneid=316',
-  title: Reaching the Clouds Won't be a One-Stop Trip, url: 'http://pubs.strassmann.com/afcea/2011-5.html'}
-- {date: 2011-03, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2552&zoneid=312',
-  title: Fewer Data Centers Can Be a Good Thing, url: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2552&zoneid=312'}
-- {date: 2011-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2498&zoneid=308',
-  title: Desktop Virtualization Offers Benefits Now, url: 'http://pubs.strassmann.com/afcea/2011-01.html'}
-- {date: 2010-11, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2443&zoneid=303',
-  title: Army's Private Cloud Goal Is Praiseworthy but Problematic, url: 'http://pubs.strassmann.com/afcea/2010-11.html'}
-- {date: 2010-8-23, desc: AFCEA SignalScape (part 1 of 2), original: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8000/',
-  title: Cyberdefense and DoD Culture, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8000/'}
-- {date: 2010-8-23, desc: AFCEA SignalScape (part 2 of 2), original: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8021/',
-  title: How to Improve Cyberdefenses at the DoD, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8021/'}
-- {date: 2010-7-14, desc: AFCEA SignalScape, title: Cybersecurity Is Asymmetric, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/07/guest-blog-cybersecurity-is-asymmetric/'}
-- {date: 2010-8-06, desc: 'by Beverley T. Shaeffer, AFCEA SIGNAL Magazine', title: Defense
-    Network Evolution Into Unknown Future, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/defense-network-evolution-into-unknown-future/'}
-- {date: 2010-12, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2470&zoneid=306',
-  title: Navy Prepares to Take An Important First Step, url: 'http://pubs.strassmann.com/afcea/2010-12.html'}
-- {date: 2010-8, desc: AFCEA SignalScape, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2364',
-  title: Defense Network Concepts Have a Dynamic History, url: 'http://pubs.strassmann.com/afcea/2010-08-b.html'}
-- {date: 2010-8, desc: AFCEA SignalScape, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2363',
-  title: Information Dominance Bows to Network Limitations, url: 'http://pubs.strassmann.com/afcea/2010-08-a.html'}
-- {date: 2010-6-16, desc: AFCEA SignalScape, title: 'Virtualization of Servers: The
-    First Step Into the Cloud', url: 'http://www.afcea.org/signal/signalscape/index.php/2010/06/virtualization-of-servers-the-first-step-into-the-cloud/'}
 - {date: 2005-12-5, desc: 'Lecture, George Mason University (video)', title: 'Google:
     A Model for the Systems Architecture of the Future?', url: 'http://www.archive.org/details/Google-aModelForTheSystemsArchitectureOfTheFuture'}
 - {date: 2006-3-6, desc: 'Lecture, George Mason University (video)', title: 'Is Outsourcing
@@ -141,8 +75,6 @@
     of IT Spending as a Measure of Organizational Disorder, url: 'http://www.archive.org/details/I.t.SpendingAsAMeasureOfOrganizationalDisorder'}
 - {date: 2005-3-29, desc: George Mason University, pdf: 2.5MB, title: The Structure
     of IT Spending as a Measure of Organizational Disorder, url: 'http://pubs.strassmann.com/gmu/2005-3-29.pdf'}
-- {date: 2010-5-21, desc: AFCEA SignalScape, original: 'http://strassmann.com/pubs/afcea/2010-5-21.html',
-  title: Gentlemen Do Not Open Attachments, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/05/guest-blog-gentlemen-do-not-open-attachments'}
 - {date: 2010-4-22, desc: George Mason University, pdf: 7.8MB, title: How SOA Fits
     Into Cloud Computing, url: 'http://pubs.strassmann.com/gmu/2010-4-SOA.pdf'}
 - {date: 2010-4-22, desc: George Mason University, pdf: 440KB, title: How SOA Fits
@@ -153,10 +85,6 @@
   pdf: 90KB, title: Pioneer Profile, url: 'http://pubs.strassmann.com/cooper/ACUfw09alumni.pdf'}
 - {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: Government Gmail use,
   url: 'http://blogs.zdnet.com/BTL/?p=29511'}
-- {date: 2010-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2163&zoneid=284',
-  title: Social (Network) Security, url: 'http://pubs.strassmann.com/afcea/2010-01.html'}
-- {date: 2009-11, desc: AFCEA Signal, pdf: 940KB, title: The Internet's Vulnerabilities
-    are Built Into Its Infrastructure, url: 'http://pubs.strassmann.com/afcea/2009-11.pdf'}
 - {date: 2009-11-5, desc: George Mason University, pdf: 620KB, title: Fundamental
     Internet Security Flaws, url: 'http://pubs.strassmann.com/gmu/2009-11-5.pdf'}
 - {date: '2009-10-14', desc: George Mason University, pdf: 24MB, title: Operating
@@ -168,12 +96,8 @@
 - {date: 2009-5, desc: 'Commencement, George Mason University', title: Honorary Doctorate
     conferred on Paul A. Strassmann, url: 'http://pubs.strassmann.com/gmu/2009-gmu-ceremony.mov',
   video: '2:10'}
-- {date: 2009-7, desc: AFCEA Signal, pdf: 3.5MB, title: Network-Centric Systems Need
-    Standards and Metrics, url: 'http://pubs.strassmann.com/afcea/2009-07.pdf'}
 - {date: 2009-6-30, desc: Draft, pdf: 1.4MB, title: Cyber Security for the Department
     of Defense, url: 'http://pubs.strassmann.com/dod/cybersecurity-draft-v1.pdf'}
-- {date: 2009-6-15, desc: AFCEA Signal, title: Future Budget Does Not Bode Well for
-    Network Centricity, url: 'http://pubs.strassmann.com/afcea/2009-06.html'}
 - {date: 2009-4-14, desc: 'Webinar: Computer Aid, Inc.', pdf: 3.8MB, title: The Economics
     of Thin Clients, url: 'http://pubs.strassmann.com/cai/2009-4-14.pdf'}
 - {date: 2008-10, desc: 'Article, Software Technology Support Center', original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
@@ -187,8 +111,6 @@
     (slides)', ppt: 2MB, title: Service Oriented Architecture (SOA) for DoD, url: 'http://pubs.strassmann.com/gmu/2009-4-2-slides.ppt'}
 - {date: 2008-9-11, desc: 'Lecture, George Mason University (slides)', pdf: 2MB, title: Budgeting
     DoD Information Technologies, url: 'http://pubs.strassmann.com/gmu/2008-9-slides.pdf'}
-- {date: 2008-11, desc: AFCEA Signal, title: 'Does the 2009 Budget Support Network-Centric
-    Missions?', url: 'http://pubs.strassmann.com/afcea/2008-11.html'}
 - {date: 2008-11-5, desc: 'Lecture, George Mason University (slides)', pdf: 3MB, title: Data
     Center Evolution and the 'Cloud', url: 'http://pubs.strassmann.com/gmu/2008-11.pdf'}
 - {date: '2008-10-29', desc: 'Lecture, George Mason University (slides)', pdf: 5MB,
@@ -227,9 +149,6 @@
     Assurance for Defense Security, url: 'http://pubs.strassmann.com/gmu/2007-3-27-slides.pdf'}
 - {date: 2007-3-27, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=-5355458708501315764',
   title: Information Assurance for Defense Security, url: 'http://www.youtube.com/watch?v=NuUHrPo_lqw'}
-- {date: '2007-04-11', desc: 'by Robert Hertzberg, eWeek (<a href="http://www.eweek.com/article2/0,1895,2113008,00.asp"
-    target="_blank">original link</a>)', original: 'http://www.eweek.com/article2/0,1895,2113008,00.asp',
-  pdf: 749kb, title: The 100 Smartest Companies of 2007, url: 'http://pubs.strassmann.com/baseline/2007-04-eweek.pdf'}
 - {date: 2007-2-19, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=-5495008131043794334',
   title: Enterprise Services for IT Transformation, url: 'http://www.youtube.com/watch?v=fsBAFIlTTLw'}
 - {date: 2007-2-19, desc: 'Lecture, George Mason University (slides)', pdf: 14.9Mb,
@@ -311,10 +230,6 @@
   title: Internet ha bisogno di tempo per affermarsi, url: 'http://pubs.strassmann.com/debiase-2004-6.html'}
 - {date: 2004-3, desc: Information Economics Journal, pdf: 88kb, title: 'Foundations
     of Information Economics, Part I', url: 'http://pubs.strassmann.com/iej/2004-03.pdf'}
-- {date: 2004-1-30, desc: 01 Informatique, language: French, pdf: 102kb, title: Les
-    processus de restructuration et de licenciement ne sont pas achev&eacute;s, url: 'http://pubs.strassmann.com/01/01i-2004.pdf'}
-- {date: 2003-10, desc: Computerworld Polska, language: Polish, title: Ka&#380;dy
-    po swojemu, url: 'http://pubs.strassmann.com/pl/idg-1.php'}
 - {date: 2003-10-5, desc: Interia, language: Polish, title: Paul A. Strassmann w Polsce,
   url: 'http://pubs.strassmann.com/pl/interia.html'}
 - {date: 2003-10, desc: Dutch CIO Magazine, language: Dutch, pdf: 400kb, title: Vernietiging
@@ -332,20 +247,13 @@
   pdf: 503kb, title: 'Does IT Matter? An HBR Debate', url: 'http://pubs.strassmann.com/hbr/Web_Letters.pdf'}
 - {date: 2003-6, desc: by Paul A. Strassmann, title: A Retrospective Forecast of the
     Future, url: 'http://pubs.strassmann.com/hbr/carr-letter.shtml'}
-- {date: 2003-5, desc: Online Tool, title: IT Spending Assessment, url: 'http://www.computerworld.com/managementtopics/roi/peercomparison'}
-- {date: 2003-5-12, desc: by Gary Anthes, title: First-Class Upgrade, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,81060,00.html'}
 - {date: 2003-4-1, desc: Executive panel, title: The Future of Federal Network Services,
   url: 'http://pubs.strassmann.com/fed/fts-2003.html'}
-- {date: 2003-3-19, desc: AFCEA talk, title: Power Politics of the CIO, url: 'http://pubs.strassmann.com/fed/AFCEA-2003.html'}
 - {date: 2002-12, desc: Alinean, title: IT Value Chain Methodology, url: 'http://www.alinean.com/Meth-Value.asp'}
-- {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
-    of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
 - {date: 2001-9-28, desc: 'by Ren&eacute; Rippen, Computable.nl', language: Dutch,
   title: Interview met Paul Strassmann, url: 'http://www.computable.nl/artikels/archief1/d39rr105.htm'}
 - {date: 2002-4, desc: IT Week, title: Gurus Vie in Productivity Debate, url: 'http://www.vnunet.com/Analysis/1131125'}
 - {date: 2001-10, desc: IT Week, title: Return on Investment Eludes UK Users, url: 'http://www.itweek.co.uk/Analysis/1126526'}
-- {date: 2002-12, desc: Computerworld Espa&ntilde;a, language: Spanish, title: La
-    paradoja de la innovaci&oacute;n, url: 'http://www.idg.es/computerworld/CUTI07.asp'}
 - {date: 2002-10, desc: Government Computer News, original: 'http://www.gcn.com/21_30/20anniversary/20148-10.html',
   title: 'Where are they now: Paul Strassmann', url: 'http://pubs.strassmann.com/gcn/2002-10-7.html'}
 - {date: 2002-10, desc: Spaceref.com, original: 'http://www.strassmann.com/pubs/nasa/2002-10-spaceref.html',
@@ -356,8 +264,6 @@
     are developing plans, url: 'http://pubs.strassmann.com/aviweek/2002-8-12.shtml'}
 - {date: 2002-8-5, desc: Chief Information Officers Council, title: NASA tech chief
     defines new mission, url: 'http://pubs.strassmann.com/ciogov/2002-8-5.html'}
-- {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', title: 'A comprehensive
-    ROI, budgeting and benchmarking tool', url: 'http://www.strassmann.com/products/valueit/2002-7-29-cw.shtml'}
 - {date: 2002-11-1, desc: 'Leader to Leader Magazine, Peter Drucker Foundation', note: Winter
     2002, title: 'Technology Leadership: What''s It Worth?', url: 'http://pubs.strassmann.com/LeadertoLeader0202.html'}
 - {date: 2002-5, desc: 'Hiroshi T. McCarvaugh, Patent Insight', title: '''Squandered
@@ -394,17 +300,12 @@
     of Monocultures, url: 'http://www.pbs.org/wgbh/pages/frontline/shows/hackers/blame/threat.html'}
 - {date: 2001-2, desc: Knowledge Management Magazine, title: How to Value Information
     Security Risks, url: 'http://pubs.strassmann.com/km/2001-2.php'}
-- {date: 2001-1, desc: SearchSecurity.com, title: Art of Budgeting (part 3), url: 'http://pubs.strassmann.com/searchsecurity/2001-1.php'}
 - {date: 2001-1, desc: Knowledge Management Magazine, title: Bending the Numbers,
   url: 'http://pubs.strassmann.com/km/2001-1.php'}
-- {date: 2000-12, desc: SearchSecurity.com, title: 'The Art of Budgeting: How to Ask
-    for Money for Information Security', url: 'http://pubs.strassmann.com/searchsecurity/2000-12.php'}
 - {date: 2000-9, desc: iMP Information Impacts Magazine, original: 'http://www.cisp.org/imp/september_2000/09_00strassmann.htm',
   title: The Perverse Economics of Information, url: 'http://pubs.strassmann.com/imp/'}
 - {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
     Knowledge Capital, url: 'http://pubs.strassmann.com/km/2000-11.php'}
-- {date: 2000-10, desc: SearchSecurity.com, title: How to Explain Spending on Information
-    Security, url: 'http://pubs.strassmann.com/searchsecurity/2000-9.php'}
 - {date: 2000-10, desc: Knowledge Management Magazine, title: Intelligence in Question,
   url: 'http://pubs.strassmann.com/km/2000-10.php'}
 - {date: 2000-8, desc: Knowledge Management Magazine, title: Expecting Too Much of
@@ -480,7 +381,6 @@
 - {date: 1998-8, desc: Cutter IT Journal, title: 'What is Alignment?', url: 'http://pubs.strassmann.com/alignment/'}
 - {date: 1998-6-11, desc: Forbes, title: 'Of Men and Machines: Productivity Declines',
   url: 'http://pubs.strassmann.com/forbes0698'}
-- {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: 'computerworld/http://pubs.strassmann.com/cw/y2kdebate'}
 - {date: 1998-5, desc: by Paul Strassmann, title: 'Outsourcing IT: Miracle Cure or
     Emetic?', url: 'http://pubs.strassmann.com/outsourcing.shtml'}
 - {date: 1998-4, desc: by Paul Strassmann, title: Comments about Y2000 Test Certification,
@@ -515,14 +415,9 @@
   title: The Thickness of Concrete on the Maginot Line, url: 'http://pubs.strassmann.com/maginot.html'}
 - {date: 1996-12, desc: Exec! Magazine, title: 'Is Your Information Productive?',
   url: 'http://www.unisys.com/execmag/atwork/strassmann.html'}
-- {date: 1996-11-1, desc: 'by Paul Gray, Information Systems Management Journal',
-  note: Winter 1996, title: 'Book review: The Politics of Information Management',
-  url: 'http://pubs.strassmann.com/gray-infopol-review.html'}
 - {date: 1996-10, desc: 'Interview with Britton Manasco, Knowledge Executive Report',
   original: 'http://www.brint.com/members/online/120205/strassmann.html', title: 'Leading
     Lights: Knowledge Strategist Paul Strassmann', url: 'http://pubs.strassmann.com/knowledge-report.html'}
-- {date: 1996-6, desc: 'by Paul Strassmann, 01 Informatique, June 1996', language: French,
-  title: Le pouvoir aux fournisseurs de services, url: 'http://pubs.strassmann.com/le-pouvoir.html'}
 - {date: 1996-6, desc: 'by Paul A. Strassmann, KPMG executive seminar, London', title: The
     Economics and Politics of Information Management, url: 'http://pubs.strassmann.com/econ-polim.html'}
 - {date: 1996-4, desc: 'Interview with Joop Kuijs, Steven Luitjens, &amp; Leo Smits,
@@ -535,23 +430,16 @@
     and Knowledge', url: 'http://pubs.strassmann.com/cik/cik-value.shtml'}
 - {date: 1996-1, desc: by Paul A. Strassmann and William Marlow, title: Risk-Free
     Access Into The Global Information Infrastructure Via Anonymous Re-Mailers, url: 'http://pubs.strassmann.com/anon-remail.html'}
-- {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', language: French,
-  original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', title: 'Paul
-    Strassmann, L''information prend le pouvoir', url: 'http://pubs.strassmann.com/01/prend-le-pouvoir.html'}
 - {date: 1995-8, desc: 'by Paul A. Strassmann, American Programmer', title: 'The Internet:
     A Way Of Outsourcing Infomercenaries?', url: 'http://pubs.strassmann.com/infomerc.html'}
 - {date: 1995-7, desc: 'US Senate Hearings, testimony by Paul A. Strassmann', title: 'S.946:
     Information Technology Management Reform Act of 1995', url: 'http://pubs.strassmann.com/senate-946.html'}
 - {date: 1995-4, desc: 'Interview, Computer Literacy Bookshops', note: Spring 1995,
   title: 'Paul Strassmann on Cybernetics, History, and Business', url: 'http://pubs.strassmann.com/clb-interview.html'}
-- {date: 1995-2, desc: 'by Neal M. Goldsmith, Business Technology', title: 'Book review:
-    The Politics of Information Management', url: 'http://pubs.strassmann.com/goldsmith.html'}
 - {date: 1995-6, desc: 'by Paul A. Strassmann, American Programmer', title: The Roots
     of Business Process Reengineering, url: 'http://pubs.strassmann.com/reeng/roots.html'}
 - {date: 1995-10, desc: excerpted from "The Politics of Information Management", title: Reengineering,
   url: 'http://pubs.strassmann.com/reengineering.html'}
-- {date: 1994-10, desc: 'by Paul Gillin, Computerworld', original: 'http://www.computerworld.com/search/data/cw_940101-941231/941031SL1031pg.html',
-  title: 'Book review: The Politics of Information Management', url: 'http://cwlive.cw.com:8080/home/print9497.nsf/All/SL1031pg'}
 - {date: '1994-10-15', desc: 'by Elizabeth Baatz, CIO Magazine', title: The Meaning
     of Value Gets a Fresh Definition, url: 'http://pubs.strassmann.com/eva-cio.html'}
 - {date: 1994-9-19, desc: 'by Bruce Caldwell, Information Week', note: An intriguing
@@ -563,170 +451,19 @@
     of Reengineering, url: 'http://pubs.strassmann.com/hocus-pocus.html'}
 - {date: 1993-11, desc: 'by Theodore Iacobuzio, Bank Systems + Technology', title: Ground
     Zero, url: 'http://pubs.strassmann.com/ground-zero.html'}
-- {date: 1992-5, desc: 'L''informatique Professionnelle, No. 104', language: French,
-  title: Interview de Paul Strassmann, url: 'http://pubs.strassmann.com/01/interview.html'}
 - {date: 1992-10, desc: 'Diane Hamblen, Chips Magazine', original: 'http://www.chips.navy.mil/archives/92_oct/file2.htm',
   title: Turning our upside down world right side up, url: 'http://pubs.strassmann.com/disa.html'}
 - {date: 1991-4, desc: 'by Paul A. Strassmann, Across the Board', title: Runaway Computer
     Projects, url: 'http://pubs.strassmann.com/runaway-projects.html'}
-- {date: 1991-4-23, desc: by Paul Strassmann, title: Testimony before the House Armed
-    Services Committee, url: 'http://pubs.strassmann.com/cim.shtml'}
-- {date: 1991-4-24, desc: by Paul Strassmann, original: 'http://www.defenselink.mil/nii/bpr/bprcd/278a.htm',
-  pdf: 636kb, title: 'Statement Before the House Appropriations Committee, Defense
-    Subcommittee', url: 'http://pubs.strassmann.com/cim/278a.pdf'}
-- {date: 1991-4-23, desc: by Paul Strassmann, original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
-  pdf: 3.65Mb, title: 'Statement Before House Armed Services Committee, Readiness
-    Subcommittee', url: 'http://pubs.strassmann.com/cim/269b.pdf'}
-- {date: 2004-9-6, desc: Computerworld, title: Why IT Will Continue to Matter, url: computerworld/it-continue.html}
-- {date: 2004-8-2, desc: Computerworld, title: 'Depend on Microsoft?', url: computerworld/ms-depend.shtml}
-- {date: 2004-7-5, desc: Computerworld, title: CIOs Must Manage What's Left, url: computerworld/cios-must-manage.shtml}
-- {date: 2004-6-7, desc: Computerworld, title: Pentagon Devises Innovative IT Strategy,
-  url: computerworld/pentagon.shtml}
-- {date: 2004-5-3, desc: Computerworld, title: The Cost of Short-Term CIOs, url: computerworld/short-term-cios.shtml}
-- {date: 2004-4-5, desc: Computerworld, title: Pick Your Perspective on IT Outsourcing,
-  url: computerworld/outsourcing-perspective.shtml}
-- {date: 2004-3-1, desc: Computerworld, title: Measuring Information Work Productivity,
-  url: computerworld/measuring-info.shtml}
-- {date: 2004-2-2, desc: Computerworld, title: Most Outsourcing Is Still for Losers,
-  url: computerworld/outsourcing-still.shtml}
-- {date: 2004-1-12, desc: Computerworld, title: Outsourcing the IT Infrastructure,
-  url: computerworld/outsourcing-it.shtml}
-- {date: 2003-12-1, desc: Computerworld, title: New Weapons of Information Warfare,
-  url: computerworld/new-weapons.shtml}
-- {date: 2003-11-3, desc: Computerworld, title: CIOs Share the Blame, url: computerworld/blame.shtml}
-- {date: 2003-10-6, desc: Computerworld, title: 'IT Spending: The CFOs Strike Back',
-  url: computerworld/cfos.shtml}
-- {date: 2003-9-1, desc: Computerworld, title: The Curse of IT Infrastructure, url: computerworld/curse.shtml}
-- {date: 2003-8-4, desc: Computerworld, title: The Search for Synergy Through Consolidation,
-  url: computerworld/synergy.shtml}
-- {date: 2003-7-7, desc: Computerworld, title: 'Era of Expansion Ends: Time for Restructuring',
-  url: computerworld/restructuring-time.shtml}
-- {date: 2003-6-2, desc: Computerworld, title: Road to IT Renaissance, url: computerworld/renaissance.shtml}
-- {date: 2003-5-12, desc: Computerworld, title: Enterprise Software's End, url: computerworld/erp-end.shtml}
-- {date: 2002-7-1, desc: Computerworld, title: Misleading Metric, url: computerworld/misleading-metric.shtml}
-- {date: 2002-6-3, desc: Computerworld, title: Playing 'Survivor', url: computerworld/survivor.shtml}
-- {date: 2002-4-1, desc: Computerworld, title: '''Tail'' Over ''Teeth''?', url: computerworld/tooth-tail.shtml}
-- {date: 2002-2-4, desc: Computerworld, title: Still a Loser's Game, url: computerworld/still-losers.shtml}
-- {date: 2002-1-7, desc: Computerworld, title: The 'Right' Spending, url: computerworld/rightspending.shtml}
-- {date: 2001-12-3, desc: Computerworld, title: Fighting McKinsey, url: computerworld/fighting-mckinsey.shtml}
-- {date: 2001-11-5, desc: Computerworld, title: Transforming IT, url: computerworld/transforming-it.shtml}
-- {date: 2001-10-1, desc: Computerworld, title: Secure the Internet, url: computerworld/secure-internet.shtml}
-- {date: 2001-9-3, desc: Computerworld, title: 'Diet? What Diet?', url: computerworld/diet.shtml}
-- {date: 2001-8-6, desc: Computerworld, title: Uncertain Sentries, url: computerworld/uncertain-sentries.shtml}
-- {date: 2001-7-2, desc: Computerworld, title: GE's B2B Retreat, url: computerworld/ge-b2b.shtml}
-- {date: 2001-6-4, desc: Computerworld, title: Bubble Trouble, url: computerworld/bubble-trouble.shtml}
-- {date: 2001-5-7, desc: Computerworld, title: 'A Deal Gone Bad?', url: computerworld/dealgonebad.shtml}
-- {date: 2001-4-9, desc: Computerworld, title: A Growing Bubble, url: computerworld/growing-bubble.shtml}
-- {date: 2001-3-5, desc: Computerworld, title: Debunking Dogma, url: computerworld/debunking-dogma.shtml}
-- {date: 2001-2-5, desc: Computerworld, title: Signs on Wall St, url: computerworld/signs.shtml}
-- {date: 2001-1-8, desc: Computerworld, title: Fuzzy Math in D.C., url: computerworld/fuzzymath.shtml}
-- {date: 2000-12-4, desc: Computerworld, title: Fishing for Data, url: computerworld/datafishing.shtml}
-- {date: 2000-11-6, desc: Computerworld, title: The Xerox Tragedy, url: computerworld/xerox.shtml}
-- {date: 2000-10-2, desc: Computerworld, title: The Impact of B2B, url: computerworld/b2b-impact.shtml}
-- {date: 2000-9-4, desc: Computerworld, title: Behind the Hype, url: computerworld/behind-hype.shtml}
-- {date: 2000-8-7, desc: Computerworld, title: 'Seeds of Arrogance?', url: computerworld/seeds-arrogance.shtml}
-- {date: 2000-7-3, desc: Computerworld, title: Behind The Claims, url: computerworld/ms-claims.shtml}
-- {date: 2000-6-5, desc: Computerworld, title: 'GM''s Info Gamble: The Numbers Behind
-    a Story', url: computerworld/infogamble.shtml}
-- {date: 2000-5-1, desc: Computerworld, title: Finding Net Profits, url: computerworld/netprofits.shtml}
-- {date: 2000-4-3, desc: Computerworld, title: Practice Ethical IT, url: computerworld/ethical-IT.shtml}
-- {date: 2000-3-6, desc: Computerworld, title: Fighting the Jobs Gap, url: computerworld/jobs-gap.shtml}
-- {date: 2000-2-7, desc: Computerworld, title: The Microsoft Shift, url: computerworld/ms-shift.shtml}
-- {date: 2000-1-10, desc: Computerworld, title: The Y2K 'Ransom', url: computerworld/y2k-ransom.shtml}
-- {date: 2000-1-1, desc: Computerworld, title: No Reason for Euphoria, url: computerworld/y2k-no-euphoria.shtml}
-- {date: 1999-12-6, desc: Computerworld, title: 'GAAP Helps Whom?', url: computerworld/gaap.shtml}
-- {date: 1999-11-1, desc: Computerworld, title: Innovation Paradox, url: computerworld/innovation-paradox.shtml}
-- {date: 1999-10-4, desc: Computerworld, title: The Knowledge Fuss, url: computerworld/knowledge-fuss.shtml}
-- {date: 1999-9-6, desc: Computerworld, title: Paradox Revisited, url: computerworld/paradoxrevisited.shtml}
-- {date: 1999-8-9, desc: Computerworld, title: The Search for Productivity, url: computerworld/prod-search.shtml}
-- {date: 1999-8-2, desc: Computerworld, title: IT's Upcoming Shift, url: computerworld/it-shift.shtml}
-- {date: 1999-7-5, desc: Computerworld, title: End Build-and-Junk, url: computerworld/end-junk.shtml}
-- {date: 1999-6-7, desc: Computerworld, title: 'Credit Greenspan, not Computers',
-  url: computerworld/greenspan.shtml}
-- {date: 1999-5-3, desc: Computerworld, title: IT Paradox Number, url: computerworld/paradox.shtml}
-- {date: 1999-3-29, desc: Computerworld, title: 'How Are Your Y2K Contingency Plans?',
-  url: computerworld/y2kplans.shtml}
-- {date: 1999-3-1, desc: Computerworld, title: Deflating Microsoft, url: computerworld/ms-nation.shtml}
-- {date: 1999-2-1, desc: Computerworld, title: Women Take Over, url: computerworld/women.shtml}
-- {date: 1999-1-4, desc: Computerworld, title: 'The Battle of the Millennium: CIOs
-    vs. Lawyers', url: computerworld/battley2k/}
-- {date: '1998-11-30', desc: Computerworld, title: 'Microsoft: A U.S. Security Threat',
-  url: computerworld/ms-security.shtml}
-- {date: 1998-11-2, desc: Computerworld, title: 'For IT Assurance, Get Some Insurance',
-  url: computerworld/assurance.shtml}
-- {date: 1998-10-5, desc: Computerworld, title: The Road To Failure Is Paved With
-    Glib Buzzwords, url: computerworld/buzzwords.shtml}
-- {date: 1998-8-31, desc: Computerworld, title: Year 2000 Opens Door to More Federal
-    Rules for IT, url: computerworld/secit.shtml}
-- {date: 1998-8-3, desc: Computerworld, title: 'Year 2000 Costs: Making Sense of a
-    Senseless Debate', url: computerworld/y2kcosts.shtml}
-- {date: 1998-7-7, desc: Computerworld, title: Quack Software Warranties Have Got
-    To Go, url: computerworld/quack.shtml}
-- {date: 1998-6-8, desc: Computerworld, title: Quality Is the Answer to the Labor
-    'Crisis', url: computerworld/quality.shtml}
-- {date: 1998-5-18, desc: Computerworld, title: Hard Data (At Last) On Year 2000 Costs,
-  url: computerworld/y2kdata.shtml}
-- {date: 1998-5-11, desc: Computerworld, title: Boulders On The Road Ahead, url: computerworld/boulders.shtml}
-- {date: 1998-4-6, desc: Computerworld, title: Taking the Measure of Knowledge Assets,
-  url: computerworld/measurek.shtml}
-- {date: 1998-3-2, desc: Computerworld, title: 'Year 2000 A ''Bug''? Swat That Word
-    From Your Dictionary', url: computerworld/notabug.shtml}
-- {date: 1998-2-2, desc: Computerworld, title: 'Bogus Payback: Easy Answers Create
-    Long-Term Problem', url: computerworld/bogus-roi.shtml}
-- {date: 1998-1-12, desc: Computerworld, title: Head Count is No Way to Measure How
-    Good You Are, url: computerworld/headcount.shtml}
-- {date: '1997-10-13', desc: Computerworld, title: 'Microsoft At Your Service? Could
-    Be', url: computerworld/ms-service.shtml}
-- {date: 1997-9-15, desc: Computerworld, title: Computers Have Yet To Make Companies
-    More Productive, url: computerworld/yetprod.shtml}
-- {date: 1997-8-11, desc: Computerworld, title: 'Beyond the Internet: The Next Computer
-    Cycle', url: computerworld/next-cycle.shtml}
-- {date: 1997-7-14, desc: Computerworld, title: 'To Lower Ownership Costs, Improve
-    Management', url: computerworld/downtime.shtml}
-- {date: 1997-6-13, desc: Computerworld, title: The Real Costs of the Year 2000 Disaster,
-  url: computerworld/real2000.shtml}
-- {date: 1997-5-12, desc: Computerworld, title: 'Warning: 1998 Budget Cuts Ahead',
-  url: computerworld/budget-cuts.shtml}
-- {date: 1997-3-10, desc: Computerworld, title: 'Next Blow To IS'' Image: The Cost
-    Of Owning PCs', url: computerworld/imagecost.shtml}
-- {date: 1997-2-10, desc: Computerworld, title: 'What''s the Best IS Defense? Being
-    Prepared', url: computerworld/be-prepared.shtml}
-- {date: 1997-1-13, desc: Computerworld, title: The Real Costs of Personal Computers,
-  url: computerworld/real-costs.shtml}
-- {date: 1996-12-9, desc: Computerworld, title: 'Software: So Bad, It Can Only Get
-    Better', url: computerworld/bad-software.shtml}
-- {date: '1996-11-11', desc: Computerworld, title: Workload Without Payoff, url: computerworld/workload.shtml}
-- {date: '1996-10-14', desc: Computerworld, title: 'Best Practices? Or Placebos?',
-  url: computerworld/best-or-placebo.shtml}
-- {date: 1996-8-5, desc: Computerworld, title: 'Information: America''s Favorite Investment',
-  url: computerworld/spending.shtml}
-- {date: 1996-6-10, desc: Computerworld, title: CIO Job-Holding Expectancy, url: computerworld/jobholding.shtml}
-- {date: 1996-4-15, desc: Computerworld, title: 'Spending Without Results?', url: computerworld/spend-no-results.shtml}
-- {date: 1996-2-19, desc: Computerworld, title: 'Computers Don''t Make Money, People
-    Do', url: computerworld/people-do.shtml}
-- {date: '1995-12-18', desc: Computerworld, title: The Myth of Best Practices, url: computerworld/best-myth.shtml}
-- {date: 1995-10-9, desc: Computerworld, title: Keep Improving (Premier 100 Issue),
-  url: computerworld/keep-improving.shtml}
-- {date: 1995-9-19, desc: Computerworld, title: 'Productivity, not Bigness, is Beautiful',
-  url: computerworld/beautiful.shtml}
-- {date: 1995-8-21, desc: Computerworld, title: 'Outsourcing: A Game for Losers',
-  url: computerworld/outsource-losers.shtml}
-- {date: 1995-6-12, desc: Computerworld, title: Managing Capital Investment in Computers,
-  url: computerworld/capital.shtml}
-- {date: 1995-5-15, desc: Computerworld, title: Virtual Outsourcing, url: computerworld/virtual-outsourcing.shtml}
-- {date: 1995-4-3, desc: Computerworld, title: Trumped-up Profits Do A Disservice,
-  url: computerworld/excessive.shtml}
-- {date: 1995-2-27, desc: Computerworld, title: 'Governance: The New IS Agenda', url: computerworld/governance.shtml}
-- {date: 1995-1-9, desc: Computerworld, title: E-mail is Only One Path to Success,
-  url: computerworld/email.shtml}
-- {date: '1994-11-14', desc: Computerworld, title: Ensuring Privacy Protection for
-    All, url: computerworld/ensure-privacy.shtml}
-- {date: 1994-9-19, desc: Computerworld, title: How We Evaluated Productivity (Premier
-    100 Issue), url: computerworld/eval-productivity.shtml}
-- {date: 1994-8-22, desc: Computerworld, title: Corporate Architecture Must Play Politics,
-  url: computerworld/corp-arch.shtml}
-- {date: 1994-7-4, desc: Computerworld, title: 'CIOs: The Chosen Elite?', url: computerworld/chosen-elite.shtml}
-- {date: 1994-6-6, desc: Computerworld, title: Centralization's payback, url: computerworld/centralization.shtml}
+- {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', language: French,
+  original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', title: 'Paul
+    Strassmann, L''information prend le pouvoir', url: pubs/01/prend-le-pouvoir.html}
+- {date: 1992-5, desc: 'L''informatique Professionnelle, No. 104', language: French,
+  title: Interview de Paul Strassmann, url: pubs/01/interview.html}
+- {date: 2004-1-30, desc: 01 Informatique, language: French, pdf: 102kb, title: Les
+    processus de restructuration et de licenciement ne sont pas achev&eacute;s, url: pubs/01/01i-2004.pdf}
+- {date: 1996-6, desc: 'by Paul Strassmann, 01 Informatique, June 1996', language: French,
+  title: Le pouvoir aux fournisseurs de services, url: pubs/01/le-pouvoir.html}
 - {date: 1977-8-10, desc: 'Information Federation for Information Processing (IFIP)
     Congress, Toronto', pdf: 1.3MB, title: Organizational Productivity - The Role
     of Information Technology, url: pubs/62-77/023-IFIP-organizational-productivity.pdf}
@@ -782,10 +519,93 @@
 - {date: 1962-8, desc: 'The Cost Optimization - COPT - System: Management Technology
     Journal of The Institute of Management Sciences', pdf: 1.1MB, title: A Plant-Warehouse
     System with Variable Lead-Times and Variable Re-Order Levels, url: pubs/62-77/001-plant-warehouse-system.pdf}
+- {date: 2014-10, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/13437',
+  title: A New Approach Is Needed to Protect Defense Department Cybersystems, url: pubs/afcea/2014-10.html}
+- {date: 2014-01, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/12110',
+  title: Readying for Third-Generation Defense Systems, url: pubs/afcea/2014-01.html}
+- {date: 2013-9, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/11602',
+  title: Bringing Together Signal and Cyber, url: pubs/afcea/2013-09.html}
+- {date: 2013-7, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/11269',
+  title: Asymmetric Cyberwarfare Demands a New Information Assurance Approach, url: pubs/afcea/2013-07.html}
+- {date: 2012-12, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10375',
+  title: Implementing the Defense Department Cloud Computer Strategy Poses New Challenges,
+  url: pubs/afcea/2012-12.html}
+- {date: 2012-11, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10269',
+  title: Defense Board Computing Recommendations Lack Strength, url: pubs/afcea/2012-11.html}
+- {date: 2012-10, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10198',
+  title: Evolution Is Leading Us to Software-Defined Networks, url: pubs/afcea/2012-10.html}
+- {date: 2012-09, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/10106',
+  title: Thrifty Can Do It for the Defense Department, url: pubs/afcea/2012-09.html}
+- {date: 2012-08, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=3030&zoneid=357',
+  title: Old Defense Department Silos Must Be Swept Out, url: pubs/afcea/2012-08.html}
+- {date: 2012-07, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=3003&zoneid=200',
+  title: The Defense Department Must Account for its Information Technology Silos,
+  url: pubs/afcea/2012-07.html}
+- {date: 2012-06, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2978&zoneid=200',
+  title: 'How Efficient Is the Management of Defense Enterprise Systems?', url: pubs/afcea/2012-06.html}
+- {date: 2012-05, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2949&zoneid=200',
+  title: The Efficiency of Defense Department Information Technology Spending, url: pubs/afcea/2012-05.html}
+- {date: 2012-04, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2922&zoneid=345',
+  title: Now May Be the Time for Defense Department Enterprise Email, url: pubs/afcea/2012-04.html}
+- {date: 2012-03, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2894&zoneid=200',
+  title: 'The Defense Department Has Its Information Systems Strategy--Now What?',
+  url: pubs/afcea/2012-03.html}
+- {date: 2012-02, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2869&zoneid=338',
+  title: The Key to Cutting Information Technology Costs, url: pubs/afcea/2012-02.html}
+- {date: 2012-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2832&zoneid=200',
+  title: Listen Carefully ... Computers Now Can Understand What You Say, url: pubs/afcea/2012-01.html}
+- {date: 2011-11, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2786&zoneid=333',
+  title: Two Barriers Block New Architecture, url: pubs/afcea/2011-11.html}
+- {date: 2011-9, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2725&zoneid=327',
+  title: About Face, url: pubs/afcea/2011-09.html}
+- {date: 2011-7, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2665&zoneid=323',
+  title: A Culture Shock Is Coming, url: pubs/afcea/2011-7.html}
+- {date: 2011-5, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2609&zoneid=316',
+  title: Reaching the Clouds Won't be a One-Stop Trip, url: pubs/afcea/2011-5.html}
+- {date: 2011-03, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2552&zoneid=312',
+  title: Fewer Data Centers Can Be a Good Thing, url: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2552&zoneid=312'}
+- {date: 2011-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2498&zoneid=308',
+  title: Desktop Virtualization Offers Benefits Now, url: pubs/afcea/2011-01.html}
+- {date: 2010-11, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2443&zoneid=303',
+  title: Army's Private Cloud Goal Is Praiseworthy but Problematic, url: pubs/afcea/2010-11.html}
+- {date: 2010-8-23, desc: AFCEA SignalScape (part 1 of 2), original: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8000/',
+  title: Cyberdefense and DoD Culture, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8000/'}
+- {date: 2010-8-23, desc: AFCEA SignalScape (part 2 of 2), original: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8021/',
+  title: How to Improve Cyberdefenses at the DoD, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8021/'}
+- {date: 2010-7-14, desc: AFCEA SignalScape, title: Cybersecurity Is Asymmetric, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/07/guest-blog-cybersecurity-is-asymmetric/'}
+- {date: 2010-8-06, desc: 'by Beverley T. Shaeffer, AFCEA SIGNAL Magazine', title: Defense
+    Network Evolution Into Unknown Future, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/defense-network-evolution-into-unknown-future/'}
+- {date: 2010-12, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2470&zoneid=306',
+  title: Navy Prepares to Take An Important First Step, url: pubs/afcea/2010-12.html}
+- {date: 2010-8, desc: AFCEA SignalScape, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2364',
+  title: Defense Network Concepts Have a Dynamic History, url: pubs/afcea/2010-08-b.html}
+- {date: 2010-8, desc: AFCEA SignalScape, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2363',
+  title: Information Dominance Bows to Network Limitations, url: pubs/afcea/2010-08-a.html}
+- {date: 2010-6-16, desc: AFCEA SignalScape, title: 'Virtualization of Servers: The
+    First Step Into the Cloud', url: 'http://www.afcea.org/signal/signalscape/index.php/2010/06/virtualization-of-servers-the-first-step-into-the-cloud/'}
+- {date: 2010-5-21, desc: AFCEA SignalScape, original: 'http://strassmann.com/pubs/afcea/2010-5-21.html',
+  title: Gentlemen Do Not Open Attachments, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/05/guest-blog-gentlemen-do-not-open-attachments'}
+- {date: 2010-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2163&zoneid=284',
+  title: Social (Network) Security, url: pubs/afcea/2010-01.html}
+- {date: 2009-11, desc: AFCEA Signal, pdf: 940KB, title: The Internet's Vulnerabilities
+    are Built Into Its Infrastructure, url: pubs/afcea/2009-11.pdf}
+- {date: 2009-7, desc: AFCEA Signal, pdf: 3.5MB, title: Network-Centric Systems Need
+    Standards and Metrics, url: pubs/afcea/2009-07.pdf}
+- {date: 2009-6-15, desc: AFCEA Signal, title: Future Budget Does Not Bode Well for
+    Network Centricity, url: pubs/afcea/2009-06.html}
+- {date: 2008-11, desc: AFCEA Signal, title: 'Does the 2009 Budget Support Network-Centric
+    Missions?', url: pubs/afcea/2008-11.html}
+- {date: 2003-3-19, desc: AFCEA talk, title: Power Politics of the CIO, url: pubs/afcea/2003-3.html}
+- {date: '1989-05-26', desc: Babbage Institute, original: 'http://purl.umn.edu/107640',
+  title: Interview with Paul A. Strassmann (part 2), url: pubs/babbage/babbage-oh172pas.pdf}
+- {date: '1987-05-15', desc: Babbage Institute, original: 'http://purl.umn.edu/107641',
+  title: Interview with Paul A. Strassmann (part 1), url: pubs/babbage/babbage-oh131pas.pdf}
 - {author: Larry Dignan with Paul Strassmann, date: 2004-10-18, desc: Baseline, title: The
     500 Companies That Manage Information Best, url: pubs/baseline/2004-10-a.html}
 - {author: Larry Dignan with Paul Strassmann, date: 2004-10-18, desc: Baseline, title: Who
     Led the Baseline 500 and Why, url: pubs/baseline/2004-10-b.html}
+- {author: Robert Hertzberg, date: 2007-04-11, desc: eWeek, original: 'http://www.eweek.com/article2/0,1895,2113008,00.asp',
+  pdf: 749kb, title: The 100 Smartest Companies of 2007, url: pubs/baseline/2007-04-eweek.pdf}
 - {date: 2008-01, desc: Baseline Magazine, pdf: 480kb, title: 'Real Numbers: 5 Secure
     Reasons for Thin Clients', url: pubs/baseline/2008-01.pdf}
 - {date: 2007-10, desc: Baseline Magazine, original: 'http://www.baselinemag.com/article2/0,1540,2190857,00.asp',
@@ -868,18 +688,22 @@
     a Bite Out of Overhead', url: pubs/baseline/2005-05-a.pdf}
 - {date: 2005-5, desc: Baseline Magazine, pdf: 28kb, title: 'Measuring Value: Does
     Your Tech Budget Have Teeth?', url: pubs/baseline/2005-05-b.pdf}
-- {date: 2005-5, desc: Baseline Magazine, title: 'Calculator: Figuring Your Tooth-to-Tail
-    Ratio', url: 'http://www.baselinemag.com/article2/0,1397,1815748,00.asp'}
 - {date: 2005-3, desc: Baseline Magazine, pdf: 574kb, title: 'Real Numbers: Does Outsourcing
     Deliver the Goods?', url: pubs/baseline/2005-03.pdf}
-- {date: 2005-3, desc: Baseline Magazine, title: 'Calculator: Calculating an Outsourcing
-    Ratio', url: 'http://www.baselinemag.com/article2/0,1540,1776165,00.asp'}
 - {date: 2005-01, desc: Baseline Magazine, original: 'http://www.baselinemag.com/print_article2/0,2533,a=142922,00.asp',
   title: Why JP Morgan Chase Really Dropped IBM, url: pubs/baseline/2005-01.php}
 - {date: 2004-10, desc: Baseline Magazine, title: The 500 Companies That Manage Information
     Best, url: pubs/baseline/2004-10-a.php}
 - {date: 2004-10, desc: Baseline Magazine, title: Who Led the Baseline 500 and Why,
   url: pubs/baseline/2004-10-b.php}
+- {date: 1991-4-23, desc: by Paul Strassmann, title: Testimony before the House Armed
+    Services Committee, url: pubs/cim/cim.html}
+- {date: 1991-4-24, desc: by Paul Strassmann, original: 'http://www.defenselink.mil/nii/bpr/bprcd/278a.htm',
+  pdf: 636kb, title: 'Statement Before the House Appropriations Committee, Defense
+    Subcommittee', url: pubs/cim/278a.pdf}
+- {date: 1991-4-23, desc: by Paul Strassmann, original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
+  pdf: 3.65Mb, title: 'Statement Before House Armed Services Committee, Readiness
+    Subcommittee', url: pubs/cim/269b.pdf}
 - {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: Out of Alignment, url: pubs/computerworld/alignment.html}
@@ -897,31 +721,219 @@
   tags: [Computerworld, shoes, socks]
   title: The Coming Battle of the Titans
   url: pubs/computerworld/titans.html
+- {date: 2004-3, desc: Computerworld, title: Measuring Information Work Productivity,
+  url: pubs/computerworld/measuring-info.shtml}
+- {date: 2004-3, desc: Computerworld, title: Defining and Measuring Information Productivity,
+  url: pubs/computerworld/rankings/ip_rankings_v3.pdf}
+- {date: 2003-10, desc: Computerworld Polska, language: Polish, title: Ka&#380;dy
+    po swojemu, url: pubs/computerworld/pl/idg-1.html}
+- {date: 2003-5, desc: Online Tool, title: IT Spending Assessment, url: 'http://www.computerworld.com/managementtopics/roi/peercomparison'}
+- {date: 2003-5-12, desc: by Gary Anthes, title: First-Class Upgrade, url: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html'}
+- {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
+    of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
+- {date: 2002-12, desc: Computerworld Espa&ntilde;a, language: Spanish, title: La
+    paradoja de la innovaci&oacute;n, url: 'http://www.idg.es/computerworld/CUTI07.asp'}
+- {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', title: 'A comprehensive
+    ROI, budgeting and benchmarking tool', url: 'http://www.strassmann.com/products/valueit/2002-7-29-cw.shtml'}
+- {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: pubs/computerworld/y2kdebate}
+- {date: 1994-10, desc: 'by Paul Gillin, Computerworld', original: 'http://www.computerworld.com/search/data/cw_940101-941231/941031SL1031pg.html',
+  title: 'Book review: The Politics of Information Management', url: 'http://cwlive.cw.com:8080/home/print9497.nsf/All/SL1031pg'}
+- {date: 2004-9-6, desc: Computerworld, title: Why IT Will Continue to Matter, url: pubs/computerworld/it-continue.html}
+- {date: 2004-8-2, desc: Computerworld, title: 'Depend on Microsoft?', url: pubs/computerworld/ms-depend.shtml}
+- {date: 2004-7-5, desc: Computerworld, title: CIOs Must Manage What's Left, url: pubs/computerworld/cios-must-manage.shtml}
+- {date: 2004-6-7, desc: Computerworld, title: Pentagon Devises Innovative IT Strategy,
+  url: pubs/computerworld/pentagon.shtml}
+- {date: 2004-5-3, desc: Computerworld, title: The Cost of Short-Term CIOs, url: pubs/computerworld/short-term-cios.shtml}
+- {date: 2004-4-5, desc: Computerworld, title: Pick Your Perspective on IT Outsourcing,
+  url: pubs/computerworld/outsourcing-perspective.shtml}
+- {date: 2004-3-1, desc: Computerworld, title: Measuring Information Work Productivity,
+  url: pubs/computerworld/measuring-info.shtml}
+- {date: 2004-2-2, desc: Computerworld, title: Most Outsourcing Is Still for Losers,
+  url: pubs/computerworld/outsourcing-still.shtml}
+- {date: 2004-1-12, desc: Computerworld, title: Outsourcing the IT Infrastructure,
+  url: pubs/computerworld/outsourcing-it.shtml}
+- {date: 2003-12-1, desc: Computerworld, title: New Weapons of Information Warfare,
+  url: pubs/computerworld/new-weapons.shtml}
+- {date: 2003-11-3, desc: Computerworld, title: CIOs Share the Blame, url: pubs/computerworld/blame.shtml}
+- {date: 2003-10-6, desc: Computerworld, title: 'IT Spending: The CFOs Strike Back',
+  url: pubs/computerworld/cfos.shtml}
+- {date: 2003-9-1, desc: Computerworld, title: The Curse of IT Infrastructure, url: pubs/computerworld/curse.shtml}
+- {date: 2003-8-4, desc: Computerworld, title: The Search for Synergy Through Consolidation,
+  url: pubs/computerworld/synergy.shtml}
+- {date: 2003-7-7, desc: Computerworld, title: 'Era of Expansion Ends: Time for Restructuring',
+  url: pubs/computerworld/restructuring-time.shtml}
+- {date: 2003-6-2, desc: Computerworld, title: Road to IT Renaissance, url: pubs/computerworld/renaissance.shtml}
+- {date: 2003-5-12, desc: Computerworld, title: Enterprise Software's End, url: pubs/computerworld/erp-end.shtml}
+- {date: 2002-7-1, desc: Computerworld, title: Misleading Metric, url: pubs/computerworld/misleading-metric.shtml}
+- {date: 2002-6-3, desc: Computerworld, title: Playing 'Survivor', url: pubs/computerworld/survivor.shtml}
+- {date: 2002-4-1, desc: Computerworld, title: '''Tail'' Over ''Teeth''?', url: pubs/computerworld/tooth-tail.shtml}
+- {date: 2002-2-4, desc: Computerworld, title: Still a Loser's Game, url: pubs/computerworld/still-losers.shtml}
+- {date: 2002-1-7, desc: Computerworld, title: The 'Right' Spending, url: pubs/computerworld/rightspending.shtml}
+- {date: 2001-12-3, desc: Computerworld, title: Fighting McKinsey, url: pubs/computerworld/fighting-mckinsey.shtml}
+- {date: 2001-11-5, desc: Computerworld, title: Transforming IT, url: pubs/computerworld/transforming-it.shtml}
+- {date: 2001-10-1, desc: Computerworld, title: Secure the Internet, url: pubs/computerworld/secure-internet.shtml}
+- {date: 2001-9-3, desc: Computerworld, title: 'Diet? What Diet?', url: pubs/computerworld/diet.shtml}
+- {date: 2001-8-6, desc: Computerworld, title: Uncertain Sentries, url: pubs/computerworld/uncertain-sentries.shtml}
+- {date: 2001-7-2, desc: Computerworld, title: GE's B2B Retreat, url: pubs/computerworld/ge-b2b.shtml}
+- {date: 2001-6-4, desc: Computerworld, title: Bubble Trouble, url: pubs/computerworld/bubble-trouble.shtml}
+- {date: 2001-5-7, desc: Computerworld, title: 'A Deal Gone Bad?', url: pubs/computerworld/dealgonebad.shtml}
+- {date: 2001-4-9, desc: Computerworld, title: A Growing Bubble, url: pubs/computerworld/growing-bubble.shtml}
+- {date: 2001-3-5, desc: Computerworld, title: Debunking Dogma, url: pubs/computerworld/debunking-dogma.shtml}
+- {date: 2001-2-5, desc: Computerworld, title: Signs on Wall St, url: pubs/computerworld/signs.shtml}
+- {date: 2001-1-8, desc: Computerworld, title: Fuzzy Math in D.C., url: pubs/computerworld/fuzzymath.shtml}
+- {date: 2000-12-4, desc: Computerworld, title: Fishing for Data, url: pubs/computerworld/datafishing.shtml}
+- {date: 2000-11-6, desc: Computerworld, title: The Xerox Tragedy, url: pubs/computerworld/xerox.shtml}
+- {date: 2000-10-2, desc: Computerworld, title: The Impact of B2B, url: pubs/computerworld/b2b-impact.shtml}
+- {date: 2000-9-4, desc: Computerworld, title: Behind the Hype, url: pubs/computerworld/behind-hype.shtml}
+- {date: 2000-8-7, desc: Computerworld, title: 'Seeds of Arrogance?', url: pubs/computerworld/seeds-arrogance.shtml}
+- {date: 2000-7-3, desc: Computerworld, title: Behind The Claims, url: pubs/computerworld/ms-claims.shtml}
+- {date: 2000-6-5, desc: Computerworld, title: 'GM''s Info Gamble: The Numbers Behind
+    a Story', url: pubs/computerworld/infogamble.shtml}
+- {date: 2000-5-1, desc: Computerworld, title: Finding Net Profits, url: pubs/computerworld/netprofits.shtml}
+- {date: 2000-4-3, desc: Computerworld, title: Practice Ethical IT, url: pubs/computerworld/ethical-IT.shtml}
+- {date: 2000-3-6, desc: Computerworld, title: Fighting the Jobs Gap, url: pubs/computerworld/jobs-gap.shtml}
+- {date: 2000-2-7, desc: Computerworld, title: The Microsoft Shift, url: pubs/computerworld/ms-shift.shtml}
+- {date: 2000-1-10, desc: Computerworld, title: The Y2K 'Ransom', url: pubs/computerworld/y2k-ransom.shtml}
+- {date: 2000-1-1, desc: Computerworld, title: No Reason for Euphoria, url: pubs/computerworld/y2k-no-euphoria.shtml}
+- {date: 1999-12-6, desc: Computerworld, title: 'GAAP Helps Whom?', url: pubs/computerworld/gaap.shtml}
+- {date: 1999-11-1, desc: Computerworld, title: Innovation Paradox, url: pubs/computerworld/innovation-paradox.shtml}
+- {date: 1999-10-4, desc: Computerworld, title: The Knowledge Fuss, url: pubs/computerworld/knowledge-fuss.shtml}
+- {date: 1999-9-6, desc: Computerworld, title: Paradox Revisited, url: pubs/computerworld/paradoxrevisited.shtml}
+- {date: 1999-8-9, desc: Computerworld, title: The Search for Productivity, url: pubs/computerworld/prod-search.shtml}
+- {date: 1999-8-2, desc: Computerworld, title: IT's Upcoming Shift, url: pubs/computerworld/it-shift.shtml}
+- {date: 1999-7-5, desc: Computerworld, title: End Build-and-Junk, url: pubs/computerworld/end-junk.shtml}
+- {date: 1999-6-7, desc: Computerworld, title: 'Credit Greenspan, not Computers',
+  url: pubs/computerworld/greenspan.shtml}
+- {date: 1999-5-3, desc: Computerworld, title: IT Paradox Number, url: pubs/computerworld/paradox.shtml}
+- {date: 1999-3-29, desc: Computerworld, title: 'How Are Your Y2K Contingency Plans?',
+  url: pubs/computerworld/y2kplans.shtml}
+- {date: 1999-3-1, desc: Computerworld, title: Deflating Microsoft, url: pubs/computerworld/ms-nation.shtml}
+- {date: 1999-2-1, desc: Computerworld, title: Women Take Over, url: pubs/computerworld/women.shtml}
+- {date: 1999-1-4, desc: Computerworld, title: 'The Battle of the Millennium: CIOs
+    vs. Lawyers', url: pubs/computerworld/battley2k.html}
+- {date: '1998-11-30', desc: Computerworld, title: 'Microsoft: A U.S. Security Threat',
+  url: pubs/computerworld/ms-security.shtml}
+- {date: 1998-11-2, desc: Computerworld, title: 'For IT Assurance, Get Some Insurance',
+  url: pubs/computerworld/assurance.shtml}
+- {date: 1998-10-5, desc: Computerworld, title: The Road To Failure Is Paved With
+    Glib Buzzwords, url: pubs/computerworld/buzzwords.shtml}
+- {date: 1998-8-31, desc: Computerworld, title: Year 2000 Opens Door to More Federal
+    Rules for IT, url: pubs/computerworld/secit.shtml}
+- {date: 1998-8-3, desc: Computerworld, title: 'Year 2000 Costs: Making Sense of a
+    Senseless Debate', url: pubs/computerworld/y2kcosts.shtml}
+- {date: 1998-7-7, desc: Computerworld, title: Quack Software Warranties Have Got
+    To Go, url: pubs/computerworld/quack.shtml}
+- {date: 1998-6-8, desc: Computerworld, title: Quality Is the Answer to the Labor
+    'Crisis', url: pubs/computerworld/quality.shtml}
+- {date: 1998-5-18, desc: Computerworld, title: Hard Data (At Last) On Year 2000 Costs,
+  url: pubs/computerworld/y2kdata.shtml}
+- {date: 1998-5-11, desc: Computerworld, title: Boulders On The Road Ahead, url: pubs/computerworld/boulders.shtml}
+- {date: 1998-4-6, desc: Computerworld, title: Taking the Measure of Knowledge Assets,
+  url: pubs/computerworld/measurek.shtml}
+- {date: 1998-3-2, desc: Computerworld, title: 'Year 2000 A ''Bug''? Swat That Word
+    From Your Dictionary', url: pubs/computerworld/notabug.shtml}
+- {date: 1998-2-2, desc: Computerworld, title: 'Bogus Payback: Easy Answers Create
+    Long-Term Problem', url: pubs/computerworld/bogus-roi.shtml}
+- {date: 1998-1-12, desc: Computerworld, title: Head Count is No Way to Measure How
+    Good You Are, url: pubs/computerworld/headcount.shtml}
+- {date: '1997-10-13', desc: Computerworld, title: 'Microsoft At Your Service? Could
+    Be', url: pubs/computerworld/ms-service.shtml}
+- {date: 1997-9-15, desc: Computerworld, title: Computers Have Yet To Make Companies
+    More Productive, url: pubs/computerworld/yetprod.shtml}
+- {date: 1997-8-11, desc: Computerworld, title: 'Beyond the Internet: The Next Computer
+    Cycle', url: pubs/computerworld/next-cycle.shtml}
+- {date: 1997-7-14, desc: Computerworld, title: 'To Lower Ownership Costs, Improve
+    Management', url: pubs/computerworld/downtime.shtml}
+- {date: 1997-6-13, desc: Computerworld, title: The Real Costs of the Year 2000 Disaster,
+  url: pubs/computerworld/real2000.shtml}
+- {date: 1997-5-12, desc: Computerworld, title: 'Warning: 1998 Budget Cuts Ahead',
+  url: pubs/computerworld/budget-cuts.shtml}
+- {date: 1997-3-10, desc: Computerworld, title: 'Next Blow To IS'' Image: The Cost
+    Of Owning PCs', url: pubs/computerworld/imagecost.shtml}
+- {date: 1997-2-10, desc: Computerworld, title: 'What''s the Best IS Defense? Being
+    Prepared', url: pubs/computerworld/be-prepared.shtml}
+- {date: 1997-1-13, desc: Computerworld, title: The Real Costs of Personal Computers,
+  url: pubs/computerworld/real-costs.shtml}
+- {date: 1996-12-9, desc: Computerworld, title: 'Software: So Bad, It Can Only Get
+    Better', url: pubs/computerworld/bad-software.shtml}
+- {date: '1996-11-11', desc: Computerworld, title: Workload Without Payoff, url: pubs/computerworld/workload.shtml}
+- {date: '1996-10-14', desc: Computerworld, title: 'Best Practices? Or Placebos?',
+  url: pubs/computerworld/best-or-placebo.shtml}
+- {date: 1996-8-5, desc: Computerworld, title: 'Information: America''s Favorite Investment',
+  url: pubs/computerworld/spending.shtml}
+- {date: 1996-6-10, desc: Computerworld, title: CIO Job-Holding Expectancy, url: pubs/computerworld/jobholding.shtml}
+- {date: 1996-4-15, desc: Computerworld, title: 'Spending Without Results?', url: pubs/computerworld/spend-no-results.shtml}
+- {date: 1996-2-19, desc: Computerworld, title: 'Computers Don''t Make Money, People
+    Do', url: pubs/computerworld/people-do.shtml}
+- {date: '1995-12-18', desc: Computerworld, title: The Myth of Best Practices, url: pubs/computerworld/best-myth.shtml}
+- {date: 1995-10-9, desc: Computerworld, title: Keep Improving (Premier 100 Issue),
+  url: pubs/computerworld/keep-improving.shtml}
+- {date: 1995-9-19, desc: Computerworld, title: 'Productivity, not Bigness, is Beautiful',
+  url: pubs/computerworld/beautiful.shtml}
+- {date: 1995-8-21, desc: Computerworld, title: 'Outsourcing: A Game for Losers',
+  url: pubs/computerworld/outsource-losers.shtml}
+- {date: 1995-6-12, desc: Computerworld, title: Managing Capital Investment in Computers,
+  url: pubs/computerworld/capital.shtml}
+- {date: 1995-5-15, desc: Computerworld, title: Virtual Outsourcing, url: pubs/computerworld/virtual-outsourcing.shtml}
+- {date: 1995-4-3, desc: Computerworld, title: Trumped-up Profits Do A Disservice,
+  url: pubs/computerworld/excessive.shtml}
+- {date: 1995-2-27, desc: Computerworld, title: 'Governance: The New IS Agenda', url: pubs/computerworld/governance.shtml}
+- {date: 1995-1-9, desc: Computerworld, title: E-mail is Only One Path to Success,
+  url: pubs/computerworld/email.shtml}
+- {date: '1994-11-14', desc: Computerworld, title: Ensuring Privacy Protection for
+    All, url: pubs/computerworld/ensure-privacy.shtml}
+- {date: 1994-9-19, desc: Computerworld, title: How We Evaluated Productivity (Premier
+    100 Issue), url: pubs/computerworld/eval-productivity.shtml}
+- {date: 1994-8-22, desc: Computerworld, title: Corporate Architecture Must Play Politics,
+  url: pubs/computerworld/corp-arch.shtml}
+- {date: 1994-7-4, desc: Computerworld, title: 'CIOs: The Chosen Elite?', url: pubs/computerworld/chosen-elite.shtml}
+- {date: 1994-6-6, desc: Computerworld, title: Centralization's payback, url: pubs/computerworld/centralization.shtml}
+- {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
+  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
+  title: Out of Alignment, url: pubs/computerworld/pubs/computerworld/alignment.html}
+- {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
+  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
+  title: 'For IT assurance, get some insurance', url: pubs/computerworld/pubs/computerworld/assurance.html}
+- {author: Paul A. Strassmann, category: Computerworld, date: 2004-9-6, desc: Computerworld,
+  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
+  title: Why IT will continue to matter, url: pubs/computerworld/pubs/computerworld/it-continue.html}
+- author: Paul A. Strassmann
+  category: Computerworld
+  date: 2004-10-4
+  desc: Computerworld
+  publication: <a href="http://computerworld.com">Computerworld</a>
+  tags: [Computerworld, shoes, socks]
+  title: The Coming Battle of the Titans
+  url: pubs/computerworld/pubs/computerworld/titans.html
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
   title: IDC Warned about a Snowden-Like Event, url: pubs/idc-bak/snowden.html}
-- {date: 1999-5-31, desc: Infoworld, layout: post, title: Peer To Peer, url: pubs/infoworld/boblewis.html}
+- {date: 1999-5-31, desc: Infoworld, layout: post, original: 'http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm',
+  title: 'Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo;
+    fiction?', url: pubs/infoworld/boblewis.html}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, key: computerweekly.com,
   original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
   title: Microsoft defends its security, url: pubs/misc/ms-security.html}
+- {author: Allan Zullo, date: 2012-9, desc: '', original: 'http://www.scholastic.com/teachers/book/we-fought-back',
+  title: We Fought Back, url: pubs/misc/we-fought.html}
 - {date: 2003-9, desc: Microsoft Executive Circle, note: Fall 2003, pdf: 639kb, title: Budgeting
     for IT in Hard Times, url: pubs/ms/ms-budgeting.pdf}
 - {alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security',
-  date: 2000-9, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1',
+  date: 2000-9-28, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1',
   title: 'Art of budgeting: How to explain spending on information security (Part
-    1)', url: pubs/techtarget/art-of-budgeting-p1.html}
-- {date: 2000-12, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
+    1)', url: pubs/searchsecurity/art-of-budgeting-p1.html}
+- {date: 2000-12-11, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
   title: 'Art of budgeting: How to ask for money for information security (Part 2)',
-  url: pubs/techtarget/art-of-budgeting-p2.html}
-- {date: 2001-1, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-Part-3',
-  title: 'Art of budgeting: How to justify security spending (Part 3)', url: pubs/techtarget/art-of-budgeting-p3.html}
+  url: pubs/searchsecurity/art-of-budgeting-p2.html}
+- {date: 2001-1-12, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-Part-3',
+  title: 'Art of budgeting: How to justify security spending (Part 3)', url: pubs/searchsecurity/art-of-budgeting-p3.html}
 - {date: 2002-4-10, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Problems-with-authentication',
-  title: Problems with authentication, url: pubs/techtarget/authentication.html}
+  title: Problems with authentication, url: pubs/searchsecurity/authentication.html}
 - {date: 2001-9-18, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/news/770686/Govt-should-blaze-global-information-warfare-trails',
-  title: Govt. should blaze global information warfare trails, url: pubs/techtarget/govt-info-warfare.html}
+  title: Govt. should blaze global information warfare trails, url: pubs/searchsecurity/govt-info-warfare.html}
 - {date: 2001-10-23, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/news/777355/Executive-Security-Briefing-How-to-manage-remote-workforce-security',
-  title: How to manage remote workforce security, url: pubs/techtarget/remote-workforce.html}
+  title: How to manage remote workforce security, url: pubs/searchsecurity/remote-workforce.html}
 - {date: 2001-3-22, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Individual-rights-vs-corporate-controls-for-PCs',
-  title: Individual rights vs. corporate controls for PCs, url: pubs/techtarget/rights-vs-controls.html}
+  title: Individual rights vs. corporate controls for PCs, url: pubs/searchsecurity/rights-vs-controls.html}
 - {date: 2010-1-13, desc: ZDnet, original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511',
   summary: Paul Strassman outlines some of the technical issues raised for government
     agencies using Gmail in light of the China cyberattack on Google., title: 'Guest

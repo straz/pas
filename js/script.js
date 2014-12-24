@@ -52,7 +52,10 @@ function render_articles(articles, tag, by_years){
   var max = get_decade(first.getFullYear());
   var min = get_decade(last.getFullYear());
 
-  $('ul.toc').html('').append(result);
+  // retro - huh?
+  $('ul.toc').html('');
+  $.each(result, function(i, r){
+	   $('ul.toc').append(r);});
   add_year_picker(decades, min, max);
   update_page_heading(tag);
 }
