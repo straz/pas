@@ -1,11 +1,8 @@
 ---
-title: Paul A. Strassmann
+title: Biography
 layout: post
 category: Bio
 ---
-
-# Biography
-
 
 ![Paul A. Strassmann](../assets/pas-01.jpg)
 
