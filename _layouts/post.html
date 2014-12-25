@@ -13,7 +13,15 @@ layout: default
     {% endif %}
     {% if page.publication %}{{ page.publication }}{% endif %}
     <p class="post-meta">{{ page.desc }}{% if page.original %} • <a href="{{ page.original }}">Original</a>{% endif %}
-<br/>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+<br/>
+{% assign day = (page.date | date: "%-d") %}
+{% if day != page.date %}
+  {{ page.date | date: "%B %-d, %Y" }}
+{% else %}
+  {% capture noday %}{{ day }}-1{% endcapture%}
+  {{ noday | date: "%B %Y" }}
+{% endif %}
+{% if page.author %} • by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <article class="post-content">
