@@ -375,8 +375,6 @@
     There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
 - {date: 1999-4, desc: 'Interview, Knowledge Management Magazine', title: 'What''s
     the Key to Implementing Knowledge Management?', url: 'http://pubs.strassmann.com/kmmag-0499.html'}
-- {date: 1999-3-22, desc: Infoworld, title: Numbers indicate that companies overspend
-    on information management, url: 'http://www.infoworld.com/cgi-bin/displayNew.pl?/reed/990322sr.htm'}
 - {date: 1998-9-21, desc: GCN, title: Beat The Clock, url: 'http://pubs.strassmann.com/gcn/beattheclock.html'}
 - {date: 1998-8, desc: Cutter IT Journal, title: 'What is Alignment?', url: 'http://pubs.strassmann.com/alignment/'}
 - {date: 1998-6-11, desc: Forbes, title: 'Of Men and Machines: Productivity Declines',
@@ -905,15 +903,19 @@
   tags: [Computerworld, shoes, socks]
   title: The Coming Battle of the Titans
   url: pubs/computerworld/pubs/computerworld/titans.html
+- {author: Megan Lisagor, date: 2003-3-18, desc: Federal Computer Week, original: 'http://fcw.com/articles/2003/03/18/strassmann-make-cio-equal-to-cfo.aspx',
+  tags: FCW, title: 'Strassmann: Make CIO equal to CFO', url: pubs/fcw/equal.html}
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
   title: IDC Warned about a Snowden-Like Event, url: pubs/idc-bak/snowden.html}
-- {date: 1999-5-31, desc: Infoworld, layout: post, original: 'http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm',
+- {date: 1999-5-31, desc: Infoworld, layout: post, original: 'https://web.archive.org/web/20000117234827/http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm',
   title: 'Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo;
     fiction?', url: pubs/infoworld/boblewis.html}
+- {author: Sandy Reed, date: 1999-3-22, desc: Infoworld, original: 'https://web.archive.org/web/20000208003735/http://www.infoworld.com/cgi-bin/displayNew.pl?/reed/990322sr.htm',
+  title: Numbers indicate that companies overspend on information management, url: pubs/infoworld/numbers.html}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, key: computerweekly.com,
   original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
   title: Microsoft defends its security, url: pubs/misc/ms-security.html}
-- {author: Allan Zullo, date: 2012-9, desc: '', original: 'http://www.scholastic.com/teachers/book/we-fought-back',
+- {author: Allan Zullo, date: 2012-9, desc: Scholastic, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back, url: pubs/misc/we-fought.html}
 - {date: 2003-9, desc: Microsoft Executive Circle, note: Fall 2003, pdf: 639kb, title: Budgeting
     for IT in Hard Times, url: pubs/ms/ms-budgeting.pdf}

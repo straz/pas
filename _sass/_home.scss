@@ -8,6 +8,10 @@ ul.toc li img {
   margin-top: -2px;
 }
 
+.gsc-control-cse {
+  padding: 0px !important;
+}
+
 .pdf {
   font-size: 80%;
   margin-left: 6px;
@@ -24,13 +28,18 @@ ul.toc li img {
   color: #fff;
   background-color: #8B95f8;
   background-image: url(/assets/tiles.png);
-  padding: 50px 0px;
   box-sizing: border-box;
   position: absolute;
   left: 0;
   width:100%;
   bottom: 0;
+
+  padding: 50px 0px;
+  @include media-query($on-laptop) {
+       padding: 20px 0px;
+  }
 }
+
 
 #banner {
   min-width: 100%;

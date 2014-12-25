@@ -3,7 +3,7 @@ title: 'Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo;
 layout: post
 date: 1999-5-31
 desc: Infoworld
-original: http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm
+original: https://web.archive.org/web/20000117234827/http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm
 ---
 
 

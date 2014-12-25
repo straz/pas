@@ -3,7 +3,7 @@ title: We Fought Back
 date: 2012-9
 original: http://www.scholastic.com/teachers/book/we-fought-back
 author: Allan Zullo
-desc: ''
+desc: Scholastic
 ---
 
 > Paul Strassmann is one of the partisans whose story is told

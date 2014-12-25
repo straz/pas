@@ -8,7 +8,7 @@ layout: default
     {% if page.tags %}
         <div class="tags">Tags: 
         {% for tag in page.tags %}
-        <span class="tag"><a href="/all-articles.html#{{tag}}">{{ tag }}</a></span>
+        <span class="tag"><a href="/articles.html?t={{tag}}">{{ tag }}</a></span>
         {% endfor %}</div>
     {% endif %}
     {% if page.publication %}{{ page.publication }}{% endif %}
