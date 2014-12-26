@@ -14,6 +14,9 @@ layout: default
     {% if page.publication %}{{ page.publication }}{% endif %}
     <p class="post-meta">{{ page.desc }}{% if page.original %} • <a href="{{ page.original }}">Original</a>{% endif %}
 <br/>
+{% comment %}
+  Dates: handle full dates (2014-12-4) or partial dates (2014-12) using two format strings
+{% endcomment %}
 {% assign day = (page.date | date: "%-d") %}
 {% if day != page.date %}
   {{ page.date | date: "%B %-d, %Y" }}
@@ -21,7 +24,8 @@ layout: default
   {% capture noday %}{{ day }}-1{% endcapture%}
   {{ noday | date: "%B %Y" }}
 {% endif %}
-{% if page.author %} • by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+{% if page.author %} • by {{ page.author }}{% endif %}
+{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <article class="post-content">

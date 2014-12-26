@@ -59,38 +59,17 @@
   title: We Fought Back - Paul Strassmann's experiences as a partisan, url: 'http://www.scholastic.com/teachers/book/we-fought-back'}
 - {date: 2005-12-5, desc: 'Lecture, George Mason University (video)', title: 'Google:
     A Model for the Systems Architecture of the Future?', url: 'http://www.archive.org/details/Google-aModelForTheSystemsArchitectureOfTheFuture'}
-- {date: 2006-3-6, desc: 'Lecture, George Mason University (video)', title: 'Is Outsourcing
-    Profitable?', url: 'http://www.archive.org/details/IsOutsourcingProfitable'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=-920985458725090783',
   title: New Responsibilities of the Department of Defense CIO, url: 'http://www.youtube.com/watch?v=Oj6MsM_BFpc',
   video: '45:20'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University (video)', title: New Responsibilities
     of the Department of Defense CIO (alt), url: 'http://www.archive.org/details/NewResponsibilitiesOfTheDepartmentOfDefenseCioprototypeForOther'}
-- {date: 2005-3-29, desc: 'Lecture, George Mason University (video)', title: The Structure
-    of IT Spending as a Measure of Organizational Disorder, url: 'http://www.archive.org/details/I.t.SpendingAsAMeasureOfOrganizationalDisorder'}
-- {date: 2005-3-29, desc: George Mason University, pdf: 2.5MB, title: The Structure
-    of IT Spending as a Measure of Organizational Disorder, url: 'http://pubs.strassmann.com/gmu/2005-3-29.pdf'}
-- {date: 2010-4-22, desc: George Mason University, pdf: 7.8MB, title: How SOA Fits
-    Into Cloud Computing, url: 'http://pubs.strassmann.com/gmu/2010-4-SOA.pdf'}
-- {date: 2010-4-22, desc: George Mason University, pdf: 440KB, title: How SOA Fits
-    Into Cloud Computing (short version), url: 'http://pubs.strassmann.com/gmu/2010-4.pdf'}
 - {date: 2010-3-10, desc: GCN, title: DOD social media policy fails to answer security
     questions, url: 'http://gcn.com/articles/2010/03/10/dod-social-media-policy-fails-to-answer-security-questions.aspx'}
 - {date: 2010-01, desc: At Cooper Union, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
   pdf: 90KB, title: Pioneer Profile, url: 'http://pubs.strassmann.com/cooper/ACUfw09alumni.pdf'}
 - {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: Government Gmail use,
   url: 'http://blogs.zdnet.com/BTL/?p=29511'}
-- {date: 2009-11-5, desc: George Mason University, pdf: 620KB, title: Fundamental
-    Internet Security Flaws, url: 'http://pubs.strassmann.com/gmu/2009-11-5.pdf'}
-- {date: '2009-10-14', desc: George Mason University, pdf: 24MB, title: Operating
-    Network Centric Systems on a Cloud, url: 'http://pubs.strassmann.com/gmu/2009-10-14-cloud.pdf'}
-- {date: '2009-10-13', desc: 'Lecture, George Mason University (video)', title: Asymmetric
-    Cyber Warfare, url: 'http://www.archive.org/details/Strassmann_2009_10'}
-- {date: '2009-10-13', desc: George Mason University, pdf: 18MB, title: Asymmetric
-    Cyber Warfare, url: 'http://pubs.strassmann.com/gmu/2009-10-13-cyberwar.pdf'}
-- {date: 2009-5, desc: 'Commencement, George Mason University', title: Honorary Doctorate
-    conferred on Paul A. Strassmann, url: 'http://pubs.strassmann.com/gmu/2009-gmu-ceremony.mov',
-  video: '2:10'}
 - {date: 2009-6-30, desc: Draft, pdf: 1.4MB, title: Cyber Security for the Department
     of Defense, url: 'http://pubs.strassmann.com/dod/cybersecurity-draft-v1.pdf'}
 - {date: 2009-4-14, desc: 'Webinar: Computer Aid, Inc.', pdf: 3.8MB, title: The Economics
@@ -98,88 +77,25 @@
 - {date: 2008-10, desc: 'Article, Software Technology Support Center', original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
   title: DoD Business Mission Area Service-Oriented Architecture to Support Business
     Transformation, url: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html'}
-- {date: 2009-2-23, desc: 'Lecture, George Mason University (video)', title: Management
-    of a Network Operations Center (NOC), url: 'http://www.archive.org/details/LectureonNetworkContolCenters'}
-- {date: 2009-2-23, desc: 'Lecture Poster, George Mason University', pdf: 2.2MB, title: Management
-    of a Network Operations Center (NOC), url: 'http://pubs.strassmann.com/gmu/2009-02-23-poster.pdf'}
-- {date: 2009-4-2, desc: '2009 SOA Symposium: Government and Industry Best Practices
-    (slides)', ppt: 2MB, title: Service Oriented Architecture (SOA) for DoD, url: 'http://pubs.strassmann.com/gmu/2009-4-2-slides.ppt'}
-- {date: 2008-9-11, desc: 'Lecture, George Mason University (slides)', pdf: 2MB, title: Budgeting
-    DoD Information Technologies, url: 'http://pubs.strassmann.com/gmu/2008-9-slides.pdf'}
-- {date: 2008-11-5, desc: 'Lecture, George Mason University (slides)', pdf: 3MB, title: Data
-    Center Evolution and the 'Cloud', url: 'http://pubs.strassmann.com/gmu/2008-11.pdf'}
-- {date: '2008-10-29', desc: 'Lecture, George Mason University (slides)', pdf: 5MB,
-  title: Introduction to Virtualization, url: 'http://pubs.strassmann.com/gmu/2008-10.pdf'}
-- {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', ppt: 2.5MB,
-  title: The Structure of IT Spending as a Measure of Organizational Disorder, url: 'http://www.strassmann.com/talks/files/2005-disorder.ppt'}
-- {date: '2006-10-16', desc: 'Lecture, George Mason University (slides)', ppt: 24MB,
-  title: Data Strategy for the Transformation of Business Management, url: 'http://pubs.strassmann.com/gmu/2006-10.ppt'}
 - {date: 2008-5-19, desc: Multichannel News, original: 'http://www.multichannel.com/article/CA6561899.html',
   pdf: 379KB, title: 'Life Without Cable: One Man''s View of an Untethered Future',
   url: 'http://pubs.strassmann.com/cable/future_of_cable.pdf'}
-- {date: 2008-2-25, desc: 'Lecture, George Mason University (slides)', pdf: 3.6MB,
-  title: The Use of Portals in a Systems Architecture, url: 'http://pubs.strassmann.com/gmu/2008-2-slides.pdf'}
-- {date: 2008-2-25, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=754107541418527687',
-  title: The Use of Portals in a Systems Architecture, url: 'http://www.youtube.com/watch?v=lBdy5ihwpm4'}
-- {date: 2008-1-9, desc: 'Lecture, George Mason University (video)', title: Service
-    Oriented Architecture (SOA) for DoD, url: 'http://video.google.com/videoplay?docid=4944942812148136322'}
-- {date: 2008-1-9, desc: 'Lecture, George Mason University (slides)', pdf: 4.1Mb,
-  title: Service Oriented Architecture (SOA) for DoD, url: 'http://pubs.strassmann.com/gmu/2008-1-9.pdf'}
 - {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pbj.strassmann.com:8080/com/pubs/xerox/catalog-v4.pdf'}
-- {date: '2007-11-19', desc: 'Lecture, George Mason University (slides)', ppt: 1.9Mb,
-  title: What is a Service Oriented Architecture, url: 'http://pubs.strassmann.com/gmu/2007-11-slides.ppt'}
-- {date: '2007-11-19', desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=-2644274303432509757',
-  title: What is a Service Oriented Architecture, url: 'http://www.youtube.com/watch?v=nRayJZmj2oY'}
 - {date: 2007-10-1, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=5768135135579922170',
   title: The Economics of Thin Clients, url: 'http://www.youtube.com/watch?v=85CXOfnSTOY'}
-- {date: 2007-10-5, desc: Customer Briefing (slides), pdf: 944kb, title: The Economics
-    of Outsourcing, url: 'http://pubs.strassmann.com/gmu/outsourcing-v61.pdf'}
 - {date: 2007-6-21, desc: 'Keynote: Executive Forum', title: Measuring and Communicating
     IT Value, url: 'http://www.strassmann.com/talks/one-talk.php?talk=123'}
 - {date: 2007-5-22, desc: 'Talk: Transformation and Innovation 2007', pdf: 602kb,
   title: Transformation of HP Information Technologies, url: 'http://www.strassmann.com/talks/files/2007-5-HP.pdf'}
 - {date: 2007-9-6, desc: 'Online Lecture, IT Metrics and Productivity Institute',
   title: 'CIO Webinar: IT Transformation Case Study', url: 'http://www.strassmann.com/talks/files/2007-09-06-itmpi.htm'}
-- {date: 2007-3-27, desc: 'Lecture, George Mason University (slides)', pdf: 2Mb, title: Information
-    Assurance for Defense Security, url: 'http://pubs.strassmann.com/gmu/2007-3-27-slides.pdf'}
-- {date: 2007-3-27, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=-5355458708501315764',
-  title: Information Assurance for Defense Security, url: 'http://www.youtube.com/watch?v=NuUHrPo_lqw'}
-- {date: 2007-2-19, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=-5495008131043794334',
-  title: Enterprise Services for IT Transformation, url: 'http://www.youtube.com/watch?v=fsBAFIlTTLw'}
-- {date: 2007-2-19, desc: 'Lecture, George Mason University (slides)', pdf: 14.9Mb,
-  title: Enterprise Services for IT Transformation, url: 'http://pubs.strassmann.com/gmu/2007-2-slides.pdf'}
-- {date: '2007-03-20', desc: 'IEEE: Exploring Quantifiable Information Technology
-    Yields (slides)', pdf: 1.1Mb, title: Selected Information Economics Metrics, url: 'http://pubs.strassmann.com/gmu/2007-03-20-slides.pdf'}
-- {date: '2006-11-20', desc: 'Lecture, George Mason University (video)', title: Net-Centric
-    Strategy for Defense Transformation, url: 'http://video.google.com/videoplay?docid=842852351454097150'}
-- {date: '2006-11-20', desc: 'Lecture, George Mason University (slides/ppt)', ppt: 8.4Mb,
-  title: Net-Centric Strategy for Defense Transformation, url: 'http://pubs.strassmann.com/gmu/2006-11-20-slides.ppt'}
-- {date: '2006-10-16', desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=-9184395174304443792',
-  title: Data Strategy for the Transformation of Business Management, url: 'http://www.youtube.com/watch?v=cP8X-PpjzEA'}
-- {date: '2006-05-22', desc: Transformation and Innovation, pdf: 1.7Mb, title: Business
-    Data Transformation, url: 'http://pubs.strassmann.com/gmu/2006-05-22.pdf'}
 - {date: '2006-04-28', desc: European CIOs, pdf: 168kb, title: Governance &amp; Alignment
     In the Era of Business Transformation, url: 'http://pubs.strassmann.com/talks/2006-4-28-governance.pdf'}
-- {date: 2006-4-17, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=1340317697827450847',
-  title: 'How Much Is An Employee Worth?', url: 'http://www.youtube.com/watch?v=kcNTr61bhKs'}
-- {date: 2006-4-17, desc: 'Lecture, George Mason University (slides)', pdf: 1.53Mb,
-  title: 'How Much Is An Employee Worth?', url: 'http://pubs.strassmann.com/gmu/2006-4-17-slides.pdf'}
-- {date: 2006-4-17, desc: 'Lecture, George Mason University (poster)', pdf: 621Kb,
-  title: 'How Much Is An Employee Worth?', url: 'http://pubs.strassmann.com/gmu/Lecture4.pdf'}
-- {date: 2006-3-06, desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=9212234366223965964',
-  title: 'Is Outsourcing Profitable?', url: 'http://www.youtube.com/watch?v=2NRlY-LF1Y8',
-  video: '56:23'}
-- {date: 2006-3-6, desc: 'Lecture, George Mason University (slides)', pdf: 2.1Mb,
-  title: 'Is Outsourcing Profitable?', url: 'http://pubs.strassmann.com/gmu/OutsourcingV6.pdf'}
-- {date: 2006-3-6, desc: George Mason University, pdf: 634kb, title: 'Is Outsourcing
-    Profitable?', url: 'http://pubs.strassmann.com/gmu/Lecture-3.pdf'}
 - {date: 2006-2, desc: Defense Systems Magazine, original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
   title: 'Who is best at net-centricity? Here''s a hint: Google it', url: 'http://pubs.strassmann.com/defense/2006-2.html'}
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
-- {date: 2005-12-5, desc: 'Lecture, George Mason University (slides)', pdf: 10.7Mb,
-  title: 'Google: A Model for the Systems Architecture of the Future', url: 'http://pubs.strassmann.com/gmu/LectureV4.pdf'}
 - {date: '2006-01-10', desc: by David Foote, original: 'http://expertanswercenter.techtarget.com/eac/blog/0,295203,sid63_tax302579,00.html',
   title: IT Management in 2006, url: 'http://pubs.strassmann.com/techtarget/foote-2006-01.html'}
 - {date: 2005-11, desc: IP4IT 2005 (podcast), original: 'http://podcasts.pulvermedia.com/podcasts/VONradio-paul_strassmann_ip4it.mp3',
@@ -193,8 +109,6 @@
 - {date: 2005-9-16, desc: Private briefing, ppt: 7.0Mb, title: Cybercrime, url: 'http://pubs.strassmann.com/sec/cybercrime.ppt'}
 - {date: '2005-10-10', desc: Multichannel Magazine, pdf: 170kb, title: 'Is Google
     Cable''s Next Nightmare?', url: 'http://pubs.strassmann.com/multichannel/2005-10-google.pdf'}
-- {date: 2005-10-3, desc: 'Lecture, George Mason University', pdf: 2Mb, title: 'The
-    DoD CIO Charter: A Template for IT Governance?', url: 'http://pubs.strassmann.com/gmu/CIOV1full.pdf'}
 - {date: 2005-3-29, desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=9103105798586344753',
   title: Information Management and Organizational Entropy, url: 'http://www.youtube.com/watch?v=ksdoWzmPGZ0',
   video: '47:12'}
@@ -512,6 +426,20 @@
 - {date: 1962-8, desc: 'The Cost Optimization - COPT - System: Management Technology
     Journal of The Institute of Management Sciences', pdf: 1.1MB, title: A Plant-Warehouse
     System with Variable Lead-Times and Variable Re-Order Levels, url: pubs/62-77/001-plant-warehouse-system.pdf}
+- {date: 2010-5-21, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/05/21/6842',
+  title: Gentlemen Do Not Open Attachments, url: pubs/afcea/2010-05-a.html}
+- {date: 2010-5-25, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/05/25/6849',
+  title: Cases in How to Practice Safe Social Computing, url: pubs/afcea/2010-05-b.html}
+- {date: 2010-6-16, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/06/16/7183',
+  title: 'Virtualization of Servers: The First Step Into the Cloud', url: pubs/afcea/2010-06.html}
+- {date: 2010-7-14, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/07/14/7490',
+  title: Cybersecurity Is Asymmetric, url: pubs/afcea/2010-7.html}
+- {author: Paul A. Strassmann, date: 2010-8-23, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/08/23/8000/',
+  title: Cyberdefense and DoD Culture, url: pubs/afcea/2010-8-c.html}
+- {author: Paul A. Strassmann, date: 2010-8-23, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/08/23/8021/',
+  title: How to Improve Cyberdefenses at the DoD, url: pubs/afcea/2010-8-d.html}
+- {author: Beverly Schaeffer, date: 2010-8-6, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/08/06/7822',
+  title: Defense Network Evolution Into Unknown Future, url: pubs/afcea/2010-8-e.html}
 - {author: Paul A. Strassmann, date: 2011-3, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/2552',
   title: Fewer Data Centers Can Be a Good Thing, url: pubs/afcea/2011-3.html}
 - {date: 2014-10, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=node/13437',
@@ -557,29 +485,16 @@
   title: A Culture Shock Is Coming, url: pubs/afcea/2011-7.html}
 - {date: 2011-5, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2609&zoneid=316',
   title: Reaching the Clouds Won't be a One-Stop Trip, url: pubs/afcea/2011-5.html}
-- {date: 2011-03, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2552&zoneid=312',
-  title: Fewer Data Centers Can Be a Good Thing, url: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2552&zoneid=312'}
 - {date: 2011-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2498&zoneid=308',
   title: Desktop Virtualization Offers Benefits Now, url: pubs/afcea/2011-01.html}
 - {date: 2010-11, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2443&zoneid=303',
   title: Army's Private Cloud Goal Is Praiseworthy but Problematic, url: pubs/afcea/2010-11.html}
-- {date: 2010-8-23, desc: AFCEA SignalScape (part 1 of 2), original: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8000/',
-  title: Cyberdefense and DoD Culture, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8000/'}
-- {date: 2010-8-23, desc: AFCEA SignalScape (part 2 of 2), original: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8021/',
-  title: How to Improve Cyberdefenses at the DoD, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/23/8021/'}
-- {date: 2010-7-14, desc: AFCEA SignalScape, title: Cybersecurity Is Asymmetric, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/07/guest-blog-cybersecurity-is-asymmetric/'}
-- {date: 2010-8-06, desc: 'by Beverley T. Shaeffer, AFCEA SIGNAL Magazine', title: Defense
-    Network Evolution Into Unknown Future, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/08/defense-network-evolution-into-unknown-future/'}
 - {date: 2010-12, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2470&zoneid=306',
   title: Navy Prepares to Take An Important First Step, url: pubs/afcea/2010-12.html}
 - {date: 2010-8, desc: AFCEA SignalScape, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2364',
   title: Defense Network Concepts Have a Dynamic History, url: pubs/afcea/2010-08-b.html}
 - {date: 2010-8, desc: AFCEA SignalScape, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2363',
   title: Information Dominance Bows to Network Limitations, url: pubs/afcea/2010-08-a.html}
-- {date: 2010-6-16, desc: AFCEA SignalScape, title: 'Virtualization of Servers: The
-    First Step Into the Cloud', url: 'http://www.afcea.org/signal/signalscape/index.php/2010/06/virtualization-of-servers-the-first-step-into-the-cloud/'}
-- {date: 2010-5-21, desc: AFCEA SignalScape, original: 'http://strassmann.com/pubs/afcea/2010-5-21.html',
-  title: Gentlemen Do Not Open Attachments, url: 'http://www.afcea.org/signal/signalscape/index.php/2010/05/guest-blog-gentlemen-do-not-open-attachments'}
 - {date: 2010-01, desc: AFCEA Signal, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2163&zoneid=284',
   title: Social (Network) Security, url: pubs/afcea/2010-01.html}
 - {date: 2009-11, desc: AFCEA Signal, pdf: 940KB, title: The Internet's Vulnerabilities
@@ -705,15 +620,15 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: 'For IT assurance, get some insurance', url: pubs/computerworld/assurance.html}
-- {author: Paul A. Strassmann, category: Computerworld, date: 2004-9-6, desc: Computerworld,
-  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: Why IT will continue to matter, url: pubs/computerworld/it-continue.html}
+- {category: Computerworld, date: 2004-9-6, desc: Computerworld, publication: '<a
+    href="http://computerworld.com">Computerworld</a>', title: Why IT Will Continue
+    to Matter, url: pubs/computerworld/it-continue.html}
 - author: Paul A. Strassmann
   category: Computerworld
   date: 2004-10-4
   desc: Computerworld
   publication: <a href="http://computerworld.com">Computerworld</a>
-  tags: [Computerworld, shoes, socks]
+  tags: [Computerworld]
   title: The Coming Battle of the Titans
   url: pubs/computerworld/titans.html
 - {date: 2004-3, desc: Computerworld, title: Measuring Information Work Productivity,
@@ -733,7 +648,6 @@
 - {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: pubs/computerworld/y2kdebate}
 - {date: 1994-10, desc: 'by Paul Gillin, Computerworld', original: 'http://www.computerworld.com/search/data/cw_940101-941231/941031SL1031pg.html',
   title: 'Book review: The Politics of Information Management', url: 'http://cwlive.cw.com:8080/home/print9497.nsf/All/SL1031pg'}
-- {date: 2004-9-6, desc: Computerworld, title: Why IT Will Continue to Matter, url: pubs/computerworld/it-continue.html}
 - {date: 2004-8-2, desc: Computerworld, title: 'Depend on Microsoft?', url: pubs/computerworld/ms-depend.shtml}
 - {date: 2004-7-5, desc: Computerworld, title: CIOs Must Manage What's Left, url: pubs/computerworld/cios-must-manage.shtml}
 - {date: 2004-6-7, desc: Computerworld, title: Pentagon Devises Innovative IT Strategy,
@@ -889,21 +803,66 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: 'For IT assurance, get some insurance', url: pubs/computerworld/pubs/computerworld/assurance.html}
-- {author: Paul A. Strassmann, category: Computerworld, date: 2004-9-6, desc: Computerworld,
-  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: Why IT will continue to matter, url: pubs/computerworld/pubs/computerworld/it-continue.html}
-- author: Paul A. Strassmann
-  category: Computerworld
-  date: 2004-10-4
-  desc: Computerworld
-  publication: <a href="http://computerworld.com">Computerworld</a>
-  tags: [Computerworld, shoes, socks]
-  title: The Coming Battle of the Titans
-  url: pubs/computerworld/pubs/computerworld/titans.html
 - {author: Megan Lisagor, date: 2003-3-18, desc: Federal Computer Week, original: 'http://fcw.com/articles/2003/03/18/strassmann-make-cio-equal-to-cfo.aspx',
   tags: FCW, title: 'Strassmann: Make CIO equal to CFO', url: pubs/fcw/equal.html}
 - {date: '2012-04-10', desc: Federal Computer Week, original: 'http://fcw.com/Blogs/Insider/2012/04/anniversary-issue-pivotal-people.aspx',
   title: 'The most influential federal IT leaders since 1987: A short list', url: pubs/fcw/fcw-2012.html}
+- {date: 2005-3-29, desc: George Mason University, pdf: 2.5MB, title: The Structure
+    of IT Spending as a Measure of Organizational Disorder, url: pubs/gmu/2005-3-29.pdf}
+- {date: 2010-4-22, desc: George Mason University, pdf: 7.8MB, title: How SOA Fits
+    Into Cloud Computing, url: pubs/gmu/2010-4-SOA.pdf}
+- {date: 2010-4-22, desc: George Mason University, pdf: 440KB, title: How SOA Fits
+    Into Cloud Computing (short version), url: pubs/gmu/2010-4-22.pdf}
+- {date: 2009-11-5, desc: George Mason University, pdf: 620KB, title: Fundamental
+    Internet Security Flaws, url: pubs/gmu/2009-11-5.pdf}
+- {date: '2009-10-14', desc: George Mason University, pdf: 24MB, title: Operating
+    Network Centric Systems on a Cloud, url: pubs/gmu/2009-10-14-cloud.pdf}
+- {date: '2009-10-13', desc: George Mason University, pdf: 18MB, title: Asymmetric
+    Cyber Warfare, url: pubs/gmu/2009-10-13-cyberwar.pdf}
+- {date: 2009-5, desc: 'Commencement, George Mason University', title: Honorary Doctorate
+    conferred on Paul A. Strassmann, url: pubs/gmu/2009-gmu-ceremony.mov, video: '2:10'}
+- {date: 2009-2-23, desc: 'Lecture Poster, George Mason University', pdf: 2.2MB, title: Management
+    of a Network Operations Center (NOC), url: pubs/gmu/2009-02-23-poster.pdf}
+- {date: 2009-4-2, desc: '2009 SOA Symposium: Government and Industry Best Practices
+    (slides)', ppt: 2MB, title: Service Oriented Architecture (SOA) for DoD, url: pubs/gmu/2009-4-2-slides.ppt}
+- {date: 2008-9-11, desc: 'Lecture, George Mason University (slides)', pdf: 2MB, title: Budgeting
+    DoD Information Technologies, url: pubs/gmu/2008-9-slides.pdf}
+- {date: 2008-11-5, desc: 'Lecture, George Mason University (slides)', pdf: 3MB, title: Data
+    Center Evolution and the 'Cloud', url: pubs/gmu/2008-11.pdf}
+- {date: '2008-10-29', desc: 'Lecture, George Mason University (slides)', pdf: 5MB,
+  title: Introduction to Virtualization, url: pubs/gmu/2008-10.pdf}
+- {date: '2006-10-16', desc: 'Lecture, George Mason University (slides)', ppt: 24MB,
+  title: Data Strategy for the Transformation of Business Management, url: pubs/gmu/2006-10.ppt}
+- {date: 2008-2-25, desc: 'Lecture, George Mason University (slides)', pdf: 3.6MB,
+  title: The Use of Portals in a Systems Architecture, url: pubs/gmu/2008-2-slides.pdf}
+- {date: 2008-1-9, desc: 'Lecture, George Mason University (slides)', pdf: 4.1Mb,
+  title: Service Oriented Architecture (SOA) for DoD, url: pubs/gmu/2008-1-9.pdf}
+- {date: '2007-11-19', desc: 'Lecture, George Mason University (slides)', ppt: 1.9Mb,
+  title: What is a Service Oriented Architecture, url: pubs/gmu/2007-11-slides.ppt}
+- {date: 2007-10-5, desc: Customer Briefing (slides), pdf: 944kb, title: The Economics
+    of Outsourcing, url: pubs/gmu/outsourcing-v61.pdf}
+- {date: 2007-3-27, desc: 'Lecture, George Mason University (slides)', pdf: 2Mb, title: Information
+    Assurance for Defense Security, url: pubs/gmu/2007-3-27-slides.pdf}
+- {date: 2007-2-19, desc: 'Lecture, George Mason University (slides)', pdf: 14.9Mb,
+  title: Enterprise Services for IT Transformation, url: pubs/gmu/2007-2-slides.pdf}
+- {date: '2007-03-20', desc: 'IEEE: Exploring Quantifiable Information Technology
+    Yields (slides)', pdf: 1.1Mb, title: Selected Information Economics Metrics, url: pubs/gmu/2007-03-20-slides.pdf}
+- {date: '2006-11-20', desc: 'Lecture, George Mason University (slides/ppt)', ppt: 8.4Mb,
+  title: Net-Centric Strategy for Defense Transformation, url: pubs/gmu/2006-11-20-slides.ppt}
+- {date: '2006-05-22', desc: Transformation and Innovation, pdf: 1.7Mb, title: Business
+    Data Transformation, url: pubs/gmu/2006-05-22.pdf}
+- {date: 2006-4-17, desc: 'Lecture, George Mason University (slides)', pdf: 1.53Mb,
+  title: 'How Much Is An Employee Worth?', url: pubs/gmu/2006-4-17-slides.pdf}
+- {date: 2006-4-17, desc: 'Lecture, George Mason University (poster)', pdf: 621Kb,
+  title: 'How Much Is An Employee Worth?', url: pubs/gmu/Lecture4.pdf}
+- {date: 2006-3-6, desc: 'Lecture, George Mason University (slides)', pdf: 2.1Mb,
+  title: 'Is Outsourcing Profitable?', url: pubs/gmu/OutsourcingV6.pdf}
+- {date: 2006-3-6, desc: George Mason University, pdf: 634kb, title: 'Is Outsourcing
+    Profitable?', url: pubs/gmu/Lecture-3.pdf}
+- {date: 2005-12-5, desc: 'Lecture, George Mason University (slides)', pdf: 10.7Mb,
+  title: 'Google: A Model for the Systems Architecture of the Future', url: pubs/gmu/LectureV4.pdf}
+- {date: 2005-10-3, desc: 'Lecture, George Mason University', pdf: 2Mb, title: 'The
+    DoD CIO Charter: A Template for IT Governance?', url: pubs/gmu/CIOV1full.pdf}
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
   title: IDC Warned about a Snowden-Like Event, url: pubs/idc-bak/snowden.html}
 - {date: 1999-5-31, desc: Infoworld, layout: post, original: 'https://web.archive.org/web/20000117234827/http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm',

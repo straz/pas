@@ -1,7 +1,5 @@
 ---
-title: Why IT will continue to matter
-layout: post
-author: Paul A. Strassmann
+title: Why IT Will Continue to Matter
 date: 2004-9-6
 publication: <a href="http://computerworld.com">Computerworld</a>
 category: Computerworld

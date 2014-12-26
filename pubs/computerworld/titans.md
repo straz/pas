@@ -5,17 +5,17 @@ date: 2004-10-4
 publication: <a href="http://computerworld.com">Computerworld</a>
 category: Computerworld
 desc: Computerworld
-tags: ['Computerworld', 'shoes', 'socks']
+tags: ['Computerworld']
 ---
 
-History teaches us that a
-challenge to a superior power can succeed only by changing the rules
-under which any confrontation takes place. Head-on attacks on strong,
-entrenched positions are easily repelled. That's why RCA, Honeywell,
-Xerox, GE, Burroughs, Univac, Amdahl and many others failed when they
-tried to compete with IBM. That's why the computing landscape over the
-past 15 years has become littered with so many gravestones of firms
-overcome by Microsoft.
+History teaches us that a challenge to a superior power can succeed
+only by changing the rules under which any confrontation takes
+place. Head-on attacks on strong, entrenched positions are easily
+repelled. That's why RCA, Honeywell, Xerox, GE, Burroughs, Univac,
+Amdahl and many others failed when they tried to compete with
+IBM. That's why the computing landscape over the past 15 years has
+become littered with so many gravestones of firms overcome by
+Microsoft.
 
 Now a new Microsoft challenger is emerging on the horizon:
 Google. What makes Google different is that it follows innovative

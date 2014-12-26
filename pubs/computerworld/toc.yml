@@ -15,7 +15,6 @@
 - {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: 'y2kdebate'}
 - {date: 1994-10, desc: 'by Paul Gillin, Computerworld', original: 'http://www.computerworld.com/search/data/cw_940101-941231/941031SL1031pg.html',
   title: 'Book review: The Politics of Information Management', url: 'http://cwlive.cw.com:8080/home/print9497.nsf/All/SL1031pg'}
-- {date: 2004-9-6, desc: Computerworld, title: Why IT Will Continue to Matter, url: it-continue.html}
 - {date: 2004-8-2, desc: Computerworld, title: 'Depend on Microsoft?', url: ms-depend.shtml}
 - {date: 2004-7-5, desc: Computerworld, title: CIOs Must Manage What's Left, url: cios-must-manage.shtml}
 - {date: 2004-6-7, desc: Computerworld, title: Pentagon Devises Innovative IT Strategy,
@@ -171,14 +170,4 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: 'For IT assurance, get some insurance', url: pubs/computerworld/assurance.html}
-- {author: Paul A. Strassmann, category: Computerworld, date: 2004-9-6, desc: Computerworld,
-  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: Why IT will continue to matter, url: pubs/computerworld/it-continue.html}
-- author: Paul A. Strassmann
-  category: Computerworld
-  date: 2004-10-4
-  desc: Computerworld
-  publication: <a href="http://computerworld.com">Computerworld</a>
-  tags: [Computerworld, shoes, socks]
-  title: The Coming Battle of the Titans
-  url: pubs/computerworld/titans.html
+
