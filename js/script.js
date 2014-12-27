@@ -104,15 +104,24 @@ function min_year(decade) {
   return min;
 }
 
-function render_article(article){
-  var pdf = '';
-  if ('pdf' in article){
-    pdf = $('<span/>').addClass('pdf').text('[pdf]');
+// Returns the empty string for most links (.html)
+// but for ppt|pdf|doc, returns a <span/> containg the exension.
+function render_extension(article){
+  var reg = /ppt|pdf|doc|xls|mp3/;
+  var url = article.url;
+  var ext = url.substr(url.lastIndexOf('.') + 1);
+  if (reg.test(ext.toLowerCase())){
+    return $('<span/>').addClass('extension').text('['+ext+']');
   }
+  return '';
+}
+
+function render_article(article){
+  var ext = render_extension(article);
   return $('<li/>').append($('<a/>').attr('href', article.url)
 			   .addClass('article')
 			   .html(article.title),
-			   pdf,
+			   ext,
 			   $('<br/>'),
 			   $('<span/>').attr('class','post-meta')
 			   .html(article.desc + ', ' + pretty_date(article)));

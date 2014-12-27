@@ -1,0 +1,81 @@
+- {date: 2001-6,
+   desc: Knowledge Management Magazine,
+   title: R&D and Knowledge,
+   url: 'http://pubs.strassmann.com/km/2001-6.php'}
+- {date: 2001-5,
+   desc: Knowledge Management Magazine,
+   title: Personal Capitalists,
+   url: 'http://pubs.strassmann.com/km/2001-5.php'}
+- {date: 2001-4,
+   desc: Knowledge Management Magazine,
+   title: 'KM, IT and Organizational Capital',
+   url: 'http://pubs.strassmann.com/km/2001-4.php'}
+- {date: 2001-3,
+   desc: Knowledge Management Magazine,
+   title: Prophecies Don't Serve Knowledge Capital,
+   url: 'http://pubs.strassmann.com/km/2001-3.php'}
+- {date: 2001-2,
+   desc: Knowledge Management Magazine,
+   title: How to Value Information Security Risks,
+   url: 'http://pubs.strassmann.com/km/2001-2.php'}
+- {date: 2001-1,
+   desc: Knowledge Management Magazine,
+   title: Bending the Numbers,
+   url: 'http://pubs.strassmann.com/km/2001-1.php'}
+- {date: 2000-11,
+   desc: Knowledge Management Magazine,
+   title: How E-Business Affects Knowledge Capital,
+   url: 'http://pubs.strassmann.com/km/2000-11.php'}
+- {date: 2000-10,
+   desc: Knowledge Management Magazine,
+   title: Intelligence in Question,
+  url: 'http://pubs.strassmann.com/km/2000-10.php'}
+- {date: 2000-8,
+   desc: Knowledge Management Magazine,
+   title: Expecting Too Much of Knowledge,
+   url: 'http://pubs.strassmann.com/km/2000-8.php'}
+- {date: 2000-6,
+   desc: Knowledge Management Magazine,
+   title: Global Knowledge Power,
+   url: 'globalpower.html'}
+- {date: 2000-5,
+   desc: Knowledge Management Magazine,
+   title: Knowledge Power in the Cyber-Economy,
+   url: 'knowledgepower.html'}
+- {date: 2000-4,
+   desc: Knowledge Management Magazine,
+   title: The Knowledge-Devouring Web,
+   url: 'devourweb.html'}
+- {date: 2000-3,
+   desc: Knowledge Management Magazine,
+   title: The Importance of Knowledge Capital,
+   url: 'importance.html'}
+- {date: 2000-2,
+   desc: Knowledge Management Magazine,
+   title: Accumulating Knowledge Efficiency,
+   url: '2000-2.php'}
+- {date: 2000-1,
+   desc: Knowledge Management Magazine,
+   title: When Spending Is Investing,
+   url: 'spendinvest.html'}
+- {date: 1999-12,
+   desc: Knowledge Management Magazine,
+   title: 'What''s the Worth of an Employee?',
+   url: 'emp-worth.html'}
+- {date: 1999-11,
+   desc: Knowledge Management Magazine,
+   title: Ticker-Tape Charade,
+   url: 'tickertape.html'}
+- {date: 1999-10,
+   desc: Knowledge Management Magazine,
+   title: Calculating Knowledge Capital,
+   url: 'calc-km.html'}
+- {date: 1999-9,
+   desc: by Paul Strassmann,
+   title: 'Does Knowledge Capital Explain Market/Book Valuations?',
+   url: 'valuation.shtml'}
+- {date: 1999-4,
+   desc: 'Interview, Knowledge Management Magazine',
+   author: Stuart Silverstone,
+   title: 'What''s the Key to Implementing Knowledge Management?',
+   url: 'kmmag-0499.html'}

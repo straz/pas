@@ -1,42 +1,23 @@
  .home-link {
   position: relative;
-  top: 2em;
+  top: .5em;
   font-size: 150%;
  }
 
- nav.site-nav {
-  line-height: 1.4em;
-  z-index: 1;
+ nav.site-nav ul {
+  margin-left: 0px;
  }
- nav.site-nav h2 {
-    font-weight: 500;
-    color: #666;
-    font-size: 100%;
-    margin-bottom: 3px;
+
+ nav.site-nav {
+  position: relative;
+  top: .5em;
+  z-index: 1;
  }
  nav.site-nav li {
     list-style:none;
- }
- nav.site-nav li.column {
     float: left;
-    margin-left: 2em;
- }
- #nav-books, #nav-idc {
-   margin-top: 1em;
  }
 
- nav.site-nav ul.links {
-   margin-left: 0px;
- } 
- nav.site-nav ul.links li.active {
-    background-color: #d4d4ef;
- }
- nav.site-nav ul.links li:hover {
-    background-color: #E4E4FF;
- }
- nav.site-nav ul.links li:hover a {
-    text-decoration: none;
- }
 
 @media screen and (max-width: 600px) {
     .home-link {
@@ -44,10 +25,6 @@
     }
     nav.site-nav {
        border: solid 2px gray;
-    }
-    nav.site-nav li.column {
-      margin-left: 0;
-      margin-right: 2em;
     }
 }
 

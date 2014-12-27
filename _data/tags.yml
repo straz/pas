@@ -1,11 +1,14 @@
 - {tag: all, full: All articles}
 - {tag: Baseline, full: Baseline Magazine}
 - {tag: IDC, full: IDC}
+- {tag: GCN, full: Government Computer News}
 - {tag: AFCEA, full: AFCEA Signal}
 - {tag: Computerworld, full: Computerworld}
 - {tag: Infoworld, full: Infoworld}
 - {tag: SearchSecurity, full: SearchSecurity}
 - {tag: GMU, full: George Mason University}
+- {tag: IEJ, full: Information Economics Journal}
+- {tag: KM, full: Knowledge Management Magazine}
 - {tag: security, full: Security}
 - {tag: book, full: Books}
 - {tag: video, full: Videos}

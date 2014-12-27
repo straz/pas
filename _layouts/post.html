@@ -17,12 +17,14 @@ layout: default
 {% comment %}
   Dates: handle full dates (2014-12-4) or partial dates (2014-12) using two format strings
 {% endcomment %}
-{% assign day = (page.date | date: "%-d") %}
-{% if day != page.date %}
-  {{ page.date | date: "%B %-d, %Y" }}
-{% else %}
-  {% capture noday %}{{ day }}-1{% endcapture%}
-  {{ noday | date: "%B %Y" }}
+{% if page.date %}
+  {% assign day = (page.date | date: "%-d") %}
+  {% if day != page.date %}
+    {{ page.date | date: "%B %-d, %Y" }}
+  {% else %}
+    {% capture noday %}{{ day }}-1{% endcapture%}
+    {{ noday | date: "%B %Y" }}
+  {% endif %}
 {% endif %}
 {% if page.author %} • by {{ page.author }}{% endif %}
 {% if page.meta %} • {{ page.meta }}{% endif %}</p>

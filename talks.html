@@ -1,0 +1,13 @@
+---
+layout: default
+category: Articles
+---
+
+<h1>Talks</h1> 
+
+
+{% for talk in site.data.talks %}
+<li>{{ talk.talk_id }} ({{ talk.talk_key }}) - {{ talk.type }}: "{{ talk.title }}" <br/>
+ {{ talk.date }} - {{ talk.venue }} - {{ talk.client}}</li>
+
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: default
+category: Articles
+---
+
+<h1>eBooks</h1> 
+
+{% for book in site.data.ebooks %}
+<li>{{ book.ebook_id }} ({{ book.pathname }}) - "{{ book.title }}" </li>
+
+{% endfor %}

@@ -1,0 +1,83 @@
+
+- {date: 2005-5-19, 
+   desc: 'Lecture, Stevens Institute of Technology (slides)', 
+   ppt: 2.5MB,
+   title: The Structure of IT Spending as a Measure of Organizational Disorder, 
+   url: '2005-disorder.ppt'}
+
+- {date: 2007-6-21, 
+   desc: 'Keynote: Executive Forum', 
+   title: Measuring and Communicating IT Value, 
+   url: '2007-6-21-NYC.pdf'}
+
+- {date: 2007-5-22, 
+   desc: 'Talk: Transformation and Innovation 2007', 
+   pdf: 602kb,
+   title: Transformation of HP Information Technologies, 
+   url: '2007-5-HP.pdf'}
+
+- {date: 2007-9-6, 
+   desc: 'Online Lecture, IT Metrics and Productivity Institute',
+   title: 'CIO Webinar: IT Transformation Case Study', 
+   url: '2007-09-06-itmpi.htm'}
+
+- {date: '2006-04-28', 
+   desc: European CIOs, 
+   pdf: 168kb, 
+   title: 'Governance & Alignment In the Era of Business Transformation', 
+   url: '2006-4-28-governance.pdf'}
+
+- {date: 2005-11, 
+   desc: IP4IT 2005 (podcast), 
+   original: 'http://podcasts.pulvermedia.com/podcasts/VONradio-paul_strassmann_ip4it.mp3',
+   title: The Next IT Tsunami, 
+   url: '2005-11-ip4it.mp3'}
+
+- {date: 2005-11, desc: IP4IT 2005 (slides), 
+   ppt: 1816kb, 
+   title: The Next IT Tsunami,
+   url: 'IP4ITV3.ppt'}
+
+- {date: 2005-10, 
+   desc: 'Computer Aid, Inc.', 
+   pdf: 209kb, 
+   title: 'State of the Practice Interview, with Paul Strassmann', 
+   url: 'productivity-news-2005-10.pdf'}
+
+
+- {date: 2000-5-16, desc: Butler Group, 
+   title: 'Seminar: London', 
+   url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
+- {date: 1999-6-28, desc: SMARTsourcing Conference, title: SmartSourcing for Innovation,
+  url: 'http://www.strassmann.com/talks/one-talk.php?talk=8'}
+- {date: 1999-4-15, desc: Private Briefing to the Federal Reserve Board, title: 'Is
+    There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
+- {date: 2000-9, desc: InfowarCon 2000, note: '<A href="http://www.strassmann.com/pubs/infowar.pdf">Slides</a>
+    (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
+
+- {date: 2003-9-22, 
+   desc: 'Keynote speech, Gartner AD Summit', 
+   note: '<A href="http://www.strassmann.com/pubs/gartner/howto-budgets.pdf"</a>
+    "Slides",  (4MB pdf)', 
+   title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget', 
+   url: 'http://www.strassmann.com/talks/one-talk.php?talk=109'}
+
+- {date: 2005-5-9, 
+   desc: 'CIO Conference 2005, Milan', 
+   title: 'Managing Outsourcing: The CIO Challenge for the Next Decade', 
+   broken: true,
+   url: 'http://www.strassmann.com/talks/one-talk.php?talk=115'}
+
+- {date: 2004-6-7, 
+   broken: true,
+   desc: 'Keynote: Information Economics Summit', 
+   title: Unlocking the Secrets of Information Economics, 
+   url: '2004-06-IES.pdf',
+   talk: 'http://www.strassmann.com/talks/one-talk.php?talk=113'}
+
+- {date: 2003-9-29, 
+   desc: 'Keynote speech, European IT Forum', 
+   title: Aligning IT Projects for Value, 
+   broken: true,
+   url: 'http://www.strassmann.com/talks/one-talk.php?talk=108'}
+

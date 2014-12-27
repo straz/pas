@@ -64,46 +64,17 @@
   video: '45:20'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University (video)', title: New Responsibilities
     of the Department of Defense CIO (alt), url: 'http://www.archive.org/details/NewResponsibilitiesOfTheDepartmentOfDefenseCioprototypeForOther'}
-- {date: 2010-3-10, desc: GCN, title: DOD social media policy fails to answer security
-    questions, url: 'http://gcn.com/articles/2010/03/10/dod-social-media-policy-fails-to-answer-security-questions.aspx'}
-- {date: 2010-01, desc: At Cooper Union, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
-  pdf: 90KB, title: Pioneer Profile, url: 'http://pubs.strassmann.com/cooper/ACUfw09alumni.pdf'}
 - {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: Government Gmail use,
   url: 'http://blogs.zdnet.com/BTL/?p=29511'}
-- {date: 2009-6-30, desc: Draft, pdf: 1.4MB, title: Cyber Security for the Department
-    of Defense, url: 'http://pubs.strassmann.com/dod/cybersecurity-draft-v1.pdf'}
-- {date: 2009-4-14, desc: 'Webinar: Computer Aid, Inc.', pdf: 3.8MB, title: The Economics
-    of Thin Clients, url: 'http://pubs.strassmann.com/cai/2009-4-14.pdf'}
 - {date: 2008-10, desc: 'Article, Software Technology Support Center', original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
   title: DoD Business Mission Area Service-Oriented Architecture to Support Business
     Transformation, url: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html'}
-- {date: 2008-5-19, desc: Multichannel News, original: 'http://www.multichannel.com/article/CA6561899.html',
-  pdf: 379KB, title: 'Life Without Cable: One Man''s View of an Untethered Future',
-  url: 'http://pubs.strassmann.com/cable/future_of_cable.pdf'}
 - {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pbj.strassmann.com:8080/com/pubs/xerox/catalog-v4.pdf'}
-- {date: 2007-10-1, desc: 'Lecture, George Mason University (video)', original: 'http://video.google.com/videoplay?docid=5768135135579922170',
-  title: The Economics of Thin Clients, url: 'http://www.youtube.com/watch?v=85CXOfnSTOY'}
-- {date: 2007-6-21, desc: 'Keynote: Executive Forum', title: Measuring and Communicating
-    IT Value, url: 'http://www.strassmann.com/talks/one-talk.php?talk=123'}
-- {date: 2007-5-22, desc: 'Talk: Transformation and Innovation 2007', pdf: 602kb,
-  title: Transformation of HP Information Technologies, url: 'http://www.strassmann.com/talks/files/2007-5-HP.pdf'}
-- {date: 2007-9-6, desc: 'Online Lecture, IT Metrics and Productivity Institute',
-  title: 'CIO Webinar: IT Transformation Case Study', url: 'http://www.strassmann.com/talks/files/2007-09-06-itmpi.htm'}
 - {date: '2006-04-28', desc: European CIOs, pdf: 168kb, title: Governance &amp; Alignment
     In the Era of Business Transformation, url: 'http://pubs.strassmann.com/talks/2006-4-28-governance.pdf'}
-- {date: 2006-2, desc: Defense Systems Magazine, original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
-  title: 'Who is best at net-centricity? Here''s a hint: Google it', url: 'http://pubs.strassmann.com/defense/2006-2.html'}
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
-- {date: '2006-01-10', desc: by David Foote, original: 'http://expertanswercenter.techtarget.com/eac/blog/0,295203,sid63_tax302579,00.html',
-  title: IT Management in 2006, url: 'http://pubs.strassmann.com/techtarget/foote-2006-01.html'}
-- {date: 2005-11, desc: IP4IT 2005 (podcast), original: 'http://podcasts.pulvermedia.com/podcasts/VONradio-paul_strassmann_ip4it.mp3',
-  title: The Next IT Tsunami, url: 'http://pubs.strassmann.com/talks/2005-11-ip4it.mp3'}
-- {date: 2005-11, desc: IP4IT 2005 (slides), ppt: 1816kb, title: The Next IT Tsunami,
-  url: 'http://pubs.strassmann.com/talks/IP4ITV3.ppt'}
-- {date: 2005-10, desc: 'Computer Aid, Inc.', pdf: 209kb, title: 'State of the Practice
-    Interview, with Paul Strassmann', url: 'http://pubs.strassmann.com/talks/productivity-news-2005-10.pdf'}
 - {date: 2005-5-18, desc: CERT, pdf: 8.8Mb, title: 'Bezlan: Events &amp; Lessons Learned',
   url: 'http://pubs.strassmann.com/sec/bezlan.pdf'}
 - {date: 2005-9-16, desc: Private briefing, ppt: 7.0Mb, title: Cybercrime, url: 'http://pubs.strassmann.com/sec/cybercrime.ppt'}
@@ -121,35 +92,14 @@
 - {date: 2005-4-15, desc: Search entire book online, title: Information Payoff, url: 'http://books.google.com/books?isbn=0029317207'}
 - {date: 2005-4-15, desc: Search entire book online, title: Business Value of Computers,
   url: 'http://books.google.com/books?isbn=0962041327'}
-- {date: 2005-5-9, desc: 'CIO Conference 2005, Milan', title: 'Managing Outsourcing:
-    The CIO Challenge for the Next Decade', url: 'http://www.strassmann.com/talks/one-talk.php?talk=115'}
 - {date: 2003-11, desc: Portal Onet.pl - Businessman Magazine, language: Polish, original: 'http://businessman.onet.pl/artykul.html?MP=1&ITEM=1140009',
   title: To jest wojna!, url: 'http://pubs.strassmann.com/pl/onet'}
-- {date: 2004-9, desc: Information Economics Journal, pdf: 86kb, title: 'Foundations
-    of Information Economics, Part III', url: 'http://pubs.strassmann.com/iej/2004-09.pdf'}
-- {date: 2004-8, desc: Cutter IT Journal, pdf: 144kb, title: Six Rules for Finding
-    IT Value, url: 'http://pubs.strassmann.com/cutter/six-rules.pdf'}
-- {date: 2004-6, desc: Information Economics Journal, pdf: 89kb, title: The economics
-    of outsourcing, url: 'http://pubs.strassmann.com/iej/2004-06-a.pdf'}
-- {date: 2004-6, desc: Information Economics Journal, pdf: 74kb, title: 'Foundations
-    of Information Economics, Part II: The impact of transaction economics', url: 'http://pubs.strassmann.com/iej/2004-06-b.pdf'}
-- {date: 2004-6-7, desc: 'Keynote: Information Economics Summit', title: Unlocking
-    the Secrets of Information Economics, url: 'http://www.strassmann.com/talks/one-talk.php?talk=113'}
 - {date: 2004-5, desc: 'by Luca De Biase, Il Sole 24 Ore', language: Italian, original: 'http://www.debiase.com/storie_Contenuto.asp?Cod_Argomento=20&Cod_Storia=278&ADDR_CALL=C',
   title: Internet ha bisogno di tempo per affermarsi, url: 'http://pubs.strassmann.com/debiase-2004-6.html'}
-- {date: 2004-3, desc: Information Economics Journal, pdf: 88kb, title: 'Foundations
-    of Information Economics, Part I', url: 'http://pubs.strassmann.com/iej/2004-03.pdf'}
 - {date: 2003-10-5, desc: Interia, language: Polish, title: Paul A. Strassmann w Polsce,
   url: 'http://pubs.strassmann.com/pl/interia.html'}
 - {date: 2003-10, desc: Dutch CIO Magazine, language: Dutch, pdf: 400kb, title: Vernietiging
     van kennis, url: 'http://pubs.strassmann.com/cio/2003-09-cio.pdf'}
-- {date: 2003-10, desc: Information Economics Journal, title: Getting better value
-    from information management, url: 'http://pubs.strassmann.com/iej/2003-09.php'}
-- {date: 2003-9-29, desc: 'Keynote speech, European IT Forum', title: Aligning IT
-    Projects for Value, url: 'http://www.strassmann.com/talks/one-talk.php?talk=108'}
-- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', note: '<A href="http://www.strassmann.com/pubs/gartner/howto-budgets.pdf"</a>
-    "Slides",  (4MB pdf)', title: 'The #1 CIO Issue: How to Explain and Justify the
-    I.T. Budget', url: 'http://www.strassmann.com/talks/one-talk.php?talk=109'}
 - {date: 2003-6, desc: SAIC Employee Update Magazine, pdf: 72kb, title: Strassmann
     on the future of IT, url: 'http://pubs.strassmann.com/saic/april-2003.pdf'}
 - {date: 2003-6, desc: Harvard Business Review, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
@@ -198,72 +148,30 @@
   url: 'http://pubs.strassmann.com/sheridan'}
 - {date: 2001-6-28, desc: Financial Times, title: The guru of profitless computing,
   url: 'http://pubs.strassmann.com/ft/ft_guru.html'}
-- {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: 'http://pubs.strassmann.com/km/2001-6.php'}
-- {date: 2001-5, desc: Knowledge Management Magazine, title: Personal Capitalists,
-  url: 'http://pubs.strassmann.com/km/2001-5.php'}
-- {date: 2001-4, desc: Knowledge Management Magazine, title: 'KM, IT and Organizational
-    Capital', url: 'http://pubs.strassmann.com/km/2001-4.php'}
-- {date: 2001-3, desc: Knowledge Management Magazine, title: Prophecies Don't Serve
-    Knowledge Capital, url: 'http://pubs.strassmann.com/km/2001-3.php'}
 - {date: 2001-2, desc: WGBH/Frontline (on PBS), title: The Pernicious Characteristics
     of Monocultures, url: 'http://www.pbs.org/wgbh/pages/frontline/shows/hackers/blame/threat.html'}
-- {date: 2001-2, desc: Knowledge Management Magazine, title: How to Value Information
-    Security Risks, url: 'http://pubs.strassmann.com/km/2001-2.php'}
-- {date: 2001-1, desc: Knowledge Management Magazine, title: Bending the Numbers,
-  url: 'http://pubs.strassmann.com/km/2001-1.php'}
-- {date: 2000-9, desc: iMP Information Impacts Magazine, original: 'http://www.cisp.org/imp/september_2000/09_00strassmann.htm',
-  title: The Perverse Economics of Information, url: 'http://pubs.strassmann.com/imp/'}
-- {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
-    Knowledge Capital, url: 'http://pubs.strassmann.com/km/2000-11.php'}
-- {date: 2000-10, desc: Knowledge Management Magazine, title: Intelligence in Question,
-  url: 'http://pubs.strassmann.com/km/2000-10.php'}
-- {date: 2000-8, desc: Knowledge Management Magazine, title: Expecting Too Much of
-    Knowledge, url: 'http://pubs.strassmann.com/km/2000-8.php'}
-- {date: 2000-9, desc: InfowarCon 2000, note: '<A href="http://www.strassmann.com/pubs/infowar.pdf">Slides</a>
-    (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
 - {date: 2000-7, desc: by Paul Strassmann, title: 'Assessment of Productivity, Technology
     and Knowledge Capital', url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWN7VB'}
 - {date: 2000-7, desc: by Paul Strassmann, title: 'Governance of Information Management:
     Principles and Concepts', url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWVMM1'}
 - {date: 2000-6, desc: by Paul Strassmann, title: Revenues and Profits of Global Information
     Technology Suppliers, url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWYSJ2'}
-- {date: 2000-6, desc: Knowledge Management Magazine, title: Global Knowledge Power,
-  url: 'http://pubs.strassmann.com/km/globalpower.html'}
 - {date: 2000-5-25, desc: 'Video interview, from Silicon.com', note: '<font size=-1>[RealVideo,
     9 minutes]</font>', title: The Agenda Setters, url: 'http://pubs.strassmann.com/silicon/interview-052500.ram'}
 - {date: 2000-5, desc: by Paul Strassmann, title: Information Productivity Indicators
     of U.S. Corporations, url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWRLJ7'}
-- {date: 2000-5, desc: Knowledge Management Magazine, title: Knowledge Power in the
-    Cyber-Economy, url: 'http://pubs.strassmann.com/km/knowledgepower.html'}
-- {date: 2000-5-16, desc: Butler Group, title: 'Seminar: London', url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
-- {date: 2000-4, desc: Knowledge Management Magazine, title: The Knowledge-Devouring
-    Web, url: 'http://pubs.strassmann.com/km/devourweb.html'}
-- {date: 2000-3, desc: Knowledge Management Magazine, title: The Importance of Knowledge
-    Capital, url: 'http://pubs.strassmann.com/km/importance.html'}
 - {date: 2000-2, desc: Signal, title: Technology-based Confrontations Blur the Line
     Between Competition and Conflict, url: 'http://pubs.strassmann.com/signal2-2000.html'}
-- {date: 2000-2, desc: Knowledge Management Magazine, title: Accumulating Knowledge
-    Efficiency, url: 'http://pubs.strassmann.com/km/2000-2.php'}
 - {date: 2000-1, desc: Silicon.com, title: IP - A New Metric for the Information Age,
   url: 'http://pubs.strassmann.com/ip-value-proposition.html'}
 - {date: 2000-1, desc: Knowledge Executive Report, title: The Coming of Knowledge
     Services Markets, url: 'http://pubs.strassmann.com/kservice-markets.html'}
-- {date: 2000-1, desc: Knowledge Management Magazine, title: When Spending Is Investing,
-  url: 'http://pubs.strassmann.com/km/spendinvest.html'}
 - {date: 2000-1-5, desc: PBS live broadcast, note: '[<a href="http://www.pbs.org/newshour/bb/cyberspace/jan-june00/y2k_1-5.html">Transcript</a>,
     | <a href="http://audio.pbs.org:8080/ramgen/newshour/january00/y2k_1-5.rm?altplay=y2k_1-5.rm">RealAudio</a>
     ]', title: McNeil-Lehrer News Hour, url: 'http://www.pbs.org/newshour/bb/cyberspace/jan-june00/y2k_1-5.html'}
-- {date: 1999-12, desc: Knowledge Management Magazine, title: 'What''s the Worth of
-    an Employee?', url: 'http://pubs.strassmann.com/km/emp-worth.html'}
-- {date: 1999-11, desc: Knowledge Management Magazine, title: Ticker-Tape Charade,
-  url: 'http://pubs.strassmann.com/km/tickertape.html'}
 - {date: '1999-11-10', desc: Canberra Times, title: Measurement Recommended, url: 'http://pubs.strassmann.com/canberra/'}
-- {date: 1999-10, desc: Knowledge Management Magazine, title: Calculating Knowledge
-    Capital, url: 'http://pubs.strassmann.com/km/calc-km.html'}
 - {date: 1999-9, desc: Press Release, title: Butler Group to retain Paul Strassmann,
   url: 'http://www.butlergroup.com/press/pressrel/52.asp'}
-- {date: 1999-9, desc: by Paul Strassmann, title: 'Does Knowledge Capital Explain
-    Market/Book Valuations?', url: 'http://pubs.strassmann.com/km/valuation.shtml'}
 - {date: 1999-8, desc: 'by Peter Golden, Electronic Business', title: The Partisan,
   url: 'http://pubs.strassmann.com/ebiz0899/'}
 - {date: 1999-8, desc: 'by Paul Strassmann and Danek Bienkowski, ABT Corp. White Paper',
@@ -274,16 +182,10 @@
 - {date: 1999-6, desc: MIS Web, title: Interview - In the Firing Line, url: 'http://pubs.strassmann.com/mindshare.html'}
 - {date: 1999-6, desc: Knowledge Executive Report, title: Measuring and Managing Knowledge
     Capital, url: 'http://pubs.strassmann.com/measuring-kc/'}
-- {date: 1999-6-28, desc: SMARTsourcing Conference, title: SmartSourcing for Innovation,
-  url: 'http://www.strassmann.com/talks/one-talk.php?talk=8'}
 - {date: 1999-6-14, desc: 'The Art of ROI, JavaOne Symposium', note: streaming video
     &amp; slides, title: 'Software: Expense or Asset?', url: 'http://pubs.strassmann.com/art-of-roi/'}
 - {date: 1999-5-31, desc: Infoworld, title: 'Computer productivity: Paul Strassmann''s
     facts or Bob Lewis'' fiction?', url: 'http://pubs.strassmann.com/infoworld/boblewis.html'}
-- {date: 1999-4-15, desc: Private Briefing to the Federal Reserve Board, title: 'Is
-    There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
-- {date: 1999-4, desc: 'Interview, Knowledge Management Magazine', title: 'What''s
-    the Key to Implementing Knowledge Management?', url: 'http://pubs.strassmann.com/kmmag-0499.html'}
 - {date: 1998-9-21, desc: GCN, title: Beat The Clock, url: 'http://pubs.strassmann.com/gcn/beattheclock.html'}
 - {date: 1998-8, desc: Cutter IT Journal, title: 'What is Alignment?', url: 'http://pubs.strassmann.com/alignment/'}
 - {date: 1998-6-11, desc: Forbes, title: 'Of Men and Machines: Productivity Declines',
@@ -506,6 +408,8 @@
 - {date: 2008-11, desc: AFCEA Signal, title: 'Does the 2009 Budget Support Network-Centric
     Missions?', url: pubs/afcea/2008-11.html}
 - {date: 2003-3-19, desc: AFCEA talk, title: Power Politics of the CIO, url: pubs/afcea/2003-3.html}
+- {date: 2003-3-19, desc: AFCEA talk (announcement), title: Power Politics of the
+    CIO, url: pubs/afcea/2003-3-19.pdf}
 - {date: '1989-05-26', desc: Babbage Institute, original: 'http://purl.umn.edu/107640',
   title: Interview with Paul A. Strassmann (part 2), url: pubs/babbage/babbage-oh172pas.pdf}
 - {date: '1987-05-15', desc: Babbage Institute, original: 'http://purl.umn.edu/107641',
@@ -606,6 +510,17 @@
     Best, url: pubs/baseline/2004-10-a.php}
 - {date: 2004-10, desc: Baseline Magazine, title: Who Led the Baseline 500 and Why,
   url: pubs/baseline/2004-10-b.php}
+- {date: 2008-5-19, desc: Multichannel News, original: 'http://www.multichannel.com/article/CA6561899.html',
+  title: 'Life Without Cable: One Man''s View of an Untethered Future', url: pubs/cable/life-without-cable.html}
+- {date: 2005-10-7, desc: Multichannel News, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
+  title: 'Is Google Cable''s Next Nightmare? No.', url: pubs/cable/next.html}
+- {date: 2008-5-19, desc: Multichannel News, original: 'http://www.multichannel.com/article/CA6561899.html',
+  pdf: 379KB, title: 'Life Without Cable: One Man''s View of an Untethered Future',
+  url: pubs/cable/future_of_cable.pdf}
+- {date: '2005-10-10', desc: Multichannel Magazine, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
+  pdf: 170kb, title: 'Is Google Cable''s Next Nightmare? No.', url: pubs/cable/2005-10-google.pdf}
+- {date: 2009-4-14, desc: 'Webinar: Computer Aid, Inc.', pdf: 3.8MB, title: The Economics
+    of Thin Clients, url: pubs/cai/2009-4-14.pdf}
 - {date: 1991-4-23, desc: by Paul Strassmann, title: Testimony before the House Armed
     Services Committee, url: pubs/cim/cim.html}
 - {date: 1991-4-24, desc: by Paul Strassmann, original: 'http://www.defenselink.mil/nii/bpr/bprcd/278a.htm',
@@ -803,10 +718,22 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: 'For IT assurance, get some insurance', url: pubs/computerworld/pubs/computerworld/assurance.html}
+- {date: 2010-01, desc: At Cooper Union, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
+  pdf: 90KB, title: Pioneer Profile, url: pubs/cooper/ACUfw09alumni.pdf}
+- {date: 2004-8, desc: Cutter IT Journal, pdf: 144kb, title: Six Rules for Finding
+    IT Value, url: pubs/cutter/six-rules.pdf}
+- {date: 2006-2, desc: Defense Systems Magazine, original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
+  title: 'Who is best at net-centricity? Here''s a hint: Google it', url: pubs/defense/2006-2.html}
+- {date: 2009-6-30, desc: Draft, pdf: 1.4MB, title: Cyber Security for the Department
+    of Defense, url: pubs/dod/cybersecurity-draft-v1.pdf}
 - {author: Megan Lisagor, date: 2003-3-18, desc: Federal Computer Week, original: 'http://fcw.com/articles/2003/03/18/strassmann-make-cio-equal-to-cfo.aspx',
   tags: FCW, title: 'Strassmann: Make CIO equal to CFO', url: pubs/fcw/equal.html}
+- {author: John Moore, date: 2004-3-14, desc: FCW, original: 'http://fcw.com/Articles/2004/03/14/Whatever-happened-to-CIM.aspx',
+  title: 'Whatever happened to CIM?', url: pubs/fcw/happened-to-cim.html}
 - {date: '2012-04-10', desc: Federal Computer Week, original: 'http://fcw.com/Blogs/Insider/2012/04/anniversary-issue-pivotal-people.aspx',
   title: 'The most influential federal IT leaders since 1987: A short list', url: pubs/fcw/fcw-2012.html}
+- {date: 2010-3-9, desc: GCN, original: 'http://gcn.com/articles/2010/03/10/dod-social-media-policy-fails-to-answer-security-questions.aspx',
+  title: DOD social media policy fails to answer security questions, url: pubs/gcn/2010-03.html}
 - {date: 2005-3-29, desc: George Mason University, pdf: 2.5MB, title: The Structure
     of IT Spending as a Measure of Organizational Disorder, url: pubs/gmu/2005-3-29.pdf}
 - {date: 2010-4-22, desc: George Mason University, pdf: 7.8MB, title: How SOA Fits
@@ -865,11 +792,62 @@
     DoD CIO Charter: A Template for IT Governance?', url: pubs/gmu/CIOV1full.pdf}
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
   title: IDC Warned about a Snowden-Like Event, url: pubs/idc-bak/snowden.html}
+- {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
+  title: Getting better value from information management, url: pubs/iej/2003-09.html}
+- {date: 2004-9, desc: Information Economics Journal, pdf: 86kb, title: 'Foundations
+    of Information Economics, Part III', url: pubs/iej/2004-09.pdf}
+- {date: 2004-6, desc: Information Economics Journal, pdf: 89kb, title: The economics
+    of outsourcing, url: pubs/iej/2004-06-a.pdf}
+- {date: 2004-6, desc: Information Economics Journal, pdf: 74kb, title: 'Foundations
+    of Information Economics, Part II: The impact of transaction economics', url: pubs/iej/2004-06-b.pdf}
+- {date: 2004-3, desc: Information Economics Journal, pdf: 88kb, title: 'Foundations
+    of Information Economics, Part I', url: pubs/iej/2004-03.pdf}
+- {date: 2000-9, desc: iMP Information Impacts Magazine, original: 'http://www.cisp.org/imp/september_2000/09_00strassmann.htm',
+  title: The Perverse Economics of Information, url: pubs/imp/index.html}
 - {date: 1999-5-31, desc: Infoworld, layout: post, original: 'https://web.archive.org/web/20000117234827/http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm',
   title: 'Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo;
     fiction?', url: pubs/infoworld/boblewis.html}
 - {author: Sandy Reed, date: 1999-3-22, desc: Infoworld, original: 'https://web.archive.org/web/20000208003735/http://www.infoworld.com/cgi-bin/displayNew.pl?/reed/990322sr.htm',
   title: Numbers indicate that companies overspend on information management, url: pubs/infoworld/numbers.html}
+- {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: 'http://pubs.strassmann.com/km/2001-6.php'}
+- {date: 2001-5, desc: Knowledge Management Magazine, title: Personal Capitalists,
+  url: 'http://pubs.strassmann.com/km/2001-5.php'}
+- {date: 2001-4, desc: Knowledge Management Magazine, title: 'KM, IT and Organizational
+    Capital', url: 'http://pubs.strassmann.com/km/2001-4.php'}
+- {date: 2001-3, desc: Knowledge Management Magazine, title: Prophecies Don't Serve
+    Knowledge Capital, url: 'http://pubs.strassmann.com/km/2001-3.php'}
+- {date: 2001-2, desc: Knowledge Management Magazine, title: How to Value Information
+    Security Risks, url: 'http://pubs.strassmann.com/km/2001-2.php'}
+- {date: 2001-1, desc: Knowledge Management Magazine, title: Bending the Numbers,
+  url: 'http://pubs.strassmann.com/km/2001-1.php'}
+- {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
+    Knowledge Capital, url: 'http://pubs.strassmann.com/km/2000-11.php'}
+- {date: 2000-10, desc: Knowledge Management Magazine, title: Intelligence in Question,
+  url: 'http://pubs.strassmann.com/km/2000-10.php'}
+- {date: 2000-8, desc: Knowledge Management Magazine, title: Expecting Too Much of
+    Knowledge, url: 'http://pubs.strassmann.com/km/2000-8.php'}
+- {date: 2000-6, desc: Knowledge Management Magazine, title: Global Knowledge Power,
+  url: pubs/km/globalpower.html}
+- {date: 2000-5, desc: Knowledge Management Magazine, title: Knowledge Power in the
+    Cyber-Economy, url: pubs/km/knowledgepower.html}
+- {date: 2000-4, desc: Knowledge Management Magazine, title: The Knowledge-Devouring
+    Web, url: pubs/km/devourweb.html}
+- {date: 2000-3, desc: Knowledge Management Magazine, title: The Importance of Knowledge
+    Capital, url: pubs/km/importance.html}
+- {date: 2000-2, desc: Knowledge Management Magazine, title: Accumulating Knowledge
+    Efficiency, url: pubs/km/2000-2.php}
+- {date: 2000-1, desc: Knowledge Management Magazine, title: When Spending Is Investing,
+  url: pubs/km/spendinvest.html}
+- {date: 1999-12, desc: Knowledge Management Magazine, title: 'What''s the Worth of
+    an Employee?', url: pubs/km/emp-worth.html}
+- {date: 1999-11, desc: Knowledge Management Magazine, title: Ticker-Tape Charade,
+  url: pubs/km/tickertape.html}
+- {date: 1999-10, desc: Knowledge Management Magazine, title: Calculating Knowledge
+    Capital, url: pubs/km/calc-km.html}
+- {date: 1999-9, desc: by Paul Strassmann, title: 'Does Knowledge Capital Explain
+    Market/Book Valuations?', url: pubs/km/valuation.shtml}
+- {author: Stuart Silverstone, date: 1999-4, desc: 'Interview, Knowledge Management
+    Magazine', title: 'What''s the Key to Implementing Knowledge Management?', url: pubs/km/kmmag-0499.html}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, key: computerweekly.com,
   original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
   title: Microsoft defends its security, url: pubs/misc/ms-security.html}
@@ -895,6 +873,34 @@
   title: How to manage remote workforce security, url: pubs/searchsecurity/remote-workforce.html}
 - {date: 2001-3-22, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Individual-rights-vs-corporate-controls-for-PCs',
   title: Individual rights vs. corporate controls for PCs, url: pubs/searchsecurity/rights-vs-controls.html}
+- {author: David Foote, date: '2006-01-10', desc: TechTarget, original: 'http://expertanswercenter.techtarget.com/eac/blog/0,295203,sid63_tax302579,00.html',
+  title: IT Management in 2006, url: pubs/searchsecurity/foote-2006-01.html}
+- {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', ppt: 2.5MB,
+  title: The Structure of IT Spending as a Measure of Organizational Disorder, url: pubs/talks/2005-disorder.ppt}
+- {date: 2007-6-21, desc: 'Keynote: Executive Forum', title: Measuring and Communicating
+    IT Value, url: pubs/talks/2007-6-21-NYC.pdf}
+- {date: 2007-5-22, desc: 'Talk: Transformation and Innovation 2007', pdf: 602kb,
+  title: Transformation of HP Information Technologies, url: pubs/talks/2007-5-HP.pdf}
+- {date: 2007-9-6, desc: 'Online Lecture, IT Metrics and Productivity Institute',
+  title: 'CIO Webinar: IT Transformation Case Study', url: pubs/talks/2007-09-06-itmpi.htm}
+- {date: '2006-04-28', desc: European CIOs, pdf: 168kb, title: Governance & Alignment
+    In the Era of Business Transformation, url: pubs/talks/2006-4-28-governance.pdf}
+- {date: 2005-11, desc: IP4IT 2005 (podcast), original: 'http://podcasts.pulvermedia.com/podcasts/VONradio-paul_strassmann_ip4it.mp3',
+  title: The Next IT Tsunami, url: pubs/talks/2005-11-ip4it.mp3}
+- {date: 2005-11, desc: IP4IT 2005 (slides), ppt: 1816kb, title: The Next IT Tsunami,
+  url: pubs/talks/IP4ITV3.ppt}
+- {date: 2005-10, desc: 'Computer Aid, Inc.', pdf: 209kb, title: 'State of the Practice
+    Interview, with Paul Strassmann', url: pubs/talks/productivity-news-2005-10.pdf}
+- {date: 2000-5-16, desc: Butler Group, title: 'Seminar: London', url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
+- {date: 1999-6-28, desc: SMARTsourcing Conference, title: SmartSourcing for Innovation,
+  url: 'http://www.strassmann.com/talks/one-talk.php?talk=8'}
+- {date: 1999-4-15, desc: Private Briefing to the Federal Reserve Board, title: 'Is
+    There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
+- {date: 2000-9, desc: InfowarCon 2000, note: '<A href="http://www.strassmann.com/pubs/infowar.pdf">Slides</a>
+    (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
+- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', note: '<A href="http://www.strassmann.com/pubs/gartner/howto-budgets.pdf"</a>
+    "Slides",  (4MB pdf)', title: 'The #1 CIO Issue: How to Explain and Justify the
+    I.T. Budget', url: 'http://www.strassmann.com/talks/one-talk.php?talk=109'}
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
   title: Commentary, url: pubs/usni/2012-7.html}
 - {date: 2010-1-13, desc: ZDnet, original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511',

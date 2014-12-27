@@ -64,3 +64,7 @@
 - {date: 2008-11, desc: AFCEA Signal, title: 'Does the 2009 Budget Support Network-Centric
     Missions?', url: '2008-11.html'}
 - {date: 2003-3-19, desc: AFCEA talk, title: Power Politics of the CIO, url: '2003-3.html'}
+- {url: "2003-3-19.pdf",
+   date: 2003-3-19,
+   desc: "AFCEA talk (announcement)",
+   title: "Power Politics of the CIO"}
