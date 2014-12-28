@@ -789,7 +789,7 @@
 - {date: 2005-10-3, desc: 'Lecture, George Mason University', pdf: 2Mb, title: 'The
     DoD CIO Charter: A Template for IT Governance?', url: pubs/gmu/CIOV1full.pdf}
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
-  title: IDC Warned about a Snowden-Like Event, url: pubs/idc-bak/snowden.html}
+  title: IDC Warned about a Snowden-Like Event, url: pubs/idc/snowden.html}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   title: Getting better value from information management, url: pubs/iej/2003-09.html}
 - {date: 2004-9, desc: Information Economics Journal, pdf: 86kb, title: 'Foundations
