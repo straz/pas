@@ -116,12 +116,21 @@ function render_extension(article){
   return '';
 }
 
+function render_original(article, ext){
+  if (ext != '' && ('original' in article)){
+    var link = $('<a/>').text('original').attr('href', article.original);
+    return $('<span/>').addClass('extension').append('[',link,']');
+  }
+  return '';
+}
+
 function render_article(article){
   var ext = render_extension(article);
+  var original = render_original(article, ext);
   return $('<li/>').append($('<a/>').attr('href', article.url)
 			   .addClass('article')
 			   .html(article.title),
-			   ext,
+			   ext, original,
 			   $('<br/>'),
 			   $('<span/>').attr('class','post-meta')
 			   .html(article.desc + ', ' + pretty_date(article)));

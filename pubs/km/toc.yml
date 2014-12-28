@@ -10,30 +10,18 @@
    desc: Knowledge Management Magazine,
    title: 'KM, IT and Organizational Capital',
    url: 'http://pubs.strassmann.com/km/2001-4.php'}
-- {date: 2001-3,
-   desc: Knowledge Management Magazine,
-   title: Prophecies Don't Serve Knowledge Capital,
-   url: 'http://pubs.strassmann.com/km/2001-3.php'}
-- {date: 2001-2,
-   desc: Knowledge Management Magazine,
-   title: How to Value Information Security Risks,
-   url: 'http://pubs.strassmann.com/km/2001-2.php'}
-- {date: 2001-1,
-   desc: Knowledge Management Magazine,
-   title: Bending the Numbers,
-   url: 'http://pubs.strassmann.com/km/2001-1.php'}
 - {date: 2000-11,
    desc: Knowledge Management Magazine,
    title: How E-Business Affects Knowledge Capital,
-   url: 'http://pubs.strassmann.com/km/2000-11.php'}
+   url: '11-2000.pdf'}
 - {date: 2000-10,
    desc: Knowledge Management Magazine,
    title: Intelligence in Question,
-  url: 'http://pubs.strassmann.com/km/2000-10.php'}
+  url: 'intelligence-q.html'}
 - {date: 2000-8,
    desc: Knowledge Management Magazine,
    title: Expecting Too Much of Knowledge,
-   url: 'http://pubs.strassmann.com/km/2000-8.php'}
+   url: 'expecttoomuch.html'}
 - {date: 2000-6,
    desc: Knowledge Management Magazine,
    title: Global Knowledge Power,
@@ -53,7 +41,7 @@
 - {date: 2000-2,
    desc: Knowledge Management Magazine,
    title: Accumulating Knowledge Efficiency,
-   url: '2000-2.php'}
+   url: 'knowlege-efficiency.html'}
 - {date: 2000-1,
    desc: Knowledge Management Magazine,
    title: When Spending Is Investing,
@@ -73,7 +61,7 @@
 - {date: 1999-9,
    desc: by Paul Strassmann,
    title: 'Does Knowledge Capital Explain Market/Book Valuations?',
-   url: 'valuation.shtml'}
+   url: 'valuation.html'}
 - {date: 1999-4,
    desc: 'Interview, Knowledge Management Magazine',
    author: Stuart Silverstone,

@@ -418,32 +418,36 @@
     500 Companies That Manage Information Best, url: pubs/baseline/2004-10-a.html}
 - {author: Larry Dignan with Paul Strassmann, date: 2004-10-18, desc: Baseline, title: Who
     Led the Baseline 500 and Why, url: pubs/baseline/2004-10-b.html}
+- {date: 2005-1-13, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Why-JP-Morgan-Chase-Really-Dropped-IBM/',
+  title: Why JP Morgan Chase Really Dropped IBM, url: pubs/baseline/2005-01.html}
+- {date: 2005-3-7, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Outsourcing-What-Ratio-Is-Right',
+  title: 'Outsourcing: What Ratio Is Right?', url: pubs/baseline/2005-3-a.html}
 - {author: Robert Hertzberg, date: 2007-04-11, desc: eWeek, original: 'http://www.eweek.com/article2/0,1895,2113008,00.asp',
-  pdf: 749kb, title: The 100 Smartest Companies of 2007, url: pubs/baseline/2007-04-eweek.pdf}
-- {date: 2008-01, desc: Baseline Magazine, pdf: 480kb, title: 'Real Numbers: 5 Secure
-    Reasons for Thin Clients', url: pubs/baseline/2008-01.pdf}
-- {date: 2007-10, desc: Baseline Magazine, original: 'http://www.baselinemag.com/article2/0,1540,2190857,00.asp',
+  pdf: 749kb, tags: Baseline, title: The 100 Smartest Companies of 2007, url: pubs/baseline/2007-04-eweek.pdf}
+- {date: 2008-01, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Security/5-Secure-Reasons-for-Thin-Clients-[1]',
+  pdf: 480kb, title: 'Real Numbers: 5 Secure Reasons for Thin Clients', url: pubs/baseline/2008-01.pdf}
+- {author: Robert Hertzberg, date: 2007-10, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Getting-a-Glimpse-Through-Numbers-of-Whos-Using-Technology-Well/',
   pdf: 420kb, title: The Baseline 500, url: pubs/baseline/2007-10-b.pdf}
-- {date: 2007-10, desc: Baseline Magazine, original: 'http://www.baselinemag.com/article2/0,1540,2190857,00.asp',
+- {date: 2007-10, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/The-Baseline-500-Methodology/',
   pdf: 448kb, title: 'The Baseline 500: Methodology', url: pubs/baseline/2007-10-a.pdf}
-- {date: 2007-09, desc: Baseline Magazine, pdf: 80kb, title: 'Real Numbers: Why Pay-For-Use
-    Computing Pays Off', url: pubs/baseline/2007-09-a.pdf}
+- {date: 2007-09, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Why-PayforUse-Computing-Pays-Off/',
+  pdf: 80kb, title: 'Real Numbers: Why Pay-For-Use Computing Pays Off', url: pubs/baseline/2007-09-a.pdf}
 - {date: 2007-09, desc: Baseline Magazine, pdf: 67kb, title: 'Workbook: Benefits of
     Server Virtualization', url: pubs/baseline/2007-09-b.pdf}
-- {date: 2007-07, desc: Baseline Magazine, pdf: 115kb, title: 'Real Numbers: HP: Behind
-    The Ascent Of The New IT Champ', url: pubs/baseline/2007-07.pdf}
+- {date: 2007-07, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Opinion-Why-CIOs-Should-Pay-Attention-to-HewlettPackard/',
+  pdf: 115kb, title: 'Real Numbers: HP: Behind The Ascent Of The New IT Champ', url: pubs/baseline/2007-07.pdf}
 - {date: 2007-04, desc: Baseline Magazine, title: 'Calculator: How Smart is Your Company?',
   url: pubs/baseline/2007-4-calc.jpg}
-- {date: 2007-05, desc: Baseline Magazine, pdf: 80kb, title: 'Real Numbers: Is Microsoft
-    Losing its Grip?', url: pubs/baseline/2007-05-a.pdf}
+- {date: 2007-05, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Is-Microsoft-Losing-Its-Grip/',
+  pdf: 80kb, title: 'Real Numbers: Is Microsoft Losing its Grip?', url: pubs/baseline/2007-05-a.pdf}
 - {date: 2007-03, desc: Baseline Magazine, pdf: 65kb, title: 'Workbook: Is Consolidation
     Paying Off?', url: pubs/baseline/2007-03-b.pdf}
-- {date: 2007-03, desc: Baseline Magazine, pdf: 83kb, title: 'Real Numbers: Building
-    Software? Curb Your Enthusiasm', url: pubs/baseline/2007-03-a.pdf}
+- {date: 2007-03, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Building-Software-Curb-Your-Enthusiasm/',
+  pdf: 83kb, title: 'Real Numbers: Building Software? Curb Your Enthusiasm', url: pubs/baseline/2007-03-a.pdf}
 - {date: 2007-01, desc: Baseline Magazine, pdf: 59kb, title: 'Workbook: Are You Transforming
     Your Business?', url: pubs/baseline/2007-01-b.pdf}
-- {date: 2007-01, desc: Baseline Magazine, pdf: 88kb, title: 'Real Numbers: 7 Places
-    To Clean The Clutter In IT', url: pubs/baseline/2007-01-a.pdf}
+- {date: 2007-01, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/7-Places-To-Clean-the-Clutter-in-IT/',
+  pdf: 88kb, title: 'Real Numbers: 7 Places To Clean The Clutter In IT', url: pubs/baseline/2007-01-a.pdf}
 - {date: 2006-11, desc: Baseline Magazine, pdf: 491kb, title: 'Real Numbers: 3 Metrics
     to Gauge Security Spending', url: pubs/baseline/2006-11-a.pdf}
 - {date: 2006-11, desc: Baseline Magazine, pdf: 70kb, title: 'Workbook: Is Your Security
@@ -456,60 +460,54 @@
     Ranked By Revenue', url: pubs/baseline/2006-10-BL500-revenue.pdf}
 - {date: 2006-10, desc: Baseline Magazine, title: 'Online Extra: Calculate Your Company''s
     Information Productivity (spreadsheet)', url: pubs/baseline/2006-10-DIY.xls}
-- {date: 2006-10, desc: Baseline Magazine, title: 'Baseline 500: Five Steps to Improve
-    Your Information Productivity', url: pubs/baseline/2006-10-a.doc}
-- {date: 2006-09, desc: Baseline Magazine, pdf: 118kb, title: 'Real Numbers: What
-    Should You Be: Strategic or Tactical?', url: pubs/baseline/2006-09-a.pdf}
+- {date: 2006-10, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/5-Steps-to-Improve-Your-Information-Productivity/',
+  title: 'Baseline 500: Five Steps to Improve Your Information Productivity', url: pubs/baseline/2006-10-a.doc}
+- {date: 2006-09, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/What-Should-You-Be-Strategic-or-Tactical/',
+  pdf: 118kb, title: 'Real Numbers: What Should You Be: Strategic or Tactical?', url: pubs/baseline/2006-09-a.pdf}
 - {date: 2006-09, desc: Baseline Magazine, pdf: 74kb, title: 'Workbook: Tactical vs.
     Strategic', url: pubs/baseline/2006-09-b.pdf}
-- {date: 2006-07, desc: Baseline Magazine, pdf: 520kb, title: 'Real Numbers: How To
-    Transform Your Business', url: pubs/baseline/2006-07-a.pdf}
+- {date: 2006-07, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/How-Clean-Data-Can-Transform-Your-Business/',
+  pdf: 520kb, title: 'Real Numbers: How To Transform Your Business', url: pubs/baseline/2006-07-a.pdf}
 - {date: 2006-07, desc: Baseline Magazine, pdf: 72kb, title: 'Workbook: The Price
     of Dirty Data', url: pubs/baseline/2006-07-b.pdf}
-- {date: 2006-05, desc: Baseline Magazine, pdf: 86kb, title: 'Real Numbers: Can You
-    Measure Info Management?', url: pubs/baseline/2006-05-a.pdf}
+- {date: 2006-05, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Can-You-Measure-Info-Management/',
+  pdf: 86kb, title: 'Real Numbers: Can You Measure Info Management?', url: pubs/baseline/2006-05-a.pdf}
 - {date: 2006-05, desc: Baseline Magazine, pdf: 73kb, title: 'Workbook: Measuring
     Info Management', url: pubs/baseline/2006-05-b.pdf}
 - {date: 2006-4, desc: Baseline Magazine, pdf: 166kb, title: The 100 Smartest Companies
     (analysis), url: pubs/baseline/2006-4-a.pdf}
 - {date: 2006-4, desc: Baseline Magazine, pdf: 131kb, title: The 100 Smartest Companies
     (rankings), url: pubs/baseline/2006-4-b.pdf}
-- {date: 2006-02, desc: Baseline Magazine, pdf: 481kb, title: 'Real Numbers: A Closer
-    Look at GM''s Tech Spending Cuts', url: pubs/baseline/2006-02-a.pdf}
+- {date: 2006-02, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/A-Closer-Look-At-GMs-Tech-Spending-Cuts/',
+  pdf: 481kb, title: 'Real Numbers: A Closer Look at GM''s Tech Spending Cuts', url: pubs/baseline/2006-02-a.pdf}
 - {date: 2006-02, desc: Baseline Magazine, pdf: 73kb, title: 'Workbook: How to Judge
     Your IT Spending', url: pubs/baseline/2006-02-b.pdf}
-- {date: 2006-01, desc: Baseline Magazine, pdf: 128kb, title: 'Real Numbers: How Much
-    Is An Employee Worth?', url: pubs/baseline/2006-01-a.pdf}
+- {date: 2006-01, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/How-Much-is-an-Employee-Worth/',
+  pdf: 128kb, title: 'Real Numbers: How Much Is An Employee Worth?', url: pubs/baseline/2006-01-a.pdf}
 - {date: 2006-01, desc: Baseline Magazine, pdf: 90kb, title: 'Workbook: Putting a
     Price on A Head', url: pubs/baseline/2006-01-b.pdf}
-- {date: 2005-11, desc: Baseline Magazine, pdf: 507kb, title: 'Real Numbers: How Much
-    Is Know-How Worth?', url: pubs/baseline/2005-11.pdf}
-- {date: 2005-11, desc: Baseline Magazine, pdf: 86kb, title: 'Workbook: Putting a
-    Price on Brainpower', url: pubs/baseline/2005-11-a.pdf}
+- {date: 2005-11, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/How-Much-Is-Knowledge-Worth/',
+  pdf: 507kb, title: 'Real Numbers: How Much Is Know-How Worth?', url: pubs/baseline/2005-11.pdf}
+- {date: 2005-11, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Putting-a-Price-on-Brainpower/',
+  pdf: 86kb, title: 'Workbook: Putting a Price on Brainpower', url: pubs/baseline/2005-11-a.pdf}
 - {date: 2005-10, desc: Baseline Magazine, pdf: 17.6Mb, title: 'The Baseline 500:
     The 500 Best Information Managers', url: pubs/baseline/2005-10-b.pdf}
 - {date: 2005-10, desc: Baseline Magazine, title: 'For Great IT, Focus on the Information,
     Not the Technology', url: pubs/baseline/2005-10-a.html}
-- {date: 2005-9, desc: Baseline Magazine, pdf: 87kb, title: 'Real Numbers: Find True
-    Indicators of Tech Superiority', url: pubs/baseline/2005-09-a.pdf}
-- {date: 2005-9, desc: Baseline Magazine, pdf: 427kb, title: 'Workbook: Measuring
-    your IT Superiority', url: pubs/baseline/2005-09-b.pdf}
-- {date: 2005-7, desc: Baseline Magazine, pdf: 571kb, title: 'Real Numbers: Check
-    How to Verify If You Are Important', url: pubs/baseline/2005-07-a.pdf}
+- {date: 2005-9, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Find-the-Right-Metrics-to-Prove-Your-Value/',
+  pdf: 87kb, title: 'Real Numbers: Find True Indicators of Tech Superiority', url: pubs/baseline/2005-09-a.pdf}
+- {date: 2005-9, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Measuring-Your-IT-Superiority/',
+  pdf: 427kb, title: 'Workbook: Measuring your IT Superiority', url: pubs/baseline/2005-09-b.pdf}
+- {date: 2005-7, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Check-How-to-Verify-if-You-are-Important/',
+  pdf: 571kb, title: 'Real Numbers: Check How to Verify If You Are Important', url: pubs/baseline/2005-07-a.pdf}
 - {date: 2005-7, desc: Baseline Magazine, pdf: 416kb, title: 'Does Your CIO Have Clout?',
   url: pubs/baseline/2005-07-b.pdf}
-- {date: 2005-5, desc: Baseline Magazine, pdf: 33kb, title: 'Real Numbers: Taking
-    a Bite Out of Overhead', url: pubs/baseline/2005-05-a.pdf}
-- {date: 2005-5, desc: Baseline Magazine, pdf: 28kb, title: 'Measuring Value: Does
-    Your Tech Budget Have Teeth?', url: pubs/baseline/2005-05-b.pdf}
-- {date: 2005-3, desc: Baseline Magazine, pdf: 574kb, title: 'Real Numbers: Does Outsourcing
-    Deliver the Goods?', url: pubs/baseline/2005-03.pdf}
-- {date: 2005-01, desc: Baseline Magazine, original: 'http://www.baselinemag.com/print_article2/0,2533,a=142922,00.asp',
-  title: Why JP Morgan Chase Really Dropped IBM, url: pubs/baseline/2005-01.php}
-- {date: 2004-10, desc: Baseline Magazine, title: The 500 Companies That Manage Information
-    Best, url: pubs/baseline/2004-10-a.php}
-- {date: 2004-10, desc: Baseline Magazine, title: Who Led the Baseline 500 and Why,
-  url: pubs/baseline/2004-10-b.php}
+- {date: 2005-5, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Taking-a-Bite-Out-of-Overhead/',
+  pdf: 33kb, title: 'Real Numbers: Taking a Bite Out of Overhead', url: pubs/baseline/2005-05-a.pdf}
+- {date: 2005-5, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Does-Your-Tech-Budget-Have-Teeth/',
+  pdf: 28kb, title: 'Measuring Value: Does Your Tech Budget Have Teeth?', url: pubs/baseline/2005-05-b.pdf}
+- {date: 2005-3, desc: Baseline Magazine, original: 'http://www.baselinemag.com/c/a/Projects-Management/Does-Outsourcing-Deliver-the-Goods/',
+  pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: pubs/baseline/2005-03.pdf}
 - {date: 2008-5-19, desc: Multichannel News, original: 'http://www.multichannel.com/article/CA6561899.html',
   title: 'Life Without Cable: One Man''s View of an Untethered Future', url: pubs/cable/life-without-cable.html}
 - {date: 2005-10-7, desc: Multichannel News, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
@@ -809,23 +807,29 @@
     fiction?', url: pubs/infoworld/boblewis.html}
 - {author: Sandy Reed, date: 1999-3-22, desc: Infoworld, original: 'https://web.archive.org/web/20000208003735/http://www.infoworld.com/cgi-bin/displayNew.pl?/reed/990322sr.htm',
   title: Numbers indicate that companies overspend on information management, url: pubs/infoworld/numbers.html}
+- {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
+    Knowledge Capital, url: pubs/km/2000-11.html}
+- {date: 2000-3, desc: Knowledge Management Magazine, title: 'Sidebar: Winners And
+    Losers', url: pubs/km/2000-3a.html}
+- {date: 2000-7, desc: Knowledge Management Magazine, title: 'Prices, Finances and
+    Knowledge Capital', url: pubs/km/2000-7.html}
+- {date: 2001-1, desc: Knowledge Management Magazine, title: Bending the Numbers,
+  url: pubs/km/2001-1.html}
+- {date: 2001-2, desc: Knowledge Management Magazine, title: How to Value Information
+    Security Risks, url: pubs/km/2001-2.html}
+- {date: 2001-3, desc: Knowledge Management Magazine, title: Prophecies Don't Serve
+    Knowledge Capital, url: pubs/km/2001-3.html}
 - {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: 'http://pubs.strassmann.com/km/2001-6.php'}
 - {date: 2001-5, desc: Knowledge Management Magazine, title: Personal Capitalists,
   url: 'http://pubs.strassmann.com/km/2001-5.php'}
 - {date: 2001-4, desc: Knowledge Management Magazine, title: 'KM, IT and Organizational
     Capital', url: 'http://pubs.strassmann.com/km/2001-4.php'}
-- {date: 2001-3, desc: Knowledge Management Magazine, title: Prophecies Don't Serve
-    Knowledge Capital, url: 'http://pubs.strassmann.com/km/2001-3.php'}
-- {date: 2001-2, desc: Knowledge Management Magazine, title: How to Value Information
-    Security Risks, url: 'http://pubs.strassmann.com/km/2001-2.php'}
-- {date: 2001-1, desc: Knowledge Management Magazine, title: Bending the Numbers,
-  url: 'http://pubs.strassmann.com/km/2001-1.php'}
 - {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
-    Knowledge Capital, url: 'http://pubs.strassmann.com/km/2000-11.php'}
+    Knowledge Capital, url: pubs/km/11-2000.pdf}
 - {date: 2000-10, desc: Knowledge Management Magazine, title: Intelligence in Question,
-  url: 'http://pubs.strassmann.com/km/2000-10.php'}
+  url: pubs/km/intelligence-q.html}
 - {date: 2000-8, desc: Knowledge Management Magazine, title: Expecting Too Much of
-    Knowledge, url: 'http://pubs.strassmann.com/km/2000-8.php'}
+    Knowledge, url: pubs/km/expecttoomuch.html}
 - {date: 2000-6, desc: Knowledge Management Magazine, title: Global Knowledge Power,
   url: pubs/km/globalpower.html}
 - {date: 2000-5, desc: Knowledge Management Magazine, title: Knowledge Power in the
@@ -835,7 +839,7 @@
 - {date: 2000-3, desc: Knowledge Management Magazine, title: The Importance of Knowledge
     Capital, url: pubs/km/importance.html}
 - {date: 2000-2, desc: Knowledge Management Magazine, title: Accumulating Knowledge
-    Efficiency, url: pubs/km/2000-2.php}
+    Efficiency, url: pubs/km/knowlege-efficiency.html}
 - {date: 2000-1, desc: Knowledge Management Magazine, title: When Spending Is Investing,
   url: pubs/km/spendinvest.html}
 - {date: 1999-12, desc: Knowledge Management Magazine, title: 'What''s the Worth of
@@ -845,7 +849,7 @@
 - {date: 1999-10, desc: Knowledge Management Magazine, title: Calculating Knowledge
     Capital, url: pubs/km/calc-km.html}
 - {date: 1999-9, desc: by Paul Strassmann, title: 'Does Knowledge Capital Explain
-    Market/Book Valuations?', url: pubs/km/valuation.shtml}
+    Market/Book Valuations?', url: pubs/km/valuation.html}
 - {author: Stuart Silverstone, date: 1999-4, desc: 'Interview, Knowledge Management
     Magazine', title: 'What''s the Key to Implementing Knowledge Management?', url: pubs/km/kmmag-0499.html}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, key: computerweekly.com,
