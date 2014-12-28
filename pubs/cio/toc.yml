@@ -1,0 +1,19 @@
+- {date: 1997-8, 
+   desc: 'Review by Megan Santosus, CIO Magazine', 
+   title: Align for the Bottom Line, 
+   url: 'santosus.html'}
+- {date: 1997-9-15, 
+   desc: 'CIO Magazine', 
+   title: CIO Hall of Fame, 
+   url: '1997-9-15.html',
+   author: Richard Pastore,
+   original: 'https://web.archive.org/web/19991103204706/http://www.cio.com/archive/091597_strassman_content.html',
+   seealso: 'https://web.archive.org/web/19990116222251/http://www.cio.com/archive/091597_hall.html'
+   }
+- {date: 2003-10, 
+   desc: Dutch CIO Magazine, 
+   language: Dutch, 
+   pdf: 400kb, 
+   title: Vernietiging van kennis, 
+   url: '2003-09-cio.pdf'}
+

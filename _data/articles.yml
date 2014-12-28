@@ -75,9 +75,6 @@
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
-- {date: 2005-5-18, desc: CERT, pdf: 8.8Mb, title: 'Bezlan: Events &amp; Lessons Learned',
-  url: 'http://pubs.strassmann.com/sec/bezlan.pdf'}
-- {date: 2005-9-16, desc: Private briefing, ppt: 7.0Mb, title: Cybercrime, url: 'http://pubs.strassmann.com/sec/cybercrime.ppt'}
 - {date: '2005-10-10', desc: Multichannel Magazine, pdf: 170kb, title: 'Is Google
     Cable''s Next Nightmare?', url: 'http://pubs.strassmann.com/multichannel/2005-10-google.pdf'}
 - {date: 2005-3-29, desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=9103105798586344753',
@@ -98,8 +95,6 @@
   title: Internet ha bisogno di tempo per affermarsi, url: 'http://pubs.strassmann.com/debiase-2004-6.html'}
 - {date: 2003-10-5, desc: Interia, language: Polish, title: Paul A. Strassmann w Polsce,
   url: 'http://pubs.strassmann.com/pl/interia.html'}
-- {date: 2003-10, desc: Dutch CIO Magazine, language: Dutch, pdf: 400kb, title: Vernietiging
-    van kennis, url: 'http://pubs.strassmann.com/cio/2003-09-cio.pdf'}
 - {date: 2003-6, desc: SAIC Employee Update Magazine, pdf: 72kb, title: Strassmann
     on the future of IT, url: 'http://pubs.strassmann.com/saic/april-2003.pdf'}
 - {date: 2003-6, desc: Harvard Business Review, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
@@ -190,8 +185,6 @@
 - {date: 1998-8, desc: Cutter IT Journal, title: 'What is Alignment?', url: 'http://pubs.strassmann.com/alignment/'}
 - {date: 1998-6-11, desc: Forbes, title: 'Of Men and Machines: Productivity Declines',
   url: 'http://pubs.strassmann.com/forbes0698'}
-- {date: 1998-5, desc: by Paul Strassmann, title: 'Outsourcing IT: Miracle Cure or
-    Emetic?', url: 'http://pubs.strassmann.com/outsourcing.shtml'}
 - {date: 1998-4, desc: by Paul Strassmann, title: Comments about Y2000 Test Certification,
   url: 'http://www.strassmann.com/iep/eval2kcomment.html'}
 - {date: 1998-3, desc: American Programmer, title: The Value of Knowledge Capital,
@@ -205,11 +198,8 @@
     Issue', title: 40 Years of IT History, url: 'http://pubs.strassmann.com/datamation1097/index.html'}
 - {date: 1997-9, desc: 'by Paul Strassmann, book excerpt', title: Facts and Fantasies
     about Information Productivity, url: 'http://pubs.strassmann.com/fnf/factnfantasy.shtml'}
-- {date: 1997-9, desc: CIO Magazine, title: CIO Hall of Fame, url: 'http://www.cio.com/archive/091597_hall.html'}
 - {date: 1997-9, desc: 'Review by Michael Schrage, Harvard Business Review', title: Strassmann
     on Politics and Guidelines, url: 'http://pubs.strassmann.com/schrage.html'}
-- {date: 1997-8, desc: 'Review by Megan Santosus, CIO Magazine', title: Align for
-    the Bottom Line, url: 'http://pubs.strassmann.com/santosus.html'}
 - {date: 1997-7, desc: Scientific American, original: 'http://www.sciam.com/0797issue/0797trends.html',
   title: Taking Computers To Task, url: 'http://pubs.strassmann.com/sciam'}
 - {date: 1997-6-4, desc: 'by Helio Gurovitz, Exame', language: both English and Portuguese,
@@ -256,14 +246,10 @@
     CIO's Machiavelli, url: 'http://pubs.strassmann.com/iw-machiavelli.html'}
 - {date: 1994-9, desc: 'by Paul A. Strassmann, Datamation', title: CIOs Should Get
     Back To Basics, url: 'http://pubs.strassmann.com/cio-basics.html'}
-- {date: 1994-6, desc: 'by Paul A. Strassmann, Across the Board', title: The Hocus-Pocus
-    of Reengineering, url: 'http://pubs.strassmann.com/hocus-pocus.html'}
 - {date: 1993-11, desc: 'by Theodore Iacobuzio, Bank Systems + Technology', title: Ground
     Zero, url: 'http://pubs.strassmann.com/ground-zero.html'}
 - {date: 1992-10, desc: 'Diane Hamblen, Chips Magazine', original: 'http://www.chips.navy.mil/archives/92_oct/file2.htm',
   title: Turning our upside down world right side up, url: 'http://pubs.strassmann.com/disa.html'}
-- {date: 1991-4, desc: 'by Paul A. Strassmann, Across the Board', title: Runaway Computer
-    Projects, url: 'http://pubs.strassmann.com/runaway-projects.html'}
 - {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', language: French,
   original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', title: 'Paul
     Strassmann, L''information prend le pouvoir', url: pubs/01/prend-le-pouvoir.html}
@@ -328,6 +314,11 @@
 - {date: 1962-8, desc: 'The Cost Optimization - COPT - System: Management Technology
     Journal of The Institute of Management Sciences', pdf: 1.1MB, title: A Plant-Warehouse
     System with Variable Lead-Times and Variable Re-Order Levels, url: pubs/62-77/001-plant-warehouse-system.pdf}
+- {date: 1994-6, desc: Across the Board, title: The Hocus-Pocus of Reengineering,
+  url: pubs/across/hocus-pocus.html}
+- {date: 1991-4, desc: Across the Board, title: Runaway Computer Projects, url: pubs/across/runaway-projects.html}
+- {date: 1998-5, desc: Across the Board, title: 'Outsourcing IT: Miracle Cure or Emetic?',
+  url: pubs/across/outsourcing.html}
 - {date: 2010-5-21, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/05/21/6842',
   title: Gentlemen Do Not Open Attachments, url: pubs/afcea/2010-05-a.html}
 - {date: 2010-5-25, desc: AFCEA Signal, original: 'http://www.afcea.org/content/?q=2010/05/25/6849',
@@ -527,6 +518,13 @@
 - {date: 1991-4-23, desc: by Paul Strassmann, original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
   pdf: 3.65Mb, title: 'Statement Before House Armed Services Committee, Readiness
     Subcommittee', url: pubs/cim/269b.pdf}
+- {date: 1997-8, desc: 'Review by Megan Santosus, CIO Magazine', title: Align for
+    the Bottom Line, url: pubs/cio/santosus.html}
+- {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, original: 'https://web.archive.org/web/19991103204706/http://www.cio.com/archive/091597_strassman_content.html',
+  seealso: 'https://web.archive.org/web/19990116222251/http://www.cio.com/archive/091597_hall.html',
+  title: CIO Hall of Fame, url: pubs/cio/1997-9-15.html}
+- {date: 2003-10, desc: Dutch CIO Magazine, language: Dutch, pdf: 400kb, title: Vernietiging
+    van kennis, url: pubs/cio/2003-09-cio.pdf}
 - {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: Out of Alignment, url: pubs/computerworld/alignment.html}
@@ -879,6 +877,9 @@
   title: Individual rights vs. corporate controls for PCs, url: pubs/searchsecurity/rights-vs-controls.html}
 - {author: David Foote, date: '2006-01-10', desc: TechTarget, original: 'http://expertanswercenter.techtarget.com/eac/blog/0,295203,sid63_tax302579,00.html',
   title: IT Management in 2006, url: pubs/searchsecurity/foote-2006-01.html}
+- {date: 2005-5-18, desc: CERT, pdf: 8.8Mb, title: 'Bezlan: Events &amp; Lessons Learned',
+  url: pubs/sec/bezlan.pdf}
+- {date: 2005-9-16, desc: Private briefing, ppt: 7.0Mb, title: Cybercrime, url: pubs/sec/cybercrime.ppt}
 - {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', ppt: 2.5MB,
   title: The Structure of IT Spending as a Measure of Organizational Disorder, url: pubs/talks/2005-disorder.ppt}
 - {date: 2007-6-21, desc: 'Keynote: Executive Forum', title: Measuring and Communicating
@@ -886,7 +887,7 @@
 - {date: 2007-5-22, desc: 'Talk: Transformation and Innovation 2007', pdf: 602kb,
   title: Transformation of HP Information Technologies, url: pubs/talks/2007-5-HP.pdf}
 - {date: 2007-9-6, desc: 'Online Lecture, IT Metrics and Productivity Institute',
-  title: 'CIO Webinar: IT Transformation Case Study', url: pubs/talks/2007-09-06-itmpi.htm}
+  title: 'CIO Webinar: IT Transformation Case Study', url: pubs/talks/2007-09-06-itmpi.html}
 - {date: '2006-04-28', desc: European CIOs, pdf: 168kb, title: Governance & Alignment
     In the Era of Business Transformation, url: pubs/talks/2006-4-28-governance.pdf}
 - {date: 2005-11, desc: IP4IT 2005 (podcast), original: 'http://podcasts.pulvermedia.com/podcasts/VONradio-paul_strassmann_ip4it.mp3',

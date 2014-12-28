@@ -1,0 +1,13 @@
+- {date: 1994-6, 
+   desc: 'Across the Board', 
+   title: The Hocus-Pocus of Reengineering, 
+   url: 'hocus-pocus.html'}
+- {date: 1991-4, 
+   desc: 'Across the Board', 
+   title: Runaway Computer Projects, 
+   url: 'runaway-projects.html'}
+- {date: 1998-5, 
+   desc: 'Across the Board', 
+   title: 'Outsourcing IT: Miracle Cure or Emetic?', 
+   url: 'outsourcing.html'}
+
