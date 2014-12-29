@@ -1,0 +1,16 @@
+---
+layout: default
+category: Articles
+---
+
+<script>
+$(document).ready(show_blogs);
+
+function show_blogs(){
+  get_blog_rss('rss_callback');
+}
+</script>
+
+<ol class="blog-posts">
+<img src='/assets/spinner.gif'> Loading...
+</ol>

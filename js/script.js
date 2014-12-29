@@ -246,3 +246,56 @@ function getParameterByName(name) {
   return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
+//-----RSS-----------
+//
+// https://developers.google.com/blogger/code
+// https://developers.google.com/gdata/samples/blogger_sample
+function get_blog_rss(callback_name){
+  var blogname = 'pstrassmann.blogspot.com';
+  var params = {alt: 'json-in-script',
+		callback: callback_name,
+		'max-results': 9999};
+  var url = 'http://'+blogname+'/feeds/posts/default?'+$.param(params);
+  $.ajax({type:'GET',
+	  dataType:'jsonp',
+	  jsonp:'jsonp',
+	  url: url});
+}
+
+function rss_callback(data){
+  $('.blog-posts').html('');
+  $.each(data.feed.entry, function(index, item){
+	   var title = item.title.$t;
+	   var published = item.published.$t;
+	   var content = item.content.$t;
+	   var link = rss_get_permalink(item);
+	   if (title == ''){
+	     title = '<i>untitled</i>';
+	   }
+	   var post = $('<li/>').append(':&nbsp; ',
+					$('<a/>').attr('href', link).html(title),
+					' ',
+					$('<span/>').addClass('extension').text(date_fmt(published))
+				       );
+
+
+
+	   $('.blog-posts').append(post);
+	 });
+}
+
+function rss_get_permalink(item){
+  var result = undefined;
+  $.each(item.link, function(index, link){
+	   if (link.rel == 'alternate'){
+	     result = link.href;
+	     return false;
+	   }
+	 });
+  return result;
+}
+
+function date_fmt(date){
+  var d = new Date(date);
+  return d.getMonth() + '/' + d.getDate() + '/' + d.getFullYear();
+}
