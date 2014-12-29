@@ -297,5 +297,5 @@ function rss_get_permalink(item){
 
 function date_fmt(date){
   var d = new Date(date);
-  return d.getMonth() + '/' + d.getDate() + '/' + d.getFullYear();
+  return (1+d.getMonth()) + '/' + d.getDate() + '/' + d.getFullYear();
 }
