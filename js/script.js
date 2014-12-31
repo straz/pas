@@ -227,7 +227,7 @@ function rss_callback(data){
 	   if (title == ''){
 	     title = '<i>untitled</i>';
 	   }
-	   var post = $('<li/>').append(' &nbsp; ',
+	   var post = $('<li/>').append(
 					$('<a/>').attr('href', link).html(title),
 					' ',
 					$('<span/>').addClass('extension').text(date_fmt(published))
@@ -237,6 +237,8 @@ function rss_callback(data){
 
 	   $('.blog-posts').append(post);
 	 });
+  $('.blog-posts').append($('<li/>').addClass('count')
+			            .text(data.feed.entry.length + ' posts'));
 }
 
 function rss_get_permalink(item){

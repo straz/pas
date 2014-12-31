@@ -272,3 +272,11 @@ ul.toc {
         }
     }
 }
+
+ul.blog-posts {
+   list-style: none;
+   .count {
+      margin-top: 1em;
+      font-size: 90%;
+   }
+}
