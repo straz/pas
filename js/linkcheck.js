@@ -25,7 +25,8 @@ function check_links(result){
 		check_link(link, counter);
 	      });
   //$.get('http://0.0.0.0:8000/hey', ajax_check);
-
+  $('ul.toc').append($('<li/>').addClass('count')
+		               .text($('a.article').length + ' articles'));
 }
 
 function check_link(link, i){

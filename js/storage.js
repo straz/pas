@@ -11,7 +11,7 @@
 // is empty or out of date.
 
 
-var DEBUG_STORAGE = false;
+var DEBUG_STORAGE = true;
 
 function debug_console(){
   if (DEBUG_STORAGE){
@@ -66,3 +66,6 @@ function render_filtered_articles(articles, tag){
   render_articles(filter_articles(articles, tag), tag, true);
 }
 
+function wipe_local_storage(){
+  localStorage.clear();
+}

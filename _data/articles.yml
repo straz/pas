@@ -67,8 +67,6 @@
 - {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: 'Guest post: Government
     Gmail use following Google''s China news', url: 'http://blogs.zdnet.com/BTL/?p=29511'}
 - {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pbj.strassmann.com:8080/com/pubs/xerox/catalog-v4.pdf'}
-- {date: '2006-04-28', desc: European CIOs, pdf: 168kb, title: Governance &amp; Alignment
-    In the Era of Business Transformation, url: 'http://pubs.strassmann.com/talks/2006-4-28-governance.pdf'}
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
@@ -497,9 +495,9 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: Out of Alignment, url: pubs/computerworld/alignment.html}
-- {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
-  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: 'For IT assurance, get some insurance', url: pubs/computerworld/assurance.html}
+- {category: Computerworld, date: 1998-11-2, desc: Computerworld, publication: '<a
+    href="http://computerworld.com">Computerworld</a>', title: 'For IT assurance,
+    get some insurance', url: pubs/computerworld/assurance.html}
 - {author: Gary Anthes, date: 2003-5-12, desc: Computerworld, original: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html',
   title: First-Class Upgrade, url: pubs/computerworld/first-class.html}
 - {category: Computerworld, date: 2004-9-6, desc: Computerworld, publication: '<a
@@ -603,8 +601,6 @@
     vs. Lawyers', url: pubs/computerworld/battley2k.html}
 - {date: '1998-11-30', desc: Computerworld, title: 'Microsoft: A U.S. Security Threat',
   url: pubs/computerworld/ms-security.shtml}
-- {date: 1998-11-2, desc: Computerworld, title: 'For IT Assurance, Get Some Insurance',
-  url: pubs/computerworld/assurance.shtml}
 - {date: 1998-10-5, desc: Computerworld, title: The Road To Failure Is Paved With
     Glib Buzzwords, url: pubs/computerworld/buzzwords.shtml}
 - {date: 1998-8-31, desc: Computerworld, title: Year 2000 Opens Door to More Federal
@@ -681,9 +677,6 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: Out of Alignment, url: pubs/computerworld/pubs/computerworld/alignment.html}
-- {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
-  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: 'For IT assurance, get some insurance', url: pubs/computerworld/pubs/computerworld/assurance.html}
 - {date: 2010-01, desc: At Cooper Union, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
   pdf: 90KB, title: Pioneer Profile, url: pubs/cooper/ACUfw09alumni.pdf}
 - {date: 2004-8, desc: Cutter IT Journal, pdf: 144kb, title: Six Rules for Finding

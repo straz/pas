@@ -92,8 +92,6 @@
     vs. Lawyers', url: battley2k.html}
 - {date: '1998-11-30', desc: Computerworld, title: 'Microsoft: A U.S. Security Threat',
   url: ms-security.shtml}
-- {date: 1998-11-2, desc: Computerworld, title: 'For IT Assurance, Get Some Insurance',
-  url: assurance.shtml}
 - {date: 1998-10-5, desc: Computerworld, title: The Road To Failure Is Paved With
     Glib Buzzwords, url: buzzwords.shtml}
 - {date: 1998-8-31, desc: Computerworld, title: Year 2000 Opens Door to More Federal
@@ -170,7 +168,5 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: Out of Alignment, url: pubs/computerworld/alignment.html}
-- {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
-  layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: 'For IT assurance, get some insurance', url: pubs/computerworld/assurance.html}
+
 

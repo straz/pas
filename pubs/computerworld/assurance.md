@@ -1,7 +1,5 @@
 ---
 title: For IT assurance, get some insurance
-layout: post
-author: Paul A. Strassmann
 date: 1998-11-2
 publication: <a href="http://computerworld.com">Computerworld</a>
 category: Computerworld

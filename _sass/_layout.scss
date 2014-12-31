@@ -273,7 +273,7 @@ ul.toc {
     }
 }
 
-ul.blog-posts {
+ul.blog-posts, ul.toc {
    list-style: none;
    .count {
       color: $grey-color;     
