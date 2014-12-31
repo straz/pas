@@ -1,3 +1,6 @@
 ---
 ---
-{{ site.data.articles | jsonify }}
+{ "build" : {{ site.data.build | jsonify }},
+  "articles" : {{ site.data.articles | jsonify }}
+}
+

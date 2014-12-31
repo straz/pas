@@ -8,12 +8,15 @@ category: Articles
 </style>
 
 <script>
-var all_articles = {{ site.data.articles | jsonify }};
+{% comment %}
+//var all_articles = {{ site.data.articles | jsonify }};
+{% endcomment %}
+var build_time = "{{ site.data.build.build_time }}";
 var tags = {{ site.data.tags | jsonify}};
 </script>
 
 <div class="home">
-  <h1 class="page-heading">All Articles</h1>
+  <h1 class="page-heading">All articles</h1>
   <div class="years"></div>
   <ul class="toc"></ul>
 </div>

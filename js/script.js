@@ -5,9 +5,6 @@ var MONTHS = new Array("January", "February", "March",
 
 $(document).ready(init);
 
-
-var PAGE_TAGS = {'/all-articles.html': 'all'};
-
 function init() {
   if (window.location.pathname == '/articles.html'){
     check_search_change();
@@ -17,10 +14,6 @@ function init() {
     }
     fetch_and_render_articles(tag);
   }
-}
-
-function fetch_and_render_articles(tag){
-  render_articles(get_articles(tag), tag, true);
 }
 
 
@@ -59,6 +52,8 @@ function render_articles(articles, tag, by_years){
   add_year_picker(decades, min, max);
   update_page_heading(tag);
 }
+
+// 'tags' is defined globally in articles.html, in a <script> tag
 
 function update_page_heading(tag){
   var heading = tag;
@@ -184,30 +179,8 @@ function is_member(article, tag){
   return false;
 }
 
-// returns all articles described by tag
-function get_articles(tag){
-  console.log('get-articles', tag);
-  var result = [];
-  for (var i = 0; i < all_articles.length; i++) {
-    var article = all_articles[i];
-    if (is_member(article, tag)){
-      article.date_obj = parse_date(article.date);
-      result.push(article);
-    }
-  }
-  return result;
-}
-
-// -----------
-// Hash change
-
 function detect_tag(){
   return getParameterByName('t');
-}
-
-// this change hook is triggered any time the page's hashtag changes
-function hash_changed(){
-  fetch_and_render_articles(detect_tag());
 }
 
 function check_search_change(){
@@ -218,24 +191,6 @@ function check_search_change(){
 			 search_changed(storedSearch);
 		       }
 		     }, 100);
-}
-
-
-// install watcher. When hash tag changes, calls the change hook.
-function check_hash_change(){
-  if ("onhashchange" in window) {
-    // event supported?
-    window.onhashchange = function () { hash_changed(window.location.hash); };
-    } else {
-    // event not supported:
-    var storedHash = window.location.hash;
-    window.setInterval(function () {
-			 if (window.location.hash != storedHash) {
-			   storedHash = window.location.hash;
-			   hash_changed(storedHash);
-			 }
-			}, 100);
-   }
 }
 
 
