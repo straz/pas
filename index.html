@@ -1,7 +1,6 @@
 ---
 category: home
 layout: default
-redirect_from: "/book"
 ---
 
 <P><a href="bio">Paul Strassmann</a>'s career includes service as
@@ -10,13 +9,13 @@ researcher, and professor. He has written and spoken extensively on
 topics including IT governance, economics of IT, security, and
 cyberwarfare.</P>
 
+<P><a class="browse" href="articles.html">Browse articles</a></P>
+
 <div class="tags">Tags: 
   {% for tag in site.data.tags %}
   <span class="tag"><a href="/articles.html?t={{tag.tag}}">{{ tag.full }}</a></span>
   {% endfor %}
 </div>
-
-<P><a class="browse" href="articles.html">Browse articles</a></P>
 
 {% include new-search.html %}
 
