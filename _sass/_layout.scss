@@ -276,6 +276,7 @@ ul.toc {
 ul.blog-posts {
    list-style: none;
    .count {
+      color: $grey-color;     
       margin-top: 1em;
       font-size: 90%;
    }
