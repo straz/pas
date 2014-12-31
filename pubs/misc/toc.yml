@@ -16,4 +16,15 @@
    language: Polish, 
    title: Paul A. Strassmann w Polsce,
    url: 'interia.html'}
+- {date: 1992-10, 
+   author: Diane Hamblen,
+   desc: 'Chips Magazine', 
+   original: 'http://www.chips.navy.mil/archives/92_oct/file2.htm',
+   title: Turning our upside down world right side up, 
+   url: 'disa.html'}
+- {date: 1993-11, 
+   author: 'Theodore Iacobuzio',
+   desc: 'Bank Systems + Technology', 
+   title: Ground Zero, 
+   url: 'ground-zero.html'}
 

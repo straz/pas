@@ -175,8 +175,6 @@
     Problem", url: 'http://pubs.strassmann.com/capers.shtml'}
 - {date: 1997-12-3, desc: 'Interview, La Tribune', language: French, title: Les ordinateurs
     ne cr&eacute;ent pas de richesse, url: 'http://pubs.strassmann.com/latribune.shtml'}
-- {date: 1997-10, desc: 'by Paul Strassmann, Datamation, 40th Anniversary Special
-    Issue', title: 40 Years of IT History, url: 'http://pubs.strassmann.com/datamation1097/index.html'}
 - {date: 1997-9, desc: 'by Paul Strassmann, book excerpt', title: Facts and Fantasies
     about Information Productivity, url: 'http://pubs.strassmann.com/fnf/factnfantasy.shtml'}
 - {date: 1997-7, desc: Scientific American, original: 'http://www.sciam.com/0797issue/0797trends.html',
@@ -185,8 +183,6 @@
   title: Delete Yourself, url: 'http://pubs.strassmann.com/exame/eng.shtml'}
 - {date: 1997-4-3, desc: 'Interview with Norm Alster, Investor''s Business Daily',
   title: 'Do U.S. Firms Spend Too Much on Information Technology?', url: 'http://pubs.strassmann.com/invbiz.html'}
-- {date: 1997-2, desc: 'by Paul Strassmann, Datamation', title: 'Will Big Spending
-    on Computers Guarantee Profitability?', url: 'http://pubs.strassmann.com/datamation0297'}
 - {date: 1997-1, desc: 'by Paul Strassmann, Computer Finance', title: 'Has Business
     Squandered The IT Payoff?', url: 'http://pubs.strassmann.com/cf/cf970603.html'}
 - {date: 1997-1, desc: 'by Paul Strassmann, InfoWar.Com', original: 'http://www.infowar.com/mil_c4i/strass.html-ssi',
@@ -223,12 +219,6 @@
 - {date: 1994-9-19, desc: 'by Bruce Caldwell, Information Week', note: An intriguing
     look at how information technology has influenced corporate politics, title: The
     CIO's Machiavelli, url: 'http://pubs.strassmann.com/iw-machiavelli.html'}
-- {date: 1994-9, desc: 'by Paul A. Strassmann, Datamation', title: CIOs Should Get
-    Back To Basics, url: 'http://pubs.strassmann.com/cio-basics.html'}
-- {date: 1993-11, desc: 'by Theodore Iacobuzio, Bank Systems + Technology', title: Ground
-    Zero, url: 'http://pubs.strassmann.com/ground-zero.html'}
-- {date: 1992-10, desc: 'Diane Hamblen, Chips Magazine', original: 'http://www.chips.navy.mil/archives/92_oct/file2.htm',
-  title: Turning our upside down world right side up, url: 'http://pubs.strassmann.com/disa.html'}
 - {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', language: French,
   original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', title: 'Paul
     Strassmann, L''information prend le pouvoir', url: pubs/01/prend-le-pouvoir.html}
@@ -700,6 +690,11 @@
   pdf: 90KB, title: Pioneer Profile, url: pubs/cooper/ACUfw09alumni.pdf}
 - {date: 2004-8, desc: Cutter IT Journal, pdf: 144kb, title: Six Rules for Finding
     IT Value, url: pubs/cutter/six-rules.pdf}
+- {date: 1994-9, desc: Datamation, title: CIOs Should Get Back To Basics, url: pubs/datamation/cio-basics.html}
+- {date: 1997-10, desc: 'Datamation, 40th Anniversary Special Issue', title: 40 Years
+    of IT History, url: pubs/datamation/datamation1097/index.html}
+- {date: 1997-2, desc: Datamation, title: 'Will Big Spending on Computers Guarantee
+    Profitability?', url: pubs/datamation/datamation0297/index.html}
 - {date: 2006-2, desc: Defense Systems Magazine, original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
   title: 'Who is best at net-centricity? Here''s a hint: Google it', url: pubs/defense/2006-2.html}
 - {alt-original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
@@ -856,6 +851,10 @@
   title: To jest wojna!, url: pubs/misc/onet/index.html}
 - {date: 2003-10-5, desc: Interia, language: Polish, title: Paul A. Strassmann w Polsce,
   url: pubs/misc/interia.html}
+- {author: Diane Hamblen, date: 1992-10, desc: Chips Magazine, original: 'http://www.chips.navy.mil/archives/92_oct/file2.htm',
+  title: Turning our upside down world right side up, url: pubs/misc/disa.html}
+- {author: Theodore Iacobuzio, date: 1993-11, desc: Bank Systems + Technology, title: Ground
+    Zero, url: pubs/misc/ground-zero.html}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back, url: pubs/misc/we-fought.html}
 - {date: 1954-9, desc: Memoir, title: The Thesis at M.I.T. 1953-1954, url: pubs/mit/early-computing.html}
