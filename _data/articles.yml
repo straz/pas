@@ -160,8 +160,6 @@
     Capital, url: 'http://pubs.strassmann.com/measuring-kc/'}
 - {date: 1999-6-14, desc: 'The Art of ROI, JavaOne Symposium', note: streaming video
     &amp; slides, title: 'Software: Expense or Asset?', url: 'http://pubs.strassmann.com/art-of-roi/'}
-- {date: 1999-5-31, desc: Infoworld, title: 'Computer productivity: Paul Strassmann''s
-    facts or Bob Lewis'' fiction?', url: 'http://pubs.strassmann.com/infoworld/boblewis.html'}
 - {date: 1998-9-21, desc: GCN, title: Beat The Clock, url: 'http://pubs.strassmann.com/gcn/beattheclock.html'}
 - {date: 1998-8, desc: Cutter IT Journal, title: 'What is Alignment?', url: 'http://pubs.strassmann.com/alignment/'}
 - {date: 1998-6-11, desc: Forbes, title: 'Of Men and Machines: Productivity Declines',
