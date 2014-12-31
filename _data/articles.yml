@@ -64,11 +64,8 @@
   video: '45:20'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University (video)', title: New Responsibilities
     of the Department of Defense CIO (alt), url: 'http://www.archive.org/details/NewResponsibilitiesOfTheDepartmentOfDefenseCioprototypeForOther'}
-- {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: Government Gmail use,
-  url: 'http://blogs.zdnet.com/BTL/?p=29511'}
-- {date: 2008-10, desc: 'Article, Software Technology Support Center', original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
-  title: DoD Business Mission Area Service-Oriented Architecture to Support Business
-    Transformation, url: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html'}
+- {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: 'Guest post: Government
+    Gmail use following Google''s China news', url: 'http://blogs.zdnet.com/BTL/?p=29511'}
 - {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pbj.strassmann.com:8080/com/pubs/xerox/catalog-v4.pdf'}
 - {date: '2006-04-28', desc: European CIOs, pdf: 168kb, title: Governance &amp; Alignment
     In the Era of Business Transformation, url: 'http://pubs.strassmann.com/talks/2006-4-28-governance.pdf'}
@@ -89,20 +86,6 @@
 - {date: 2005-4-15, desc: Search entire book online, title: Information Payoff, url: 'http://books.google.com/books?isbn=0029317207'}
 - {date: 2005-4-15, desc: Search entire book online, title: Business Value of Computers,
   url: 'http://books.google.com/books?isbn=0962041327'}
-- {date: 2003-11, desc: Portal Onet.pl - Businessman Magazine, language: Polish, original: 'http://businessman.onet.pl/artykul.html?MP=1&ITEM=1140009',
-  title: To jest wojna!, url: 'http://pubs.strassmann.com/pl/onet'}
-- {date: 2004-5, desc: 'by Luca De Biase, Il Sole 24 Ore', language: Italian, original: 'http://www.debiase.com/storie_Contenuto.asp?Cod_Argomento=20&Cod_Storia=278&ADDR_CALL=C',
-  title: Internet ha bisogno di tempo per affermarsi, url: 'http://pubs.strassmann.com/debiase-2004-6.html'}
-- {date: 2003-10-5, desc: Interia, language: Polish, title: Paul A. Strassmann w Polsce,
-  url: 'http://pubs.strassmann.com/pl/interia.html'}
-- {date: 2003-6, desc: SAIC Employee Update Magazine, pdf: 72kb, title: Strassmann
-    on the future of IT, url: 'http://pubs.strassmann.com/saic/april-2003.pdf'}
-- {date: 2003-6, desc: Harvard Business Review, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
-  pdf: 503kb, title: 'Does IT Matter? An HBR Debate', url: 'http://pubs.strassmann.com/hbr/Web_Letters.pdf'}
-- {date: 2003-6, desc: by Paul A. Strassmann, title: A Retrospective Forecast of the
-    Future, url: 'http://pubs.strassmann.com/hbr/carr-letter.shtml'}
-- {date: 2003-4-1, desc: Executive panel, title: The Future of Federal Network Services,
-  url: 'http://pubs.strassmann.com/fed/fts-2003.html'}
 - {date: 2002-12, desc: Alinean, title: IT Value Chain Methodology, url: 'http://www.alinean.com/Meth-Value.asp'}
 - {date: 2001-9-28, desc: 'by Ren&eacute; Rippen, Computable.nl', language: Dutch,
   title: Interview met Paul Strassmann, url: 'http://www.computable.nl/artikels/archief1/d39rr105.htm'}
@@ -145,18 +128,16 @@
   url: 'http://pubs.strassmann.com/ft/ft_guru.html'}
 - {date: 2001-2, desc: WGBH/Frontline (on PBS), title: The Pernicious Characteristics
     of Monocultures, url: 'http://www.pbs.org/wgbh/pages/frontline/shows/hackers/blame/threat.html'}
-- {date: 2000-7, desc: by Paul Strassmann, title: 'Assessment of Productivity, Technology
-    and Knowledge Capital', url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWN7VB'}
-- {date: 2000-7, desc: by Paul Strassmann, title: 'Governance of Information Management:
-    Principles and Concepts', url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWVMM1'}
-- {date: 2000-6, desc: by Paul Strassmann, title: Revenues and Profits of Global Information
-    Technology Suppliers, url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWYSJ2'}
+- {date: 2000-7, desc: by Paul Strassmann, original: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWN7VB',
+  title: 'Assessment of Productivity, Technology and Knowledge Capital', url: 'https://web.archive.org/web/20011201170156/http://www.mightywords.com/browse/details_bc05.jsp?sku=MWN7VB'}
+- {date: 2000-7, desc: by Paul Strassmann, original: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWVMM1',
+  title: 'Governance of Information Management: Principles and Concepts', url: 'https://web.archive.org/web/20011201211428/http://www.mightywords.com/browse/details_bc05.jsp?sku=MWVMM1'}
+- {date: 2000-6, desc: by Paul Strassmann, original: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWYSJ2',
+  title: Revenues and Profits of Global Information Technology Suppliers, url: 'https://web.archive.org/web/20011201213341/http://www.mightywords.com/browse/details_bc05.jsp?sku=MWYSJ2'}
 - {date: 2000-5-25, desc: 'Video interview, from Silicon.com', note: '<font size=-1>[RealVideo,
     9 minutes]</font>', title: The Agenda Setters, url: 'http://pubs.strassmann.com/silicon/interview-052500.ram'}
-- {date: 2000-5, desc: by Paul Strassmann, title: Information Productivity Indicators
-    of U.S. Corporations, url: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWRLJ7'}
-- {date: 2000-2, desc: Signal, title: Technology-based Confrontations Blur the Line
-    Between Competition and Conflict, url: 'http://pubs.strassmann.com/signal2-2000.html'}
+- {date: 2000-5, desc: by Paul Strassmann, original: 'http://www.mightywords.com/browse/details_bc05.jsp?sku=MWRLJ7',
+  title: Information Productivity Indicators of U.S. Corporations, url: 'https://web.archive.org/web/20010413034925/http://www.mightywords.com/browse/details_bc05.jsp?sku=MWRLJ7'}
 - {date: 2000-1, desc: Silicon.com, title: IP - A New Metric for the Information Age,
   url: 'http://pubs.strassmann.com/ip-value-proposition.html'}
 - {date: 2000-1, desc: Knowledge Executive Report, title: The Coming of Knowledge
@@ -198,8 +179,6 @@
     Issue', title: 40 Years of IT History, url: 'http://pubs.strassmann.com/datamation1097/index.html'}
 - {date: 1997-9, desc: 'by Paul Strassmann, book excerpt', title: Facts and Fantasies
     about Information Productivity, url: 'http://pubs.strassmann.com/fnf/factnfantasy.shtml'}
-- {date: 1997-9, desc: 'Review by Michael Schrage, Harvard Business Review', title: Strassmann
-    on Politics and Guidelines, url: 'http://pubs.strassmann.com/schrage.html'}
 - {date: 1997-7, desc: Scientific American, original: 'http://www.sciam.com/0797issue/0797trends.html',
   title: Taking Computers To Task, url: 'http://pubs.strassmann.com/sciam'}
 - {date: 1997-6-4, desc: 'by Helio Gurovitz, Exame', language: both English and Portuguese,
@@ -401,6 +380,8 @@
 - {date: 2003-3-19, desc: AFCEA talk, title: Power Politics of the CIO, url: pubs/afcea/2003-3.html}
 - {date: 2003-3-19, desc: AFCEA talk (announcement), title: Power Politics of the
     CIO, url: pubs/afcea/2003-3-19.pdf}
+- {author: Robert K. Ackerman, date: 2000-2, desc: AFCEA Signal, title: Technology-based
+    Confrontations Blur the Line Between Competition and Conflict, url: pubs/afcea/signal2-2000.html}
 - {date: '1989-05-26', desc: Babbage Institute, original: 'http://purl.umn.edu/107640',
   title: Interview with Paul A. Strassmann (part 2), url: pubs/babbage/babbage-oh172pas.pdf}
 - {date: '1987-05-15', desc: Babbage Institute, original: 'http://purl.umn.edu/107641',
@@ -531,6 +512,8 @@
 - {author: Paul A. Strassmann, category: Computerworld, date: 1998-11-2, desc: Computerworld,
   layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
   title: 'For IT assurance, get some insurance', url: pubs/computerworld/assurance.html}
+- {author: Gary Anthes, date: 2003-5-12, desc: Computerworld, original: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html',
+  title: First-Class Upgrade, url: pubs/computerworld/first-class.html}
 - {category: Computerworld, date: 2004-9-6, desc: Computerworld, publication: '<a
     href="http://computerworld.com">Computerworld</a>', title: Why IT Will Continue
     to Matter, url: pubs/computerworld/it-continue.html}
@@ -548,7 +531,6 @@
   url: pubs/computerworld/rankings/ip_rankings_v3.pdf}
 - {date: 2003-10, desc: Computerworld Polska, language: Polish, title: Ka&#380;dy
     po swojemu, url: pubs/computerworld/pl/idg-1.html}
-- {date: 2003-5, desc: Online Tool, title: IT Spending Assessment, url: 'http://www.computerworld.com/managementtopics/roi/peercomparison'}
 - {date: 2003-5-12, desc: by Gary Anthes, title: First-Class Upgrade, url: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html'}
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
@@ -720,6 +702,10 @@
     IT Value, url: pubs/cutter/six-rules.pdf}
 - {date: 2006-2, desc: Defense Systems Magazine, original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
   title: 'Who is best at net-centricity? Here''s a hint: Google it', url: pubs/defense/2006-2.html}
+- {alt-original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
+  date: 2008-10, desc: 'Crosstalk: Journal of Defense Software Engineering', original: 'http://dcmo.defense.gov/products-and-services/business-enterprise-architecture/8.1/products/BusOpsTransformation_EA_BI/10_crosstalk_october2008.pdf',
+  title: DoD Business Mission Area Service-Oriented Architecture to Support Business
+    Transformation, url: pubs/defense/10_crosstalk_october2008.pdf}
 - {date: 2009-6-30, desc: Draft, pdf: 1.4MB, title: Cyber Security for the Department
     of Defense, url: pubs/dod/cybersecurity-draft-v1.pdf}
 - {author: Megan Lisagor, date: 2003-3-18, desc: Federal Computer Week, original: 'http://fcw.com/articles/2003/03/18/strassmann-make-cio-equal-to-cfo.aspx',
@@ -728,6 +714,11 @@
   title: 'Whatever happened to CIM?', url: pubs/fcw/happened-to-cim.html}
 - {date: '2012-04-10', desc: Federal Computer Week, original: 'http://fcw.com/Blogs/Insider/2012/04/anniversary-issue-pivotal-people.aspx',
   title: 'The most influential federal IT leaders since 1987: A short list', url: pubs/fcw/fcw-2012.html}
+- {date: 2003-4-1, desc: 'Executive panel, GSA', title: The Future of Federal Network
+    Services, url: pubs/fed/fts-2003.html}
+- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', original: 'http://www.strassmann.com/talks/one-talk.php?talk=109',
+  talk: 'http://www.strassmann.com/talks/one-talk.php?talk=109', title: 'The #1 CIO
+    Issue: How to Explain and Justify the I.T. Budget', url: pubs/gartner/howto-budgets.pdf}
 - {date: 2010-3-9, desc: GCN, original: 'http://gcn.com/articles/2010/03/10/dod-social-media-policy-fails-to-answer-security-questions.aspx',
   title: DOD social media policy fails to answer security questions, url: pubs/gcn/2010-03.html}
 - {date: 2005-3-29, desc: George Mason University, pdf: 2.5MB, title: The Structure
@@ -786,6 +777,12 @@
   title: 'Google: A Model for the Systems Architecture of the Future', url: pubs/gmu/LectureV4.pdf}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University', pdf: 2Mb, title: 'The
     DoD CIO Charter: A Template for IT Governance?', url: pubs/gmu/CIOV1full.pdf}
+- {date: 2003-6, desc: Harvard Business Review, title: A Retrospective Forecast of
+    the Future, url: pubs/hbr/carr-letter.html}
+- {date: 2003-6, desc: Harvard Business Review, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
+  pdf: 503kb, title: 'Does IT Matter? An HBR Debate', url: pubs/hbr/Web_Letters.pdf}
+- {author: Michael Schrage, date: 1997-9, desc: Harvard Business Review, title: Strassmann
+    on Politics and Guidelines, url: pubs/hbr/schrage.html}
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
   title: IDC Warned about a Snowden-Like Event, url: pubs/idc/snowden.html}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
@@ -817,11 +814,11 @@
     Security Risks, url: pubs/km/2001-2.html}
 - {date: 2001-3, desc: Knowledge Management Magazine, title: Prophecies Don't Serve
     Knowledge Capital, url: pubs/km/2001-3.html}
-- {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: 'http://pubs.strassmann.com/km/2001-6.php'}
-- {date: 2001-5, desc: Knowledge Management Magazine, title: Personal Capitalists,
-  url: 'http://pubs.strassmann.com/km/2001-5.php'}
 - {date: 2001-4, desc: Knowledge Management Magazine, title: 'KM, IT and Organizational
-    Capital', url: 'http://pubs.strassmann.com/km/2001-4.php'}
+    Capital', url: pubs/km/2001-4.html}
+- {date: 2001-5, desc: Knowledge Management Magazine, title: Personal Capitalists,
+  url: pubs/km/2001-5.html}
+- {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: 'http://pubs.strassmann.com/km/2001-6.php'}
 - {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
     Knowledge Capital, url: pubs/km/11-2000.pdf}
 - {date: 2000-10, desc: Knowledge Management Magazine, title: Intelligence in Question,
@@ -853,11 +850,19 @@
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, key: computerweekly.com,
   original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
   title: Microsoft defends its security, url: pubs/misc/ms-security.html}
+- {author: Luca De Biase, date: 2004-5, desc: Il Sole 24 Ore, language: Italian, original: 'http://www.debiase.com/storie_Contenuto.asp?Cod_Argomento=20&Cod_Storia=278&ADDR_CALL=C',
+  title: Internet ha bisogno di tempo per affermarsi, url: pubs/misc/debiase-2004-6.html}
+- {date: 2003-11, desc: Portal Onet.pl - Businessman Magazine, language: Polish, original: 'http://businessman.onet.pl/artykul.html?MP=1&ITEM=1140009',
+  title: To jest wojna!, url: pubs/misc/onet/index.html}
+- {date: 2003-10-5, desc: Interia, language: Polish, title: Paul A. Strassmann w Polsce,
+  url: pubs/misc/interia.html}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back, url: pubs/misc/we-fought.html}
 - {date: 1954-9, desc: Memoir, title: The Thesis at M.I.T. 1953-1954, url: pubs/mit/early-computing.html}
 - {date: 2003-9, desc: Microsoft Executive Circle, note: Fall 2003, pdf: 639kb, title: Budgeting
     for IT in Hard Times, url: pubs/ms/ms-budgeting.pdf}
+- {date: 2003-6, desc: SAIC Employee Update Magazine, pdf: 72kb, title: Strassmann
+    on the future of IT, url: pubs/saic/april-2003.pdf}
 - {alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security',
   date: 2000-9-28, desc: SearchSecurity, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1',
   title: 'Art of budgeting: How to explain spending on information security (Part

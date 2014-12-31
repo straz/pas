@@ -1,0 +1,19 @@
+- {date: 2004-5, 
+   author: 'Luca De Biase',
+   desc: 'Il Sole 24 Ore', 
+   language: Italian, 
+   original: 'http://www.debiase.com/storie_Contenuto.asp?Cod_Argomento=20&Cod_Storia=278&ADDR_CALL=C',
+   title: Internet ha bisogno di tempo per affermarsi, 
+   url: 'debiase-2004-6.html'}
+- {date: 2003-11, 
+   desc: Portal Onet.pl - Businessman Magazine,
+   language: Polish, 
+   original: 'http://businessman.onet.pl/artykul.html?MP=1&ITEM=1140009',
+   title: To jest wojna!, 
+   url: 'onet/index.html'}
+- {date: 2003-10-5, 
+   desc: Interia, 
+   language: Polish, 
+   title: Paul A. Strassmann w Polsce,
+   url: 'interia.html'}
+

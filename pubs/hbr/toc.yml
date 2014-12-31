@@ -1,0 +1,15 @@
+- {date: 2003-6,
+   desc: Harvard Business Review,
+   title: A Retrospective Forecast of the Future, 
+   url: 'carr-letter.html'}
+- {date: 2003-6, 
+   desc: Harvard Business Review, 
+   original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
+   pdf: 503kb, 
+   title: 'Does IT Matter? An HBR Debate', 
+   url: 'Web_Letters.pdf'}
+- {date: 1997-9, 
+   author: Michael Schrage,
+   desc: 'Harvard Business Review', 
+   title: Strassmann on Politics and Guidelines, 
+   url: 'schrage.html'}

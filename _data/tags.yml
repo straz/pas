@@ -9,9 +9,9 @@
 - {tag: GMU, full: George Mason University}
 - {tag: IEJ, full: Information Economics Journal}
 - {tag: KM, full: Knowledge Management Magazine}
+- {tag: cio, full: CIO}
 - {tag: defense, full: defense, also: [security]}
 - {tag: security, full: security, also: [defense]}
 - {tag: outsourcing, full: outsourcing}
-- {tag: cio, full: CIO}
 - {tag: book, full: Books}
 - {tag: video, full: Videos}

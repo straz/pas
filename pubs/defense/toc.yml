@@ -3,3 +3,9 @@
    original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
    title: 'Who is best at net-centricity? Here''s a hint: Google it', 
    url: '2006-2.html'}
+- {date: 2008-10,
+   original: 'http://dcmo.defense.gov/products-and-services/business-enterprise-architecture/8.1/products/BusOpsTransformation_EA_BI/10_crosstalk_october2008.pdf',
+   alt-original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
+   url: '10_crosstalk_october2008.pdf',
+   desc: 'Crosstalk: Journal of Defense Software Engineering', 
+   title: DoD Business Mission Area Service-Oriented Architecture to Support Business Transformation}

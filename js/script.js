@@ -272,7 +272,7 @@ function rss_callback(data){
 	   if (title == ''){
 	     title = '<i>untitled</i>';
 	   }
-	   var post = $('<li/>').append(':&nbsp; ',
+	   var post = $('<li/>').append(' &nbsp; ',
 					$('<a/>').attr('href', link).html(title),
 					' ',
 					$('<span/>').addClass('extension').text(date_fmt(published))

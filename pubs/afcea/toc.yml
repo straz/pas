@@ -68,3 +68,8 @@
    date: 2003-3-19,
    desc: "AFCEA talk (announcement)",
    title: "Power Politics of the CIO"}
+- {date: 2000-2, 
+   desc: AFCEA Signal, 
+   author: Robert K. Ackerman,
+   title: Technology-based Confrontations Blur the Line Between Competition and Conflict, 
+   url: 'signal2-2000.html'}

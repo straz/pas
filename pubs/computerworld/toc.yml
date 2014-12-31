@@ -4,7 +4,10 @@
   url: 'rankings/ip_rankings_v3.pdf'}
 - {date: 2003-10, desc: Computerworld Polska, language: Polish, title: Ka&#380;dy
     po swojemu, url: 'pl/idg-1.html'}
-- {date: 2003-5, desc: Online Tool, title: IT Spending Assessment, url: 'http://www.computerworld.com/managementtopics/roi/peercomparison'}
+- {date: 2003-5, desc: Online Tool, 
+   broken: true,
+   title: IT Spending Assessment, 
+   url: 'http://www.computerworld.com/managementtopics/roi/peercomparison'}
 - {date: 2003-5-12, desc: by Gary Anthes, title: First-Class Upgrade, url: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html'}
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
