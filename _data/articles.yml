@@ -64,8 +64,6 @@
   video: '45:20'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University (video)', title: New Responsibilities
     of the Department of Defense CIO (alt), url: 'http://www.archive.org/details/NewResponsibilitiesOfTheDepartmentOfDefenseCioprototypeForOther'}
-- {date: '2010-01-13', desc: 'guest post, Zdnet Blogs', title: 'Guest post: Government
-    Gmail use following Google''s China news', url: 'http://blogs.zdnet.com/BTL/?p=29511'}
 - {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pbj.strassmann.com:8080/com/pubs/xerox/catalog-v4.pdf'}
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
@@ -515,7 +513,6 @@
   url: pubs/computerworld/rankings/ip_rankings_v3.pdf}
 - {date: 2003-10, desc: Computerworld Polska, language: Polish, title: Ka&#380;dy
     po swojemu, url: pubs/computerworld/pl/idg-1.html}
-- {date: 2003-5-12, desc: by Gary Anthes, title: First-Class Upgrade, url: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html'}
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
 - {date: 2002-12, desc: Computerworld Espa&ntilde;a, language: Spanish, title: La
@@ -900,5 +897,5 @@
   title: Commentary, url: pubs/usni/2012-7.html}
 - {date: 2010-1-13, desc: ZDnet, original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511',
   summary: Paul Strassman outlines some of the technical issues raised for government
-    agencies using Gmail in light of the China cyberattack on Google., title: 'Guest
-    post: Government Gmail use following Google&rsquo;s China news', url: pubs/zdnet/guest.html}
+    agencies using Gmail in light of the China cyberattack on Google., title: Government
+    Gmail use following Google&rsquo;s China news, url: pubs/zdnet/guest.html}

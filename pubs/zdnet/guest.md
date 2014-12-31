@@ -1,6 +1,6 @@
 ---
 desc: ZDnet
-title: 'Guest post: Government Gmail use following Google&rsquo;s China news'
+title: 'Government Gmail use following Google&rsquo;s China news'
 original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511'
 summary: Paul Strassman outlines some of the technical issues raised for government agencies using Gmail in light of the China cyberattack on Google. 
 date: 2010-1-13
