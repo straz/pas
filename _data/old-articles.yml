@@ -70,8 +70,6 @@
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
-- {date: '2005-10-10', desc: Multichannel Magazine, pdf: 170kb, title: 'Is Google
-    Cable''s Next Nightmare?', url: 'http://pubs.strassmann.com/multichannel/2005-10-google.pdf'}
 - {date: 2005-3-29, desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=9103105798586344753',
   title: Information Management and Organizational Entropy, url: 'http://www.youtube.com/watch?v=ksdoWzmPGZ0',
   video: '47:12'}

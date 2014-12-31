@@ -5,6 +5,8 @@ desc: Multichannel News
 original: http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142
 ---
 
+[View as [pdf](2005-10-google.pdf)]
+
 > The Internet Search Giant Isn’t About to Set Up the Largest
 > Video-Over-Fiber Network in the World. Not Yet, Anyway.
 
