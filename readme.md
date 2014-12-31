@@ -1,4 +1,4 @@
-# strassmann.com
+## strassmann.com
 
 All of the content for [strassmann.com](http://strassmann.com) is
 hosted here, on [github pages](https://pages.github.com/) for free (thank you, github!)
