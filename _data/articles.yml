@@ -818,7 +818,7 @@
     Capital', url: pubs/km/2001-4.html}
 - {date: 2001-5, desc: Knowledge Management Magazine, title: Personal Capitalists,
   url: pubs/km/2001-5.html}
-- {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: 'http://pubs.strassmann.com/km/2001-6.php'}
+- {date: 2001-6, desc: Knowledge Management Magazine, title: R&D and Knowledge, url: pubs/km/2001-6.html}
 - {date: 2000-11, desc: Knowledge Management Magazine, title: How E-Business Affects
     Knowledge Capital, url: pubs/km/11-2000.pdf}
 - {date: 2000-10, desc: Knowledge Management Magazine, title: Intelligence in Question,
