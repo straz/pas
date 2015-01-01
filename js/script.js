@@ -107,14 +107,22 @@ function render_extension(article){
   var ext = url.substr(url.lastIndexOf('.') + 1);
   if (reg.test(ext.toLowerCase())){
     return $('<span/>').addClass('extension').text('['+ext+']');
+  } else if (is_youtube(url)){
+    return $('<span/>').addClass('extension').text('[youtube]');
   }
   return '';
+}
+
+function is_youtube(url){
+  var parser = document.createElement('a');
+  parser.href = url;
+  return parser.hostname.indexOf('youtube.com') != -1;
 }
 
 function render_original(article, ext){
   if (ext != '' && ('original' in article)){
     var link = $('<a/>').text('original').attr('href', article.original);
-    return $('<span/>').addClass('extension').append('[',link,']');
+    return $('<span/>').addClass('extension').append($('<i/>').html(link));
   }
   return '';
 }

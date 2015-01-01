@@ -72,14 +72,14 @@
   title: Information Management and Organizational Entropy, url: 'http://www.youtube.com/watch?v=ksdoWzmPGZ0',
   video: '47:12'}
 - {date: 2005-4-15, desc: Search entire book online, title: The Squandered Computer,
-  url: 'http://books.google.com/books?isbn=0962041319'}
+  url: 'http://books.google.com/books?vid=ISBN0962041319'}
 - {date: 2005-4-15, desc: Search entire book online, title: Information Productivity,
-  url: 'http://google.com/print?id=HcckKf35cIkC'}
+  url: 'http://books.google.com/books?vid=ISBN0962041386'}
 - {date: 2005-4-15, desc: Search entire book online, title: The Politics of Information
-    Management, url: 'http://books.google.com/books?isbn=0962041343'}
-- {date: 2005-4-15, desc: Search entire book online, title: Information Payoff, url: 'http://books.google.com/books?isbn=0029317207'}
+    Management, url: 'http://books.google.com/books?vid=ISBN0962041343'}
+- {date: 2005-4-15, desc: Search entire book online, title: Information Payoff, url: 'http://books.google.com/books?vid=ISBN0029317207'}
 - {date: 2005-4-15, desc: Search entire book online, title: Business Value of Computers,
-  url: 'http://books.google.com/books?isbn=0962041327'}
+  url: 'http://books.google.com/books?vid=ISBN0962041327'}
 - {date: 2002-12, desc: Alinean, title: IT Value Chain Methodology, url: 'http://www.alinean.com/Meth-Value.asp'}
 - {date: 2001-9-28, desc: 'by Ren&eacute; Rippen, Computable.nl', language: Dutch,
   title: Interview met Paul Strassmann, url: 'http://www.computable.nl/artikels/archief1/d39rr105.htm'}

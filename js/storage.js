@@ -11,7 +11,7 @@
 // is empty or out of date.
 
 
-var DEBUG_STORAGE = true;
+var DEBUG_STORAGE = false; // print to console.log
 
 function debug_console(){
   if (DEBUG_STORAGE){
