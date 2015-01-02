@@ -57,9 +57,15 @@ In addition, cable offers a limited selection of movies on-demand, generally cos
 
 I estimate the monthly total of Cablevision programming at about 200,000 hours. With an average viewing habit of leaving the TV on for three to four hours per day, this suggests that only 0.06% of what is provided is actually selected by customers from a fixed menu of programming choices. Most of the content cable spends money to provide is wasted.
 
-For the time being, cable works well because people have set viewing habits. With the exception of occasional TiVo and DVR customers, their viewing offers instant access only. Cable, so far, excludes customers from all Internet-accessible video. Even now that likely exceeds billions of hours of recorded information.</p>
-    <a name="THE EXPANDING MOUSE"><strong>THE EXPANDING MOUSE</strong></a>
-    <p>The world of the mouse is global, unlimited and expanding exponentially. It is unconstrained by content, language or format. The transmission system as well as the entire infrastructure for the Internet has been already paid for. 
+For the time being, cable works well because people have set viewing
+habits. With the exception of occasional TiVo and DVR customers, their
+viewing offers instant access only. Cable, so far, excludes customers
+from all Internet-accessible video. Even now that likely exceeds
+billions of hours of recorded information.
+
+### The Expanding Mouse
+
+The world of the mouse is global, unlimited and expanding exponentially. It is unconstrained by content, language or format. The transmission system as well as the entire infrastructure for the Internet has been already paid for. 
 
 Ultimately, that transmission system reaches everywhere, including via wireless connectivity, which is important for undeveloped countries. Since every computer is enabled with Internet access, a customer can have the same viewing experience whether traveling on an airplane or sitting at home. 
 
@@ -83,9 +89,11 @@ Apple TV can also access music videos, as well as something that is quite unusua
 
 How long does it take to get to the program you want? Four clicks in the worst case.
 
-By contrast, Comcast, Cablevision and Time Warner Cable deliver choices through menus that are chronologically arranged and have extremely limited search capability, to date, if any. There is not the flexibility and variety that is available on a computer menu.</p>
-    <a name="LIFE WITHOUT CABLE"><strong>LIFE WITHOUT CABLE</strong></a>
-    <p>There is no question that the TV device, lashed to a cable company by wire or satellite, is not sustainable in the long run, except where people will retain simple TV-viewing habits. It is only a matter of time when the more flexible, adaptable and much cheaper computer-based video will take over. 
+By contrast, Comcast, Cablevision and Time Warner Cable deliver choices through menus that are chronologically arranged and have extremely limited search capability, to date, if any. There is not the flexibility and variety that is available on a computer menu.
+
+### Life Without Cable
+
+There is no question that the TV device, lashed to a cable company by wire or satellite, is not sustainable in the long run, except where people will retain simple TV-viewing habits. It is only a matter of time when the more flexible, adaptable and much cheaper computer-based video will take over. 
 
 That will happen when someone, like Hulu (<i><a href="http://www.hulu.com">www.hulu.com</a></i>) will duplicate what Google has already done. By scouring the Internet, Hulu has already the capability of presenting the results of its discoveries in a variety of forms. 
 
@@ -95,9 +103,17 @@ Note that Hulu&#8217;s research and development work is done in China. The likel
 
 Wireless Internet is most likely to be the means by which the market penetration of life without cable will take place. Already, wireless connectivity in a limited area, like a house, can match the speed of hard-wired connections to the Internet; and can be far cheaper. 
 
-By 2012, almost 50% of the world&#8217;s Internet population will live in the Asia-Pacific region, which makes it unlikely that they will wish to expend the capital for laying coaxial cable or optical fiber to reach a highly concentrated population.</p>
-    <a name="LIFE WITH CABLE"><strong>LIFE WITH CABLE</strong></a>
-    <p>The technical feasibility of life without cable is more a matter of timing and of a business model than of capability. Life without cable is already present to a significant extent today (see related story, page 103). What will hold up the evolution in this direction will be the habits of a large number of people who are accustomed to remote key sets and who will continue preferring a few buttons rather than the variety offered by a mouse-controlled screen. 
+By 2012, almost 50% of the world&#8217;s Internet population will live in the Asia-Pacific region, which makes it unlikely that they will wish to expend the capital for laying coaxial cable or optical fiber to reach a highly concentrated population.
+
+### Life With Cable
+
+The technical feasibility of life without cable is more a matter of
+timing and of a business model than of capability. Life without cable
+is already present to a significant extent today (see related story,
+page 103). What will hold up the evolution in this direction will be
+the habits of a large number of people who are accustomed to remote
+key sets and who will continue preferring a few buttons rather than
+the variety offered by a mouse-controlled screen.
 
 Consumers are right now investing in digital TV and buying expensive LCD and Plasma screens. It is unlikely that they would be inclined to immediately dump their large displays in favor of smaller computer screens. Internet-based TV is most likely going to be adopted by customers who will bypass the costly upgrading of their TV sets. Of course, at Amazon, an Internet-connected HP SL4278N 42-inch 1080p MediaSmart LCD HDTV at the start of May 2008 is only $1,199.99, with free shipping. 
 
