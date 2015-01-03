@@ -208,7 +208,8 @@
 - {date: 1994-9-19, desc: 'by Bruce Caldwell, Information Week', note: An intriguing
     look at how information technology has influenced corporate politics, title: The
     CIO's Machiavelli, url: 'http://pubs.strassmann.com/iw-machiavelli.html'}
-- {date: 2002-6, desc: Trencin, title: Trencin Holocaust Memorial, url: 'http://trencinholocaust.org'}
+- {date: 2002-6, desc: 'Tren&#269;in, Slovakia', title: Tren&#269;in Holocaust Memorial,
+  url: 'http://trencinholocaust.org'}
 - {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', language: French,
   original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', title: 'Paul
     Strassmann, L''information prend le pouvoir', url: pubs/01/prend-le-pouvoir.html}
