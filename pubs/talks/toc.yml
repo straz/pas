@@ -44,7 +44,6 @@
    title: 'State of the Practice Interview, with Paul Strassmann', 
    url: 'productivity-news-2005-10.pdf'}
 
-
 - {date: 2000-5-16, desc: Butler Group, 
    title: 'Seminar: London', 
    url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
@@ -54,13 +53,6 @@
     There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
 - {date: 2000-9, desc: InfowarCon 2000, note: '<A href="http://www.strassmann.com/pubs/infowar.pdf">Slides</a>
     (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
-
-- {date: 2003-9-22, 
-   desc: 'Keynote speech, Gartner AD Summit', 
-   note: '<A href="http://www.strassmann.com/pubs/gartner/howto-budgets.pdf"</a>
-    "Slides",  (4MB pdf)', 
-   title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget', 
-   url: 'http://www.strassmann.com/talks/one-talk.php?talk=109'}
 
 - {date: 2005-5-9, 
    desc: 'CIO Conference 2005, Milan', 

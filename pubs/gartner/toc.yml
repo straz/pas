@@ -1,6 +1,10 @@
 - {date: 2003-9-22, 
    desc: 'Keynote speech, Gartner AD Summit',
    url: 'howto-budgets.pdf',
+   title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget (slides)', 
+   talk: 'http://pair.strassmann.com/talks/one-talk.php?talk=109'}
+
+- {date: 2003-9-22, 
+   desc: 'Keynote speech, Gartner AD Summit', 
    title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget', 
-   talk: 'http://www.strassmann.com/talks/one-talk.php?talk=109',
-   original: 'http://www.strassmann.com/talks/one-talk.php?talk=109'}
+   url: 'http://pair.strassmann.com/talks/one-talk.php?talk=109'}

@@ -95,8 +95,6 @@
     are developing plans, url: 'http://pubs.strassmann.com/aviweek/2002-8-12.shtml'}
 - {date: 2002-8-5, desc: Chief Information Officers Council, title: NASA tech chief
     defines new mission, url: 'http://pubs.strassmann.com/ciogov/2002-8-5.html'}
-- {date: 2002-11-1, desc: 'Leader to Leader Magazine, Peter Drucker Foundation', note: Winter
-    2002, title: 'Technology Leadership: What''s It Worth?', url: 'http://pubs.strassmann.com/LeadertoLeader0202.html'}
 - {date: 2002-5, desc: 'Hiroshi T. McCarvaugh, Patent Insight', title: '''Squandered
     Computer'' predicted the dot com bust', url: 'http://pubs.strassmann.com/patentinsight/'}
 - {date: 2002-4-29, desc: NASA Press Release, title: NASA Administrator Names Senior
@@ -499,6 +497,9 @@
 - {category: Computerworld, date: 2004-9-6, desc: Computerworld, publication: '<a
     href="http://computerworld.com">Computerworld</a>', title: Why IT Will Continue
     to Matter, url: pubs/computerworld/it-continue.html}
+- {alt: 'http://www.idg.es/computerworld/CUTI07.asp', date: 2002-12, desc: Computerworld
+    Espa&ntilde;a, language: Spanish, original: 'https://web.archive.org/web/20020626093205/http://www.idg.es/computerworld/CUTI07.asp',
+  title: La  paradoja de la innovaci&oacute;n, url: pubs/computerworld/la-paradoja.html}
 - author: Paul A. Strassmann
   category: Computerworld
   date: 2004-10-4
@@ -515,8 +516,6 @@
     po swojemu, url: pubs/computerworld/pl/idg-1.html}
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
-- {date: 2002-12, desc: Computerworld Espa&ntilde;a, language: Spanish, title: La
-    paradoja de la innovaci&oacute;n, url: 'http://www.idg.es/computerworld/CUTI07.asp'}
 - {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', title: 'A comprehensive
     ROI, budgeting and benchmarking tool', url: 'http://www.strassmann.com/products/valueit/2002-7-29-cw.shtml'}
 - {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: pubs/computerworld/y2kdebate}
@@ -694,9 +693,11 @@
   title: 'The most influential federal IT leaders since 1987: A short list', url: pubs/fcw/fcw-2012.html}
 - {date: 2003-4-1, desc: 'Executive panel, GSA', title: The Future of Federal Network
     Services, url: pubs/fed/fts-2003.html}
-- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', original: 'http://www.strassmann.com/talks/one-talk.php?talk=109',
-  talk: 'http://www.strassmann.com/talks/one-talk.php?talk=109', title: 'The #1 CIO
-    Issue: How to Explain and Justify the I.T. Budget', url: pubs/gartner/howto-budgets.pdf}
+- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', talk: 'http://pair.strassmann.com/talks/one-talk.php?talk=109',
+  title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget (slides)',
+  url: pubs/gartner/howto-budgets.pdf}
+- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', title: 'The #1 CIO
+    Issue: How to Explain and Justify the I.T. Budget', url: 'http://pair.strassmann.com/talks/one-talk.php?talk=109'}
 - {date: 2010-3-9, desc: GCN, original: 'http://gcn.com/articles/2010/03/10/dod-social-media-policy-fails-to-answer-security-questions.aspx',
   title: DOD social media policy fails to answer security questions, url: pubs/gcn/2010-03.html}
 - {date: 2005-3-29, desc: George Mason University, pdf: 2.5MB, title: The Structure
@@ -838,8 +839,11 @@
   title: Turning our upside down world right side up, url: pubs/misc/disa.html}
 - {author: Theodore Iacobuzio, date: 1993-11, desc: Bank Systems + Technology, title: Ground
     Zero, url: pubs/misc/ground-zero.html}
+- {date: 2002-11, desc: 'Leader to Leader Magazine, Peter Drucker Foundation', note: Winter
+    2002, title: 'Technology Leadership: What''s It Worth?', url: pubs/misc/LeadertoLeader0202.html}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back, url: pubs/misc/we-fought.html}
+- {date: 2008-1, desc: Xerox, title: Ten Thousand Years of Recorded Information, url: pubs/misc/xerox-exhibit.html}
 - {date: 1954-9, desc: Memoir, title: The Thesis at M.I.T. 1953-1954, url: pubs/mit/early-computing.html}
 - {date: 2003-9, desc: Microsoft Executive Circle, note: Fall 2003, pdf: 639kb, title: Budgeting
     for IT in Hard Times, url: pubs/ms/ms-budgeting.pdf}
@@ -890,9 +894,6 @@
     There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
 - {date: 2000-9, desc: InfowarCon 2000, note: '<A href="http://www.strassmann.com/pubs/infowar.pdf">Slides</a>
     (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
-- {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', note: '<A href="http://www.strassmann.com/pubs/gartner/howto-budgets.pdf"</a>
-    "Slides",  (4MB pdf)', title: 'The #1 CIO Issue: How to Explain and Justify the
-    I.T. Budget', url: 'http://www.strassmann.com/talks/one-talk.php?talk=109'}
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
   title: Commentary, url: pubs/usni/2012-7.html}
 - {date: 2010-1-13, desc: ZDnet, original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511',

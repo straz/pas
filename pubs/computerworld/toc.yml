@@ -11,8 +11,7 @@
 
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
-- {date: 2002-12, desc: Computerworld Espa&ntilde;a, language: Spanish, title: La
-    paradoja de la innovaci&oacute;n, url: 'http://www.idg.es/computerworld/CUTI07.asp'}
+
 - {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', title: 'A comprehensive
     ROI, budgeting and benchmarking tool', url: 'http://www.strassmann.com/products/valueit/2002-7-29-cw.shtml'}
 - {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: 'y2kdebate'}
@@ -165,6 +164,5 @@
   url: corp-arch.shtml}
 - {date: 1994-7-4, desc: Computerworld, title: 'CIOs: The Chosen Elite?', url: chosen-elite.shtml}
 - {date: 1994-6-6, desc: Computerworld, title: Centralization's payback, url: centralization.shtml}
-
 
 
