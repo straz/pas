@@ -55,3 +55,7 @@
   title: 'Google: A Model for the Systems Architecture of the Future', url: 'LectureV4.pdf'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University', pdf: 2Mb, title: 'The
     DoD CIO Charter: A Template for IT Governance?', url: 'CIOV1full.pdf'}
+- {date: 2011-9,
+   desc: GMU,
+   title: 'Reader on Cyber Operations',
+   url: 'cyber-operations.pdf'}

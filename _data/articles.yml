@@ -208,6 +208,7 @@
 - {date: 1994-9-19, desc: 'by Bruce Caldwell, Information Week', note: An intriguing
     look at how information technology has influenced corporate politics, title: The
     CIO's Machiavelli, url: 'http://pubs.strassmann.com/iw-machiavelli.html'}
+- {date: 2002-6, desc: Trencin, title: Trencin Holocaust Memorial, url: 'http://trencinholocaust.org'}
 - {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', language: French,
   original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031', title: 'Paul
     Strassmann, L''information prend le pouvoir', url: pubs/01/prend-le-pouvoir.html}
@@ -755,6 +756,7 @@
   title: 'Google: A Model for the Systems Architecture of the Future', url: pubs/gmu/LectureV4.pdf}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University', pdf: 2Mb, title: 'The
     DoD CIO Charter: A Template for IT Governance?', url: pubs/gmu/CIOV1full.pdf}
+- {date: 2011-9, desc: GMU, title: Reader on Cyber Operations, url: pubs/gmu/cyber-operations.pdf}
 - {date: 2003-6, desc: Harvard Business Review, title: A Retrospective Forecast of
     the Future, url: pubs/hbr/carr-letter.html}
 - {date: 2003-6, desc: Harvard Business Review, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
