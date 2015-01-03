@@ -64,7 +64,6 @@
   video: '45:20'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University (video)', title: New Responsibilities
     of the Department of Defense CIO (alt), url: 'http://www.archive.org/details/NewResponsibilitiesOfTheDepartmentOfDefenseCioprototypeForOther'}
-- {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
@@ -841,9 +840,10 @@
     Zero, url: pubs/misc/ground-zero.html}
 - {date: 2002-11, desc: 'Leader to Leader Magazine, Peter Drucker Foundation', note: Winter
     2002, title: 'Technology Leadership: What''s It Worth?', url: pubs/misc/LeadertoLeader0202.html}
+- {date: 1977-1, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back, url: pubs/misc/we-fought.html}
-- {date: 2008-1, desc: Xerox, title: Ten Thousand Years of Recorded Information, url: pubs/misc/xerox-exhibit.html}
+- {date: 1977-1, desc: Xerox, title: Ten Thousand Years of Recorded Information, url: pubs/misc/xerox-exhibit.html}
 - {date: 1954-9, desc: Memoir, title: The Thesis at M.I.T. 1953-1954, url: pubs/mit/early-computing.html}
 - {date: 2003-9, desc: Microsoft Executive Circle, note: Fall 2003, pdf: 639kb, title: Budgeting
     for IT in Hard Times, url: pubs/ms/ms-budgeting.pdf}

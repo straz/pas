@@ -1,5 +1,5 @@
 ---
-date: 2008-1
+date: 1977-1
 desc: Xerox
 title: Ten Thousand Years of Recorded Information
 ---
@@ -10,7 +10,7 @@ caves to engraved plaques on spacecraft heading beyond the solar
 system. The exhibit was on display in the lobby of Xerox world
 headquarters (Stamford, CT) from 1977-2007.
 
-View the [catalog](http://pubs.strassmann.com/files/xerox-catalog.pdf) (461 MB pdf).
+View the [catalog](http://pubs.strassmann.com/files/xerox-catalog.pdf) (419 MB pdf).
 
 ![exhibit catalog cover](xerox-cover.png)
 
