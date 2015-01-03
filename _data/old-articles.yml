@@ -64,7 +64,7 @@
   video: '45:20'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University (video)', title: New Responsibilities
     of the Department of Defense CIO (alt), url: 'http://www.archive.org/details/NewResponsibilitiesOfTheDepartmentOfDefenseCioprototypeForOther'}
-- {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pbj.strassmann.com:8080/com/pubs/xerox/catalog-v4.pdf'}
+- {date: 2008-01, desc: Xerox, pdf: 419MB, title: The Xerox Exhibit Catalog, url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
 - {date: '2005-12-05', desc: 'Lecture, George Mason University', original: 'http://video.google.com/videoplay?docid=6682253938984655269',
   title: 'Google: Model for the Systems Architecture of the Future', url: 'http://www.youtube.com/watch?v=TM7jrWiFeoQ',
   video: '45:20'}
