@@ -8,7 +8,7 @@
 // is empty or out of date.
 
 
-var DEBUG_STORAGE = true; // print to console.log
+var DEBUG_STORAGE = false; // print to console.log
 
 // KEYS are meta-data describing locally cached datasets.
 //
@@ -69,7 +69,6 @@ function get_and_render_using_local(tag, keys){
   if (!localStorage[keys.local_storage_key] ||
       !localStorage[keys.local_storage_timestamp] ||
       (build_time != localStorage[keys.local_storage_timestamp])) {
-    //console.log(build_time, localStorage[keys.local_storage_timestamp]);
     debug_console('update ' + keys.name + ' cache with ajax. Tag=', tag);
     $.get(keys.ajax_file, function(data)
 	  {

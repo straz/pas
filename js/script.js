@@ -54,21 +54,19 @@ function render_articles(articles, tag, by_years){
 }
 
 // 'tags' is defined globally in articles.html, in a <script> tag
-
 function update_page_heading(tag){
   var heading = tag;
-  for (var i in tags){
-    var entry = tags[i];
-    if (entry['tag']==tag){
-      heading = entry['full'];
-      break;
-    }
+  var entry = get_tag(tag, tags);
+  if (entry && entry.full){
+    heading = entry.full;
   }
   $('.page-heading').text(heading);
   fetch_and_render_tag_intro(tag); // defined in storage.js
 }
 
 // case-insensitive lookup of tag
+// returns tag object if found
+// returns null if not found
 function get_tag(tag, collection){
   var entry = null;
   for (var t in tags) {
@@ -87,12 +85,15 @@ function has_intro(tag){
   return (entry != null) && entry.intro;
 }
 
-function render_tag_intro(tag, collection){
+// tag is the tag to render
+// table is a table of {tag: html_snippet, ..}
+
+function render_tag_intro(tag, table){
   var itag = tag.toLowerCase();
-  if (!(itag in collection)){
+  if (!(itag in table)){
     $('.tag-intro').css('display', 'none').html('');
   }
-  $('.tag-intro').html(collection[itag]).css('display', 'block');
+  $('.tag-intro').html(table[itag]).css('display', 'block');
 }
 
 // ------------------------------------------
