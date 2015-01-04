@@ -1,0 +1,15 @@
+---
+---
+{% capture afcea %}{% include afcea.html %}{% endcapture %}
+{% capture baseline %}{% include baseline.html %}{% endcapture %}
+{% capture computerworld %}{% include computerworld.html %}{% endcapture %}
+{% capture idc %}{% include idc.html %}{% endcapture %}
+{% capture includes %}
+  "afcea": {{ afcea | jsonify }},
+  "baseline": {{ baseline | jsonify }},
+  "computerworld": {{ computerworld | jsonify }},
+  "idc": {{ idc | jsonify }}
+{% endcapture %}
+{ "build" : {{ site.data.build | jsonify }},
+  "intros" : { {{ includes }} }
+}

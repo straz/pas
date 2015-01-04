@@ -1,9 +1,9 @@
 - {tag: all, full: All articles}
-- {tag: Baseline, full: Baseline Magazine}
-- {tag: IDC, full: IDC}
+- {tag: Baseline, full: Baseline Magazine, intro: true}
+- {tag: IDC, full: IDC, intro: true}
 - {tag: GCN, full: Government Computer News}
-- {tag: AFCEA, full: AFCEA Signal}
-- {tag: Computerworld, full: Computerworld}
+- {tag: AFCEA, full: AFCEA Signal, intro: true}
+- {tag: Computerworld, full: Computerworld, intro: true}
 - {tag: Infoworld, full: Infoworld}
 - {tag: SearchSecurity, full: SearchSecurity}
 - {tag: GMU, full: George Mason University}

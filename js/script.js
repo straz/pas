@@ -12,13 +12,14 @@ function init() {
     if (tag == '' ) {
       tag = 'all';
     }
-    fetch_and_render_articles(tag);
+    fetch_and_render_articles(tag); // defined in storage.js
   }
 }
 
 
 // if by_years is true, sort and group articles by year
 function render_articles(articles, tag, by_years){
+  update_page_heading(tag);
   var result = [];
   var year = -1;
   var decades = {};
@@ -50,7 +51,6 @@ function render_articles(articles, tag, by_years){
   $.each(result, function(i, r){
 	   $('ul.toc').append(r);});
   add_year_picker(decades, min, max);
-  update_page_heading(tag);
 }
 
 // 'tags' is defined globally in articles.html, in a <script> tag
@@ -65,8 +65,37 @@ function update_page_heading(tag){
     }
   }
   $('.page-heading').text(heading);
+  fetch_and_render_tag_intro(tag); // defined in storage.js
 }
 
+// case-insensitive lookup of tag
+function get_tag(tag, collection){
+  var entry = null;
+  for (var t in tags) {
+    if (collection[t].tag.toLowerCase() == tag.toLowerCase()) {
+      entry = collection[t];
+      break;
+    }
+  }
+  return entry;
+}
+
+// tags is a javascript global var loaded from tags.yml into articles.html
+// returns true if tags.yml contains intro:true flag for this tag.
+function has_intro(tag){
+  var entry = get_tag(tag, tags);
+  return (entry != null) && entry.intro;
+}
+
+function render_tag_intro(tag, collection){
+  var itag = tag.toLowerCase();
+  if (!(itag in collection)){
+    $('.tag-intro').css('display', 'none').html('');
+  }
+  $('.tag-intro').html(collection[itag]).css('display', 'block');
+}
+
+// ------------------------------------------
 function get_decade(year){
   return Math.floor(year/ 10) * 10;
 }
