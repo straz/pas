@@ -10,6 +10,17 @@
     position: relative;
 }
 
+.nav-button {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    background-color: #eef;
+    padding: .25em .5em;
+    &.selected {
+      background-color: #bbc;
+    }
+}
+
 .site-title {
     font-size: 26px;
     line-height: 56px;

@@ -461,8 +461,6 @@
   url: pubs/computerworld/measuring-info.shtml}
 - {date: 2004-3, desc: Computerworld, title: Defining and Measuring Information Productivity,
   url: pubs/computerworld/rankings/ip_rankings_v3.pdf}
-- {date: 2003-10, desc: Computerworld Polska, language: Polish, title: Ka&#380;dy
-    po swojemu, url: pubs/computerworld/pl/idg-1.html}
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
 - {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', title: 'A comprehensive
@@ -617,6 +615,9 @@
   url: pubs/computerworld/corp-arch.shtml}
 - {date: 1994-7-4, desc: Computerworld, title: 'CIOs: The Chosen Elite?', url: pubs/computerworld/chosen-elite.shtml}
 - {date: 1994-6-6, desc: Computerworld, title: Centralization's payback, url: pubs/computerworld/centralization.shtml}
+- {author: Andrzej Gontarz, date: 2003-10-11, desc: Computerworld Polska, language: Polish,
+  original: 'http://www.computerworld.pl/artykuly/302956/Kazdy.po.swojemu.html', title: "Ka\u017C\
+    dy po swojemu", url: pubs/computerworld/pl/page1.html}
 - {date: 2010-01, desc: At Cooper Union, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
   pdf: 90KB, title: Pioneer Profile, url: pubs/cooper/ACUfw09alumni.pdf}
 - {date: 2004-8, desc: Cutter IT Journal, pdf: 144kb, title: Six Rules for Finding
