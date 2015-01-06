@@ -713,6 +713,14 @@
   pdf: 503kb, title: 'Does IT Matter? An HBR Debate', url: pubs/hbr/Web_Letters.pdf}
 - {author: Michael Schrage, date: 1997-9, desc: Harvard Business Review, title: Strassmann
     on Politics and Guidelines, url: pubs/hbr/schrage.html}
+- {date: 2013-1, desc: IDC Study Available ($), idc_id: 239045, original: 'https://web.archive.org/web/20131209185720/http://www.idc.com/getdoc.jsp?containerId=239045',
+  title: Insider Threats Through IT Sabotage, url: pubs/idc/239045.html}
+- {date: 2013-4, desc: IDC Study Available ($), idc_id: 239239, original: 'https://web.archive.org/web/20131209191222/http://www.idc.com/getdoc.jsp?containerId=239239',
+  title: Insider Theft of Intellectual Property, url: pubs/idc/239239.html}
+- {date: 2013-4, desc: IDC Study Available ($), idc_id: 240708, original: 'https://web.archive.org/web/20131209183334/http://www.idc.com/getdoc.jsp?containerId=240708',
+  title: Top Management's Responses to Cyberattacks, url: pubs/idc/240708.html}
+- {date: 2013-5, desc: IDC Study Available ($), idc_id: 241241, original: 'https://web.archive.org/web/20131209190114/http://www.idc.com/getdoc.jsp?containerId=241241',
+  title: Countering Software Robots, url: pubs/idc/241241.html}
 - {date: 2013-6-28, desc: IDC Insights, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
   title: IDC Warned about a Snowden-Like Event, url: pubs/idc/snowden.html}
 - {date: 2014-12, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=252906',
@@ -754,14 +762,6 @@
   title: The Executive Guide to Distributed Denial of Service, url: 'http://www.idc.com/getdoc.jsp?containerId=242192'}
 - {date: 2013-6, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=241880',
   title: The Executive Role in Cyber-Regulations, url: 'http://www.idc.com/getdoc.jsp?containerId=241880'}
-- {date: 2013-5, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=241241',
-  title: Countering Software Robots, url: 'http://www.idc.com/getdoc.jsp?containerId=241241'}
-- {date: 2013-4, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=239239',
-  title: Insider Theft of Intellectual Property, url: 'http://www.idc.com/getdoc.jsp?containerId=239239'}
-- {date: 2013-4, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=240708',
-  title: Top Management's Responses to Cyberattacks, url: 'http://www.idc.com/getdoc.jsp?containerId=240708'}
-- {date: 2013-1, desc: IDC Study Available ($), original: 'http://www.idc.com/getdoc.jsp?containerId=239045',
-  title: Insider Threats Through IT Sabotage, url: 'http://www.idc.com/getdoc.jsp?containerId=239045'}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   title: Getting better value from information management, url: pubs/iej/2003-09.html}
 - {date: 2004-9, desc: Information Economics Journal, pdf: 86kb, title: 'Foundations

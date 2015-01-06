@@ -11,7 +11,7 @@ title: IDC Warned about a Snowden-Like Event
 > predictable patterns that his managers might well have recognized,
 > if they were looking.
 
-My January 2013 report, Insider Theft Through IT Sabotage, describes the perfect storm of conditions that led to Snowden's acts. Saboteurs will continue to "surprise" the management of organizations that don't consider the following.  
+My January 2013 report, [Insider Theft Through IT Sabotage](239045.html), describes the perfect storm of conditions that led to Snowden's acts. Saboteurs will continue to "surprise" the management of organizations that don't consider the following.  
 
 ### Who, what, when, where, how?
 

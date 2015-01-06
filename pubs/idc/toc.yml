@@ -93,23 +93,4 @@
    original: 'http://www.idc.com/getdoc.jsp?containerId=241880',
   title: 'The Executive Role in Cyber-Regulations',
    url: 'http://www.idc.com/getdoc.jsp?containerId=241880'}
-- {date: 2013-5,
-   desc: IDC Study Available ($),
-   original: 'http://www.idc.com/getdoc.jsp?containerId=241241',
-  title: 'Countering Software Robots',
-   url: 'http://www.idc.com/getdoc.jsp?containerId=241241'}
-- {date: 2013-4,
-   desc: IDC Study Available ($),
-   original: 'http://www.idc.com/getdoc.jsp?containerId=239239',
-   title: 'Insider Theft of Intellectual Property',
-   url: 'http://www.idc.com/getdoc.jsp?containerId=239239'}
-- {date: 2013-4,
-   desc: IDC Study Available ($),
-   original: 'http://www.idc.com/getdoc.jsp?containerId=240708', 
-   title: 'Top Management''s Responses to Cyberattacks',
-   url: 'http://www.idc.com/getdoc.jsp?containerId=240708'}
-- {date: 2013-1,
-   desc: IDC Study Available ($),
-   original: 'http://www.idc.com/getdoc.jsp?containerId=239045',
-   title: 'Insider Threats Through IT Sabotage',
-   url: 'http://www.idc.com/getdoc.jsp?containerId=239045'}
+
