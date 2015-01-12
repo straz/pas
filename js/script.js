@@ -3,17 +3,28 @@ var MONTHS = new Array("January", "February", "March",
 		       "August", "September", "October",
 		       "November", "December");
 
+// Associate each page with its own init function
+var INIT_FUNCTIONS  = {'/articles.html' : init_articles,
+		       '/blog-posts.html' : show_blogs};
+
+
 $(document).ready(init);
 
 function init() {
-  if (window.location.pathname == '/articles.html'){
-    check_search_change();
-    var tag = detect_tag();
-    if (tag == '' ) {
-      tag = 'all';
+  for (var key in INIT_FUNCTIONS){
+    if (window.location.pathname == key){
+      var init_function =  INIT_FUNCTIONS[key];
+      init_function();
     }
-    fetch_and_render_articles(tag); // defined in storage.js
   }
+}
+
+function init_articles() {
+  var tag = detect_tag();
+  if (tag == '' ) {
+    tag = 'all';
+  }
+  fetch_and_render_articles(tag); // defined in storage.js
 }
 
 
@@ -196,6 +207,24 @@ function sort_by_date(array){
 	     });
 }
 
+// Date is an ISO date string like '2010-05-01T18:29:00.000-04:00'
+// returns 5/1/2010, or equivalent in browser's own locale
+function date_fmt(date){
+  var d = new Date(date);
+  try {
+    var lang = get_user_lang();
+    return d.toLocaleDateString(lang);
+  } catch (e) {
+    console.log('err in date_fmt', e);
+    return (1+d.getMonth()) + '/' + d.getDate() + '/' + d.getFullYear();
+  }
+}
+
+// tries to figure out what language the user's browser is using
+function get_user_lang(){
+  return navigator.languages || navigator.language || navigator.userLanguage;
+}
+
 // ------------
 // Tags
 
@@ -221,16 +250,6 @@ function detect_tag(){
   return getParameterByName('t');
 }
 
-function check_search_change(){
-  var storedSearch = window.location.search;
-  window.setInterval(function () {
-		       if (window.location.search != storedSearch) {
-			 storedSearch = window.location.search;
-			 search_changed(storedSearch);
-		       }
-		     }, 100);
-}
-
 
 function getParameterByName(name) {
   name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -253,6 +272,11 @@ function get_blog_rss(callback_name){
 	  dataType:'jsonp',
 	  jsonp:'jsonp',
 	  url: url});
+}
+
+
+function show_blogs(){
+  get_blog_rss('rss_callback');
 }
 
 function rss_callback(data){
@@ -290,7 +314,3 @@ function rss_get_permalink(item){
   return result;
 }
 
-function date_fmt(date){
-  var d = new Date(date);
-  return (1+d.getMonth()) + '/' + d.getDate() + '/' + d.getFullYear();
-}

@@ -8,7 +8,6 @@ original: 'http://www.computerworld.pl/artykuly/302956_4/Kazdy.po.swojemu.html'
 ignore: true
 ---
 
-some thing he said
 Dyrektor finansowy w firmie chce wiedzieć, jak realizacja projektu informatycznego przełoży się na zyski, w szczególności jak wpłynie na zmniejszenie kosztów działalności. W administracji obniżenie kosztów nie musi być wcale najważniejszym kryterium oceny podejmowanych działań. Paulowi Strassmannowi udało się w NASA zmniejszyć wydatki na informatykę z 30 do 15% rocznego budżetu agencji, podczas gdy średnia wydatków na IT w firmach wynosi 3% (w bankach 7%, a w budownictwie 1%). W instytucji takiej jak NASA na pierwszym miejscu jest jednak zapewnienie bezpieczeństwa lotów kosmicznych. I nikt nie odważy się zredukować wydatków na systemy informatyczne kosztem zmniejszenia ich podstawowej funkcjonalności. Poza tym - jak podkreśla Paul Strassmann - nowe idee czy projekty, aby miały szansę realizacji, muszą być zrozumiałe kulturowo dla ludzi. A wiadomo że pracownicy sfery budżetowej mają swoje nawyki i upodobania. Z tego powodu trzeba było zostawić naukowcom w NASA komputery Macintosh, chociaż tańsze byłoby wprowadzenie jednolitych stacji roboczych PC dla wszystkich.
 
 
