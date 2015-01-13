@@ -870,6 +870,10 @@
 - {date: 2005-5-18, desc: CERT, pdf: 8.8Mb, title: 'Bezlan: Events &amp; Lessons Learned',
   url: pubs/sec/bezlan.pdf}
 - {date: 2005-9-16, desc: Private briefing, ppt: 7.0Mb, title: Cybercrime, url: pubs/sec/cybercrime.ppt}
+- {date: 2014-10-6, desc: New Canaan SMC Investment Club, title: Shiller CAPE Ratio
+    Analysis, url: pubs/smc/2014-10-Shiller-CAPE.pptx}
+- {date: 2015-1-5, desc: New Canaan SMC Investment Club, title: The Death of Money,
+  url: pubs/smc/2015-1-Investment-Club.pptx}
 - {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', ppt: 2.5MB,
   title: The Structure of IT Spending as a Measure of Organizational Disorder, url: pubs/talks/2005-disorder.ppt}
 - {date: 2007-6-21, desc: 'Keynote: Executive Forum', title: Measuring and Communicating
