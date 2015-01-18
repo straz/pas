@@ -100,29 +100,29 @@ and a PhD from **George Mason University**
 
 He is author of over 250 articles on information management and
 information worker productivity. His 1985 book <a
-href="http://www.strassmann.com/iep/info-payoff.html">Information
+href="http://www.infoeconomics.com/info-payoff.html">Information
 Payoff: The Transformation of Work in the Electronic Age</a> attracted
 worldwide attention and was translated into a number of languages.
 
 His 1990 book, <a
-href="http://www.strassmann.com/iep/business-value.html">The Business
+href="http://www.infoeconomics.com/business-value.html">The Business
 Value of Computers</a>, covers
 his research on the relation between information technology and
 profitability of firms.
 
 His 1993 book, <a
-href="http://www.strassmann.com/iep/info-politics.html">The Politics
+href="http://www.infoeconomics.com/info-politics.html">The Politics
 of Information Management</a> offers guidelines on organization of the
 information function for greatest effectiveness.  A companion volume,
-<a href="http://www.strassmann.com/iep/irreverent-dict.html">The
+<a href="http://www.infoeconomics.com/irreverent-dict.html">The
 Irreverent Dictionary of Information Politics</a> reflects on the
 inconsistencies in information management practices.
 
-His 1997 book, <a href="http://www.strassmann.com/iep/squandered.html">The
+His 1997 book, <a href="http://www.infoeconomics.com/squandered.html">The
 Squandered Computer</a> was Amazon.com&rsquo;s #1 best selling book on information management.
 
 His latest books include
-<a href="http://www.strassmann.com/iep/info-productivity.html">Information 
+<a href="http://www.infoeconomics.com/info-productivity.html">Information 
 Productivity - Assessing the Information Management Costs of U.S. Industrial 
 Corporations</a> (1999),  <a href="http://www.lulu.com/content/1082222">
 The Economics of Corporate Information Systems</a> (2007), 
