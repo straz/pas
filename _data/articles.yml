@@ -824,6 +824,8 @@
     Market/Book Valuations?', url: pubs/km/valuation.html}
 - {author: Stuart Silverstone, date: 1999-4, desc: 'Interview, Knowledge Management
     Magazine', title: 'What''s the Key to Implementing Knowledge Management?', url: pubs/km/kmmag-0499.html}
+- {date: 1949-9, desc: Memoir, title: Cooper Union Memories on the Occasion of the
+    Gano Dunn Award, url: pubs/misc/cooper-union.html}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, key: computerweekly.com,
   original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
   title: Microsoft defends its security, url: pubs/misc/ms-security.html}
