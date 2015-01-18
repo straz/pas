@@ -3,7 +3,7 @@ title: Paul A. Strassmann
 email: paul@strassmann.com
 description: Strassmann, Inc.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.croud.org" # the base hostname & protocol for your site
+url: "http://www.strassmann.com" # the base hostname & protocol for your site
 
 timezone: America/New_York
 exclude: ['Gemfile', 'Gemfile.lock']
