@@ -1,0 +1,25 @@
+---
+layout: default
+category: Articles
+---
+ 
+<style>
+  h2 {margin-top: 20px}
+</style>
+
+<script>
+var build_time = "{{ site.data.build.build_time }}";
+var tags = {{ site.data.tags | jsonify}};
+</script>
+
+<div class="home">
+  <h1 class="page-heading">All articles</h1>
+  <ul class="toc">
+  {% assign sorted_articles = (site.data.articles | sort: 'full_date') %}
+  {% for article in sorted_articles reversed %}
+  <li><a href="{{ article.url }}">{{ article.title }}</a>
+    <span class="extension">{{ article.date }} </span>
+</li>
+  {% endfor %}
+  </ul>
+</div>
