@@ -4,11 +4,11 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
    <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <sitemap>
-        <loc>articles.xml</loc>
+        <loc>{{ site.url }}/sitemap/articles.xml</loc>
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       </sitemap>
       <sitemap>
-        <loc>misc.xml</loc>
+        <loc>{{ site.url }}/sitemap/misc.xml</loc>
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       </sitemap>
    </sitemapindex>
