@@ -1,0 +1,11 @@
+BODY {background : #FFFFFF; color : #000000; 
+      font-family : Arial, Helvetica, sans-serif; }
+
+:visited, :active, :link {
+	TEXT-DECORATION: none;
+	COLOR: #0000C0;
+}
+
+:hover {
+	COLOR: #ff6600
+}
