@@ -181,313 +181,313 @@
     Holocaust Memorial, url: 'http://trencinholocaust.org'}
 - {date: 1995-9-1, desc: 'B. d''Armagnac, Informatiques Magazine', full_date: 1995-09-01,
   language: French, original: 'http://www.techweb.com/se/directlink.cgi?INF19951001S0031',
-  title: 'Paul Strassmann, L''information prend le pouvoir', url: pubs/01/prend-le-pouvoir.html}
+  title: 'Paul Strassmann, L''information prend le pouvoir', url: 'http://strassmann.com/pubs/01/prend-le-pouvoir.html'}
 - {date: 1992-5, desc: 'L''informatique Professionnelle, No. 104', full_date: 1992-05-01,
-  language: French, title: Interview de Paul Strassmann, url: pubs/01/interview.html}
+  language: French, title: Interview de Paul Strassmann, url: 'http://strassmann.com/pubs/01/interview.html'}
 - {date: 2004-1-30, desc: 01 Informatique, full_date: 2004-01-30, language: French,
   pdf: 102kb, title: Les processus de restructuration et de licenciement ne sont pas
-    achev&eacute;s, url: pubs/01/01i-2004.pdf}
+    achev&eacute;s, url: 'http://strassmann.com/pubs/01/01i-2004.pdf'}
 - {date: 1996-6, desc: 'by Paul Strassmann, 01 Informatique, June 1996', full_date: 1996-06-01,
-  language: French, title: Le pouvoir aux fournisseurs de services, url: pubs/01/le-pouvoir.html}
+  language: French, title: Le pouvoir aux fournisseurs de services, url: 'http://strassmann.com/pubs/01/le-pouvoir.html'}
 - {date: 1977-8-10, desc: 'Information Federation for Information Processing (IFIP)
     Congress, Toronto', full_date: 1977-08-10, pdf: 1.3MB, title: Organizational Productivity
-    - The Role of Information Technology, url: pubs/62-77/023-IFIP-organizational-productivity.pdf}
+    - The Role of Information Technology, url: 'http://strassmann.com/pubs/62-77/023-IFIP-organizational-productivity.pdf'}
 - {date: 1977-2, desc: Interfaces - A TIMS-ORSA Journal, full_date: 1977-02-01, note: Information
     Systems in Management Science, pdf: 642KB, title: Experience of a Management Scientist
-    in the MIS Wonderland - Part 1, url: pubs/62-77/022-IS-in-management-science.pdf}
+    in the MIS Wonderland - Part 1, url: 'http://strassmann.com/pubs/62-77/022-IS-in-management-science.pdf'}
 - {date: 1976-10, desc: Datamation, full_date: 1976-10-01, pdf: 1.6MB, title: Stages
-    of Growth, url: pubs/62-77/021-Datamation-Stages-of-growth.pdf}
+    of Growth, url: 'http://strassmann.com/pubs/62-77/021-Datamation-Stages-of-growth.pdf'}
 - {date: 1976-9, desc: Harvard Business Review, full_date: 1976-09-01, pdf: 2.4MB,
-  title: Managing the Costs of Information, url: pubs/62-77/020-HBR-managing-information-costs.pdf}
+  title: Managing the Costs of Information, url: 'http://strassmann.com/pubs/62-77/020-HBR-managing-information-costs.pdf'}
 - {date: 1976-9-27, desc: 'The Society for Management Information Systems, 8th Annual
     Conference', full_date: 1976-09-27, pdf: 1.5MB, title: The Future Direction of
-    Information Services to Impact the Bottom Line, url: pubs/62-77/019-future-of-IS.pdf}
+    Information Services to Impact the Bottom Line, url: 'http://strassmann.com/pubs/62-77/019-future-of-IS.pdf'}
 - {date: 1976-4-6, desc: Data Processing Management Association Education Foundation,
   full_date: 1976-04-06, pdf: 427KB, title: Proceedings of Industry Workshop on Information
-    Systems Education, url: pubs/62-77/018-DPMA-workshop.pdf}
+    Systems Education, url: 'http://strassmann.com/pubs/62-77/018-DPMA-workshop.pdf'}
 - {date: 1975-9, desc: 'Manhattan College, Frontiers of Knowledge in Business Series',
   full_date: 1975-09-01, note: 'The School of Business of Manhattan College, Frontiers
     in Knowledge in Business Series funded by The Emery Educational Foundation', pdf: 2.5MB,
-  title: The Management of White Collar Productivity Programs, url: pubs/62-77/017-white-collar-productivity.pdf}
+  title: The Management of White Collar Productivity Programs, url: 'http://strassmann.com/pubs/62-77/017-white-collar-productivity.pdf'}
 - {date: 1975-6, desc: 'The Diebold Research Program, Conference Proceedings - Meeting
     XXXIV, Madrid, Spain', full_date: 1975-06-01, pdf: 4.4MB, title: New Responsibilities
-    for the Top Computer Executive, url: pubs/62-77/016-computer-executive-responsibilities.pdf}
+    for the Top Computer Executive, url: 'http://strassmann.com/pubs/62-77/016-computer-executive-responsibilities.pdf'}
 - {date: 1965-8, desc: Management Science, full_date: 1965-08-01, note: 'reprinted
     in Theory of Business Finance, Advanced Readings - Weston & Woods; and Information
     for Decision Making, Quantitative and Behavioral Dimensions, 2nd Edition, 1975',
   pdf: 1.4MB, title: Stochastic Decision Trees for the Analysis of Investment Decisions,
-  url: pubs/62-77/015-stochastic-decision-trees.pdf}
+  url: 'http://strassmann.com/pubs/62-77/015-stochastic-decision-trees.pdf'}
 - {date: 1974-7, desc: Xerox Information Services Newsletter, full_date: 1974-07-01,
-  pdf: 3.2MB, title: People Who Ask - Get Answers!, url: pubs/62-77/014-people-who-ask-get-answers.pdf}
+  pdf: 3.2MB, title: People Who Ask - Get Answers!, url: 'http://strassmann.com/pubs/62-77/014-people-who-ask-get-answers.pdf'}
 - {date: 1974-3, desc: The Data Communications User, full_date: 1974-03-01, pdf: 968KB,
-  title: 'Strategy for the 70&rsquo;s: Stay Flexible with Datacomm Investments', url: pubs/62-77/013-strategy-for-the-70s.pdf}
+  title: 'Strategy for the 70&rsquo;s: Stay Flexible with Datacomm Investments', url: 'http://strassmann.com/pubs/62-77/013-strategy-for-the-70s.pdf'}
 - {date: 1974-1, desc: Institute for Certification of Computer Professionals, full_date: 1974-01-01,
   pdf: 1.7MB, title: 'Code of Ethics, Conduct and Good Practice for Holders of the
-    Certificate in Data Processing', url: pubs/62-77/012-code-of-ethics.pdf}
+    Certificate in Data Processing', url: 'http://strassmann.com/pubs/62-77/012-code-of-ethics.pdf'}
 - {date: 1973-5, desc: 'Information Systems Administration (Chapter 8), McFarlan,
     Nolan & Norton', full_date: 1973-05-01, pdf: 3.5MB, title: Managing the Evolution
-    to Advanced Information Systems, url: pubs/62-77/011-managing-evolution.pdf}
+    to Advanced Information Systems, url: 'http://strassmann.com/pubs/62-77/011-managing-evolution.pdf'}
 - {date: 1972-8, desc: Xerox Information Services Newsletter, full_date: 1972-08-01,
-  pdf: 1.8MB, title: Questions and Answers, url: pubs/62-77/010-CISD-questions-and-answers.pdf}
+  pdf: 1.8MB, title: Questions and Answers, url: 'http://strassmann.com/pubs/62-77/010-CISD-questions-and-answers.pdf'}
 - {date: 1972-4, desc: Xerox Information Services Newsletter, full_date: 1972-04-01,
   pdf: 3.0MB, title: Immediate Tasks for Corporate Information Services Division,
-  url: pubs/62-77/009-immediate-tasks-for-Xerox-CISD.pdf}
+  url: 'http://strassmann.com/pubs/62-77/009-immediate-tasks-for-Xerox-CISD.pdf'}
 - {date: 1971-6-14, desc: Xerox Internal Planning Report, full_date: 1971-06-14, pdf: 5.9MB,
-  title: A View of the 1980&rsquo;s, url: pubs/62-77/008-a-view-of-the-1980s.pdf}
+  title: A View of the 1980&rsquo;s, url: 'http://strassmann.com/pubs/62-77/008-a-view-of-the-1980s.pdf'}
 - {date: 1970-4, desc: Forum 70, full_date: 1970-04-01, pdf: 2.9MB, title: The Games
-    Managers Play, url: pubs/62-77/006-games-managers-play.pdf}
+    Managers Play, url: 'http://strassmann.com/pubs/62-77/006-games-managers-play.pdf'}
 - {date: 1968-2, desc: MIT Sloan School, full_date: 1968-02-01, pdf: 1.9MB, title: Summary
-    of Results of the New York Sloan School Alumni survey, url: pubs/62-77/005-sloan-alumni-1968.pdf}
+    of Results of the New York Sloan School Alumni survey, url: 'http://strassmann.com/pubs/62-77/005-sloan-alumni-1968.pdf'}
 - {date: 1966-2-17, desc: 'Institute of Management Sciences, Dallas, Texas', full_date: 1966-02-17,
-  pdf: 2.8MB, title: Management Sciences in the Food Industry - A Status Report, url: pubs/62-77/004-management-food-industry.pdf}
+  pdf: 2.8MB, title: Management Sciences in the Food Industry - A Status Report, url: 'http://strassmann.com/pubs/62-77/004-management-food-industry.pdf'}
 - {date: 1965-2, desc: National Association of Accountants Bulletin, full_date: 1965-02-01,
   pdf: 2.2MB, title: Forecasting Considerations in Design of Management Information
-    Systems, url: pubs/62-77/003-forecasting.pdf}
+    Systems, url: 'http://strassmann.com/pubs/62-77/003-forecasting.pdf'}
 - {date: 1963-10, desc: 32nd Annual International Conference of the Financial Executives
     Institute, full_date: 1963-10-01, pdf: 380KB, title: Managerial Problems in Designing
-    and Organizing a Large Computer System for Inventory Control, url: pubs/62-77/002-managerial-problems.pdf}
+    and Organizing a Large Computer System for Inventory Control, url: 'http://strassmann.com/pubs/62-77/002-managerial-problems.pdf'}
 - {date: 1962-8, desc: 'The Cost Optimization - COPT - System: Management Technology
     Journal of The Institute of Management Sciences', full_date: 1962-08-01, pdf: 1.1MB,
   title: A Plant-Warehouse System with Variable Lead-Times and Variable Re-Order Levels,
-  url: pubs/62-77/001-plant-warehouse-system.pdf}
+  url: 'http://strassmann.com/pubs/62-77/001-plant-warehouse-system.pdf'}
 - {date: 1994-6, desc: Across the Board, full_date: 1994-06-01, title: The Hocus-Pocus
-    of Reengineering, url: pubs/across/hocus-pocus.html}
+    of Reengineering, url: 'http://strassmann.com/pubs/across/hocus-pocus.html'}
 - {date: 1991-4, desc: Across the Board, full_date: 1991-04-01, title: Runaway Computer
-    Projects, url: pubs/across/runaway-projects.html}
+    Projects, url: 'http://strassmann.com/pubs/across/runaway-projects.html'}
 - {date: 1998-5, desc: Across the Board, full_date: 1998-05-01, title: 'Outsourcing
-    IT: Miracle Cure or Emetic?', url: pubs/across/outsourcing.html}
+    IT: Miracle Cure or Emetic?', url: 'http://strassmann.com/pubs/across/outsourcing.html'}
 - {date: 2010-5-21, desc: AFCEA Signal, full_date: 2010-05-21, original: 'http://www.afcea.org/content/?q=2010/05/21/6842',
-  title: Gentlemen Do Not Open Attachments, url: pubs/afcea/2010-05-a.html}
+  title: Gentlemen Do Not Open Attachments, url: 'http://strassmann.com/pubs/afcea/2010-05-a.html'}
 - {date: 2010-5-25, desc: AFCEA Signal, full_date: 2010-05-25, original: 'http://www.afcea.org/content/?q=2010/05/25/6849',
-  title: Cases in How to Practice Safe Social Computing, url: pubs/afcea/2010-05-b.html}
+  title: Cases in How to Practice Safe Social Computing, url: 'http://strassmann.com/pubs/afcea/2010-05-b.html'}
 - {date: 2010-6-16, desc: AFCEA Signal, full_date: 2010-06-16, original: 'http://www.afcea.org/content/?q=2010/06/16/7183',
-  title: 'Virtualization of Servers: The First Step Into the Cloud', url: pubs/afcea/2010-06.html}
+  title: 'Virtualization of Servers: The First Step Into the Cloud', url: 'http://strassmann.com/pubs/afcea/2010-06.html'}
 - {date: 2010-7-14, desc: AFCEA Signal, full_date: 2010-07-14, original: 'http://www.afcea.org/content/?q=2010/07/14/7490',
-  title: Cybersecurity Is Asymmetric, url: pubs/afcea/2010-7.html}
+  title: Cybersecurity Is Asymmetric, url: 'http://strassmann.com/pubs/afcea/2010-7.html'}
 - {author: Paul A. Strassmann, date: 2010-8-23, desc: AFCEA Signal, full_date: 2010-08-23,
   original: 'http://www.afcea.org/content/?q=2010/08/23/8000/', title: Cyberdefense
-    and DoD Culture, url: pubs/afcea/2010-8-c.html}
+    and DoD Culture, url: 'http://strassmann.com/pubs/afcea/2010-8-c.html'}
 - {author: Paul A. Strassmann, date: 2010-8-23, desc: AFCEA Signal, full_date: 2010-08-23,
   original: 'http://www.afcea.org/content/?q=2010/08/23/8021/', title: How to Improve
-    Cyberdefenses at the DoD, url: pubs/afcea/2010-8-d.html}
+    Cyberdefenses at the DoD, url: 'http://strassmann.com/pubs/afcea/2010-8-d.html'}
 - {author: Beverly Schaeffer, date: 2010-8-6, desc: AFCEA Signal, full_date: 2010-08-06,
   original: 'http://www.afcea.org/content/?q=2010/08/06/7822', title: Defense Network
-    Evolution Into Unknown Future, url: pubs/afcea/2010-8-e.html}
+    Evolution Into Unknown Future, url: 'http://strassmann.com/pubs/afcea/2010-8-e.html'}
 - {author: Paul A. Strassmann, date: 2011-3, desc: AFCEA Signal, full_date: 2011-03-01,
   original: 'http://www.afcea.org/content/?q=node/2552', title: Fewer Data Centers
-    Can Be a Good Thing, url: pubs/afcea/2011-3.html}
+    Can Be a Good Thing, url: 'http://strassmann.com/pubs/afcea/2011-3.html'}
 - {date: 2014-10, desc: AFCEA Signal, full_date: 2014-10-01, original: 'http://www.afcea.org/content/?q=node/13437',
-  title: A New Approach Is Needed to Protect Defense Department Cybersystems, url: pubs/afcea/2014-10.html}
+  title: A New Approach Is Needed to Protect Defense Department Cybersystems, url: 'http://strassmann.com/pubs/afcea/2014-10.html'}
 - {date: 2014-01, desc: AFCEA Signal, full_date: 2014-01-01, original: 'http://www.afcea.org/content/?q=node/12110',
-  title: Readying for Third-Generation Defense Systems, url: pubs/afcea/2014-01.html}
+  title: Readying for Third-Generation Defense Systems, url: 'http://strassmann.com/pubs/afcea/2014-01.html'}
 - {date: 2013-9, desc: AFCEA Signal, full_date: 2013-09-01, original: 'http://www.afcea.org/content/?q=node/11602',
-  title: Bringing Together Signal and Cyber, url: pubs/afcea/2013-09.html}
+  title: Bringing Together Signal and Cyber, url: 'http://strassmann.com/pubs/afcea/2013-09.html'}
 - {date: 2013-7, desc: AFCEA Signal, full_date: 2013-07-01, original: 'http://www.afcea.org/content/?q=node/11269',
-  title: Asymmetric Cyberwarfare Demands a New Information Assurance Approach, url: pubs/afcea/2013-07.html}
+  title: Asymmetric Cyberwarfare Demands a New Information Assurance Approach, url: 'http://strassmann.com/pubs/afcea/2013-07.html'}
 - {date: 2012-12, desc: AFCEA Signal, full_date: 2012-12-01, original: 'http://www.afcea.org/content/?q=node/10375',
   title: Implementing the Defense Department Cloud Computer Strategy Poses New Challenges,
-  url: pubs/afcea/2012-12.html}
+  url: 'http://strassmann.com/pubs/afcea/2012-12.html'}
 - {date: 2012-11, desc: AFCEA Signal, full_date: 2012-11-01, original: 'http://www.afcea.org/content/?q=node/10269',
-  title: Defense Board Computing Recommendations Lack Strength, url: pubs/afcea/2012-11.html}
+  title: Defense Board Computing Recommendations Lack Strength, url: 'http://strassmann.com/pubs/afcea/2012-11.html'}
 - {date: 2012-10, desc: AFCEA Signal, full_date: 2012-10-01, original: 'http://www.afcea.org/content/?q=node/10198',
-  title: Evolution Is Leading Us to Software-Defined Networks, url: pubs/afcea/2012-10.html}
+  title: Evolution Is Leading Us to Software-Defined Networks, url: 'http://strassmann.com/pubs/afcea/2012-10.html'}
 - {date: 2012-09, desc: AFCEA Signal, full_date: 2012-09-01, original: 'http://www.afcea.org/content/?q=node/10106',
-  title: Thrifty Can Do It for the Defense Department, url: pubs/afcea/2012-09.html}
+  title: Thrifty Can Do It for the Defense Department, url: 'http://strassmann.com/pubs/afcea/2012-09.html'}
 - {date: 2012-08, desc: AFCEA Signal, full_date: 2012-08-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=3030&zoneid=357',
-  title: Old Defense Department Silos Must Be Swept Out, url: pubs/afcea/2012-08.html}
+  title: Old Defense Department Silos Must Be Swept Out, url: 'http://strassmann.com/pubs/afcea/2012-08.html'}
 - {date: 2012-07, desc: AFCEA Signal, full_date: 2012-07-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=3003&zoneid=200',
   title: The Defense Department Must Account for its Information Technology Silos,
-  url: pubs/afcea/2012-07.html}
+  url: 'http://strassmann.com/pubs/afcea/2012-07.html'}
 - {date: 2012-06, desc: AFCEA Signal, full_date: 2012-06-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2978&zoneid=200',
-  title: 'How Efficient Is the Management of Defense Enterprise Systems?', url: pubs/afcea/2012-06.html}
+  title: 'How Efficient Is the Management of Defense Enterprise Systems?', url: 'http://strassmann.com/pubs/afcea/2012-06.html'}
 - {date: 2012-05, desc: AFCEA Signal, full_date: 2012-05-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2949&zoneid=200',
-  title: The Efficiency of Defense Department Information Technology Spending, url: pubs/afcea/2012-05.html}
+  title: The Efficiency of Defense Department Information Technology Spending, url: 'http://strassmann.com/pubs/afcea/2012-05.html'}
 - {date: 2012-04, desc: AFCEA Signal, full_date: 2012-04-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2922&zoneid=345',
-  title: Now May Be the Time for Defense Department Enterprise Email, url: pubs/afcea/2012-04.html}
+  title: Now May Be the Time for Defense Department Enterprise Email, url: 'http://strassmann.com/pubs/afcea/2012-04.html'}
 - {date: 2012-03, desc: AFCEA Signal, full_date: 2012-03-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2894&zoneid=200',
   title: 'The Defense Department Has Its Information Systems Strategy--Now What?',
-  url: pubs/afcea/2012-03.html}
+  url: 'http://strassmann.com/pubs/afcea/2012-03.html'}
 - {date: 2012-02, desc: AFCEA Signal, full_date: 2012-02-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2869&zoneid=338',
-  title: The Key to Cutting Information Technology Costs, url: pubs/afcea/2012-02.html}
+  title: The Key to Cutting Information Technology Costs, url: 'http://strassmann.com/pubs/afcea/2012-02.html'}
 - {date: 2012-01, desc: AFCEA Signal, full_date: 2012-01-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2832&zoneid=200',
-  title: Listen Carefully ... Computers Now Can Understand What You Say, url: pubs/afcea/2012-01.html}
+  title: Listen Carefully ... Computers Now Can Understand What You Say, url: 'http://strassmann.com/pubs/afcea/2012-01.html'}
 - {date: 2011-11, desc: AFCEA Signal, full_date: 2011-11-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2786&zoneid=333',
-  title: Two Barriers Block New Architecture, url: pubs/afcea/2011-11.html}
+  title: Two Barriers Block New Architecture, url: 'http://strassmann.com/pubs/afcea/2011-11.html'}
 - {date: 2011-9, desc: AFCEA Signal, full_date: 2011-09-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2725&zoneid=327',
-  title: About Face, url: pubs/afcea/2011-09.html}
+  title: About Face, url: 'http://strassmann.com/pubs/afcea/2011-09.html'}
 - {date: 2011-7, desc: AFCEA Signal, full_date: 2011-07-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2665&zoneid=323',
-  title: A Culture Shock Is Coming, url: pubs/afcea/2011-7.html}
+  title: A Culture Shock Is Coming, url: 'http://strassmann.com/pubs/afcea/2011-7.html'}
 - {date: 2011-5, desc: AFCEA Signal, full_date: 2011-05-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2609&zoneid=316',
-  title: Reaching the Clouds Won't be a One-Stop Trip, url: pubs/afcea/2011-5.html}
+  title: Reaching the Clouds Won't be a One-Stop Trip, url: 'http://strassmann.com/pubs/afcea/2011-5.html'}
 - {date: 2011-01, desc: AFCEA Signal, full_date: 2011-01-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2498&zoneid=308',
-  title: Desktop Virtualization Offers Benefits Now, url: pubs/afcea/2011-01.html}
+  title: Desktop Virtualization Offers Benefits Now, url: 'http://strassmann.com/pubs/afcea/2011-01.html'}
 - {date: 2010-11, desc: AFCEA Signal, full_date: 2010-11-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2443&zoneid=303',
-  title: Army's Private Cloud Goal Is Praiseworthy but Problematic, url: pubs/afcea/2010-11.html}
+  title: Army's Private Cloud Goal Is Praiseworthy but Problematic, url: 'http://strassmann.com/pubs/afcea/2010-11.html'}
 - {date: 2010-12, desc: AFCEA Signal, full_date: 2010-12-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2470&zoneid=306',
-  title: Navy Prepares to Take An Important First Step, url: pubs/afcea/2010-12.html}
+  title: Navy Prepares to Take An Important First Step, url: 'http://strassmann.com/pubs/afcea/2010-12.html'}
 - {date: 2010-8, desc: AFCEA SignalScape, full_date: 2010-08-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2364',
-  title: Defense Network Concepts Have a Dynamic History, url: pubs/afcea/2010-08-b.html}
+  title: Defense Network Concepts Have a Dynamic History, url: 'http://strassmann.com/pubs/afcea/2010-08-b.html'}
 - {date: 2010-8, desc: AFCEA SignalScape, full_date: 2010-08-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2363',
-  title: Information Dominance Bows to Network Limitations, url: pubs/afcea/2010-08-a.html}
+  title: Information Dominance Bows to Network Limitations, url: 'http://strassmann.com/pubs/afcea/2010-08-a.html'}
 - {date: 2010-01, desc: AFCEA Signal, full_date: 2010-01-01, original: 'http://www.afcea.org/signal/articles/templates/Signal_Article_Template.asp?articleid=2163&zoneid=284',
-  title: Social (Network) Security, url: pubs/afcea/2010-01.html}
+  title: Social (Network) Security, url: 'http://strassmann.com/pubs/afcea/2010-01.html'}
 - {date: 2009-11, desc: AFCEA Signal, full_date: 2009-11-01, pdf: 940KB, title: The
-    Internet's Vulnerabilities are Built Into Its Infrastructure, url: pubs/afcea/2009-11.pdf}
+    Internet's Vulnerabilities are Built Into Its Infrastructure, url: 'http://strassmann.com/pubs/afcea/2009-11.pdf'}
 - {date: 2009-7, desc: AFCEA Signal, full_date: 2009-07-01, pdf: 3.5MB, title: Network-Centric
-    Systems Need Standards and Metrics, url: pubs/afcea/2009-07.pdf}
+    Systems Need Standards and Metrics, url: 'http://strassmann.com/pubs/afcea/2009-07.pdf'}
 - {date: 2009-6-15, desc: AFCEA Signal, full_date: 2009-06-15, title: Future Budget
-    Does Not Bode Well for Network Centricity, url: pubs/afcea/2009-06.html}
+    Does Not Bode Well for Network Centricity, url: 'http://strassmann.com/pubs/afcea/2009-06.html'}
 - {date: 2008-11, desc: AFCEA Signal, full_date: 2008-11-01, title: 'Does the 2009
-    Budget Support Network-Centric Missions?', url: pubs/afcea/2008-11.html}
+    Budget Support Network-Centric Missions?', url: 'http://strassmann.com/pubs/afcea/2008-11.html'}
 - {date: 2003-3-19, desc: AFCEA talk, full_date: 2003-03-19, title: Power Politics
-    of the CIO, url: pubs/afcea/2003-3.html}
+    of the CIO, url: 'http://strassmann.com/pubs/afcea/2003-3.html'}
 - {date: 2003-3-19, desc: AFCEA talk (announcement), full_date: 2003-03-19, title: Power
-    Politics of the CIO, url: pubs/afcea/2003-3-19.pdf}
+    Politics of the CIO, url: 'http://strassmann.com/pubs/afcea/2003-3-19.pdf'}
 - {author: Robert K. Ackerman, date: 2000-2, desc: AFCEA Signal, full_date: 2000-02-01,
   title: Technology-based Confrontations Blur the Line Between Competition and Conflict,
-  url: pubs/afcea/signal2-2000.html}
+  url: 'http://strassmann.com/pubs/afcea/signal2-2000.html'}
 - {date: '1989-05-26', desc: Babbage Institute, full_date: 1989-05-26, original: 'http://purl.umn.edu/107640',
-  title: Interview with Paul A. Strassmann (part 2), url: pubs/babbage/babbage-oh172pas.pdf}
+  title: Interview with Paul A. Strassmann (part 2), url: 'http://strassmann.com/pubs/babbage/babbage-oh172pas.pdf'}
 - {date: '1987-05-15', desc: Babbage Institute, full_date: 1987-05-15, original: 'http://purl.umn.edu/107641',
-  title: Interview with Paul A. Strassmann (part 1), url: pubs/babbage/babbage-oh131pas.pdf}
+  title: Interview with Paul A. Strassmann (part 1), url: 'http://strassmann.com/pubs/babbage/babbage-oh131pas.pdf'}
 - {author: Larry Dignan with Paul Strassmann, date: &id001 2004-10-18, desc: Baseline,
-  full_date: *id001, title: The 500 Companies That Manage Information Best, url: pubs/baseline/2004-10-a.html}
+  full_date: *id001, title: The 500 Companies That Manage Information Best, url: 'http://strassmann.com/pubs/baseline/2004-10-a.html'}
 - {author: Larry Dignan with Paul Strassmann, date: &id002 2004-10-18, desc: Baseline,
-  full_date: *id002, title: Who Led the Baseline 500 and Why, url: pubs/baseline/2004-10-b.html}
+  full_date: *id002, title: Who Led the Baseline 500 and Why, url: 'http://strassmann.com/pubs/baseline/2004-10-b.html'}
 - {date: 2005-1-13, desc: Baseline Magazine, full_date: 2005-01-13, original: 'http://www.baselinemag.com/c/a/Projects-Management/Why-JP-Morgan-Chase-Really-Dropped-IBM/',
-  title: Why JP Morgan Chase Really Dropped IBM, url: pubs/baseline/2005-01.html}
+  title: Why JP Morgan Chase Really Dropped IBM, url: 'http://strassmann.com/pubs/baseline/2005-01.html'}
 - {date: 2005-3-7, desc: Baseline Magazine, full_date: 2005-03-07, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Outsourcing-What-Ratio-Is-Right',
-  title: 'Outsourcing: What Ratio Is Right?', url: pubs/baseline/2005-3-a.html}
+  title: 'Outsourcing: What Ratio Is Right?', url: 'http://strassmann.com/pubs/baseline/2005-3-a.html'}
 - {author: Robert Hertzberg, date: &id003 2007-04-11, desc: eWeek, full_date: *id003,
   original: 'http://www.eweek.com/article2/0,1895,2113008,00.asp', pdf: 749kb, tags: Baseline,
-  title: The 100 Smartest Companies of 2007, url: pubs/baseline/2007-04-eweek.pdf}
+  title: The 100 Smartest Companies of 2007, url: 'http://strassmann.com/pubs/baseline/2007-04-eweek.pdf'}
 - {date: 2008-01, desc: Baseline Magazine, full_date: 2008-01-01, original: 'http://www.baselinemag.com/c/a/Projects-Security/5-Secure-Reasons-for-Thin-Clients-[1]',
-  pdf: 480kb, title: 'Real Numbers: 5 Secure Reasons for Thin Clients', url: pubs/baseline/2008-01.pdf}
+  pdf: 480kb, title: 'Real Numbers: 5 Secure Reasons for Thin Clients', url: 'http://strassmann.com/pubs/baseline/2008-01.pdf'}
 - {author: Robert Hertzberg, date: 2007-10, desc: Baseline Magazine, full_date: 2007-10-01,
   original: 'http://www.baselinemag.com/c/a/Projects-Management/Getting-a-Glimpse-Through-Numbers-of-Whos-Using-Technology-Well/',
-  pdf: 420kb, title: The Baseline 500, url: pubs/baseline/2007-10-b.pdf}
+  pdf: 420kb, title: The Baseline 500, url: 'http://strassmann.com/pubs/baseline/2007-10-b.pdf'}
 - {date: 2007-10, desc: Baseline Magazine, full_date: 2007-10-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/The-Baseline-500-Methodology/',
-  pdf: 448kb, title: 'The Baseline 500: Methodology', url: pubs/baseline/2007-10-a.pdf}
+  pdf: 448kb, title: 'The Baseline 500: Methodology', url: 'http://strassmann.com/pubs/baseline/2007-10-a.pdf'}
 - {date: 2007-09, desc: Baseline Magazine, full_date: 2007-09-01, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Why-PayforUse-Computing-Pays-Off/',
-  pdf: 80kb, title: 'Real Numbers: Why Pay-For-Use Computing Pays Off', url: pubs/baseline/2007-09-a.pdf}
+  pdf: 80kb, title: 'Real Numbers: Why Pay-For-Use Computing Pays Off', url: 'http://strassmann.com/pubs/baseline/2007-09-a.pdf'}
 - {date: 2007-09, desc: Baseline Magazine, full_date: 2007-09-01, pdf: 67kb, title: 'Workbook:
-    Benefits of Server Virtualization', url: pubs/baseline/2007-09-b.pdf}
+    Benefits of Server Virtualization', url: 'http://strassmann.com/pubs/baseline/2007-09-b.pdf'}
 - {date: 2007-07, desc: Baseline Magazine, full_date: 2007-07-01, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Opinion-Why-CIOs-Should-Pay-Attention-to-HewlettPackard/',
-  pdf: 115kb, title: 'Real Numbers: HP: Behind The Ascent Of The New IT Champ', url: pubs/baseline/2007-07.pdf}
+  pdf: 115kb, title: 'Real Numbers: HP: Behind The Ascent Of The New IT Champ', url: 'http://strassmann.com/pubs/baseline/2007-07.pdf'}
 - {date: 2007-04, desc: Baseline Magazine, full_date: 2007-04-01, title: 'Calculator:
-    How Smart is Your Company?', url: pubs/baseline/2007-4-calc.jpg}
+    How Smart is Your Company?', url: 'http://strassmann.com/pubs/baseline/2007-4-calc.jpg'}
 - {date: 2007-05, desc: Baseline Magazine, full_date: 2007-05-01, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Is-Microsoft-Losing-Its-Grip/',
-  pdf: 80kb, title: 'Real Numbers: Is Microsoft Losing its Grip?', url: pubs/baseline/2007-05-a.pdf}
+  pdf: 80kb, title: 'Real Numbers: Is Microsoft Losing its Grip?', url: 'http://strassmann.com/pubs/baseline/2007-05-a.pdf'}
 - {date: 2007-03, desc: Baseline Magazine, full_date: 2007-03-01, pdf: 65kb, title: 'Workbook:
-    Is Consolidation Paying Off?', url: pubs/baseline/2007-03-b.pdf}
+    Is Consolidation Paying Off?', url: 'http://strassmann.com/pubs/baseline/2007-03-b.pdf'}
 - {date: 2007-03, desc: Baseline Magazine, full_date: 2007-03-01, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/Building-Software-Curb-Your-Enthusiasm/',
-  pdf: 83kb, title: 'Real Numbers: Building Software? Curb Your Enthusiasm', url: pubs/baseline/2007-03-a.pdf}
+  pdf: 83kb, title: 'Real Numbers: Building Software? Curb Your Enthusiasm', url: 'http://strassmann.com/pubs/baseline/2007-03-a.pdf'}
 - {date: 2007-01, desc: Baseline Magazine, full_date: 2007-01-01, pdf: 59kb, title: 'Workbook:
-    Are You Transforming Your Business?', url: pubs/baseline/2007-01-b.pdf}
+    Are You Transforming Your Business?', url: 'http://strassmann.com/pubs/baseline/2007-01-b.pdf'}
 - {date: 2007-01, desc: Baseline Magazine, full_date: 2007-01-01, original: 'http://www.baselinemag.com/c/a/Business-Intelligence/7-Places-To-Clean-the-Clutter-in-IT/',
-  pdf: 88kb, title: 'Real Numbers: 7 Places To Clean The Clutter In IT', url: pubs/baseline/2007-01-a.pdf}
+  pdf: 88kb, title: 'Real Numbers: 7 Places To Clean The Clutter In IT', url: 'http://strassmann.com/pubs/baseline/2007-01-a.pdf'}
 - {date: 2006-11, desc: Baseline Magazine, full_date: 2006-11-01, pdf: 491kb, title: 'Real
-    Numbers: 3 Metrics to Gauge Security Spending', url: pubs/baseline/2006-11-a.pdf}
+    Numbers: 3 Metrics to Gauge Security Spending', url: 'http://strassmann.com/pubs/baseline/2006-11-a.pdf'}
 - {date: 2006-11, desc: Baseline Magazine, full_date: 2006-11-01, pdf: 70kb, title: 'Workbook:
-    Is Your Security Strategy Sound?', url: pubs/baseline/2006-11-b.pdf}
+    Is Your Security Strategy Sound?', url: 'http://strassmann.com/pubs/baseline/2006-11-b.pdf'}
 - {date: 2006-10, desc: Baseline Magazine, full_date: 2006-10-01, title: 'Baseline
-    500: The Listings (spreadsheet)', url: pubs/baseline/2006-10-BL500-list.xls}
+    500: The Listings (spreadsheet)', url: 'http://strassmann.com/pubs/baseline/2006-10-BL500-list.xls'}
 - {date: 2006-10, desc: Baseline Magazine, full_date: 2006-10-01, pdf: 164kb, title: 'Baseline
-    500: Alphabetical index', url: pubs/baseline/2006-10-alphalist.pdf}
+    500: Alphabetical index', url: 'http://strassmann.com/pubs/baseline/2006-10-alphalist.pdf'}
 - {date: 2006-10, desc: Baseline Magazine, full_date: 2006-10-01, pdf: 98kb, title: 'Baseline
-    500: Leaders Ranked By Revenue', url: pubs/baseline/2006-10-BL500-revenue.pdf}
+    500: Leaders Ranked By Revenue', url: 'http://strassmann.com/pubs/baseline/2006-10-BL500-revenue.pdf'}
 - {date: 2006-10, desc: Baseline Magazine, full_date: 2006-10-01, title: 'Online Extra:
-    Calculate Your Company''s Information Productivity (spreadsheet)', url: pubs/baseline/2006-10-DIY.xls}
+    Calculate Your Company''s Information Productivity (spreadsheet)', url: 'http://strassmann.com/pubs/baseline/2006-10-DIY.xls'}
 - {date: 2006-10, desc: Baseline Magazine, full_date: 2006-10-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/5-Steps-to-Improve-Your-Information-Productivity/',
-  title: 'Baseline 500: Five Steps to Improve Your Information Productivity', url: pubs/baseline/2006-10-a.doc}
+  title: 'Baseline 500: Five Steps to Improve Your Information Productivity', url: 'http://strassmann.com/pubs/baseline/2006-10-a.doc'}
 - {date: 2006-09, desc: Baseline Magazine, full_date: 2006-09-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/What-Should-You-Be-Strategic-or-Tactical/',
-  pdf: 118kb, title: 'Real Numbers: What Should You Be: Strategic or Tactical?', url: pubs/baseline/2006-09-a.pdf}
+  pdf: 118kb, title: 'Real Numbers: What Should You Be: Strategic or Tactical?', url: 'http://strassmann.com/pubs/baseline/2006-09-a.pdf'}
 - {date: 2006-09, desc: Baseline Magazine, full_date: 2006-09-01, pdf: 74kb, title: 'Workbook:
-    Tactical vs. Strategic', url: pubs/baseline/2006-09-b.pdf}
+    Tactical vs. Strategic', url: 'http://strassmann.com/pubs/baseline/2006-09-b.pdf'}
 - {date: 2006-07, desc: Baseline Magazine, full_date: 2006-07-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/How-Clean-Data-Can-Transform-Your-Business/',
-  pdf: 520kb, title: 'Real Numbers: How To Transform Your Business', url: pubs/baseline/2006-07-a.pdf}
+  pdf: 520kb, title: 'Real Numbers: How To Transform Your Business', url: 'http://strassmann.com/pubs/baseline/2006-07-a.pdf'}
 - {date: 2006-07, desc: Baseline Magazine, full_date: 2006-07-01, pdf: 72kb, title: 'Workbook:
-    The Price of Dirty Data', url: pubs/baseline/2006-07-b.pdf}
+    The Price of Dirty Data', url: 'http://strassmann.com/pubs/baseline/2006-07-b.pdf'}
 - {date: 2006-05, desc: Baseline Magazine, full_date: 2006-05-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Can-You-Measure-Info-Management/',
-  pdf: 86kb, title: 'Real Numbers: Can You Measure Info Management?', url: pubs/baseline/2006-05-a.pdf}
+  pdf: 86kb, title: 'Real Numbers: Can You Measure Info Management?', url: 'http://strassmann.com/pubs/baseline/2006-05-a.pdf'}
 - {date: 2006-05, desc: Baseline Magazine, full_date: 2006-05-01, pdf: 73kb, title: 'Workbook:
-    Measuring Info Management', url: pubs/baseline/2006-05-b.pdf}
+    Measuring Info Management', url: 'http://strassmann.com/pubs/baseline/2006-05-b.pdf'}
 - {date: 2006-4, desc: Baseline Magazine, full_date: 2006-04-01, pdf: 166kb, title: The
-    100 Smartest Companies (analysis), url: pubs/baseline/2006-4-a.pdf}
+    100 Smartest Companies (analysis), url: 'http://strassmann.com/pubs/baseline/2006-4-a.pdf'}
 - {date: 2006-4, desc: Baseline Magazine, full_date: 2006-04-01, pdf: 131kb, title: The
-    100 Smartest Companies (rankings), url: pubs/baseline/2006-4-b.pdf}
+    100 Smartest Companies (rankings), url: 'http://strassmann.com/pubs/baseline/2006-4-b.pdf'}
 - {date: 2006-02, desc: Baseline Magazine, full_date: 2006-02-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/A-Closer-Look-At-GMs-Tech-Spending-Cuts/',
-  pdf: 481kb, title: 'Real Numbers: A Closer Look at GM''s Tech Spending Cuts', url: pubs/baseline/2006-02-a.pdf}
+  pdf: 481kb, title: 'Real Numbers: A Closer Look at GM''s Tech Spending Cuts', url: 'http://strassmann.com/pubs/baseline/2006-02-a.pdf'}
 - {date: 2006-02, desc: Baseline Magazine, full_date: 2006-02-01, pdf: 73kb, title: 'Workbook:
-    How to Judge Your IT Spending', url: pubs/baseline/2006-02-b.pdf}
+    How to Judge Your IT Spending', url: 'http://strassmann.com/pubs/baseline/2006-02-b.pdf'}
 - {date: 2006-01, desc: Baseline Magazine, full_date: 2006-01-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/How-Much-is-an-Employee-Worth/',
-  pdf: 128kb, title: 'Real Numbers: How Much Is An Employee Worth?', url: pubs/baseline/2006-01-a.pdf}
+  pdf: 128kb, title: 'Real Numbers: How Much Is An Employee Worth?', url: 'http://strassmann.com/pubs/baseline/2006-01-a.pdf'}
 - {date: 2006-01, desc: Baseline Magazine, full_date: 2006-01-01, pdf: 90kb, title: 'Workbook:
-    Putting a Price on A Head', url: pubs/baseline/2006-01-b.pdf}
+    Putting a Price on A Head', url: 'http://strassmann.com/pubs/baseline/2006-01-b.pdf'}
 - {date: 2005-11, desc: Baseline Magazine, full_date: 2005-11-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/How-Much-Is-Knowledge-Worth/',
-  pdf: 507kb, title: 'Real Numbers: How Much Is Know-How Worth?', url: pubs/baseline/2005-11.pdf}
+  pdf: 507kb, title: 'Real Numbers: How Much Is Know-How Worth?', url: 'http://strassmann.com/pubs/baseline/2005-11.pdf'}
 - {date: 2005-11, desc: Baseline Magazine, full_date: 2005-11-01, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Putting-a-Price-on-Brainpower/',
-  pdf: 86kb, title: 'Workbook: Putting a Price on Brainpower', url: pubs/baseline/2005-11-a.pdf}
+  pdf: 86kb, title: 'Workbook: Putting a Price on Brainpower', url: 'http://strassmann.com/pubs/baseline/2005-11-a.pdf'}
 - {date: 2005-10, desc: Baseline Magazine, full_date: 2005-10-01, pdf: 17.6Mb, title: 'The
-    Baseline 500: The 500 Best Information Managers', url: pubs/baseline/2005-10-b.pdf}
+    Baseline 500: The 500 Best Information Managers', url: 'http://strassmann.com/pubs/baseline/2005-10-b.pdf'}
 - {date: 2005-10, desc: Baseline Magazine, full_date: 2005-10-01, title: 'For Great
-    IT, Focus on the Information, Not the Technology', url: pubs/baseline/2005-10-a.html}
+    IT, Focus on the Information, Not the Technology', url: 'http://strassmann.com/pubs/baseline/2005-10-a.html'}
 - {date: 2005-9, desc: Baseline Magazine, full_date: 2005-09-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Find-the-Right-Metrics-to-Prove-Your-Value/',
-  pdf: 87kb, title: 'Real Numbers: Find True Indicators of Tech Superiority', url: pubs/baseline/2005-09-a.pdf}
+  pdf: 87kb, title: 'Real Numbers: Find True Indicators of Tech Superiority', url: 'http://strassmann.com/pubs/baseline/2005-09-a.pdf'}
 - {date: 2005-9, desc: Baseline Magazine, full_date: 2005-09-01, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Measuring-Your-IT-Superiority/',
-  pdf: 427kb, title: 'Workbook: Measuring your IT Superiority', url: pubs/baseline/2005-09-b.pdf}
+  pdf: 427kb, title: 'Workbook: Measuring your IT Superiority', url: 'http://strassmann.com/pubs/baseline/2005-09-b.pdf'}
 - {date: 2005-7, desc: Baseline Magazine, full_date: 2005-07-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Check-How-to-Verify-if-You-are-Important/',
-  pdf: 571kb, title: 'Real Numbers: Check How to Verify If You Are Important', url: pubs/baseline/2005-07-a.pdf}
+  pdf: 571kb, title: 'Real Numbers: Check How to Verify If You Are Important', url: 'http://strassmann.com/pubs/baseline/2005-07-a.pdf'}
 - {date: 2005-7, desc: Baseline Magazine, full_date: 2005-07-01, pdf: 416kb, title: 'Does
-    Your CIO Have Clout?', url: pubs/baseline/2005-07-b.pdf}
+    Your CIO Have Clout?', url: 'http://strassmann.com/pubs/baseline/2005-07-b.pdf'}
 - {date: 2005-5, desc: Baseline Magazine, full_date: 2005-05-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Taking-a-Bite-Out-of-Overhead/',
-  pdf: 33kb, title: 'Real Numbers: Taking a Bite Out of Overhead', url: pubs/baseline/2005-05-a.pdf}
+  pdf: 33kb, title: 'Real Numbers: Taking a Bite Out of Overhead', url: 'http://strassmann.com/pubs/baseline/2005-05-a.pdf'}
 - {date: 2005-5, desc: Baseline Magazine, full_date: 2005-05-01, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Does-Your-Tech-Budget-Have-Teeth/',
-  pdf: 28kb, title: 'Measuring Value: Does Your Tech Budget Have Teeth?', url: pubs/baseline/2005-05-b.pdf}
+  pdf: 28kb, title: 'Measuring Value: Does Your Tech Budget Have Teeth?', url: 'http://strassmann.com/pubs/baseline/2005-05-b.pdf'}
 - {date: 2005-3, desc: Baseline Magazine, full_date: 2005-03-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Does-Outsourcing-Deliver-the-Goods/',
-  pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: pubs/baseline/2005-03.pdf}
+  pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: 'http://strassmann.com/pubs/baseline/2005-03.pdf'}
 - {date: 2008-5-19, desc: Multichannel News, full_date: 2008-05-19, original: 'http://www.multichannel.com/article/CA6561899.html',
-  title: 'Life Without Cable: One Man''s View of an Untethered Future', url: pubs/cable/life-without-cable.html}
+  title: 'Life Without Cable: One Man''s View of an Untethered Future', url: 'http://strassmann.com/pubs/cable/life-without-cable.html'}
 - {date: 2005-10-7, desc: Multichannel News, full_date: 2005-10-07, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
-  title: 'Is Google Cable''s Next Nightmare? No.', url: pubs/cable/next.html}
+  title: 'Is Google Cable''s Next Nightmare? No.', url: 'http://strassmann.com/pubs/cable/next.html'}
 - {date: 2008-5-19, desc: Multichannel News, full_date: 2008-05-19, original: 'http://www.multichannel.com/article/CA6561899.html',
   pdf: 379KB, title: 'Life Without Cable: One Man''s View of an Untethered Future',
-  url: pubs/cable/future_of_cable.pdf}
+  url: 'http://strassmann.com/pubs/cable/future_of_cable.pdf'}
 - {date: '2005-10-10', desc: Multichannel Magazine, full_date: 2005-10-10, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
-  pdf: 170kb, title: 'Is Google Cable''s Next Nightmare? No.', url: pubs/cable/2005-10-google.pdf}
+  pdf: 170kb, title: 'Is Google Cable''s Next Nightmare? No.', url: 'http://strassmann.com/pubs/cable/2005-10-google.pdf'}
 - {date: 2009-4-14, desc: 'Webinar: Computer Aid, Inc.', full_date: 2009-04-14, pdf: 3.8MB,
-  title: The Economics of Thin Clients, url: pubs/cai/2009-4-14.pdf}
+  title: The Economics of Thin Clients, url: 'http://strassmann.com/pubs/cai/2009-4-14.pdf'}
 - {date: 1991-4-23, desc: by Paul Strassmann, full_date: 1991-04-23, title: Testimony
-    before the House Armed Services Committee, url: pubs/cim/cim.html}
+    before the House Armed Services Committee, url: 'http://strassmann.com/pubs/cim/cim.html'}
 - {date: 1991-4-24, desc: by Paul Strassmann, full_date: 1991-04-24, original: 'http://www.defenselink.mil/nii/bpr/bprcd/278a.htm',
   pdf: 636kb, title: 'Statement Before the House Appropriations Committee, Defense
-    Subcommittee', url: pubs/cim/278a.pdf}
+    Subcommittee', url: 'http://strassmann.com/pubs/cim/278a.pdf'}
 - {date: 1991-4-23, desc: by Paul Strassmann, full_date: 1991-04-23, original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
   pdf: 3.65Mb, title: 'Statement Before House Armed Services Committee, Readiness
-    Subcommittee', url: pubs/cim/269b.pdf}
+    Subcommittee', url: 'http://strassmann.com/pubs/cim/269b.pdf'}
 - {date: 1997-8, desc: 'Review by Megan Santosus, CIO Magazine', full_date: 1997-08-01,
-  title: Align for the Bottom Line, url: pubs/cio/santosus.html}
+  title: Align for the Bottom Line, url: 'http://strassmann.com/pubs/cio/santosus.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
   original: 'https://web.archive.org/web/19991103204706/http://www.cio.com/archive/091597_strassman_content.html',
   seealso: 'https://web.archive.org/web/19990116222251/http://www.cio.com/archive/091597_hall.html',
-  title: CIO Hall of Fame, url: pubs/cio/1997-9-15.html}
+  title: CIO Hall of Fame, url: 'http://strassmann.com/pubs/cio/1997-9-15.html'}
 - {date: 2003-10, desc: Dutch CIO Magazine, full_date: 2003-10-01, language: Dutch,
-  pdf: 400kb, title: Vernietiging van kennis, url: pubs/cio/2003-09-cio.pdf}
+  pdf: 400kb, title: Vernietiging van kennis, url: 'http://strassmann.com/pubs/cio/2003-09-cio.pdf'}
 - {author: Paul A. Strassmann, category: Computerworld, date: 2002-3-4, desc: Computerworld,
   full_date: 2002-03-04, layout: post, publication: '<a href="http://computerworld.com">Computerworld</a>',
-  title: Out of Alignment, url: pubs/computerworld/alignment.html}
+  title: Out of Alignment, url: 'http://strassmann.com/pubs/computerworld/alignment.html'}
 - {category: Computerworld, date: 1998-11-2, desc: Computerworld, full_date: 1998-11-02,
   publication: '<a href="http://computerworld.com">Computerworld</a>', title: 'For
-    IT assurance, get some insurance', url: pubs/computerworld/assurance.html}
+    IT assurance, get some insurance', url: 'http://strassmann.com/pubs/computerworld/assurance.html'}
 - {author: Gary Anthes, date: 2003-5-12, desc: Computerworld, full_date: 2003-05-12,
   original: 'http://www.computerworld.com/article/2570193/it-management/first-class-upgrade.html',
-  title: First-Class Upgrade, url: pubs/computerworld/first-class.html}
+  title: First-Class Upgrade, url: 'http://strassmann.com/pubs/computerworld/first-class.html'}
 - {category: Computerworld, date: 2004-9-6, desc: Computerworld, full_date: 2004-09-06,
   publication: '<a href="http://computerworld.com">Computerworld</a>', title: Why
-    IT Will Continue to Matter, url: pubs/computerworld/it-continue.html}
+    IT Will Continue to Matter, url: 'http://strassmann.com/pubs/computerworld/it-continue.html'}
 - {alt: 'http://www.idg.es/computerworld/CUTI07.asp', date: 2002-12, desc: Computerworld
     Espa&ntilde;a, full_date: 2002-12-01, language: Spanish, original: 'https://web.archive.org/web/20020626093205/http://www.idg.es/computerworld/CUTI07.asp',
-  title: La  paradoja de la innovaci&oacute;n, url: pubs/computerworld/la-paradoja.html}
+  title: La  paradoja de la innovaci&oacute;n, url: 'http://strassmann.com/pubs/computerworld/la-paradoja.html'}
 - author: Paul A. Strassmann
   category: Computerworld
   date: 2004-10-4
@@ -496,341 +496,341 @@
   publication: <a href="http://computerworld.com">Computerworld</a>
   tags: [Computerworld]
   title: The Coming Battle of the Titans
-  url: pubs/computerworld/titans.html
+  url: http://strassmann.com/pubs/computerworld/titans.html
 - {date: 2004-3, desc: Computerworld, full_date: 2004-03-01, title: Measuring Information
-    Work Productivity, url: pubs/computerworld/measuring-info.shtml}
+    Work Productivity, url: 'http://strassmann.com/pubs/computerworld/measuring-info.shtml'}
 - {date: 2004-3, desc: Computerworld, full_date: 2004-03-01, title: Defining and Measuring
-    Information Productivity, url: pubs/computerworld/rankings/ip_rankings_v3.pdf}
+    Information Productivity, url: 'http://strassmann.com/pubs/computerworld/rankings/ip_rankings_v3.pdf'}
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', full_date: 2002-09-30,
   title: The Evolution of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
 - {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', full_date: 2002-07-29,
   title: 'A comprehensive ROI, budgeting and benchmarking tool', url: 'http://www.strassmann.com/products/valueit/2002-7-29-cw.shtml'}
 - {date: 1998-6-8, desc: Computerworld, full_date: 1998-06-08, title: Experts Debate
-    Y2K Costs, url: pubs/computerworld/y2kdebate}
+    Y2K Costs, url: 'http://strassmann.com/pubs/computerworld/y2kdebate'}
 - {date: 1994-10, desc: 'by Paul Gillin, Computerworld', full_date: 1994-10-01, original: 'http://www.computerworld.com/search/data/cw_940101-941231/941031SL1031pg.html',
   title: 'Book review: The Politics of Information Management', url: 'http://cwlive.cw.com:8080/home/print9497.nsf/All/SL1031pg'}
 - {date: 2004-8-2, desc: Computerworld, full_date: 2004-08-02, title: 'Depend on Microsoft?',
-  url: pubs/computerworld/ms-depend.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/ms-depend.shtml'}
 - {date: 2004-7-5, desc: Computerworld, full_date: 2004-07-05, title: CIOs Must Manage
-    What's Left, url: pubs/computerworld/cios-must-manage.shtml}
+    What's Left, url: 'http://strassmann.com/pubs/computerworld/cios-must-manage.shtml'}
 - {date: 2004-6-7, desc: Computerworld, full_date: 2004-06-07, title: Pentagon Devises
-    Innovative IT Strategy, url: pubs/computerworld/pentagon.shtml}
+    Innovative IT Strategy, url: 'http://strassmann.com/pubs/computerworld/pentagon.shtml'}
 - {date: 2004-5-3, desc: Computerworld, full_date: 2004-05-03, title: The Cost of
-    Short-Term CIOs, url: pubs/computerworld/short-term-cios.shtml}
+    Short-Term CIOs, url: 'http://strassmann.com/pubs/computerworld/short-term-cios.shtml'}
 - {date: 2004-4-5, desc: Computerworld, full_date: 2004-04-05, title: Pick Your Perspective
-    on IT Outsourcing, url: pubs/computerworld/outsourcing-perspective.shtml}
+    on IT Outsourcing, url: 'http://strassmann.com/pubs/computerworld/outsourcing-perspective.shtml'}
 - {date: 2004-3-1, desc: Computerworld, full_date: 2004-03-01, title: Measuring Information
-    Work Productivity, url: pubs/computerworld/measuring-info.shtml}
+    Work Productivity, url: 'http://strassmann.com/pubs/computerworld/measuring-info.shtml'}
 - {date: 2004-2-2, desc: Computerworld, full_date: 2004-02-02, title: Most Outsourcing
-    Is Still for Losers, url: pubs/computerworld/outsourcing-still.shtml}
+    Is Still for Losers, url: 'http://strassmann.com/pubs/computerworld/outsourcing-still.shtml'}
 - {date: 2004-1-12, desc: Computerworld, full_date: 2004-01-12, title: Outsourcing
-    the IT Infrastructure, url: pubs/computerworld/outsourcing-it.shtml}
+    the IT Infrastructure, url: 'http://strassmann.com/pubs/computerworld/outsourcing-it.shtml'}
 - {date: 2003-12-1, desc: Computerworld, full_date: 2003-12-01, title: New Weapons
-    of Information Warfare, url: pubs/computerworld/new-weapons.shtml}
+    of Information Warfare, url: 'http://strassmann.com/pubs/computerworld/new-weapons.shtml'}
 - {date: 2003-11-3, desc: Computerworld, full_date: 2003-11-03, title: CIOs Share
-    the Blame, url: pubs/computerworld/blame.shtml}
+    the Blame, url: 'http://strassmann.com/pubs/computerworld/blame.shtml'}
 - {date: 2003-10-6, desc: Computerworld, full_date: 2003-10-06, title: 'IT Spending:
-    The CFOs Strike Back', url: pubs/computerworld/cfos.shtml}
+    The CFOs Strike Back', url: 'http://strassmann.com/pubs/computerworld/cfos.shtml'}
 - {date: 2003-9-1, desc: Computerworld, full_date: 2003-09-01, title: The Curse of
-    IT Infrastructure, url: pubs/computerworld/curse.shtml}
+    IT Infrastructure, url: 'http://strassmann.com/pubs/computerworld/curse.shtml'}
 - {date: 2003-8-4, desc: Computerworld, full_date: 2003-08-04, title: The Search for
-    Synergy Through Consolidation, url: pubs/computerworld/synergy.shtml}
+    Synergy Through Consolidation, url: 'http://strassmann.com/pubs/computerworld/synergy.shtml'}
 - {date: 2003-7-7, desc: Computerworld, full_date: 2003-07-07, title: 'Era of Expansion
-    Ends: Time for Restructuring', url: pubs/computerworld/restructuring-time.shtml}
+    Ends: Time for Restructuring', url: 'http://strassmann.com/pubs/computerworld/restructuring-time.shtml'}
 - {date: 2003-6-2, desc: Computerworld, full_date: 2003-06-02, title: Road to IT Renaissance,
-  url: pubs/computerworld/renaissance.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/renaissance.shtml'}
 - {date: 2003-5-12, desc: Computerworld, full_date: 2003-05-12, title: Enterprise
-    Software's End, url: pubs/computerworld/erp-end.shtml}
+    Software's End, url: 'http://strassmann.com/pubs/computerworld/erp-end.shtml'}
 - {date: 2002-7-1, desc: Computerworld, full_date: 2002-07-01, title: Misleading Metric,
-  url: pubs/computerworld/misleading-metric.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/misleading-metric.shtml'}
 - {date: 2002-6-3, desc: Computerworld, full_date: 2002-06-03, title: Playing 'Survivor',
-  url: pubs/computerworld/survivor.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/survivor.shtml'}
 - {date: 2002-4-1, desc: Computerworld, full_date: 2002-04-01, title: '''Tail'' Over
-    ''Teeth''?', url: pubs/computerworld/tooth-tail.shtml}
+    ''Teeth''?', url: 'http://strassmann.com/pubs/computerworld/tooth-tail.shtml'}
 - {date: 2002-2-4, desc: Computerworld, full_date: 2002-02-04, title: Still a Loser's
-    Game, url: pubs/computerworld/still-losers.shtml}
+    Game, url: 'http://strassmann.com/pubs/computerworld/still-losers.shtml'}
 - {date: 2002-1-7, desc: Computerworld, full_date: 2002-01-07, title: The 'Right'
-    Spending, url: pubs/computerworld/rightspending.shtml}
+    Spending, url: 'http://strassmann.com/pubs/computerworld/rightspending.shtml'}
 - {date: 2001-12-3, desc: Computerworld, full_date: 2001-12-03, title: Fighting McKinsey,
-  url: pubs/computerworld/fighting-mckinsey.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/fighting-mckinsey.shtml'}
 - {date: 2001-11-5, desc: Computerworld, full_date: 2001-11-05, title: Transforming
-    IT, url: pubs/computerworld/transforming-it.shtml}
+    IT, url: 'http://strassmann.com/pubs/computerworld/transforming-it.shtml'}
 - {date: 2001-10-1, desc: Computerworld, full_date: 2001-10-01, title: Secure the
-    Internet, url: pubs/computerworld/secure-internet.shtml}
+    Internet, url: 'http://strassmann.com/pubs/computerworld/secure-internet.shtml'}
 - {date: 2001-9-3, desc: Computerworld, full_date: 2001-09-03, title: 'Diet? What
-    Diet?', url: pubs/computerworld/diet.shtml}
+    Diet?', url: 'http://strassmann.com/pubs/computerworld/diet.shtml'}
 - {date: 2001-8-6, desc: Computerworld, full_date: 2001-08-06, title: Uncertain Sentries,
-  url: pubs/computerworld/uncertain-sentries.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/uncertain-sentries.shtml'}
 - {date: 2001-7-2, desc: Computerworld, full_date: 2001-07-02, title: GE's B2B Retreat,
-  url: pubs/computerworld/ge-b2b.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/ge-b2b.shtml'}
 - {date: 2001-6-4, desc: Computerworld, full_date: 2001-06-04, title: Bubble Trouble,
-  url: pubs/computerworld/bubble-trouble.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/bubble-trouble.shtml'}
 - {date: 2001-5-7, desc: Computerworld, full_date: 2001-05-07, title: 'A Deal Gone
-    Bad?', url: pubs/computerworld/dealgonebad.shtml}
+    Bad?', url: 'http://strassmann.com/pubs/computerworld/dealgonebad.shtml'}
 - {date: 2001-4-9, desc: Computerworld, full_date: 2001-04-09, title: A Growing Bubble,
-  url: pubs/computerworld/growing-bubble.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/growing-bubble.shtml'}
 - {date: 2001-3-5, desc: Computerworld, full_date: 2001-03-05, title: Debunking Dogma,
-  url: pubs/computerworld/debunking-dogma.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/debunking-dogma.shtml'}
 - {date: 2001-2-5, desc: Computerworld, full_date: 2001-02-05, title: Signs on Wall
-    St, url: pubs/computerworld/signs.shtml}
+    St, url: 'http://strassmann.com/pubs/computerworld/signs.shtml'}
 - {date: 2001-1-8, desc: Computerworld, full_date: 2001-01-08, title: Fuzzy Math in
-    D.C., url: pubs/computerworld/fuzzymath.shtml}
+    D.C., url: 'http://strassmann.com/pubs/computerworld/fuzzymath.shtml'}
 - {date: 2000-12-4, desc: Computerworld, full_date: 2000-12-04, title: Fishing for
-    Data, url: pubs/computerworld/datafishing.shtml}
+    Data, url: 'http://strassmann.com/pubs/computerworld/datafishing.shtml'}
 - {date: 2000-11-6, desc: Computerworld, full_date: 2000-11-06, title: The Xerox Tragedy,
-  url: pubs/computerworld/xerox.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/xerox.shtml'}
 - {date: 2000-10-2, desc: Computerworld, full_date: 2000-10-02, title: The Impact
-    of B2B, url: pubs/computerworld/b2b-impact.shtml}
+    of B2B, url: 'http://strassmann.com/pubs/computerworld/b2b-impact.shtml'}
 - {date: 2000-9-4, desc: Computerworld, full_date: 2000-09-04, title: Behind the Hype,
-  url: pubs/computerworld/behind-hype.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/behind-hype.shtml'}
 - {date: 2000-8-7, desc: Computerworld, full_date: 2000-08-07, title: 'Seeds of Arrogance?',
-  url: pubs/computerworld/seeds-arrogance.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/seeds-arrogance.shtml'}
 - {date: 2000-7-3, desc: Computerworld, full_date: 2000-07-03, title: Behind The Claims,
-  url: pubs/computerworld/ms-claims.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/ms-claims.shtml'}
 - {date: 2000-6-5, desc: Computerworld, full_date: 2000-06-05, title: 'GM''s Info
-    Gamble: The Numbers Behind a Story', url: pubs/computerworld/infogamble.shtml}
+    Gamble: The Numbers Behind a Story', url: 'http://strassmann.com/pubs/computerworld/infogamble.shtml'}
 - {date: 2000-5-1, desc: Computerworld, full_date: 2000-05-01, title: Finding Net
-    Profits, url: pubs/computerworld/netprofits.shtml}
+    Profits, url: 'http://strassmann.com/pubs/computerworld/netprofits.shtml'}
 - {date: 2000-4-3, desc: Computerworld, full_date: 2000-04-03, title: Practice Ethical
-    IT, url: pubs/computerworld/ethical-IT.shtml}
+    IT, url: 'http://strassmann.com/pubs/computerworld/ethical-IT.shtml'}
 - {date: 2000-3-6, desc: Computerworld, full_date: 2000-03-06, title: Fighting the
-    Jobs Gap, url: pubs/computerworld/jobs-gap.shtml}
+    Jobs Gap, url: 'http://strassmann.com/pubs/computerworld/jobs-gap.shtml'}
 - {date: 2000-2-7, desc: Computerworld, full_date: 2000-02-07, title: The Microsoft
-    Shift, url: pubs/computerworld/ms-shift.shtml}
+    Shift, url: 'http://strassmann.com/pubs/computerworld/ms-shift.shtml'}
 - {date: 2000-1-10, desc: Computerworld, full_date: 2000-01-10, title: The Y2K 'Ransom',
-  url: pubs/computerworld/y2k-ransom.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/y2k-ransom.shtml'}
 - {date: 2000-1-1, desc: Computerworld, full_date: 2000-01-01, title: No Reason for
-    Euphoria, url: pubs/computerworld/y2k-no-euphoria.shtml}
+    Euphoria, url: 'http://strassmann.com/pubs/computerworld/y2k-no-euphoria.shtml'}
 - {date: 1999-12-6, desc: Computerworld, full_date: 1999-12-06, title: 'GAAP Helps
-    Whom?', url: pubs/computerworld/gaap.shtml}
+    Whom?', url: 'http://strassmann.com/pubs/computerworld/gaap.shtml'}
 - {date: 1999-11-1, desc: Computerworld, full_date: 1999-11-01, title: Innovation
-    Paradox, url: pubs/computerworld/innovation-paradox.shtml}
+    Paradox, url: 'http://strassmann.com/pubs/computerworld/innovation-paradox.shtml'}
 - {date: 1999-10-4, desc: Computerworld, full_date: 1999-10-04, title: The Knowledge
-    Fuss, url: pubs/computerworld/knowledge-fuss.shtml}
+    Fuss, url: 'http://strassmann.com/pubs/computerworld/knowledge-fuss.shtml'}
 - {date: 1999-9-6, desc: Computerworld, full_date: 1999-09-06, title: Paradox Revisited,
-  url: pubs/computerworld/paradoxrevisited.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/paradoxrevisited.shtml'}
 - {date: 1999-8-9, desc: Computerworld, full_date: 1999-08-09, title: The Search for
-    Productivity, url: pubs/computerworld/prod-search.shtml}
+    Productivity, url: 'http://strassmann.com/pubs/computerworld/prod-search.shtml'}
 - {date: 1999-8-2, desc: Computerworld, full_date: 1999-08-02, title: IT's Upcoming
-    Shift, url: pubs/computerworld/it-shift.shtml}
+    Shift, url: 'http://strassmann.com/pubs/computerworld/it-shift.shtml'}
 - {date: 1999-7-5, desc: Computerworld, full_date: 1999-07-05, title: End Build-and-Junk,
-  url: pubs/computerworld/end-junk.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/end-junk.shtml'}
 - {date: 1999-6-7, desc: Computerworld, full_date: 1999-06-07, title: 'Credit Greenspan,
-    not Computers', url: pubs/computerworld/greenspan.shtml}
+    not Computers', url: 'http://strassmann.com/pubs/computerworld/greenspan.shtml'}
 - {date: 1999-5-3, desc: Computerworld, full_date: 1999-05-03, title: IT Paradox Number,
-  url: pubs/computerworld/paradox.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/paradox.shtml'}
 - {date: 1999-3-29, desc: Computerworld, full_date: 1999-03-29, title: 'How Are Your
-    Y2K Contingency Plans?', url: pubs/computerworld/y2kplans.shtml}
+    Y2K Contingency Plans?', url: 'http://strassmann.com/pubs/computerworld/y2kplans.shtml'}
 - {date: 1999-3-1, desc: Computerworld, full_date: 1999-03-01, title: Deflating Microsoft,
-  url: pubs/computerworld/ms-nation.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/ms-nation.shtml'}
 - {date: 1999-2-1, desc: Computerworld, full_date: 1999-02-01, title: Women Take Over,
-  url: pubs/computerworld/women.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/women.shtml'}
 - {date: 1999-1-4, desc: Computerworld, full_date: 1999-01-04, title: 'The Battle
-    of the Millennium: CIOs vs. Lawyers', url: pubs/computerworld/battley2k.html}
+    of the Millennium: CIOs vs. Lawyers', url: 'http://strassmann.com/pubs/computerworld/battley2k.html'}
 - {date: '1998-11-30', desc: Computerworld, full_date: 1998-11-30, title: 'Microsoft:
-    A U.S. Security Threat', url: pubs/computerworld/ms-security.shtml}
+    A U.S. Security Threat', url: 'http://strassmann.com/pubs/computerworld/ms-security.shtml'}
 - {date: 1998-10-5, desc: Computerworld, full_date: 1998-10-05, title: The Road To
-    Failure Is Paved With Glib Buzzwords, url: pubs/computerworld/buzzwords.shtml}
+    Failure Is Paved With Glib Buzzwords, url: 'http://strassmann.com/pubs/computerworld/buzzwords.shtml'}
 - {date: 1998-8-31, desc: Computerworld, full_date: 1998-08-31, title: Year 2000 Opens
-    Door to More Federal Rules for IT, url: pubs/computerworld/secit.shtml}
+    Door to More Federal Rules for IT, url: 'http://strassmann.com/pubs/computerworld/secit.shtml'}
 - {date: 1998-8-3, desc: Computerworld, full_date: 1998-08-03, title: 'Year 2000 Costs:
-    Making Sense of a Senseless Debate', url: pubs/computerworld/y2kcosts.shtml}
+    Making Sense of a Senseless Debate', url: 'http://strassmann.com/pubs/computerworld/y2kcosts.shtml'}
 - {date: 1998-7-7, desc: Computerworld, full_date: 1998-07-07, title: Quack Software
-    Warranties Have Got To Go, url: pubs/computerworld/quack.shtml}
+    Warranties Have Got To Go, url: 'http://strassmann.com/pubs/computerworld/quack.shtml'}
 - {date: 1998-6-8, desc: Computerworld, full_date: 1998-06-08, title: Quality Is the
-    Answer to the Labor 'Crisis', url: pubs/computerworld/quality.shtml}
+    Answer to the Labor 'Crisis', url: 'http://strassmann.com/pubs/computerworld/quality.shtml'}
 - {date: 1998-5-18, desc: Computerworld, full_date: 1998-05-18, title: Hard Data (At
-    Last) On Year 2000 Costs, url: pubs/computerworld/y2kdata.shtml}
+    Last) On Year 2000 Costs, url: 'http://strassmann.com/pubs/computerworld/y2kdata.shtml'}
 - {date: 1998-5-11, desc: Computerworld, full_date: 1998-05-11, title: Boulders On
-    The Road Ahead, url: pubs/computerworld/boulders.shtml}
+    The Road Ahead, url: 'http://strassmann.com/pubs/computerworld/boulders.shtml'}
 - {date: 1998-4-6, desc: Computerworld, full_date: 1998-04-06, title: Taking the Measure
-    of Knowledge Assets, url: pubs/computerworld/measurek.shtml}
+    of Knowledge Assets, url: 'http://strassmann.com/pubs/computerworld/measurek.shtml'}
 - {date: 1998-3-2, desc: Computerworld, full_date: 1998-03-02, title: 'Year 2000 A
-    ''Bug''? Swat That Word From Your Dictionary', url: pubs/computerworld/notabug.shtml}
+    ''Bug''? Swat That Word From Your Dictionary', url: 'http://strassmann.com/pubs/computerworld/notabug.shtml'}
 - {date: 1998-2-2, desc: Computerworld, full_date: 1998-02-02, title: 'Bogus Payback:
-    Easy Answers Create Long-Term Problem', url: pubs/computerworld/bogus-roi.shtml}
+    Easy Answers Create Long-Term Problem', url: 'http://strassmann.com/pubs/computerworld/bogus-roi.shtml'}
 - {date: 1998-1-12, desc: Computerworld, full_date: 1998-01-12, title: Head Count
-    is No Way to Measure How Good You Are, url: pubs/computerworld/headcount.shtml}
+    is No Way to Measure How Good You Are, url: 'http://strassmann.com/pubs/computerworld/headcount.shtml'}
 - {date: '1997-10-13', desc: Computerworld, full_date: 1997-10-13, title: 'Microsoft
-    At Your Service? Could Be', url: pubs/computerworld/ms-service.shtml}
+    At Your Service? Could Be', url: 'http://strassmann.com/pubs/computerworld/ms-service.shtml'}
 - {date: 1997-9-15, desc: Computerworld, full_date: 1997-09-15, title: Computers Have
-    Yet To Make Companies More Productive, url: pubs/computerworld/yetprod.shtml}
+    Yet To Make Companies More Productive, url: 'http://strassmann.com/pubs/computerworld/yetprod.shtml'}
 - {date: 1997-8-11, desc: Computerworld, full_date: 1997-08-11, title: 'Beyond the
-    Internet: The Next Computer Cycle', url: pubs/computerworld/next-cycle.shtml}
+    Internet: The Next Computer Cycle', url: 'http://strassmann.com/pubs/computerworld/next-cycle.shtml'}
 - {date: 1997-7-14, desc: Computerworld, full_date: 1997-07-14, title: 'To Lower Ownership
-    Costs, Improve Management', url: pubs/computerworld/downtime.shtml}
+    Costs, Improve Management', url: 'http://strassmann.com/pubs/computerworld/downtime.shtml'}
 - {date: 1997-6-13, desc: Computerworld, full_date: 1997-06-13, title: The Real Costs
-    of the Year 2000 Disaster, url: pubs/computerworld/real2000.shtml}
+    of the Year 2000 Disaster, url: 'http://strassmann.com/pubs/computerworld/real2000.shtml'}
 - {date: 1997-5-12, desc: Computerworld, full_date: 1997-05-12, title: 'Warning: 1998
-    Budget Cuts Ahead', url: pubs/computerworld/budget-cuts.shtml}
+    Budget Cuts Ahead', url: 'http://strassmann.com/pubs/computerworld/budget-cuts.shtml'}
 - {date: 1997-3-10, desc: Computerworld, full_date: 1997-03-10, title: 'Next Blow
-    To IS'' Image: The Cost Of Owning PCs', url: pubs/computerworld/imagecost.shtml}
+    To IS'' Image: The Cost Of Owning PCs', url: 'http://strassmann.com/pubs/computerworld/imagecost.shtml'}
 - {date: 1997-2-10, desc: Computerworld, full_date: 1997-02-10, title: 'What''s the
-    Best IS Defense? Being Prepared', url: pubs/computerworld/be-prepared.shtml}
+    Best IS Defense? Being Prepared', url: 'http://strassmann.com/pubs/computerworld/be-prepared.shtml'}
 - {date: 1997-1-13, desc: Computerworld, full_date: 1997-01-13, title: The Real Costs
-    of Personal Computers, url: pubs/computerworld/real-costs.shtml}
+    of Personal Computers, url: 'http://strassmann.com/pubs/computerworld/real-costs.shtml'}
 - {date: 1996-12-9, desc: Computerworld, full_date: 1996-12-09, title: 'Software:
-    So Bad, It Can Only Get Better', url: pubs/computerworld/bad-software.shtml}
+    So Bad, It Can Only Get Better', url: 'http://strassmann.com/pubs/computerworld/bad-software.shtml'}
 - {date: '1996-11-11', desc: Computerworld, full_date: 1996-11-11, title: Workload
-    Without Payoff, url: pubs/computerworld/workload.shtml}
+    Without Payoff, url: 'http://strassmann.com/pubs/computerworld/workload.shtml'}
 - {date: '1996-10-14', desc: Computerworld, full_date: 1996-10-14, title: 'Best Practices?
-    Or Placebos?', url: pubs/computerworld/best-or-placebo.shtml}
+    Or Placebos?', url: 'http://strassmann.com/pubs/computerworld/best-or-placebo.shtml'}
 - {date: 1996-8-5, desc: Computerworld, full_date: 1996-08-05, title: 'Information:
-    America''s Favorite Investment', url: pubs/computerworld/spending.shtml}
+    America''s Favorite Investment', url: 'http://strassmann.com/pubs/computerworld/spending.shtml'}
 - {date: 1996-6-10, desc: Computerworld, full_date: 1996-06-10, title: CIO Job-Holding
-    Expectancy, url: pubs/computerworld/jobholding.shtml}
+    Expectancy, url: 'http://strassmann.com/pubs/computerworld/jobholding.shtml'}
 - {date: 1996-4-15, desc: Computerworld, full_date: 1996-04-15, title: 'Spending Without
-    Results?', url: pubs/computerworld/spend-no-results.shtml}
+    Results?', url: 'http://strassmann.com/pubs/computerworld/spend-no-results.shtml'}
 - {date: 1996-2-19, desc: Computerworld, full_date: 1996-02-19, title: 'Computers
-    Don''t Make Money, People Do', url: pubs/computerworld/people-do.shtml}
+    Don''t Make Money, People Do', url: 'http://strassmann.com/pubs/computerworld/people-do.shtml'}
 - {date: '1995-12-18', desc: Computerworld, full_date: 1995-12-18, title: The Myth
-    of Best Practices, url: pubs/computerworld/best-myth.shtml}
+    of Best Practices, url: 'http://strassmann.com/pubs/computerworld/best-myth.shtml'}
 - {date: 1995-10-9, desc: Computerworld, full_date: 1995-10-09, title: Keep Improving
-    (Premier 100 Issue), url: pubs/computerworld/keep-improving.shtml}
+    (Premier 100 Issue), url: 'http://strassmann.com/pubs/computerworld/keep-improving.shtml'}
 - {date: 1995-9-19, desc: Computerworld, full_date: 1995-09-19, title: 'Productivity,
-    not Bigness, is Beautiful', url: pubs/computerworld/beautiful.shtml}
+    not Bigness, is Beautiful', url: 'http://strassmann.com/pubs/computerworld/beautiful.shtml'}
 - {date: 1995-8-21, desc: Computerworld, full_date: 1995-08-21, title: 'Outsourcing:
-    A Game for Losers', url: pubs/computerworld/outsource-losers.shtml}
+    A Game for Losers', url: 'http://strassmann.com/pubs/computerworld/outsource-losers.shtml'}
 - {date: 1995-6-12, desc: Computerworld, full_date: 1995-06-12, title: Managing Capital
-    Investment in Computers, url: pubs/computerworld/capital.shtml}
+    Investment in Computers, url: 'http://strassmann.com/pubs/computerworld/capital.shtml'}
 - {date: 1995-5-15, desc: Computerworld, full_date: 1995-05-15, title: Virtual Outsourcing,
-  url: pubs/computerworld/virtual-outsourcing.shtml}
+  url: 'http://strassmann.com/pubs/computerworld/virtual-outsourcing.shtml'}
 - {date: 1995-4-3, desc: Computerworld, full_date: 1995-04-03, title: Trumped-up Profits
-    Do A Disservice, url: pubs/computerworld/excessive.shtml}
+    Do A Disservice, url: 'http://strassmann.com/pubs/computerworld/excessive.shtml'}
 - {date: 1995-2-27, desc: Computerworld, full_date: 1995-02-27, title: 'Governance:
-    The New IS Agenda', url: pubs/computerworld/governance.shtml}
+    The New IS Agenda', url: 'http://strassmann.com/pubs/computerworld/governance.shtml'}
 - {date: 1995-1-9, desc: Computerworld, full_date: 1995-01-09, title: E-mail is Only
-    One Path to Success, url: pubs/computerworld/email.shtml}
+    One Path to Success, url: 'http://strassmann.com/pubs/computerworld/email.shtml'}
 - {date: '1994-11-14', desc: Computerworld, full_date: 1994-11-14, title: Ensuring
-    Privacy Protection for All, url: pubs/computerworld/ensure-privacy.shtml}
+    Privacy Protection for All, url: 'http://strassmann.com/pubs/computerworld/ensure-privacy.shtml'}
 - {date: 1994-9-19, desc: Computerworld, full_date: 1994-09-19, title: How We Evaluated
-    Productivity (Premier 100 Issue), url: pubs/computerworld/eval-productivity.shtml}
+    Productivity (Premier 100 Issue), url: 'http://strassmann.com/pubs/computerworld/eval-productivity.shtml'}
 - {date: 1994-8-22, desc: Computerworld, full_date: 1994-08-22, title: Corporate Architecture
-    Must Play Politics, url: pubs/computerworld/corp-arch.shtml}
+    Must Play Politics, url: 'http://strassmann.com/pubs/computerworld/corp-arch.shtml'}
 - {date: 1994-7-4, desc: Computerworld, full_date: 1994-07-04, title: 'CIOs: The Chosen
-    Elite?', url: pubs/computerworld/chosen-elite.shtml}
+    Elite?', url: 'http://strassmann.com/pubs/computerworld/chosen-elite.shtml'}
 - {date: 1994-6-6, desc: Computerworld, full_date: 1994-06-06, title: Centralization's
-    payback, url: pubs/computerworld/centralization.shtml}
+    payback, url: 'http://strassmann.com/pubs/computerworld/centralization.shtml'}
 - {author: Andrzej Gontarz, date: &id004 2003-10-11, desc: Computerworld Polska, full_date: *id004,
   language: Polish, original: 'http://www.computerworld.pl/artykuly/302956/Kazdy.po.swojemu.html',
-  title: "Ka\u017Cdy po swojemu", url: pubs/computerworld/pl/page1.html}
+  title: "Ka\u017Cdy po swojemu", url: 'http://strassmann.com/pubs/computerworld/pl/page1.html'}
 - {date: 2010-01, desc: At Cooper Union, full_date: 2010-01-01, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
-  pdf: 90KB, title: Pioneer Profile, url: pubs/cooper/ACUfw09alumni.pdf}
+  pdf: 90KB, title: Pioneer Profile, url: 'http://strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
 - {date: 2004-8, desc: Cutter IT Journal, full_date: 2004-08-01, pdf: 144kb, title: Six
-    Rules for Finding IT Value, url: pubs/cutter/six-rules.pdf}
+    Rules for Finding IT Value, url: 'http://strassmann.com/pubs/cutter/six-rules.pdf'}
 - {date: 1994-9, desc: Datamation, full_date: 1994-09-01, title: CIOs Should Get Back
-    To Basics, url: pubs/datamation/cio-basics.html}
+    To Basics, url: 'http://strassmann.com/pubs/datamation/cio-basics.html'}
 - {date: 1997-10, desc: 'Datamation, 40th Anniversary Special Issue', full_date: 1997-10-01,
-  title: 40 Years of IT History, url: pubs/datamation/datamation1097/index.html}
+  title: 40 Years of IT History, url: 'http://strassmann.com/pubs/datamation/datamation1097/index.html'}
 - {date: 1997-2, desc: Datamation, full_date: 1997-02-01, title: 'Will Big Spending
-    on Computers Guarantee Profitability?', url: pubs/datamation/datamation0297/index.html}
+    on Computers Guarantee Profitability?', url: 'http://strassmann.com/pubs/datamation/datamation0297/index.html'}
 - {date: 2006-2, desc: Defense Systems Magazine, full_date: 2006-02-01, original: 'http://appserv.defensesystems.com/cgi-bin/udt/im.display.printable?client_id=defsysmag_news&story_id=85',
-  title: 'Who is best at net-centricity? Here''s a hint: Google it', url: pubs/defense/2006-2.html}
+  title: 'Who is best at net-centricity? Here''s a hint: Google it', url: 'http://strassmann.com/pubs/defense/2006-2.html'}
 - {alt-original: 'http://www.stsc.hill.af.mil/crosstalk/2008/10/0810WisnoskyFeldshteynMancusoGoughRiutortStrassman.html',
   date: 2008-10, desc: 'Crosstalk: Journal of Defense Software Engineering', full_date: 2008-10-01,
   original: 'http://dcmo.defense.gov/products-and-services/business-enterprise-architecture/8.1/products/BusOpsTransformation_EA_BI/10_crosstalk_october2008.pdf',
   title: DoD Business Mission Area Service-Oriented Architecture to Support Business
-    Transformation, url: pubs/defense/10_crosstalk_october2008.pdf}
+    Transformation, url: 'http://strassmann.com/pubs/defense/10_crosstalk_october2008.pdf'}
 - {date: 2009-6-30, desc: Draft, full_date: 2009-06-30, pdf: 1.4MB, title: Cyber Security
-    for the Department of Defense, url: pubs/dod/cybersecurity-draft-v1.pdf}
+    for the Department of Defense, url: 'http://strassmann.com/pubs/dod/cybersecurity-draft-v1.pdf'}
 - {author: Megan Lisagor, date: 2003-3-18, desc: Federal Computer Week, full_date: 2003-03-18,
   original: 'http://fcw.com/articles/2003/03/18/strassmann-make-cio-equal-to-cfo.aspx',
-  tags: FCW, title: 'Strassmann: Make CIO equal to CFO', url: pubs/fcw/equal.html}
+  tags: FCW, title: 'Strassmann: Make CIO equal to CFO', url: 'http://strassmann.com/pubs/fcw/equal.html'}
 - {author: John Moore, date: 2004-3-14, desc: FCW, full_date: 2004-03-14, original: 'http://fcw.com/Articles/2004/03/14/Whatever-happened-to-CIM.aspx',
-  title: 'Whatever happened to CIM?', url: pubs/fcw/happened-to-cim.html}
+  title: 'Whatever happened to CIM?', url: 'http://strassmann.com/pubs/fcw/happened-to-cim.html'}
 - {date: '2012-04-10', desc: Federal Computer Week, full_date: 2012-04-10, original: 'http://fcw.com/Blogs/Insider/2012/04/anniversary-issue-pivotal-people.aspx',
-  title: 'The most influential federal IT leaders since 1987: A short list', url: pubs/fcw/fcw-2012.html}
+  title: 'The most influential federal IT leaders since 1987: A short list', url: 'http://strassmann.com/pubs/fcw/fcw-2012.html'}
 - {date: 2003-4-1, desc: 'Executive panel, GSA', full_date: 2003-04-01, title: The
-    Future of Federal Network Services, url: pubs/fed/fts-2003.html}
+    Future of Federal Network Services, url: 'http://strassmann.com/pubs/fed/fts-2003.html'}
 - {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', full_date: 2003-09-22,
   talk: 'http://pair.strassmann.com/talks/one-talk.php?talk=109', title: 'The #1 CIO
-    Issue: How to Explain and Justify the I.T. Budget (slides)', url: pubs/gartner/howto-budgets.pdf}
+    Issue: How to Explain and Justify the I.T. Budget (slides)', url: 'http://strassmann.com/pubs/gartner/howto-budgets.pdf'}
 - {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', full_date: 2003-09-22,
   title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget', url: 'http://pair.strassmann.com/talks/one-talk.php?talk=109'}
 - {date: 2010-3-9, desc: GCN, full_date: 2010-03-09, original: 'http://gcn.com/articles/2010/03/10/dod-social-media-policy-fails-to-answer-security-questions.aspx',
-  title: DOD social media policy fails to answer security questions, url: pubs/gcn/2010-03.html}
+  title: DOD social media policy fails to answer security questions, url: 'http://strassmann.com/pubs/gcn/2010-03.html'}
 - {date: 2005-3-29, desc: George Mason University, full_date: 2005-03-29, pdf: 2.5MB,
-  title: The Structure of IT Spending as a Measure of Organizational Disorder, url: pubs/gmu/2005-3-29.pdf}
+  title: The Structure of IT Spending as a Measure of Organizational Disorder, url: 'http://strassmann.com/pubs/gmu/2005-3-29.pdf'}
 - {date: 2010-4-22, desc: George Mason University, full_date: 2010-04-22, pdf: 7.8MB,
-  title: How SOA Fits Into Cloud Computing, url: pubs/gmu/2010-4-SOA.pdf}
+  title: How SOA Fits Into Cloud Computing, url: 'http://strassmann.com/pubs/gmu/2010-4-SOA.pdf'}
 - {date: 2010-4-22, desc: George Mason University, full_date: 2010-04-22, pdf: 440KB,
-  title: How SOA Fits Into Cloud Computing (short version), url: pubs/gmu/2010-4-22.pdf}
+  title: How SOA Fits Into Cloud Computing (short version), url: 'http://strassmann.com/pubs/gmu/2010-4-22.pdf'}
 - {date: 2009-11-5, desc: George Mason University, full_date: 2009-11-05, pdf: 620KB,
-  title: Fundamental Internet Security Flaws, url: pubs/gmu/2009-11-5.pdf}
+  title: Fundamental Internet Security Flaws, url: 'http://strassmann.com/pubs/gmu/2009-11-5.pdf'}
 - {date: '2009-10-14', desc: George Mason University, full_date: 2009-10-14, pdf: 24MB,
-  title: Operating Network Centric Systems on a Cloud, url: pubs/gmu/2009-10-14-cloud.pdf}
+  title: Operating Network Centric Systems on a Cloud, url: 'http://strassmann.com/pubs/gmu/2009-10-14-cloud.pdf'}
 - {date: '2009-10-13', desc: George Mason University, full_date: 2009-10-13, pdf: 18MB,
-  title: Asymmetric Cyber Warfare, url: pubs/gmu/2009-10-13-cyberwar.pdf}
+  title: Asymmetric Cyber Warfare, url: 'http://strassmann.com/pubs/gmu/2009-10-13-cyberwar.pdf'}
 - {date: 2009-5, desc: 'Commencement, George Mason University', full_date: 2009-05-01,
-  title: Honorary Doctorate conferred on Paul A. Strassmann, url: pubs/gmu/2009-gmu-ceremony.mov,
+  title: Honorary Doctorate conferred on Paul A. Strassmann, url: 'http://strassmann.com/pubs/gmu/2009-gmu-ceremony.mov',
   video: '2:10'}
 - {date: 2009-2-23, desc: 'Lecture Poster, George Mason University', full_date: 2009-02-23,
-  pdf: 2.2MB, title: Management of a Network Operations Center (NOC), url: pubs/gmu/2009-02-23-poster.pdf}
+  pdf: 2.2MB, title: Management of a Network Operations Center (NOC), url: 'http://strassmann.com/pubs/gmu/2009-02-23-poster.pdf'}
 - {date: 2009-4-2, desc: '2009 SOA Symposium: Government and Industry Best Practices
     (slides)', full_date: 2009-04-02, ppt: 2MB, title: Service Oriented Architecture
-    (SOA) for DoD, url: pubs/gmu/2009-4-2-slides.ppt}
+    (SOA) for DoD, url: 'http://strassmann.com/pubs/gmu/2009-4-2-slides.ppt'}
 - {date: 2008-9-11, desc: 'Lecture, George Mason University (slides)', full_date: 2008-09-11,
-  pdf: 2MB, title: Budgeting DoD Information Technologies, url: pubs/gmu/2008-9-slides.pdf}
+  pdf: 2MB, title: Budgeting DoD Information Technologies, url: 'http://strassmann.com/pubs/gmu/2008-9-slides.pdf'}
 - {date: 2008-11-5, desc: 'Lecture, George Mason University (slides)', full_date: 2008-11-05,
-  pdf: 3MB, title: Data Center Evolution and the 'Cloud', url: pubs/gmu/2008-11.pdf}
+  pdf: 3MB, title: Data Center Evolution and the 'Cloud', url: 'http://strassmann.com/pubs/gmu/2008-11.pdf'}
 - {date: '2008-10-29', desc: 'Lecture, George Mason University (slides)', full_date: 2008-10-29,
-  pdf: 5MB, title: Introduction to Virtualization, url: pubs/gmu/2008-10.pdf}
+  pdf: 5MB, title: Introduction to Virtualization, url: 'http://strassmann.com/pubs/gmu/2008-10.pdf'}
 - {date: '2006-10-16', desc: 'Lecture, George Mason University (slides)', full_date: 2006-10-16,
-  ppt: 24MB, title: Data Strategy for the Transformation of Business Management, url: pubs/gmu/2006-10.ppt}
+  ppt: 24MB, title: Data Strategy for the Transformation of Business Management, url: 'http://strassmann.com/pubs/gmu/2006-10.ppt'}
 - {date: 2008-2-25, desc: 'Lecture, George Mason University (slides)', full_date: 2008-02-25,
-  pdf: 3.6MB, title: The Use of Portals in a Systems Architecture, url: pubs/gmu/2008-2-slides.pdf}
+  pdf: 3.6MB, title: The Use of Portals in a Systems Architecture, url: 'http://strassmann.com/pubs/gmu/2008-2-slides.pdf'}
 - {date: 2008-1-9, desc: 'Lecture, George Mason University (slides)', full_date: 2008-01-09,
-  pdf: 4.1Mb, title: Service Oriented Architecture (SOA) for DoD, url: pubs/gmu/2008-1-9.pdf}
+  pdf: 4.1Mb, title: Service Oriented Architecture (SOA) for DoD, url: 'http://strassmann.com/pubs/gmu/2008-1-9.pdf'}
 - {date: '2007-11-19', desc: 'Lecture, George Mason University (slides)', full_date: 2007-11-19,
-  ppt: 1.9Mb, title: What is a Service Oriented Architecture, url: pubs/gmu/2007-11-slides.ppt}
+  ppt: 1.9Mb, title: What is a Service Oriented Architecture, url: 'http://strassmann.com/pubs/gmu/2007-11-slides.ppt'}
 - {date: 2007-10-5, desc: Customer Briefing (slides), full_date: 2007-10-05, pdf: 944kb,
-  title: The Economics of Outsourcing, url: pubs/gmu/outsourcing-v61.pdf}
+  title: The Economics of Outsourcing, url: 'http://strassmann.com/pubs/gmu/outsourcing-v61.pdf'}
 - {date: 2007-3-27, desc: 'Lecture, George Mason University (slides)', full_date: 2007-03-27,
-  pdf: 2Mb, title: Information Assurance for Defense Security, url: pubs/gmu/2007-3-27-slides.pdf}
+  pdf: 2Mb, title: Information Assurance for Defense Security, url: 'http://strassmann.com/pubs/gmu/2007-3-27-slides.pdf'}
 - {date: 2007-2-19, desc: 'Lecture, George Mason University (slides)', full_date: 2007-02-19,
-  pdf: 14.9Mb, title: Enterprise Services for IT Transformation, url: pubs/gmu/2007-2-slides.pdf}
+  pdf: 14.9Mb, title: Enterprise Services for IT Transformation, url: 'http://strassmann.com/pubs/gmu/2007-2-slides.pdf'}
 - {date: '2007-03-20', desc: 'IEEE: Exploring Quantifiable Information Technology
     Yields (slides)', full_date: 2007-03-20, pdf: 1.1Mb, title: Selected Information
-    Economics Metrics, url: pubs/gmu/2007-03-20-slides.pdf}
+    Economics Metrics, url: 'http://strassmann.com/pubs/gmu/2007-03-20-slides.pdf'}
 - {date: '2006-11-20', desc: 'Lecture, George Mason University (slides/ppt)', full_date: 2006-11-20,
-  ppt: 8.4Mb, title: Net-Centric Strategy for Defense Transformation, url: pubs/gmu/2006-11-20-slides.ppt}
+  ppt: 8.4Mb, title: Net-Centric Strategy for Defense Transformation, url: 'http://strassmann.com/pubs/gmu/2006-11-20-slides.ppt'}
 - {date: '2006-05-22', desc: Transformation and Innovation, full_date: 2006-05-22,
-  pdf: 1.7Mb, title: Business Data Transformation, url: pubs/gmu/2006-05-22.pdf}
+  pdf: 1.7Mb, title: Business Data Transformation, url: 'http://strassmann.com/pubs/gmu/2006-05-22.pdf'}
 - {date: 2006-4-17, desc: 'Lecture, George Mason University (slides)', full_date: 2006-04-17,
-  pdf: 1.53Mb, title: 'How Much Is An Employee Worth?', url: pubs/gmu/2006-4-17-slides.pdf}
+  pdf: 1.53Mb, title: 'How Much Is An Employee Worth?', url: 'http://strassmann.com/pubs/gmu/2006-4-17-slides.pdf'}
 - {date: 2006-4-17, desc: 'Lecture, George Mason University (poster)', full_date: 2006-04-17,
-  pdf: 621Kb, title: 'How Much Is An Employee Worth?', url: pubs/gmu/Lecture4.pdf}
+  pdf: 621Kb, title: 'How Much Is An Employee Worth?', url: 'http://strassmann.com/pubs/gmu/Lecture4.pdf'}
 - {date: 2006-3-6, desc: 'Lecture, George Mason University (slides)', full_date: 2006-03-06,
-  pdf: 2.1Mb, title: 'Is Outsourcing Profitable?', url: pubs/gmu/OutsourcingV6.pdf}
+  pdf: 2.1Mb, title: 'Is Outsourcing Profitable?', url: 'http://strassmann.com/pubs/gmu/OutsourcingV6.pdf'}
 - {date: 2006-3-6, desc: George Mason University, full_date: 2006-03-06, pdf: 634kb,
-  title: 'Is Outsourcing Profitable?', url: pubs/gmu/Lecture-3.pdf}
+  title: 'Is Outsourcing Profitable?', url: 'http://strassmann.com/pubs/gmu/Lecture-3.pdf'}
 - {date: 2005-12-5, desc: 'Lecture, George Mason University (slides)', full_date: 2005-12-05,
   pdf: 10.7Mb, title: 'Google: A Model for the Systems Architecture of the Future',
-  url: pubs/gmu/LectureV4.pdf}
+  url: 'http://strassmann.com/pubs/gmu/LectureV4.pdf'}
 - {date: 2005-10-3, desc: 'Lecture, George Mason University', full_date: 2005-10-03,
-  pdf: 2Mb, title: 'The DoD CIO Charter: A Template for IT Governance?', url: pubs/gmu/CIOV1full.pdf}
+  pdf: 2Mb, title: 'The DoD CIO Charter: A Template for IT Governance?', url: 'http://strassmann.com/pubs/gmu/CIOV1full.pdf'}
 - {date: 2011-9, desc: GMU, full_date: 2011-09-01, title: Reader on Cyber Operations,
-  url: pubs/gmu/cyber-operations.pdf}
+  url: 'http://strassmann.com/pubs/gmu/cyber-operations.pdf'}
 - {date: 2003-6, desc: Harvard Business Review, full_date: 2003-06-01, title: A Retrospective
-    Forecast of the Future, url: pubs/hbr/carr-letter.html}
+    Forecast of the Future, url: 'http://strassmann.com/pubs/hbr/carr-letter.html'}
 - {date: 2003-6, desc: Harvard Business Review, full_date: 2003-06-01, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
-  pdf: 503kb, title: 'Does IT Matter? An HBR Debate', url: pubs/hbr/Web_Letters.pdf}
+  pdf: 503kb, title: 'Does IT Matter? An HBR Debate', url: 'http://strassmann.com/pubs/hbr/Web_Letters.pdf'}
 - {author: Michael Schrage, date: 1997-9, desc: Harvard Business Review, full_date: 1997-09-01,
-  title: Strassmann on Politics and Guidelines, url: pubs/hbr/schrage.html}
+  title: Strassmann on Politics and Guidelines, url: 'http://strassmann.com/pubs/hbr/schrage.html'}
 - {date: 2013-1, desc: IDC Study Available ($), full_date: 2013-01-01, idc_id: 239045,
   original: 'https://web.archive.org/web/20131209185720/http://www.idc.com/getdoc.jsp?containerId=239045',
-  title: Insider Threats Through IT Sabotage, url: pubs/idc/239045.html}
+  title: Insider Threats Through IT Sabotage, url: 'http://strassmann.com/pubs/idc/239045.html'}
 - {date: 2013-4, desc: IDC Study Available ($), full_date: 2013-04-01, idc_id: 239239,
   original: 'https://web.archive.org/web/20131209191222/http://www.idc.com/getdoc.jsp?containerId=239239',
-  title: Insider Theft of Intellectual Property, url: pubs/idc/239239.html}
+  title: Insider Theft of Intellectual Property, url: 'http://strassmann.com/pubs/idc/239239.html'}
 - {date: 2013-4, desc: IDC Study Available ($), full_date: 2013-04-01, idc_id: 240708,
   original: 'https://web.archive.org/web/20131209183334/http://www.idc.com/getdoc.jsp?containerId=240708',
-  title: Top Management's Responses to Cyberattacks, url: pubs/idc/240708.html}
+  title: Top Management's Responses to Cyberattacks, url: 'http://strassmann.com/pubs/idc/240708.html'}
 - {date: 2013-5, desc: IDC Study Available ($), full_date: 2013-05-01, idc_id: 241241,
   original: 'https://web.archive.org/web/20131209190114/http://www.idc.com/getdoc.jsp?containerId=241241',
-  title: Countering Software Robots, url: pubs/idc/241241.html}
+  title: Countering Software Robots, url: 'http://strassmann.com/pubs/idc/241241.html'}
 - {date: 2013-6-28, desc: IDC Insights, full_date: 2013-06-28, original: 'https://idc-community.com/groups/it_agenda/security/idcwarnedaboutasnowdenlikeevent',
-  title: IDC Warned about a Snowden-Like Event, url: pubs/idc/snowden.html}
+  title: IDC Warned about a Snowden-Like Event, url: 'http://strassmann.com/pubs/idc/snowden.html'}
 - {date: 2014-12, desc: IDC Study Available ($), full_date: 2014-12-01, original: 'http://www.idc.com/getdoc.jsp?containerId=252906',
   title: Leadership Guide &mdash; Partnerships for Sharing About Cyberthreats, url: 'http://www.idc.com/getdoc.jsp?containerId=252906'}
 - {date: 2014-12, desc: IDC Study Available ($), full_date: 2014-12-01, original: 'http://www.idc.com/getdoc.jsp?containerId=252903',
@@ -872,147 +872,147 @@
   title: The Executive Role in Cyber-Regulations, url: 'http://www.idc.com/getdoc.jsp?containerId=241880'}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   full_date: 2003-10-01, title: Getting better value from information management,
-  url: pubs/iej/2003-09.html}
+  url: 'http://strassmann.com/pubs/iej/2003-09.html'}
 - {date: 2004-9, desc: Information Economics Journal, full_date: 2004-09-01, pdf: 86kb,
-  title: 'Foundations of Information Economics, Part III', url: pubs/iej/2004-09.pdf}
+  title: 'Foundations of Information Economics, Part III', url: 'http://strassmann.com/pubs/iej/2004-09.pdf'}
 - {date: 2004-6, desc: Information Economics Journal, full_date: 2004-06-01, pdf: 89kb,
-  title: The economics of outsourcing, url: pubs/iej/2004-06-a.pdf}
+  title: The economics of outsourcing, url: 'http://strassmann.com/pubs/iej/2004-06-a.pdf'}
 - {date: 2004-6, desc: Information Economics Journal, full_date: 2004-06-01, pdf: 74kb,
   title: 'Foundations of Information Economics, Part II: The impact of transaction
-    economics', url: pubs/iej/2004-06-b.pdf}
+    economics', url: 'http://strassmann.com/pubs/iej/2004-06-b.pdf'}
 - {date: 2004-3, desc: Information Economics Journal, full_date: 2004-03-01, pdf: 88kb,
-  title: 'Foundations of Information Economics, Part I', url: pubs/iej/2004-03.pdf}
+  title: 'Foundations of Information Economics, Part I', url: 'http://strassmann.com/pubs/iej/2004-03.pdf'}
 - {date: 2000-9, desc: iMP Information Impacts Magazine, full_date: 2000-09-01, original: 'http://www.cisp.org/imp/september_2000/09_00strassmann.htm',
-  title: The Perverse Economics of Information, url: pubs/imp/index.html}
+  title: The Perverse Economics of Information, url: 'http://strassmann.com/pubs/imp/index.html'}
 - {date: 1999-5-31, desc: Infoworld, full_date: 1999-05-31, layout: post, original: 'https://web.archive.org/web/20000117234827/http://archive.infoworld.com/cgi-bin/displayArchive.pl?/99/22/o07-22.72.htm',
   title: 'Computer productivity: Paul Strassmann&rsquo;s facts or Bob Lewis&rsquo;
-    fiction?', url: pubs/infoworld/boblewis.html}
+    fiction?', url: 'http://strassmann.com/pubs/infoworld/boblewis.html'}
 - {author: Sandy Reed, date: 1999-3-22, desc: Infoworld, full_date: 1999-03-22, original: 'https://web.archive.org/web/20000208003735/http://www.infoworld.com/cgi-bin/displayNew.pl?/reed/990322sr.htm',
-  title: Numbers indicate that companies overspend on information management, url: pubs/infoworld/numbers.html}
+  title: Numbers indicate that companies overspend on information management, url: 'http://strassmann.com/pubs/infoworld/numbers.html'}
 - {date: 2000-11, desc: Knowledge Management Magazine, full_date: 2000-11-01, title: How
-    E-Business Affects Knowledge Capital, url: pubs/km/2000-11.html}
+    E-Business Affects Knowledge Capital, url: 'http://strassmann.com/pubs/km/2000-11.html'}
 - {date: 2000-3, desc: Knowledge Management Magazine, full_date: 2000-03-01, title: 'Sidebar:
-    Winners And Losers', url: pubs/km/2000-3a.html}
+    Winners And Losers', url: 'http://strassmann.com/pubs/km/2000-3a.html'}
 - {date: 2000-7, desc: Knowledge Management Magazine, full_date: 2000-07-01, title: 'Prices,
-    Finances and Knowledge Capital', url: pubs/km/2000-7.html}
+    Finances and Knowledge Capital', url: 'http://strassmann.com/pubs/km/2000-7.html'}
 - {date: 2001-1, desc: Knowledge Management Magazine, full_date: 2001-01-01, title: Bending
-    the Numbers, url: pubs/km/2001-1.html}
+    the Numbers, url: 'http://strassmann.com/pubs/km/2001-1.html'}
 - {date: 2001-2, desc: Knowledge Management Magazine, full_date: 2001-02-01, title: How
-    to Value Information Security Risks, url: pubs/km/2001-2.html}
+    to Value Information Security Risks, url: 'http://strassmann.com/pubs/km/2001-2.html'}
 - {date: 2001-3, desc: Knowledge Management Magazine, full_date: 2001-03-01, title: Prophecies
-    Don't Serve Knowledge Capital, url: pubs/km/2001-3.html}
+    Don't Serve Knowledge Capital, url: 'http://strassmann.com/pubs/km/2001-3.html'}
 - {date: 2001-4, desc: Knowledge Management Magazine, full_date: 2001-04-01, title: 'KM,
-    IT and Organizational Capital', url: pubs/km/2001-4.html}
+    IT and Organizational Capital', url: 'http://strassmann.com/pubs/km/2001-4.html'}
 - {date: 2001-5, desc: Knowledge Management Magazine, full_date: 2001-05-01, title: Personal
-    Capitalists, url: pubs/km/2001-5.html}
+    Capitalists, url: 'http://strassmann.com/pubs/km/2001-5.html'}
 - {date: 2001-6, desc: Knowledge Management Magazine, full_date: 2001-06-01, title: R&D
-    and Knowledge, url: pubs/km/2001-6.html}
+    and Knowledge, url: 'http://strassmann.com/pubs/km/2001-6.html'}
 - {date: 2000-11, desc: Knowledge Management Magazine, full_date: 2000-11-01, title: How
-    E-Business Affects Knowledge Capital, url: pubs/km/11-2000.pdf}
+    E-Business Affects Knowledge Capital, url: 'http://strassmann.com/pubs/km/11-2000.pdf'}
 - {date: 2000-10, desc: Knowledge Management Magazine, full_date: 2000-10-01, title: Intelligence
-    in Question, url: pubs/km/intelligence-q.html}
+    in Question, url: 'http://strassmann.com/pubs/km/intelligence-q.html'}
 - {date: 2000-8, desc: Knowledge Management Magazine, full_date: 2000-08-01, title: Expecting
-    Too Much of Knowledge, url: pubs/km/expecttoomuch.html}
+    Too Much of Knowledge, url: 'http://strassmann.com/pubs/km/expecttoomuch.html'}
 - {date: 2000-6, desc: Knowledge Management Magazine, full_date: 2000-06-01, title: Global
-    Knowledge Power, url: pubs/km/globalpower.html}
+    Knowledge Power, url: 'http://strassmann.com/pubs/km/globalpower.html'}
 - {date: 2000-5, desc: Knowledge Management Magazine, full_date: 2000-05-01, title: Knowledge
-    Power in the Cyber-Economy, url: pubs/km/knowledgepower.html}
+    Power in the Cyber-Economy, url: 'http://strassmann.com/pubs/km/knowledgepower.html'}
 - {date: 2000-4, desc: Knowledge Management Magazine, full_date: 2000-04-01, title: The
-    Knowledge-Devouring Web, url: pubs/km/devourweb.html}
+    Knowledge-Devouring Web, url: 'http://strassmann.com/pubs/km/devourweb.html'}
 - {date: 2000-3, desc: Knowledge Management Magazine, full_date: 2000-03-01, title: The
-    Importance of Knowledge Capital, url: pubs/km/importance.html}
+    Importance of Knowledge Capital, url: 'http://strassmann.com/pubs/km/importance.html'}
 - {date: 2000-2, desc: Knowledge Management Magazine, full_date: 2000-02-01, title: Accumulating
-    Knowledge Efficiency, url: pubs/km/knowlege-efficiency.html}
+    Knowledge Efficiency, url: 'http://strassmann.com/pubs/km/knowlege-efficiency.html'}
 - {date: 2000-1, desc: Knowledge Management Magazine, full_date: 2000-01-01, title: When
-    Spending Is Investing, url: pubs/km/spendinvest.html}
+    Spending Is Investing, url: 'http://strassmann.com/pubs/km/spendinvest.html'}
 - {date: 1999-12, desc: Knowledge Management Magazine, full_date: 1999-12-01, title: 'What''s
-    the Worth of an Employee?', url: pubs/km/emp-worth.html}
+    the Worth of an Employee?', url: 'http://strassmann.com/pubs/km/emp-worth.html'}
 - {date: 1999-11, desc: Knowledge Management Magazine, full_date: 1999-11-01, title: Ticker-Tape
-    Charade, url: pubs/km/tickertape.html}
+    Charade, url: 'http://strassmann.com/pubs/km/tickertape.html'}
 - {date: 1999-10, desc: Knowledge Management Magazine, full_date: 1999-10-01, title: Calculating
-    Knowledge Capital, url: pubs/km/calc-km.html}
+    Knowledge Capital, url: 'http://strassmann.com/pubs/km/calc-km.html'}
 - {date: 1999-9, desc: by Paul Strassmann, full_date: 1999-09-01, title: 'Does Knowledge
-    Capital Explain Market/Book Valuations?', url: pubs/km/valuation.html}
+    Capital Explain Market/Book Valuations?', url: 'http://strassmann.com/pubs/km/valuation.html'}
 - {author: Stuart Silverstone, date: 1999-4, desc: 'Interview, Knowledge Management
     Magazine', full_date: 1999-04-01, title: 'What''s the Key to Implementing Knowledge
-    Management?', url: pubs/km/kmmag-0499.html}
+    Management?', url: 'http://strassmann.com/pubs/km/kmmag-0499.html'}
 - {date: 1949-9, desc: Memoir, full_date: 1949-09-01, title: Cooper Union Memories
-    on the Occasion of the Gano Dunn Award, url: pubs/misc/cooper-union.html}
+    on the Occasion of the Gano Dunn Award, url: 'http://strassmann.com/pubs/misc/cooper-union.html'}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, full_date: 2001-09-19,
   key: computerweekly.com, original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
-  title: Microsoft defends its security, url: pubs/misc/ms-security.html}
+  title: Microsoft defends its security, url: 'http://strassmann.com/pubs/misc/ms-security.html'}
 - {author: Luca De Biase, date: 2004-5, desc: Il Sole 24 Ore, full_date: 2004-05-01,
   language: Italian, original: 'http://www.debiase.com/storie_Contenuto.asp?Cod_Argomento=20&Cod_Storia=278&ADDR_CALL=C',
-  title: Internet ha bisogno di tempo per affermarsi, url: pubs/misc/debiase-2004-6.html}
+  title: Internet ha bisogno di tempo per affermarsi, url: 'http://strassmann.com/pubs/misc/debiase-2004-6.html'}
 - {date: 2003-11, desc: Portal Onet.pl - Businessman Magazine, full_date: 2003-11-01,
   language: Polish, original: 'http://businessman.onet.pl/artykul.html?MP=1&ITEM=1140009',
-  title: To jest wojna!, url: pubs/misc/onet/index.html}
+  title: To jest wojna!, url: 'http://strassmann.com/pubs/misc/onet/index.html'}
 - {date: 2003-10-5, desc: Interia, full_date: 2003-10-05, language: Polish, title: Paul
-    A. Strassmann w Polsce, url: pubs/misc/interia.html}
+    A. Strassmann w Polsce, url: 'http://strassmann.com/pubs/misc/interia.html'}
 - {author: Diane Hamblen, date: 1992-10, desc: Chips Magazine, full_date: 1992-10-01,
   original: 'http://www.chips.navy.mil/archives/92_oct/file2.htm', title: Turning
-    our upside down world right side up, url: pubs/misc/disa.html}
+    our upside down world right side up, url: 'http://strassmann.com/pubs/misc/disa.html'}
 - {author: Theodore Iacobuzio, date: 1993-11, desc: Bank Systems + Technology, full_date: 1993-11-01,
-  title: Ground Zero, url: pubs/misc/ground-zero.html}
+  title: Ground Zero, url: 'http://strassmann.com/pubs/misc/ground-zero.html'}
 - {date: 2002-11, desc: 'Leader to Leader Magazine, Peter Drucker Foundation', full_date: 2002-11-01,
-  note: Winter 2002, title: 'Technology Leadership: What''s It Worth?', url: pubs/misc/LeadertoLeader0202.html}
+  note: Winter 2002, title: 'Technology Leadership: What''s It Worth?', url: 'http://strassmann.com/pubs/misc/LeadertoLeader0202.html'}
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, pdf: 419MB, title: The Xerox
     Exhibit Catalog, url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, full_date: 2012-09-01, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
-  title: We Fought Back, url: pubs/misc/we-fought.html}
+  title: We Fought Back, url: 'http://strassmann.com/pubs/misc/we-fought.html'}
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, title: Ten Thousand Years of
-    Recorded Information, url: pubs/misc/xerox-exhibit.html}
+    Recorded Information, url: 'http://strassmann.com/pubs/misc/xerox-exhibit.html'}
 - {date: 1954-9, desc: Memoir, full_date: 1954-09-01, title: The Thesis at M.I.T.
-    1953-1954, url: pubs/mit/early-computing.html}
+    1953-1954, url: 'http://strassmann.com/pubs/mit/early-computing.html'}
 - {date: 2003-9, desc: Microsoft Executive Circle, full_date: 2003-09-01, note: Fall
-    2003, pdf: 639kb, title: Budgeting for IT in Hard Times, url: pubs/ms/ms-budgeting.pdf}
+    2003, pdf: 639kb, title: Budgeting for IT in Hard Times, url: 'http://strassmann.com/pubs/ms/ms-budgeting.pdf'}
 - {date: 2003-6, desc: SAIC Employee Update Magazine, full_date: 2003-06-01, pdf: 72kb,
-  title: Strassmann on the future of IT, url: pubs/saic/april-2003.pdf}
+  title: Strassmann on the future of IT, url: 'http://strassmann.com/pubs/saic/april-2003.pdf'}
 - {alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security',
   date: 2000-9-28, desc: SearchSecurity, full_date: 2000-09-28, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1',
   title: 'Art of budgeting: How to explain spending on information security (Part
-    1)', url: pubs/searchsecurity/art-of-budgeting-p1.html}
+    1)', url: 'http://strassmann.com/pubs/searchsecurity/art-of-budgeting-p1.html'}
 - {date: &id005 2000-12-11, desc: SearchSecurity, full_date: *id005, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
   title: 'Art of budgeting: How to ask for money for information security (Part 2)',
-  url: pubs/searchsecurity/art-of-budgeting-p2.html}
+  url: 'http://strassmann.com/pubs/searchsecurity/art-of-budgeting-p2.html'}
 - {date: 2001-1-12, desc: SearchSecurity, full_date: 2001-01-12, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-Part-3',
-  title: 'Art of budgeting: How to justify security spending (Part 3)', url: pubs/searchsecurity/art-of-budgeting-p3.html}
+  title: 'Art of budgeting: How to justify security spending (Part 3)', url: 'http://strassmann.com/pubs/searchsecurity/art-of-budgeting-p3.html'}
 - {date: 2002-4-10, desc: SearchSecurity, full_date: 2002-04-10, original: 'http://searchsecurity.techtarget.com/tip/Problems-with-authentication',
-  title: Problems with authentication, url: pubs/searchsecurity/authentication.html}
+  title: Problems with authentication, url: 'http://strassmann.com/pubs/searchsecurity/authentication.html'}
 - {date: 2001-9-18, desc: SearchSecurity, full_date: 2001-09-18, original: 'http://searchsecurity.techtarget.com/news/770686/Govt-should-blaze-global-information-warfare-trails',
-  title: Govt. should blaze global information warfare trails, url: pubs/searchsecurity/govt-info-warfare.html}
+  title: Govt. should blaze global information warfare trails, url: 'http://strassmann.com/pubs/searchsecurity/govt-info-warfare.html'}
 - {date: &id006 2001-10-23, desc: SearchSecurity, full_date: *id006, original: 'http://searchsecurity.techtarget.com/news/777355/Executive-Security-Briefing-How-to-manage-remote-workforce-security',
-  title: How to manage remote workforce security, url: pubs/searchsecurity/remote-workforce.html}
+  title: How to manage remote workforce security, url: 'http://strassmann.com/pubs/searchsecurity/remote-workforce.html'}
 - {date: 2001-3-22, desc: SearchSecurity, full_date: 2001-03-22, original: 'http://searchsecurity.techtarget.com/tip/Individual-rights-vs-corporate-controls-for-PCs',
-  title: Individual rights vs. corporate controls for PCs, url: pubs/searchsecurity/rights-vs-controls.html}
+  title: Individual rights vs. corporate controls for PCs, url: 'http://strassmann.com/pubs/searchsecurity/rights-vs-controls.html'}
 - {author: David Foote, date: '2006-01-10', desc: TechTarget, full_date: 2006-01-10,
   original: 'http://expertanswercenter.techtarget.com/eac/blog/0,295203,sid63_tax302579,00.html',
-  title: IT Management in 2006, url: pubs/searchsecurity/foote-2006-01.html}
+  title: IT Management in 2006, url: 'http://strassmann.com/pubs/searchsecurity/foote-2006-01.html'}
 - {date: 2005-5-18, desc: CERT, full_date: 2005-05-18, pdf: 8.8Mb, title: 'Bezlan:
-    Events &amp; Lessons Learned', url: pubs/sec/bezlan.pdf}
+    Events &amp; Lessons Learned', url: 'http://strassmann.com/pubs/sec/bezlan.pdf'}
 - {date: 2005-9-16, desc: Private briefing, full_date: 2005-09-16, ppt: 7.0Mb, title: Cybercrime,
-  url: pubs/sec/cybercrime.ppt}
+  url: 'http://strassmann.com/pubs/sec/cybercrime.ppt'}
 - {date: 2014-10-6, desc: New Canaan SMC Investment Club, full_date: 2014-10-06, title: Shiller
-    CAPE Ratio Analysis, url: pubs/smc/2014-10-Shiller-CAPE.pptx}
+    CAPE Ratio Analysis, url: 'http://strassmann.com/pubs/smc/2014-10-Shiller-CAPE.pptx'}
 - {date: 2015-1-5, desc: New Canaan SMC Investment Club, full_date: 2015-01-05, title: The
-    Death of Money, url: pubs/smc/2015-1-Investment-Club.pptx}
+    Death of Money, url: 'http://strassmann.com/pubs/smc/2015-1-Investment-Club.pptx'}
 - {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', full_date: 2005-05-19,
   ppt: 2.5MB, title: The Structure of IT Spending as a Measure of Organizational Disorder,
-  url: pubs/talks/2005-disorder.ppt}
+  url: 'http://strassmann.com/pubs/talks/2005-disorder.ppt'}
 - {date: 2007-6-21, desc: 'Keynote: Executive Forum', full_date: 2007-06-21, title: Measuring
-    and Communicating IT Value, url: pubs/talks/2007-6-21-NYC.pdf}
+    and Communicating IT Value, url: 'http://strassmann.com/pubs/talks/2007-6-21-NYC.pdf'}
 - {date: 2007-5-22, desc: 'Talk: Transformation and Innovation 2007', full_date: 2007-05-22,
-  pdf: 602kb, title: Transformation of HP Information Technologies, url: pubs/talks/2007-5-HP.pdf}
+  pdf: 602kb, title: Transformation of HP Information Technologies, url: 'http://strassmann.com/pubs/talks/2007-5-HP.pdf'}
 - {date: 2007-9-6, desc: 'Online Lecture, IT Metrics and Productivity Institute',
-  full_date: 2007-09-06, title: 'CIO Webinar: IT Transformation Case Study', url: pubs/talks/2007-09-06-itmpi.html}
+  full_date: 2007-09-06, title: 'CIO Webinar: IT Transformation Case Study', url: 'http://strassmann.com/pubs/talks/2007-09-06-itmpi.html'}
 - {date: '2006-04-28', desc: European CIOs, full_date: 2006-04-28, pdf: 168kb, title: Governance
-    & Alignment In the Era of Business Transformation, url: pubs/talks/2006-4-28-governance.pdf}
+    & Alignment In the Era of Business Transformation, url: 'http://strassmann.com/pubs/talks/2006-4-28-governance.pdf'}
 - {date: 2005-11, desc: IP4IT 2005 (podcast), full_date: 2005-11-01, original: 'http://podcasts.pulvermedia.com/podcasts/VONradio-paul_strassmann_ip4it.mp3',
-  title: The Next IT Tsunami, url: pubs/talks/2005-11-ip4it.mp3}
+  title: The Next IT Tsunami, url: 'http://strassmann.com/pubs/talks/2005-11-ip4it.mp3'}
 - {date: 2005-11, desc: IP4IT 2005 (slides), full_date: 2005-11-01, ppt: 1816kb, title: The
-    Next IT Tsunami, url: pubs/talks/IP4ITV3.ppt}
+    Next IT Tsunami, url: 'http://strassmann.com/pubs/talks/IP4ITV3.ppt'}
 - {date: 2005-10, desc: 'Computer Aid, Inc.', full_date: 2005-10-01, pdf: 209kb, title: 'State
-    of the Practice Interview, with Paul Strassmann', url: pubs/talks/productivity-news-2005-10.pdf}
+    of the Practice Interview, with Paul Strassmann', url: 'http://strassmann.com/pubs/talks/productivity-news-2005-10.pdf'}
 - {date: 2000-5-16, desc: Butler Group, full_date: 2000-05-16, title: 'Seminar: London',
   url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
 - {date: 1999-6-28, desc: SMARTsourcing Conference, full_date: 1999-06-28, title: SmartSourcing
@@ -1023,8 +1023,8 @@
     (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, full_date: 2012-11-07,
   original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
-  title: Commentary, url: pubs/usni/2012-7.html}
+  title: Commentary, url: 'http://strassmann.com/pubs/usni/2012-7.html'}
 - {date: 2010-1-13, desc: ZDnet, full_date: 2010-01-13, original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511',
   summary: Paul Strassman outlines some of the technical issues raised for government
     agencies using Gmail in light of the China cyberattack on Google., title: Government
-    Gmail use following Google&rsquo;s China news, url: pubs/zdnet/guest.html}
+    Gmail use following Google&rsquo;s China news, url: 'http://strassmann.com/pubs/zdnet/guest.html'}
