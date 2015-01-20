@@ -69,8 +69,8 @@ function ajax_check(data, status){
   var link = $('#'+val['link_id']);
   link.parent('li').find('img').remove();
   if (val.result == true) {
-    $(link).prepend($('<img/>').attr('src', '/assets/greendot.png'));
+    $(link).prepend($('<img/>').addClass('green').attr('src', '/assets/greendot.png'));
   } else {
-    $(link).prepend($('<img/>').attr('src', '/assets/reddot.png'));
+    $(link).prepend($('<img/>').addClass('red').attr('src', '/assets/reddot.png'));
   }
 }

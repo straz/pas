@@ -1,3 +1,9 @@
+- {date: 2002-7-29,
+   desc: Computerworld, 
+   author: Thomas Hoffman,
+   original: "http://www.computerworld.com/managementtopics/roi/story/0,10801,73082,00.html",
+   title: "A comprehensive ROI, budgeting and benchmarking tool",
+   url: '2002-7-29.html'}
 - {date: 2004-3, desc: Computerworld, title: Measuring Information Work Productivity,
   url: 'measuring-info.shtml'}
 - {date: 2004-3, desc: Computerworld, title: Defining and Measuring Information Productivity,
@@ -10,8 +16,7 @@
 - {date: 2002-9-30, desc: 'Kathleen Melymulka, Computerworld', title: The Evolution
     of the IT Leader, url: 'http://www.computerworld.com/careertopics/careers/story/0,10801,74679,00.html'}
 
-- {date: 2002-7-29, desc: 'Thomas Hoffman, Computerworld', title: 'A comprehensive
-    ROI, budgeting and benchmarking tool', url: 'http://www.strassmann.com/products/valueit/2002-7-29-cw.shtml'}
+
 - {date: 1998-6-8, desc: Computerworld, title: Experts Debate Y2K Costs, url: 'y2kdebate'}
 - {date: 1994-10, desc: 'by Paul Gillin, Computerworld', original: 'http://www.computerworld.com/search/data/cw_940101-941231/941031SL1031pg.html',
   title: 'Book review: The Politics of Information Management', url: 'http://cwlive.cw.com:8080/home/print9497.nsf/All/SL1031pg'}

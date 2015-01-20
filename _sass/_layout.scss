@@ -221,7 +221,7 @@ ul.toc {
 
 
 .origin_str {
-  background-color: #FFE0E0;
+  background-color: #E0FFE0;
   &:before {
     content: 'str: ';
   }
@@ -233,7 +233,7 @@ ul.toc {
   }
 }
 .origin_local {
-  background-color: #E0FFE0;
+  background-color: #E0FFF0;
   &:before {
     content: 'local: ';
   }
