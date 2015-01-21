@@ -1,8 +1,5 @@
 - {date: 2014-9-11, desc: Lecture (video), full_date: 2014-09-11, title: 'Partisan
     Warfare, 1944', url: 'https://www.youtube.com/watch?v=G-ejnCWNklY'}
-- {date: 2002-3, desc: White paper, full_date: 2002-03-01, title: 'Introduction to
-    ROM&reg; Analysis: Linking Management Productivity and Information Technology',
-  url: 'http://www.strassmann.com/consulting/ROM-intro/Intro_to_ROM.html'}
 - {date: 2013-1-2, desc: Lecture (video), full_date: 2013-01-02, title: Partisan Warfare
     in World War II, url: 'http://youtu.be/r4m0wmCt42I'}
 - {date: 2012-09, desc: 'by Allan Zullo, Scholastic Books', full_date: 2012-09-01,
@@ -717,8 +714,6 @@
 - {author: Andrzej Gontarz, date: &id004 2003-10-11, desc: Computerworld Polska, full_date: *id004,
   language: Polish, original: 'http://www.computerworld.pl/artykuly/302956/Kazdy.po.swojemu.html',
   title: "Ka\u017Cdy po swojemu", url: 'http://www.strassmann.com/pubs/computerworld/pl/page1.html'}
-- {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Introduction to
-    Return On Management (ROM), url: 'http://www.strassmann.com/pubs/consulting/ROM-intro/Intro_to_ROM.html'}
 - {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Information Productivity
     Assessment, url: 'http://www.strassmann.com/pubs/consulting/ip-assessment.html'}
 - {date: 1993-11, desc: Consulting, full_date: 1993-11-01, title: Information Productivity
@@ -735,6 +730,8 @@
     Rankings 1994: Global', url: 'http://www.strassmann.com/pubs/consulting/ipglobal94.pdf'}
 - {date: 1995-9, desc: Consulting, full_date: 1995-09-01, title: 'Information Productivity
     Rankings 1995: Global', url: 'http://www.strassmann.com/pubs/consulting/ipglobal95.pdf'}
+- {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Introduction to
+    Return On Management (ROM&reg;) Analysis, url: 'http://www.strassmann.com/pubs/consulting/ROM-intro/Intro_to_ROM.html'}
 - {date: 2010-01, desc: At Cooper Union, full_date: 2010-01-01, original: 'http://www.cooper.edu/administration/alumni/atcooper.html',
   pdf: 90KB, title: Pioneer Profile, url: 'http://www.strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
 - {date: 2004-8, desc: Cutter IT Journal, full_date: 2004-08-01, pdf: 144kb, title: Six

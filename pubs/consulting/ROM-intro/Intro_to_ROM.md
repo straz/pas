@@ -1,64 +1,54 @@
-<html>
-<head>
-<!--  -->
+---
+date: 1999-11
+desc: Consulting
+title: "Introduction to Return On Management (ROM&reg;) Analysis"
+---
 
-<title>Introduction to ROM® Analysis</title>
+# <a name="Top">Introduction to ROM&reg; Analysis:<br/>Linking Management Productivity and Information Technology</a>
 
-</head>
-<body bgcolor="#FFFFFF">
-<h2><a name="Top">Introduction to ROM® Analysis:<br>
-Linking Management Productivity<br>
-and Information Technology</a></h2>
-by Paul A. Strassmann
-<hr>
+___
 
-<h3>Contents</h3>
-<dl>
-<dt><a href="#part3">Introduction</a>
-<dt><a href="#part4">About Measurement</a>
-<dl>
-<dt><a href="#part5">Goal-Setting and Measurement</a>
-<dt><a href="#part6">The Productivity of Information Systems</a>
-<dt><a href="#part7">Physical Measures of Productivity</a>
-<dt><a href="#part8">Problems in Reporting on Physical Productivity </a>
-<dt><a href="#part9">Omission of Management from Productivity Measurement</a>
-<dt><a href="#part10">Financial Measures from the Industrial Era</a>
-<dt><a href="#part11">The Project Authorization Bias</a>
-<dt><a href="#part12">Post-Industrial Development</a>
+### Contents
 
-<dt><a href="#part14">Measuring Management Productivity</a>
-<dt><a href="#part15">Finding Management Value-Added</a>
-<dt><a href="#part16">Adjusting for Purchases</a>
-<dt><a href="#part17">Adjusting for Shareholder Value-Added</a>
-<dt><a href="#Part18">Adjusting for Business Costs </a>
-</dl>
-<dt><a href="#part19">Computing R-O-M® </a>
-<dt><a href="#part20">R-O-M® Diagnosis</a><ol>
-<dt><a href="#part21">Collection of Standard Data </a>
-<dt><a href="#part22">Comparison Against a Data Base</a>
-<dt><a href="#part23">Security</a>
-</dl>
-<dt><a href="#part24">Strategic Business Report</a>
-<dt><a href="#part25">Management Productivity Report</a><ol>
-<dt><a href="#part26">Employment Characteristics</a>
-<dt><a href="#part27">The Management or Operations Categories</a>
-<dt><a href="#part28">Employment Table </a>
-<dt> <a href="#part29">Cost Structure Tables</a>
-</dl>
-</dl>
+ * [Introduction](#part3)
+ * [About Measurement](#part4)
+   * [Goal-Setting and Measurement](#part5)
+   * [The Productivity of Information Systems](#part6)
+   * [Physical Measures of Productivity](#part7)
+   * [Problems in Reporting on Physical Productivity ](#part8)
+   * [Omission of Management from Productivity Measurement](#part9)
+   * [Financial Measures from the Industrial Era](#part10)
+   * [The Project Authorization Bias](#part11)
+   * [Post-Industrial Development](#part12)
+   * [Measuring Management Productivity](#part14)
+   * [Finding Management Value-Added](#part15)
+   * [Adjusting for Purchases](#part16)
+   * [Adjusting for Shareholder Value-Added](#part17)
+   * [Adjusting for Business Costs ](#Part18)
+ * [Computing R-O-M&trade; ](#part19)
+ * [R-O-M&trade; Diagnosis](#part20)
+   * [Collection of Standard Data ](#part21)
+   * [Comparison Against a Data Base](#part22)
+   * [Security](#part23)
+ * [Strategic Business Report](#part24)
+ * [Management Productivity Report](#part25)
+ * [Employment Characteristics](#part26)
+   * [The Management or Operations Categories](#part27)
+   * [Employment Table ](#part28)
+   * [Cost Structure Tables](#part29)
 
-Click here to see the <a href="http://www.strassmann.com/consulting/ip-rankings.html">
-Information Productivity<font size="-2">(tm)</font>
-rankings</a> of 549 companies from 1993.<p>
 
-<p>Click to return to the <a href="http://www.strassmann.com">Strassmann, Inc.
-home page</a>.
+Click here to see the [Information Productivity&trade; rankings](../ip-rankings.html)
+of 549 companies from 1993.
+
 
 <hr>
 <h2><a name="part3">Introduction</a></h2>
+
 <b>There is no relationship between expenses for computers and business
 profitability.</b> Similar computer technologies can lead either to monumental
-successes or to dismal failures. <p>
+successes or to dismal failures. 
+
 The purpose of this diagnostic service is to shift attention from information
 technology to the effectiveness of the executives who manage it. The discovery
 of the business value of computers lies in their linking with the business
@@ -68,7 +58,8 @@ and supporting competitive objectives. In isolation, they are just pieces of
 metal, plastic or glass. The contributions of information technologies to
 increasing the <i>Management Value-added  </i>ratio to <i>Management Costs</i>
 , that is <i>Management Productivity</i>, will tell you if computers produce a
-business payoff.<p>
+business payoff.
+
 Measuring <i>Management Productivity</i> is the key to knowing how to invest in
 information technologies. Correctly diagnose conditions that will improve
 <i>Management Productivity</i>  before you re-systemize, reengineer or
@@ -356,16 +347,17 @@ not in <i>Operations</i> is, by definition, <i>Management:</i><p>
 
 
 <pre>
-           <b>Operations                  Management</b>           
-           *How to do                     *How to organize          
-    *Doing the things right           *Doing the right things       
-       *Today's business                *Tomorrow's business        
-       *Structured tasks                *Unstructured tasks         
-  *Today's decisions for today     *Today's decisions for future    
-   *Workflow shapes decisions        *Decisions shape workflow      
+    <b>Operations</b>                      <b>Management</b>           
+  How to do                       How to organize          
+  Doing the things right          Doing the right things       
+  Today's business                Tomorrow's business        
+  Structured tasks                Unstructured tasks         
+  Today's decisions for today     Today's decisions for future    
+  Workflow shapes decisions       Decisions shape workflow      
 
 <a name="part13"><b>The Characteristics of Operations and Management</b></a>
 </pre>
+
 
 Companies in the same industry, with the same technology and same capital
 structure, can have widely differing profits. research found that high capital
@@ -409,23 +401,23 @@ superior managerial productivity, and then examine their characteristics of
 computer use that differ from cases that show inferior managerial
 productivity.<p>
 Research extending over a period of 10 years led to the concept of
-<i>Return-on-Management®. </i>
+<i>Return-on-Management&trade;. </i>
 This ratio does a good job not only in evaluating information technology,
 but also in identifying excessive overhead costs. This ratio is calculated by
 first isolating the <i>Management Value-added</i> of a company, and then
 dividing it by the company's total <i>Management</i> <i>Cost</i>s:<p>
-<b>Return-on-Management(tm) = F(Management Value-added,Management
+<b>Return-on-Management&trade; = F(Management Value-added,Management
 Costs)</b><p>
 <b></b><i>Management Value-added</i> is that which remains after every
 contributor to a firm's inputs gets paid. If <i>Management Value-added</i> is
 greater than <i>Management Costs,</i> you can say that managerial efforts are
 productive because the managerial <i>outputs</i> exceed managerial
 <i>inputs</i>. <p>
-Another way of looking at the <i>Return-on-Management</i> ratio (<i>R-O-M(tm)
+Another way of looking at the <i>Return-on-Management</i> ratio (<i>R-O-M&trade;
 Productivity Index</i>) is to view it as a measure of productivity. It answers
 the question of how many surplus dollars you get for every dollar paid for
 <i>Management</i>. <p>
-<b>R-O-M(tm) Index = F(Management Output,Management Input) = Management
+<b>R-O-M&trade; Index = F(Management Output,Management Input) = Management
 Productivity </b><p>
 <b></b>To attribute all surplus value to <i>Management,</i> instead of capital
 or labor, is a departure from classic economics. It is <i>Management</i> that
@@ -545,7 +537,7 @@ After paying suppliers for their share of inputs, <i>Management</i> has to
 account for the shareholders' value-added. The major distortion in the
 <i>Return-on-Asset </i>calculations is that ROA for low-debt businesses will be
 higher when compared with high-debt businesses. Calculating the
-<i>R-O-M(tm)</i> Index adjusts such comparisons by subtracting from the
+<i>R-O-M&trade;</i> Index adjusts such comparisons by subtracting from the
 <i>Business Value-added</i> the going rate of the costs of shareholder capital,
 multiplied by the market (or book) value of shareholder equity. This
 calculation is identical with the current approach to calculating the cost of
@@ -591,7 +583,7 @@ negative <i>Management</i> <i>Value-added, </i>although more than 50% of those
 still report profits and a positive R-O-A,<i> </i>using generally accepted
 accounting principles. 
 <h2>
-<a name="part19">Computing R-O-M®</a></h2>
+<a name="part19">Computing R-O-M&trade;</a></h2>
 Data-gathering begins the process for computing standard performance
 indicators. Each of these indicators has been tested to give statistically
 valid correlations about the relationship between the structure of management
@@ -605,14 +597,14 @@ Business Analysis</i> report. Clients may opt to fill out a more elaborate
 questionnaire to get more diagnostic indicators dealing with matters of
 marketing strategy.<p>
 Part 2, <i>Management Productivity Characteristics</i> will collect data needed
-to compute the value of R-O-M(tm) and to come up with insights about the
+to compute the value of R-O-M&trade; and to come up with insights about the
 effectiveness of overhead expenses.<p>
-Clients may also wish to apply R-O-M(tm) techniques in analyzing major
+Clients may also wish to apply R-O-M&trade; techniques in analyzing major
 investment proposals involving information technologies. A <i>Functional
 Economic Analysis </i>package and a risk-analysis service is also available.<p>
 
 <h2>
-<a name="part20">R-O-M® Diagnosis</a></h2>
+<a name="part20">R-O-M&trade; Diagnosis</a></h2>
 The aim of the <i>Return-on-Management</i> diagnostic process is to imitate
 practices well established in confidential medical testing.<p>
 The findings will not produce specific action recommendations. Taking
@@ -635,7 +627,7 @@ To get comparable data across a range of industries and in different countries,
 all data definitions are standardized. Most of the information called for in
 filling out these forms is routinely available from existing accounting data
 and from marketing research sources. <p>
-The R-O-M(tm) data form requires to split costs for <i>creating</i> the
+The R-O-M&trade; data form requires to split costs for <i>creating</i> the
 customer value-added from costs incurred in <i>supportin</i>g the delivery of
 products and of services. The forms also instruct how to allocate information
 technology costs to business functions. To document how the original accounting
@@ -654,7 +646,7 @@ mail to resolve any questions without much delay.
 <a name="part22">COMPARISON
 AGAINST A DATA BASE
 </a></h4>
- From many case studies we have identified correlations between the R-O-M(tm)
+ From many case studies we have identified correlations between the R-O-M&trade;
 measure of productivity and <i>critical performance ratios.</i> Some of these
 insights come from research that has its origins in the PIMS studies about
 business strategy. Studies about the relationship between overhead costs and
@@ -665,7 +657,7 @@ compared with the data-base for a data-consistency check.  Out-of-limit
 conditions are identified and the client is contacted to find out whether the
 deviant information should be included in the diagnosis. <i>Critical
 performance ratios</i> are then calculated from the accepted data and results
-compared with information in the R-O-M(tm) and MANTIS data bases as well as
+compared with information in the R-O-M&trade; and MANTIS data bases as well as
 against constantly updated research findings. Great care is taken to assure
 statistically reliable comparisons. To that end we recognize differences by
 industries (by major standard industry classification categories), differences
@@ -869,33 +861,29 @@ Proceed in filling out the Employment Table form by first identifying all full
 time equivalent <i>Operations</i> personnel. The balance falls automatically
 into the<i> Managemen</i>t headcount. <p>
 Remember: if you are not in <i>Operation</i>s then you are in <i>Management</i>.
-<h4>
-<a name="part29">COST
-STRUCTURE TABLES
-</a></h4>
-Purchases should include goods and services supplied by suppliers. This
+
+<h4><a name="part29">COST STRUCTURE TABLES</a></h4>
+
+<P>Purchases should include goods and services supplied by suppliers. This
 includes also goods and services got from other Divisions of the same company,
 if the purchases are made at competitive prices. Otherwise, all non-competitive
 internal procurement should be in <i>Corporate Allocations</i>, at an estimated
 market prices. Classifying  <i>Labor Costs</i> should follow the rules outlined
-in filling out the <i>Employment Table.</i><p>
-Attributing  non-labor costs to <i>Management</i> is handled in the
+in filling out the <i>Employment Table.</i></p>
+
+<P>Attributing  non-labor costs to <i>Management</i> is handled in the
 <i>Management Support Costs </i>schedule. The simplest approach in computing
 this allocation is to first estimate the % of <i>Management</i> cost to
 <i>Total Labor Cost</i>. This number can be then corrected for unusual costs,
 such as expenses for Corporate Headquarters, institutional advertising, pure
-research and personnel development.<p>
-A separate schedule is supplied to identify the costs of <i>Information
+research and personnel development.</P>
+
+<P>A separate schedule is supplied to identify the costs of <i>Information
 Technology</i>. Good records are usually available to show what fraction of
 total <i>Purchases</i>, <i>Labor</i> and <i>Other Costs</i> are attributed to
 supporting <i>Information Technology</i>. The line item <i>Management
 Support</i> is to show what fraction of the total <i>Information Technology</i>
-expense is dedicated to<i> Management functions</i>.<p>
-<p>
+expense is dedicated to<i> Management functions</i>.</p>
+
 <hr>
-<a href="http://www.strassmann.com/copyright.html">(c) Copyright 1996, Strassmann, 
-Inc.</a><br>
-Go back up to the Strassmann, Inc. <a href="http://www.strassmann.com">home page</a>.<p>
-<p>
-</body>
-</html>
+(c) Copyright 1996, Strassmann, Inc.
