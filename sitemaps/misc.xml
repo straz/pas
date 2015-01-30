@@ -3,8 +3,8 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-  <url><loc>{{ site.baseurl }}/bio/</loc></url>
+  <url><loc>{{ site.url }}/bio/</loc></url>
+  <url><loc>{{ site.url }}/blog-posts.html</loc></url>
   <url><loc>http://infoeconomics.com</loc></url>
-  <url><loc>{{ site.baseurl}}/blog-posts.html</loc></url>
   <url><loc>http://pstrassmann.blogspot.com</loc></url>
 </urlset>
