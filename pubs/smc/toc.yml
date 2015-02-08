@@ -1,8 +1,10 @@
 - {date: 2014-10-6, 
+   ignore: true,
    desc: New Canaan SMC Investment Club, 
    title: Shiller CAPE Ratio Analysis,
    url: '2014-10-Shiller-CAPE.pptx'}
 - {date: 2015-1-5, 
+   ignore: true,
    desc: New Canaan SMC Investment Club, 
    title: The Death of Money,
    url: '2015-1-Investment-Club.pptx'}

@@ -1010,10 +1010,10 @@
     Events &amp; Lessons Learned', url: 'http://www.strassmann.com/pubs/sec/bezlan.pdf'}
 - {date: 2005-9-16, desc: Private briefing, full_date: 2005-09-16, ppt: 7.0Mb, title: Cybercrime,
   url: 'http://www.strassmann.com/pubs/sec/cybercrime.ppt'}
-- {date: 2014-10-6, desc: New Canaan SMC Investment Club, full_date: 2014-10-06, title: Shiller
-    CAPE Ratio Analysis, url: 'http://www.strassmann.com/pubs/smc/2014-10-Shiller-CAPE.pptx'}
-- {date: 2015-1-5, desc: New Canaan SMC Investment Club, full_date: 2015-01-05, title: The
-    Death of Money, url: 'http://www.strassmann.com/pubs/smc/2015-1-Investment-Club.pptx'}
+- {date: 2014-10-6, desc: New Canaan SMC Investment Club, full_date: 2014-10-06, ignore: true,
+  title: Shiller CAPE Ratio Analysis, url: 'http://www.strassmann.com/pubs/smc/2014-10-Shiller-CAPE.pptx'}
+- {date: 2015-1-5, desc: New Canaan SMC Investment Club, full_date: 2015-01-05, ignore: true,
+  title: The Death of Money, url: 'http://www.strassmann.com/pubs/smc/2015-1-Investment-Club.pptx'}
 - {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', full_date: 2005-05-19,
   ppt: 2.5MB, title: The Structure of IT Spending as a Measure of Organizational Disorder,
   url: 'http://www.strassmann.com/pubs/talks/2005-disorder.ppt'}
