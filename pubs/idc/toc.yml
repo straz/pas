@@ -93,4 +93,14 @@
    original: 'http://www.idc.com/getdoc.jsp?containerId=241880',
   title: 'The Executive Role in Cyber-Regulations',
    url: 'http://www.idc.com/getdoc.jsp?containerId=241880'}
+- {date: 2015-2,
+   desc: IDC Study Available ($),
+   original: 'http://www.idc.com/getdoc.jsp?containerId=254246',
+   title: "The CIO''s Role in Protecting the Enterprise from Cyberattacks",
+   url: 'http://www.idc.com/getdoc.jsp?containerId=254246'}
+- {date: 2015-2,
+   desc: IDC Study Available ($),
+   original: 'http://www.idc.com/getdoc.jsp?containerId=254149',
+   title: 'Director''s Oversight of Cyberthreat Protection',
+   url: 'http://www.idc.com/getdoc.jsp?containerId=254149'}
 

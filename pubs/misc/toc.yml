@@ -33,9 +33,17 @@
    note: Winter 2002, 
    title: 'Technology Leadership: What''s It Worth?', 
    url: 'LeadertoLeader0202.html'}
-
 - {date: 1977-1,
    desc: Xerox, 
    pdf: 419MB, 
    title: The Xerox Exhibit Catalog, 
    url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
+- {date: 2015-2-6,
+   author: Andreas Mink,
+   ignore: true,
+   tags: [partisan, WWII, holocaust],
+   desc: Aufbau,
+   title: K&auml;mpfen und &uuml;berleben,
+   url: aufbau_01_2015_optimiert-18.pdf,
+   language: German
+  }
