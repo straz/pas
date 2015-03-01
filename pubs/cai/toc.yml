@@ -1,5 +1,11 @@
 - {date: 2009-4-14, 
-   desc: 'Webinar: Computer Aid, Inc.', 
+   desc: 'Computer Aid, Inc.', 
    pdf: 3.8MB, 
-   title: The Economics of Thin Clients, 
+   title: "Webinar: The Economics of Thin Clients", 
    url: '2009-4-14.pdf'}
+- {date: 2005-10,
+   desc: 'Computer Aid, Inc.', 
+   original: 'http://www.compaid.com/caiInternet/ezine/StrassmannInterview1.pdf',
+   pdf: 97KB,
+   title: Interview with Paul Strassmann, 
+   url: 'StrassmannInterview1.pdf'}
