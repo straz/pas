@@ -724,14 +724,30 @@
 - {author: Andrzej Gontarz, date: &id004 2003-10-11, desc: Computerworld Polska, full_date: *id004,
   language: Polish, original: 'http://www.computerworld.pl/artykuly/302956/Kazdy.po.swojemu.html',
   title: "Ka\u017Cdy po swojemu", url: 'http://www.strassmann.com/pubs/computerworld/pl/page1.html'}
-- {date: 1995-7-25, desc: US Senate testimony, full_date: 1995-07-25, title: Hearings
-    on S.946 Information Technology Management Reform Act of 1995, url: 'http://www.strassmann.com/pubs/congress/senate-946.html'}
-- {date: 1980-5-20, desc: US Senate testimony, full_date: 1980-05-20, title: 'Senate
-    Subcommittee hearings: transcript', url: 'http://www.strassmann.com/pubs/congress/1980-5-20-committee-hearing.pdf'}
-- {date: 1980-5-20, desc: US Senate testimony, full_date: 1980-05-20, title: 'Senate
-    Subcommittee hearings: prepared statement', url: 'http://www.strassmann.com/pubs/congress/1980-5-20-prepared-statement.pdf'}
-- {date: 1983-4-6, desc: US Senate testimony, full_date: 1983-04-06, title: 'Senate
-    Committee hearings: Impact of Information Technology on Employment', url: 'http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf'}
+- date: 1995-7-25
+  desc: US Senate testimony
+  full_date: 1995-07-25
+  tags: [Senate, Congress]
+  title: Hearings on S.946 Information Technology Management Reform Act of 1995
+  url: http://www.strassmann.com/pubs/congress/senate-946.html
+- date: 1980-5-20
+  desc: US Senate testimony
+  full_date: 1980-05-20
+  tags: [Senate, Congress]
+  title: 'Senate Subcommittee hearings: transcript'
+  url: http://www.strassmann.com/pubs/congress/1980-5-20-committee-hearing.pdf
+- date: 1980-5-20
+  desc: US Senate testimony
+  full_date: 1980-05-20
+  tags: [Senate, Congress]
+  title: 'Senate Subcommittee hearings: prepared statement'
+  url: http://www.strassmann.com/pubs/congress/1980-5-20-prepared-statement.pdf
+- date: 1983-4-6
+  desc: US Senate testimony
+  full_date: 1983-04-06
+  tags: [Senate, Congress]
+  title: 'Senate Committee hearings: Impact of Information Technology on Employment'
+  url: http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf
 - {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Information Productivity
     Assessment, url: 'http://www.strassmann.com/pubs/consulting/ip-assessment.html'}
 - {date: 1993-11, desc: Consulting, full_date: 1993-11-01, title: Information Productivity

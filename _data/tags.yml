@@ -3,6 +3,7 @@
 - {tag: IDC, full: IDC, intro: true}
 - {tag: GCN, full: Government Computer News}
 - {tag: AFCEA, full: AFCEA Signal, intro: true}
+- {tag: Congress, full: Congressional Testimony}
 - {tag: Computerworld, full: Computerworld, intro: true}
 - {tag: Infoworld, full: Infoworld}
 - {tag: SearchSecurity, full: SearchSecurity}
