@@ -273,6 +273,8 @@
 - {author: Paul A. Strassmann, date: 2011-3, desc: AFCEA Signal, full_date: 2011-03-01,
   original: 'http://www.afcea.org/content/?q=node/2552', title: Fewer Data Centers
     Can Be a Good Thing, url: 'http://www.strassmann.com/pubs/afcea/2011-3.html'}
+- {date: 2015-3, desc: AFCEA Signal, full_date: 2015-03-01, original: 'http://www.afcea.org/content/?q=node/14080',
+  title: A Cloud Approach Could Solve Defense Infrastructure Challenges, url: 'http://www.strassmann.com/pubs/afcea/2015-3.html'}
 - {date: 2014-10, desc: AFCEA Signal, full_date: 2014-10-01, original: 'http://www.afcea.org/content/?q=node/13437',
   title: A New Approach Is Needed to Protect Defense Department Cybersystems, url: 'http://www.strassmann.com/pubs/afcea/2014-10.html'}
 - {date: 2014-01, desc: AFCEA Signal, full_date: 2014-01-01, original: 'http://www.afcea.org/content/?q=node/12110',
@@ -722,6 +724,14 @@
 - {author: Andrzej Gontarz, date: &id004 2003-10-11, desc: Computerworld Polska, full_date: *id004,
   language: Polish, original: 'http://www.computerworld.pl/artykuly/302956/Kazdy.po.swojemu.html',
   title: "Ka\u017Cdy po swojemu", url: 'http://www.strassmann.com/pubs/computerworld/pl/page1.html'}
+- {date: 1995-7-25, desc: US Senate testimony, full_date: 1995-07-25, title: Hearings
+    on S.946 Information Technology Management Reform Act of 1995, url: 'http://www.strassmann.com/pubs/congress/senate-946.html'}
+- {date: 1980-5-20, desc: US Senate testimony, full_date: 1980-05-20, title: 'Senate
+    Subcommittee hearings: transcript', url: 'http://www.strassmann.com/pubs/congress/1980-5-20-committee-hearing.pdf'}
+- {date: 1980-5-20, desc: US Senate testimony, full_date: 1980-05-20, title: 'Senate
+    Subcommittee hearings: prepared statement', url: 'http://www.strassmann.com/pubs/congress/1980-5-20-prepared-statement.pdf'}
+- {date: 1983-4-6, desc: US Senate testimony, full_date: 1983-04-06, title: 'Senate
+    Committee hearings: Impact of Information Technology on Employment', url: 'http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf'}
 - {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Information Productivity
     Assessment, url: 'http://www.strassmann.com/pubs/consulting/ip-assessment.html'}
 - {date: 1993-11, desc: Consulting, full_date: 1993-11-01, title: Information Productivity
@@ -903,6 +913,8 @@
   title: The CIO's Role in Protecting the Enterprise from Cyberattacks, url: 'http://www.idc.com/getdoc.jsp?containerId=254246'}
 - {date: 2015-2, desc: IDC Study Available ($), full_date: 2015-02-01, original: 'http://www.idc.com/getdoc.jsp?containerId=254149',
   title: Director's Oversight of Cyberthreat Protection, url: 'http://www.idc.com/getdoc.jsp?containerId=254149'}
+- {date: 2015-3, desc: IDC Study Available ($), full_date: 2015-03-01, original: 'http://www.idc.com/getdoc.jsp?containerId=254550',
+  title: U.S. Government Organizations Supporting Defense Against Cyberthreats, url: 'http://www.idc.com/getdoc.jsp?containerId=254550'}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   full_date: 2003-10-01, title: Getting better value from information management,
   url: 'http://www.strassmann.com/pubs/iej/2003-09.html'}
