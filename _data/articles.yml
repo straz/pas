@@ -477,6 +477,8 @@
 - {author: Stephanie Overby, date: 2004-5-1, desc: CIO Magazine, full_date: 2004-05-01,
   original: 'http://www.cio.com/article/2439674/business-alignment/counterpoint--running-it-like-a-business-could-lead-to-technology-failure.html',
   title: Running IT Like A Business Could Lead to Technology Failure, url: 'http://www.strassmann.com/pubs/cio/it-business.html'}
+- {author: Megan Santosus, date: 1997-8, desc: CIO Magazine, full_date: 1997-08-01,
+  title: Align for the Bottom Line, url: 'http://www.strassmann.com/pubs/cio/santosus.html'}
 - {date: 1997-8, desc: 'Review by Megan Santosus, CIO Magazine', full_date: 1997-08-01,
   title: Align for the Bottom Line, url: 'http://www.strassmann.com/pubs/cio/santosus.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
