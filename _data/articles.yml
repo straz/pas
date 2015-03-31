@@ -474,6 +474,9 @@
 - {date: 1991-4-23, desc: by Paul Strassmann, full_date: 1991-04-23, original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
   pdf: 3.65Mb, title: 'Statement Before House Armed Services Committee, Readiness
     Subcommittee', url: 'http://www.strassmann.com/pubs/cim/269b.pdf'}
+- {author: Stephanie Overby, date: 2004-5-1, desc: CIO Magazine, full_date: 2004-05-01,
+  original: 'http://www.cio.com/article/2439674/business-alignment/counterpoint--running-it-like-a-business-could-lead-to-technology-failure.html',
+  title: Running IT Like A Business Could Lead to Technology Failure, url: 'http://www.strassmann.com/pubs/cio/it-business.html'}
 - {date: 1997-8, desc: 'Review by Megan Santosus, CIO Magazine', full_date: 1997-08-01,
   title: Align for the Bottom Line, url: 'http://www.strassmann.com/pubs/cio/santosus.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
