@@ -275,6 +275,8 @@
     Can Be a Good Thing, url: 'http://www.strassmann.com/pubs/afcea/2011-3.html'}
 - {date: 2015-3, desc: AFCEA Signal, full_date: 2015-03-01, original: 'http://www.afcea.org/content/?q=node/14080',
   title: A Cloud Approach Could Solve Defense Infrastructure Challenges, url: 'http://www.strassmann.com/pubs/afcea/2015-3.html'}
+- {date: 2015-4, desc: AFCEA Signal, full_date: 2015-04-01, original: 'http://www.afcea.org/content/?q=node/14330',
+  title: Cyberwarfare Needs More Brains, url: 'http://www.strassmann.com/pubs/afcea/2015-4.html'}
 - {date: 2014-10, desc: AFCEA Signal, full_date: 2014-10-01, original: 'http://www.afcea.org/content/?q=node/13437',
   title: A New Approach Is Needed to Protect Defense Department Cybersystems, url: 'http://www.strassmann.com/pubs/afcea/2014-10.html'}
 - {date: 2014-01, desc: AFCEA Signal, full_date: 2014-01-01, original: 'http://www.afcea.org/content/?q=node/12110',
@@ -478,8 +480,6 @@
   original: 'http://www.cio.com/article/2439674/business-alignment/counterpoint--running-it-like-a-business-could-lead-to-technology-failure.html',
   title: Running IT Like A Business Could Lead to Technology Failure, url: 'http://www.strassmann.com/pubs/cio/it-business.html'}
 - {author: Megan Santosus, date: 1997-8, desc: CIO Magazine, full_date: 1997-08-01,
-  title: Align for the Bottom Line, url: 'http://www.strassmann.com/pubs/cio/santosus.html'}
-- {date: 1997-8, desc: 'Review by Megan Santosus, CIO Magazine', full_date: 1997-08-01,
   title: Align for the Bottom Line, url: 'http://www.strassmann.com/pubs/cio/santosus.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
   original: 'https://web.archive.org/web/19991103204706/http://www.cio.com/archive/091597_strassman_content.html',
