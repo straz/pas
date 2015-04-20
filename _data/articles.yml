@@ -938,6 +938,8 @@
   title: U.S. Government Organizations Supporting Defense Against Cyberthreats, url: 'http://www.idc.com/getdoc.jsp?containerId=254550'}
 - {date: 2015-3, desc: IDC Study Available ($), full_date: 2015-03-01, original: 'http://www.idc.com/getdoc.jsp?containerId=254779',
   title: Participation in Cyberthreat Information Sharing Centers, url: 'http://www.idc.com/getdoc.jsp?containerId=254779'}
+- {date: 2015-4, desc: IDC Study Available ($), full_date: 2015-04-01, original: 'http://www.idc.com/getdoc.jsp?containerId=255613',
+  title: Countering Cyberespionage, url: 'http://www.idc.com/getdoc.jsp?containerId=255613'}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   full_date: 2003-10-01, title: Getting better value from information management,
   url: 'http://www.strassmann.com/pubs/iej/2003-09.html'}
