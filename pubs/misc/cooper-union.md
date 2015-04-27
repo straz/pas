@@ -4,6 +4,10 @@ date: 1949-9
 desc: Memoir
 ---
 
+> The Cooper Union Alumni Association presented Paul Strassmann 
+> with the [Gano Dunn Award](http://cooperalumni.org/about/hall-of-fame/gano-dunn-award-winners/)
+> for professional achievement, on April 26, 2015.
+
 Two days after landing in New York on October 15, 1948 I went to a
 Jewish charitable agency, HIAS (Hebrew Immigrants Aid Society), to ask
 for help how I could get an engineering education.  A kind and an
