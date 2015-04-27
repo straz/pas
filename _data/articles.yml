@@ -940,6 +940,8 @@
   title: Participation in Cyberthreat Information Sharing Centers, url: 'http://www.idc.com/getdoc.jsp?containerId=254779'}
 - {date: 2015-4, desc: IDC Study Available ($), full_date: 2015-04-01, original: 'http://www.idc.com/getdoc.jsp?containerId=255613',
   title: Countering Cyberespionage, url: 'http://www.idc.com/getdoc.jsp?containerId=255613'}
+- {date: 2015-4, desc: IDC Study Available ($), full_date: 2015-04-01, original: 'http://www.idc.com/getdoc.jsp?containerId=255756',
+  title: Fundamental Elements of Effective Cyberdefense, url: 'http://www.idc.com/getdoc.jsp?containerId=255756'}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   full_date: 2003-10-01, title: Getting better value from information management,
   url: 'http://www.strassmann.com/pubs/iej/2003-09.html'}
