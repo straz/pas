@@ -1,15 +1,18 @@
-URL = 'http://sports.yahoo.com/mlb/teams/bos/ical.ics';
-CSV = 'schedule.csv';
+// Uses home games schedule, copied from
+// http://mlb.mlb.com/soa/ical/schedule.csv?home_team_id=111&season=2015
 
+var CSV = 'schedule.csv';
+
+// Use for testing
 var TEST = false;
 var TEST_DAY = '5/1/15';
 
-// http://localhost:8000/index.html
 // python -m SimpleHTTPServer
+// http://localhost:8000/index.html
 
-$(document).ready(setup);
+$(document).ready(init);
 
-function setup(){
+function init(){
   $.get(CSV, render);
 }
 
@@ -17,7 +20,7 @@ function render(data){
   var time = find_game_time(data);
   var msg = '?';
   if (time){
-    msg = 'Game today<br>at ' +  time.getHours() + ':' + time.getMinutes();
+    msg = 'Game today<br>at ' +  time_to_12hr(time);
     $('#game').addClass('on');
   } else {
     msg = 'No game today';
@@ -49,6 +52,14 @@ function find_game_time(data){
   return false;
 };
 
+// returns formatted time, e.g. '1:17pm'
+function time_to_12hr (date){
+  var spec = {hour: '2-digit', minute:'2-digit'};
+  return date.toLocaleTimeString(navigator.language, spec)
+             .toLowerCase().replace(' ', '');
+}
+
+// returns true if d1 is on the same day as d2. (ignores time)
 function equal_dates(d1, d2){
   return (d1.getDay()==d2.getDay() &&
 	  d1.getMonth()==d2.getMonth() &&
@@ -70,4 +81,3 @@ function parse_date(date, time){
 		   hr, parseInt(tvals[1]), 0, 0, 0);
   return d;
 }
-
