@@ -2,6 +2,7 @@ URL = 'http://sports.yahoo.com/mlb/teams/bos/ical.ics';
 CSV = 'schedule.csv';
 
 var TEST = false;
+var TEST_DAY = '5/1/15';
 
 // http://localhost:8000/index.html
 // python -m SimpleHTTPServer
@@ -32,7 +33,7 @@ function find_game_time(data){
   var n = rows.length;
   var today = new Date();
   if (TEST) {
-    today = new Date('9/26/14');
+    today = new Date(TEST_DAY);
   }
   for (var i = 1; i < n; i++) {
     var row = rows[i];
