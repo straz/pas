@@ -5,7 +5,7 @@ var CSV = 'schedule.csv';
 
 // Use for testing
 var TEST = false;
-var TEST_DAY = '5/1/15';
+var TEST_DAY = '5/7/15';
 
 // python -m SimpleHTTPServer
 // http://localhost:8000/index.html
@@ -61,9 +61,9 @@ function time_to_12hr (date){
 
 // returns true if d1 is on the same day as d2. (ignores time)
 function equal_dates(d1, d2){
-  return (d1.getDay()==d2.getDay() &&
+  return (d1.getDate()==d2.getDate() &&
 	  d1.getMonth()==d2.getMonth() &&
-	  d1.getYear()==d2.getYear());
+	  d1.getFullYear()==d2.getFullYear());
 }
 
 // input: "02/27/14", "01:05 PM"
