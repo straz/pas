@@ -123,3 +123,8 @@
    original: 'http://www.idc.com/getdoc.jsp?containerId=255756',
    title: "Fundamental Elements of Effective Cyberdefense",
    url: 'http://www.idc.com/getdoc.jsp?containerId=255756'}
+- {date: 2015-5,
+   desc: IDC Study Available ($),
+   original: 'http://www.idc.com/getdoc.jsp?containerId=255855',
+   title: "Dealing with Cyberextortion",
+   url: 'http://www.idc.com/getdoc.jsp?containerId=255855'}
