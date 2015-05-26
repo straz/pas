@@ -871,6 +871,10 @@
   pdf: 2Mb, title: 'The DoD CIO Charter: A Template for IT Governance?', url: 'http://www.strassmann.com/pubs/gmu/CIOV1full.pdf'}
 - {date: 2011-9, desc: GMU, full_date: 2011-09-01, title: Reader on Cyber Operations,
   url: 'http://www.strassmann.com/pubs/gmu/cyber-operations.pdf'}
+- {date: 2015-5-26, desc: GuruFocus, full_date: 2015-05-26, original: 'http://www.gurufocus.com/news/337995',
+  title: 'Economic Indicators Worth Watching: Trends In GNP', url: 'http://www.gurufocus.com/news/337995'}
+- {date: 2015-5-25, desc: GuruFocus, full_date: 2015-05-25, original: 'http://www.gurufocus.com/news/337797',
+  title: 'Indicators Worth Watching: GNP Anomalies', url: 'http://www.gurufocus.com/news/337797'}
 - {date: 2003-6, desc: Harvard Business Review, full_date: 2003-06-01, title: A Retrospective
     Forecast of the Future, url: 'http://www.strassmann.com/pubs/hbr/carr-letter.html'}
 - {date: 2003-6, desc: Harvard Business Review, full_date: 2003-06-01, original: 'http://harvardbusinessonline.hbsp.harvard.edu/b01/en/files/misc/Web_Letters.pdf',
