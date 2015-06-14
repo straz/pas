@@ -1,5 +1,5 @@
 ---
-title: We Fought Back
+title: We Fought Back - Paul Strassmann's experiences as a partisan
 date: 2012-9
 original: http://www.scholastic.com/teachers/book/we-fought-back
 author: Allan Zullo
@@ -44,6 +44,8 @@ hundreds of radio and television shows, including Good Morning
 America, The Today Show and David Letterman. He lives in Fairview,
 North Carolina.
 
+# How to Order
+* from [Scholastic](http://www.scholastic.com/teachers/book/we-fought-back).
+* from [Amazon](http://www.amazon.com/We-Fought-Back-Resisters-Holocaust/dp/0545531799)
 * ISBN-10: 0545531799
 * ISBN-13: 978-0545531795
-* [Amazon](http://www.amazon.com/We-Fought-Back-Resisters-Holocaust/dp/0545531799)

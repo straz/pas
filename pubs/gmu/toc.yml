@@ -10,9 +10,11 @@
     Network Centric Systems on a Cloud, url: '2009-10-14-cloud.pdf'}
 - {date: '2009-10-13', desc: George Mason University, pdf: 18MB, title: Asymmetric
     Cyber Warfare, url: '2009-10-13-cyberwar.pdf'}
-- {date: 2009-5, desc: 'Commencement, George Mason University', title: Honorary Doctorate
-    conferred on Paul A. Strassmann, url: '2009-gmu-ceremony.mov',
-  video: '2:10'}
+- {date: 2009-5, 
+   desc: 'George Mason University', 
+   title: 'Commencement: Honorary Doctorate conferred on Paul A. Strassmann (video)', 
+   url: '2009-gmu-ceremony.mov',
+   video: '2:10'}
 - {date: 2009-2-23, desc: 'Lecture Poster, George Mason University', pdf: 2.2MB, title: Management
     of a Network Operations Center (NOC), url: '2009-02-23-poster.pdf'}
 - {date: 2009-4-2, desc: '2009 SOA Symposium: Government and Industry Best Practices
