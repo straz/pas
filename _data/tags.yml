@@ -4,6 +4,7 @@
 - {tag: GCN, full: Government Computer News}
 - {tag: AFCEA, full: AFCEA Signal, intro: true}
 - {tag: Congress, full: Congressional Testimony}
+- {tag: gurufocus, full: GuruFocus}
 - {tag: Computerworld, full: Computerworld, intro: true}
 - {tag: Infoworld, full: Infoworld}
 - {tag: SearchSecurity, full: SearchSecurity}
@@ -12,7 +13,6 @@
 - {tag: KM, full: Knowledge Management Magazine}
 - {tag: Datamation, full: Datamation}
 - {tag: cio, full: CIO}
-- {tag: gurufocus, full: gurufocus}
 - {tag: defense, full: defense, also: [security]}
 - {tag: security, full: security, also: [defense]}
 - {tag: outsourcing, full: outsourcing}
