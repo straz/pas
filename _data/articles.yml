@@ -871,6 +871,8 @@
   pdf: 2Mb, title: 'The DoD CIO Charter: A Template for IT Governance?', url: 'http://www.strassmann.com/pubs/gmu/CIOV1full.pdf'}
 - {date: 2011-9, desc: GMU, full_date: 2011-09-01, title: Reader on Cyber Operations,
   url: 'http://www.strassmann.com/pubs/gmu/cyber-operations.pdf'}
+- {date: 2015-7-9, desc: GuruFocus, full_date: 2015-07-09, original: 'http://www.gurufocus.com/news/345512',
+  title: Guru Investments Vs. Mutual Funds, url: 'http://www.gurufocus.com/news/345512'}
 - {date: 2015-5-26, desc: GuruFocus, full_date: 2015-05-26, original: 'http://www.gurufocus.com/news/337995',
   title: 'Economic Indicators Worth Watching: Trends In GNP', url: 'http://www.gurufocus.com/news/337995'}
 - {date: 2015-5-25, desc: GuruFocus, full_date: 2015-05-25, original: 'http://www.gurufocus.com/news/337797',
