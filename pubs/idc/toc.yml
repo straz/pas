@@ -128,3 +128,8 @@
    original: 'http://www.idc.com/getdoc.jsp?containerId=255855',
    title: "Dealing with Cyberextortion",
    url: 'http://www.idc.com/getdoc.jsp?containerId=255855'}
+- {date: 2016-3,
+   desc: IDC Study Available ($),
+   original: 'http://www.idc.com/getdoc.jsp?containerId=US41081516',
+   title: "IT Security: Password Policy and Management",
+   url: 'http://www.idc.com/getdoc.jsp?containerId=US41081516'}

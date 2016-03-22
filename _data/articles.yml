@@ -950,6 +950,8 @@
   title: Fundamental Elements of Effective Cyberdefense, url: 'http://www.idc.com/getdoc.jsp?containerId=255756'}
 - {date: 2015-5, desc: IDC Study Available ($), full_date: 2015-05-01, original: 'http://www.idc.com/getdoc.jsp?containerId=255855',
   title: Dealing with Cyberextortion, url: 'http://www.idc.com/getdoc.jsp?containerId=255855'}
+- {date: 2016-3, desc: IDC Study Available ($), full_date: 2016-03-01, original: 'http://www.idc.com/getdoc.jsp?containerId=US41081516',
+  title: 'IT Security: Password Policy and Management', url: 'http://www.idc.com/getdoc.jsp?containerId=US41081516'}
 - {coverart: 2003-09-cover.gif, date: 2003-10, desc: Information Economics Journal,
   full_date: 2003-10-01, title: Getting better value from information management,
   url: 'http://www.strassmann.com/pubs/iej/2003-09.html'}
