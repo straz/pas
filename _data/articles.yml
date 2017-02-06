@@ -43,8 +43,6 @@
   title: 'Where are they now: Paul Strassmann', url: 'http://pubs.strassmann.com/gcn/2002-10-7.html'}
 - {date: 2002-10, desc: Spaceref.com, full_date: 2002-10-01, original: 'http://www.strassmann.com/pubs/nasa/2002-10-spaceref.html',
   title: NASA's 'One NASA' Chief Evangelist, url: 'http://pubs.strassmann.com/nasa/2002-10-spaceref.html'}
-- {date: 2002-9, desc: Butler Group Review, full_date: 2002-09-01, original: 'http://www.butlergroup.com/downloads/BGReviewSep02.pdf',
-  pdf: 40kb, title: Why ROI ratios are now crucial to IT investment, url: 'http://pubs.strassmann.com/bg/2002-9.pdf'}
 - {date: 2002-8-12, desc: Aviation Week &amp; Space Technology, full_date: 2002-08-12,
   title: Top NASA managers are developing plans, url: 'http://pubs.strassmann.com/aviweek/2002-8-12.shtml'}
 - {date: 2002-8-5, desc: Chief Information Officers Council, full_date: 2002-08-05,
@@ -95,8 +93,6 @@
     ]', title: McNeil-Lehrer News Hour, url: 'http://www.pbs.org/newshour/bb/cyberspace/jan-june00/y2k_1-5.html'}
 - {date: '1999-11-10', desc: Canberra Times, full_date: 1999-11-10, title: Measurement
     Recommended, url: 'http://pubs.strassmann.com/canberra/'}
-- {date: 1999-9, desc: Press Release, full_date: 1999-09-01, title: Butler Group to
-    retain Paul Strassmann, url: 'http://www.butlergroup.com/press/pressrel/52.asp'}
 - {date: 1999-8, desc: 'by Peter Golden, Electronic Business', full_date: 1999-08-01,
   title: The Partisan, url: 'http://pubs.strassmann.com/ebiz0899/'}
 - {date: 1999-8, desc: 'by Paul Strassmann and Danek Bienkowski, ABT Corp. White Paper',
