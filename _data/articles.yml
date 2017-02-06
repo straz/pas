@@ -457,6 +457,15 @@
   pdf: 28kb, title: 'Measuring Value: Does Your Tech Budget Have Teeth?', url: 'http://www.strassmann.com/pubs/baseline/2005-05-b.pdf'}
 - {date: 2005-3, desc: Baseline Magazine, full_date: 2005-03-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Does-Outsourcing-Deliver-the-Goods/',
   pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: 'http://www.strassmann.com/pubs/baseline/2005-03.pdf'}
+- {date: 2002-9, desc: Butler Group Review, full_date: 2002-09-01, original: 'http://www.butlergroup.com/downloads/BGReviewSep02.pdf',
+  pdf: 40kb, title: Why ROI ratios are now crucial to IT investment, url: 'http://pubs.strassmann.com/bg/2002-9.pdf'}
+- {date: 2000-5-16, desc: Butler Group, full_date: 2000-05-16, title: 'Seminar: London',
+  url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
+- {date: 1999-9, desc: Press Release, full_date: 1999-09-01, title: Butler Group to
+    retain Paul Strassmann, url: 'http://www.butlergroup.com/press/pressrel/52.asp'}
+- {date: 2001-7-26, desc: 'Concept Report, Butler Group', full_date: 2001-07-26, title: 'The
+    Economics of Information: The Relationship Between IT Spending, Profits, and Knowledge
+    Capital&reg;', url: 'http://www.strassmann.com/pubs/bg/economics-of-information.pdf'}
 - {date: 1999-3-21, desc: BizCase, full_date: 1999-03-21, title: Introduction to BizCase
     Software, url: 'http://www.strassmann.com/pubs/bizcase/intro.html'}
 - {date: 2008-5-19, desc: Multichannel News, full_date: 2008-05-19, original: 'http://www.multichannel.com/article/CA6561899.html',
