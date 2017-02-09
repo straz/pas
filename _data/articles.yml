@@ -1052,9 +1052,9 @@
 - {date: 1943-1, desc: 'From ''Anthropology on Armed Jewish Resistance, 1939-1945'',
     ed. by Isaac Kowalski, Jewish Combatants Pub House, June 1986', full_date: 1943-01-01,
   original: 'https://www.ushmm.org/online/hsv/source_view.php?SourceId=29772', pdf: 7MB,
-  title: Boy Partisan Aids in Destruction of Freight Train, url: 'http://www.strassmann.com/pubs/misc/resistance-anthology.pdf'}
+  render_date: '', title: Boy Partisan Aids in Destruction of Freight Train, url: 'http://www.strassmann.com/pubs/misc/resistance-anthology.pdf'}
 - {date: 1940-1, desc: US Holocaust Museum, full_date: 1940-01-01, original: 'https://collections.ushmm.org/search/catalog/irn531287',
-  pdf: 142KB, title: Paul Strassmann Archival Collection, url: 'http://www.strassmann.com/pubs/misc/holocaust-museum.pdf'}
+  pdf: 142KB, render_date: '1940', title: Paul Strassmann Archival Collection, url: 'http://www.strassmann.com/pubs/misc/holocaust-museum.pdf'}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, full_date: 2012-09-01, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back - Paul Strassmann's experiences as a partisan, url: 'http://www.strassmann.com/pubs/misc/we-fought.html'}
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, title: Ten Thousand Years of

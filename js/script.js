@@ -171,13 +171,17 @@ function render_original(article, ext){
 function render_article(article){
   var ext = render_extension(article);
   var original = render_original(article, ext);
+  var date = pretty_date(article);
+  if ('render_date' in article){
+    date = article.render_date;
+  }
   return $('<li/>').append($('<a/>').attr('href', article.url)
 			   .addClass('article')
 			   .html(article.title),
 			   ext, original,
 			   $('<br/>'),
 			   $('<span/>').attr('class','post-meta')
-			   .html(article.desc + ', ' + pretty_date(article)));
+			   .html(article.desc + ', ' + date));
 }
 
 //-------------

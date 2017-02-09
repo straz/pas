@@ -39,6 +39,7 @@
    title: The Xerox Exhibit Catalog, 
    url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
 - { date: 1943-1,
+    render_date: '',
     desc: "From 'Anthropology on Armed Jewish Resistance, 1939-1945', ed. by Isaac Kowalski, \
 Jewish Combatants Pub House, June 1986",
     pdf: 7MB,
@@ -46,6 +47,7 @@ Jewish Combatants Pub House, June 1986",
     original: 'https://www.ushmm.org/online/hsv/source_view.php?SourceId=29772',
     url: resistance-anthology.pdf}
 - { date: 1940-1,
+    render_date: '1940',
     desc: "US Holocaust Museum",
     pdf: 142KB,
     title: Paul Strassmann Archival Collection,
