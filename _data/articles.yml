@@ -455,8 +455,6 @@
   pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: 'http://www.strassmann.com/pubs/baseline/2005-03.pdf'}
 - {date: 2002-9, desc: Butler Group Review, full_date: 2002-09-01, original: 'http://www.butlergroup.com/downloads/BGReviewSep02.pdf',
   pdf: 40kb, title: Why ROI ratios are now crucial to IT investment, url: 'http://pubs.strassmann.com/bg/2002-9.pdf'}
-- {date: 2000-5-16, desc: Butler Group, full_date: 2000-05-16, title: 'Seminar: London',
-  url: 'http://www.strassmann.com/talks/one-talk.php?talk=22'}
 - {date: 1999-9, desc: Press Release, full_date: 1999-09-01, title: Butler Group to
     retain Paul Strassmann, url: 'http://www.butlergroup.com/press/pressrel/52.asp'}
 - {date: 2001-7-26, desc: 'Concept Report, Butler Group', full_date: 2001-07-26, title: 'The
@@ -1051,6 +1049,12 @@
   note: Winter 2002, title: 'Technology Leadership: What''s It Worth?', url: 'http://www.strassmann.com/pubs/misc/LeadertoLeader0202.html'}
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, pdf: 419MB, title: The Xerox
     Exhibit Catalog, url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
+- {date: 1943-1, desc: 'From ''Anthropology on Armed Jewish Resistance, 1939-1945'',
+    ed. by Isaac Kowalski, Jewish Combatants Pub House, June 1986', full_date: 1943-01-01,
+  original: 'https://www.ushmm.org/online/hsv/source_view.php?SourceId=29772', pdf: 7MB,
+  title: Boy Partisan Aids in Destruction of Freight Train, url: 'http://www.strassmann.com/pubs/misc/resistance-anthology.pdf'}
+- {date: 1940-1, desc: US Holocaust Museum, full_date: 1940-01-01, original: 'https://collections.ushmm.org/search/catalog/irn531287',
+  pdf: 142KB, title: Paul Strassmann Archival Collection, url: 'http://www.strassmann.com/pubs/misc/holocaust-museum.pdf'}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, full_date: 2012-09-01, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back - Paul Strassmann's experiences as a partisan, url: 'http://www.strassmann.com/pubs/misc/we-fought.html'}
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, title: Ten Thousand Years of
