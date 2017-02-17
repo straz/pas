@@ -1050,7 +1050,7 @@
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, pdf: 419MB, title: The Xerox
     Exhibit Catalog, url: 'http://pubs.strassmann.com/files/xerox-catalog.pdf'}
 - {date: 1943-1, desc: 'From ''Anthropology on Armed Jewish Resistance, 1939-1945'',
-    ed. by Isaac Kowalski, Jewish Combatants Pub House, June 1986', full_date: 1943-01-01,
+    ed. by Isaac Kowalski, Jewish Combatants Publishers House (June 1984)', full_date: 1943-01-01,
   original: 'https://www.ushmm.org/online/hsv/source_view.php?SourceId=29772', pdf: 7MB,
   render_date: '', title: Boy Partisan Aids in Destruction of Freight Train, url: 'http://www.strassmann.com/pubs/misc/resistance-anthology.pdf'}
 - {date: 1940-1, desc: US Holocaust Museum, full_date: 1940-01-01, original: 'https://collections.ushmm.org/search/catalog/irn531287',
@@ -1128,6 +1128,8 @@
   title: 'Is There a Computer Paradox?', url: 'http://www.strassmann.com/talks/one-talk.php?talk=2'}
 - {date: 2000-9, desc: InfowarCon 2000, full_date: 2000-09-01, note: '<A href="http://www.strassmann.com/pubs/infowar.pdf">Slides</a>
     (1.3Mb)', title: The Economics of Information Security, url: 'http://www.strassmann.com/talks/one-talk.php?talk=25'}
+- {date: 2015-1-1, desc: New Canaan Open Access TV, full_date: 2015-01-01, title: 'Cyber
+    Crime: Threats and Protections', url: 'https://vimeo.com/117651967'}
 - {date: 1990-7-11, desc: United States Holocaust Memorial Museum, full_date: 1990-07-11,
   note: full video also available, original: 'http://collections.ushmm.org/oh_findingaids/RG-50.030.0227_trs_en.pdf',
   pdf: 125KB, ref: RG-50.030*0227, title: Interview with Paul Strassmann (1990), url: 'http://www.strassmann.com/pubs/ushmm/1990-interview.pdf'}

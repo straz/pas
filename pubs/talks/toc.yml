@@ -67,3 +67,8 @@
    broken: true,
    url: 'http://www.strassmann.com/talks/one-talk.php?talk=108'}
 
+- {date: 2015-1-1, 
+   desc: 'New Canaan Open Access TV', 
+   title: 'Cyber Crime: Threats and Protections', 
+   url: 'https://vimeo.com/117651967'}
+
