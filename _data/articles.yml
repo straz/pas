@@ -1055,6 +1055,10 @@
   render_date: '', title: Boy Partisan Aids in Destruction of Freight Train, url: 'http://www.strassmann.com/pubs/misc/resistance-anthology.pdf'}
 - {date: 1940-1, desc: US Holocaust Museum, full_date: 1940-01-01, original: 'https://collections.ushmm.org/search/catalog/irn531287',
   pdf: 142KB, render_date: '1940', title: Paul Strassmann Archival Collection, url: 'http://www.strassmann.com/pubs/misc/holocaust-museum.pdf'}
+- {date: 2017-7-18, desc: New Canaan Exchange Club, full_date: 2017-07-18, pdf: 2.7MB,
+  title: Cyber Warfare, url: 'http://www.strassmann.com/pubs/misc/2017-7-Cyber Warfare3.pdf'}
+- {date: 2017-7, desc: New Canaan Senior Men's Club, full_date: 2017-07-01, pdf: 2MB,
+  title: Managing a Portfolio During a Recession, url: 'http://www.strassmann.com/pubs/misc/2017-7-Recession-portfolios.pdf'}
 - {author: Allan Zullo, date: 2012-9, desc: Scholastic, full_date: 2012-09-01, original: 'http://www.scholastic.com/teachers/book/we-fought-back',
   title: We Fought Back - Paul Strassmann's experiences as a partisan, url: 'http://www.strassmann.com/pubs/misc/we-fought.html'}
 - {date: 1977-1, desc: Xerox, full_date: 1977-01-01, title: Ten Thousand Years of
