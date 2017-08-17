@@ -1070,6 +1070,10 @@
 - {author: Thomas C. Hayes, date: &id006 1981-10-11, desc: The New York Times, full_date: *id006,
   original: 'http://www.nytimes.com/1981/10/11/jobs/the-office-of-the-future-is-it-a-new-land-of-opportunity.html',
   title: 'The Office Of The Future: Is It A New Land Of Opportunity?', url: 'http://www.strassmann.com/pubs/nytimes/1981-office-future.html'}
+- {author: Andrew Pollack, date: 1999-5-3, desc: The New York Times, full_date: 1999-05-03,
+  original: 'http://www.nytimes.com/1999/05/03/business/for-coders-a-code-of-conduct-2000-problem-tests-professionalism-of-programmers.html',
+  title: 'For Coders, a Code of Conduct; 2000 Problem Tests Professionalism of Programmers',
+  url: 'http://www.strassmann.com/pubs/nytimes/1999-y2k.html'}
 - {date: 2003-6, desc: SAIC Employee Update Magazine, full_date: 2003-06-01, pdf: 72kb,
   title: Strassmann on the future of IT, url: 'http://www.strassmann.com/pubs/saic/april-2003.pdf'}
 - {alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security',

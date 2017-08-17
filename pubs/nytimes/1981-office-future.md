@@ -23,7 +23,7 @@ Sales and senior service employees in computer manufacturing and
 service companies are expected to earn $65,000 to $100,000, after
 inflation, in 1990. Moreover, people skilled in computer technology
 and computer applications will have greater freedom in picking an
-employer, geographic location and work proj ec ts than most of those
+employer, geographic location and work projects than most of those
 who shun the computer.
 
 In a study completed earlier this year, the American Electronics
@@ -32,7 +32,7 @@ nearly 200,000 college graduates with electronics engineering and
 computer science degrees through 1985. But given current and projected
 enrollments, only a third of the new graduates needed, or about
 70,000, are expected to be available in the next four years. The
-shortag e in filling jobs produced by the information revolutionis not
+shortage in filling jobs produced by the information revolutionis not
 limite d to engineers. According to the Labor Department&rsquo;s Bureau of
 Lab or Statistics, the demand for mechanics to service dataprocessing
 machines will nearly triple by 1990, to as many as 172,000.
@@ -114,7 +114,7 @@ understanding of the technology of telecommunications - how data is
 transmitted over telephone lines or via satellite.
 
 &ldquo;You will have to understand radio, satellites, television
-transmission, cable and so forth,&rdquo; Mr. Strassman said, &ldquo;if you want
+transmission, cable and so forth,&rdquo; Mr. Strassmann said, &ldquo;if you want
 to be in a position to have computing machines talk to other machines,
 talk to human beings or how human beings talk with the machines.&rdquo;
 
@@ -131,7 +131,7 @@ statistics and health, another is working for a master&rsquo;s degree
 in computer-simulated decision-making in organizations and the third
 is embarking on an undergraduate specialty in computer-science.
 
-The youngest Strassman, who entered Harvard this month, is president
+The youngest Strassmann, who entered Harvard this month, is president
 of his own computer company, which sells programs to teachers of high
 school physics courses.
 
