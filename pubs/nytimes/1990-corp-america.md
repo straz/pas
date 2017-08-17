@@ -11,7 +11,7 @@ date: 1990-12-31
 
 Robert W. Hall, a professor at the Indiana University School of Business, referring to buyers of Harley-Davidson motorcycles.
 
-> "What Saudi Arabia is to oil, the United States is to entertaient."
+> "What Saudi Arabia is to oil, the United States is to entertainment."
 
 Raymond Katz, an analyst for Shearson Lehman, describing the appeal of Hollywood studios to foreign investors.
 

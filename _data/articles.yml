@@ -1073,6 +1073,9 @@
 - {author: Editorial staff, date: &id007 1990-12-31, desc: The New York Times, full_date: *id007,
   original: 'http://www.nytimes.com/1990/12/31/business/a-few-words-about-corporate-america.html',
   title: A Few Words About Corporate America, url: 'http://www.strassmann.com/pubs/nytimes/1990-corp-america.html'}
+- {author: Steve Lohr, date: 1999-4-14, desc: The New York Times, full_date: 1999-04-14,
+  original: 'http://www.nytimes.com/1999/04/14/business/computer-age-gains-respect-of-economists.html',
+  title: Computer Age Gains Respect of Economists, url: 'http://www.strassmann.com/pubs/nytimes/1999-computer-age-economists.html'}
 - {author: Andrew Pollack, date: 1999-5-3, desc: The New York Times, full_date: 1999-05-03,
   original: 'http://www.nytimes.com/1999/05/03/business/for-coders-a-code-of-conduct-2000-problem-tests-professionalism-of-programmers.html',
   title: 'For Coders, a Code of Conduct; 2000 Problem Tests Professionalism of Programmers',
