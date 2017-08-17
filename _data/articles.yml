@@ -1067,13 +1067,16 @@
     1953-1954, url: 'http://www.strassmann.com/pubs/mit/early-computing.html'}
 - {date: 2003-9, desc: Microsoft Executive Circle, full_date: 2003-09-01, note: Fall
     2003, pdf: 639kb, title: Budgeting for IT in Hard Times, url: 'http://www.strassmann.com/pubs/ms/ms-budgeting.pdf'}
+- {author: Thomas C. Hayes, date: &id006 1981-10-11, desc: The New York Times, full_date: *id006,
+  original: 'http://www.nytimes.com/1981/10/11/jobs/the-office-of-the-future-is-it-a-new-land-of-opportunity.html',
+  title: 'The Office Of The Future: Is It A New Land Of Opportunity?', url: 'http://www.strassmann.com/pubs/nytimes/1981-office-future.html'}
 - {date: 2003-6, desc: SAIC Employee Update Magazine, full_date: 2003-06-01, pdf: 72kb,
   title: Strassmann on the future of IT, url: 'http://www.strassmann.com/pubs/saic/april-2003.pdf'}
 - {alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security',
   date: 2000-9-28, desc: SearchSecurity, full_date: 2000-09-28, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1',
   title: 'Art of budgeting: How to explain spending on information security (Part
     1)', url: 'http://www.strassmann.com/pubs/searchsecurity/art-of-budgeting-p1.html'}
-- {date: &id006 2000-12-11, desc: SearchSecurity, full_date: *id006, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
+- {date: &id007 2000-12-11, desc: SearchSecurity, full_date: *id007, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
   title: 'Art of budgeting: How to ask for money for information security (Part 2)',
   url: 'http://www.strassmann.com/pubs/searchsecurity/art-of-budgeting-p2.html'}
 - {date: 2001-1-12, desc: SearchSecurity, full_date: 2001-01-12, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-Part-3',
@@ -1082,7 +1085,7 @@
   title: Problems with authentication, url: 'http://www.strassmann.com/pubs/searchsecurity/authentication.html'}
 - {date: 2001-9-18, desc: SearchSecurity, full_date: 2001-09-18, original: 'http://searchsecurity.techtarget.com/news/770686/Govt-should-blaze-global-information-warfare-trails',
   title: Govt. should blaze global information warfare trails, url: 'http://www.strassmann.com/pubs/searchsecurity/govt-info-warfare.html'}
-- {date: &id007 2001-10-23, desc: SearchSecurity, full_date: *id007, original: 'http://searchsecurity.techtarget.com/news/777355/Executive-Security-Briefing-How-to-manage-remote-workforce-security',
+- {date: &id008 2001-10-23, desc: SearchSecurity, full_date: *id008, original: 'http://searchsecurity.techtarget.com/news/777355/Executive-Security-Briefing-How-to-manage-remote-workforce-security',
   title: How to manage remote workforce security, url: 'http://www.strassmann.com/pubs/searchsecurity/remote-workforce.html'}
 - {date: 2001-3-22, desc: SearchSecurity, full_date: 2001-03-22, original: 'http://searchsecurity.techtarget.com/tip/Individual-rights-vs-corporate-controls-for-PCs',
   title: Individual rights vs. corporate controls for PCs, url: 'http://www.strassmann.com/pubs/searchsecurity/rights-vs-controls.html'}
