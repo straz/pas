@@ -1073,6 +1073,9 @@
 - {author: Editorial staff, date: &id007 1990-12-31, desc: The New York Times, full_date: *id007,
   original: 'http://www.nytimes.com/1990/12/31/business/a-few-words-about-corporate-america.html',
   title: A Few Words About Corporate America, url: 'http://www.strassmann.com/pubs/nytimes/1990-corp-america.html'}
+- {author: Peter H. Lewis, date: 1994-7-21, desc: The New York Times, full_date: 1994-07-21,
+  original: 'http://www.nytimes.com/1994/07/21/us/computer-snoopers-imperil-pentagon-files-experts-say.html',
+  title: 'Computer Snoopers Imperil Pentagon Files, Experts Say', url: 'http://www.strassmann.com/pubs/nytimes/1994-snoopers.html'}
 - {author: Steve Lohr, date: 1999-4-14, desc: The New York Times, full_date: 1999-04-14,
   original: 'http://www.nytimes.com/1999/04/14/business/computer-age-gains-respect-of-economists.html',
   title: Computer Age Gains Respect of Economists, url: 'http://www.strassmann.com/pubs/nytimes/1999-computer-age-economists.html'}
