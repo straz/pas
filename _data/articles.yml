@@ -1083,6 +1083,9 @@
   original: 'http://www.nytimes.com/1999/05/03/business/for-coders-a-code-of-conduct-2000-problem-tests-professionalism-of-programmers.html',
   title: 'For Coders, a Code of Conduct; 2000 Problem Tests Professionalism of Programmers',
   url: 'http://www.strassmann.com/pubs/nytimes/1999-y2k.html'}
+- {author: Steve Lohr, date: 2003-6-23, desc: The New York Times, full_date: 2003-06-23,
+  original: 'http://www.nytimes.com/2003/06/23/business/the-tech-rebound-that-isn-t-quite.html',
+  title: The Tech Rebound That Isn't Quite, url: 'http://www.strassmann.com/pubs/nytimes/2003-rebound.html'}
 - {date: 2003-6, desc: SAIC Employee Update Magazine, full_date: 2003-06-01, pdf: 72kb,
   title: Strassmann on the future of IT, url: 'http://www.strassmann.com/pubs/saic/april-2003.pdf'}
 - {alt-original: 'http://searchsecurity.techtarget.com/news/342748/In-Your-Defense-How-to-explain-spending-on-information-security',
