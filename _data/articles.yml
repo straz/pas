@@ -1162,6 +1162,10 @@
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, full_date: 2012-11-07,
   original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
   title: Commentary, url: 'http://www.strassmann.com/pubs/usni/2012-7.html'}
+- {date: 1998-3, desc: American Programmer, full_date: 1998-03-01, original: art.pdf,
+  title: 'Footnotes: The Value of Knowledge Capital', url: 'http://www.strassmann.com/pubs/valuekc/fn.html'}
+- {date: 1998-3, desc: American Programmer, full_date: 1998-03-01, original: art.pdf,
+  title: The Value of Knowledge Capital, url: 'http://www.strassmann.com/pubs/valuekc/index.html'}
 - {date: 2010-1-13, desc: ZDnet, full_date: 2010-01-13, original: 'http://www.zdnet.com/blog/btl/guest-post-government-gmail-use-following-googles-china-news/29511',
   summary: Paul Strassman outlines some of the technical issues raised for government
     agencies using Gmail in light of the China cyberattack on Google., title: Government
