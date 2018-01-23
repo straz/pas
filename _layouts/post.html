@@ -18,7 +18,7 @@ layout: default
   Dates: handle full dates (2014-12-4) or partial dates (2014-12) using two format strings
 {% endcomment %}
 {% if page.date %}
-  {% assign day = (page.date | date: "%-d") %}
+  {% assign day = page.date | date: "%-d" %}
   {% if day != page.date %}
     {{ page.date | date: "%B %-d, %Y" }}
   {% else %}

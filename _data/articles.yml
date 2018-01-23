@@ -1027,6 +1027,9 @@
 - {author: Stuart Silverstone, date: 1999-4, desc: 'Interview, Knowledge Management
     Magazine', full_date: 1999-04-01, title: 'What''s the Key to Implementing Knowledge
     Management?', url: 'http://www.strassmann.com/pubs/km/kmmag-0499.html'}
+- {author: 'Bob Brewin, Editor at Large', date: &id006 2014-05-13, desc: Nextgov,
+  full_date: *id006, original: 'http://www.nextgov.com/cio-briefing/2014/05/defense-plans-replace-19-year-old-retiree-pay-system/84355/',
+  title: Defense Plans to Replace 19-Year-Old Retiree Pay System, url: 'http://www.strassmann.com/pubs/misc/2014-nextgov.html'}
 - {date: 1949-9, desc: Memoir, full_date: 1949-09-01, title: Cooper Union Memories
     on the Occasion of the Gano Dunn Award, url: 'http://www.strassmann.com/pubs/misc/cooper-union.html'}
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, full_date: 2001-09-19,
@@ -1067,10 +1070,10 @@
     1953-1954, url: 'http://www.strassmann.com/pubs/mit/early-computing.html'}
 - {date: 2003-9, desc: Microsoft Executive Circle, full_date: 2003-09-01, note: Fall
     2003, pdf: 639kb, title: Budgeting for IT in Hard Times, url: 'http://www.strassmann.com/pubs/ms/ms-budgeting.pdf'}
-- {author: Thomas C. Hayes, date: &id006 1981-10-11, desc: The New York Times, full_date: *id006,
+- {author: Thomas C. Hayes, date: &id007 1981-10-11, desc: The New York Times, full_date: *id007,
   original: 'http://www.nytimes.com/1981/10/11/jobs/the-office-of-the-future-is-it-a-new-land-of-opportunity.html',
   title: 'The Office Of The Future: Is It A New Land Of Opportunity?', url: 'http://www.strassmann.com/pubs/nytimes/1981-office-future.html'}
-- {author: Editorial staff, date: &id007 1990-12-31, desc: The New York Times, full_date: *id007,
+- {author: Editorial staff, date: &id008 1990-12-31, desc: The New York Times, full_date: *id008,
   original: 'http://www.nytimes.com/1990/12/31/business/a-few-words-about-corporate-america.html',
   title: A Few Words About Corporate America, url: 'http://www.strassmann.com/pubs/nytimes/1990-corp-america.html'}
 - {author: Peter H. Lewis, date: 1994-7-21, desc: The New York Times, full_date: 1994-07-21,
@@ -1092,7 +1095,7 @@
   date: 2000-9-28, desc: SearchSecurity, full_date: 2000-09-28, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-explain-spending-on-information-security-Part-1',
   title: 'Art of budgeting: How to explain spending on information security (Part
     1)', url: 'http://www.strassmann.com/pubs/searchsecurity/art-of-budgeting-p1.html'}
-- {date: &id008 2000-12-11, desc: SearchSecurity, full_date: *id008, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
+- {date: &id009 2000-12-11, desc: SearchSecurity, full_date: *id009, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-How-to-ask-for-money-for-information-security-Part-2',
   title: 'Art of budgeting: How to ask for money for information security (Part 2)',
   url: 'http://www.strassmann.com/pubs/searchsecurity/art-of-budgeting-p2.html'}
 - {date: 2001-1-12, desc: SearchSecurity, full_date: 2001-01-12, original: 'http://searchsecurity.techtarget.com/tip/Art-of-budgeting-Part-3',
@@ -1101,7 +1104,7 @@
   title: Problems with authentication, url: 'http://www.strassmann.com/pubs/searchsecurity/authentication.html'}
 - {date: 2001-9-18, desc: SearchSecurity, full_date: 2001-09-18, original: 'http://searchsecurity.techtarget.com/news/770686/Govt-should-blaze-global-information-warfare-trails',
   title: Govt. should blaze global information warfare trails, url: 'http://www.strassmann.com/pubs/searchsecurity/govt-info-warfare.html'}
-- {date: &id009 2001-10-23, desc: SearchSecurity, full_date: *id009, original: 'http://searchsecurity.techtarget.com/news/777355/Executive-Security-Briefing-How-to-manage-remote-workforce-security',
+- {date: &id010 2001-10-23, desc: SearchSecurity, full_date: *id010, original: 'http://searchsecurity.techtarget.com/news/777355/Executive-Security-Briefing-How-to-manage-remote-workforce-security',
   title: How to manage remote workforce security, url: 'http://www.strassmann.com/pubs/searchsecurity/remote-workforce.html'}
 - {date: 2001-3-22, desc: SearchSecurity, full_date: 2001-03-22, original: 'http://searchsecurity.techtarget.com/tip/Individual-rights-vs-corporate-controls-for-PCs',
   title: Individual rights vs. corporate controls for PCs, url: 'http://www.strassmann.com/pubs/searchsecurity/rights-vs-controls.html'}
