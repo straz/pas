@@ -27,12 +27,18 @@
   title: Introduction to Virtualization, url: '2008-10.pdf'}
 - {date: '2006-10-16', desc: 'Lecture, George Mason University (slides)', ppt: 24MB,
   title: Data Strategy for the Transformation of Business Management, url: '2006-10.ppt'}
+- {date: '2006-10-16', desc: 'Lecture, George Mason University (video)',
+  title: Data Strategy for the Transformation of Business Management, 
+  url: "https://www.youtube.com/watch?v=cP8X-PpjzEA"  }
 - {date: 2008-2-25, desc: 'Lecture, George Mason University (slides)', pdf: 3.6MB,
   title: The Use of Portals in a Systems Architecture, url: '2008-2-slides.pdf'}
 - {date: 2008-1-9, desc: 'Lecture, George Mason University (slides)', pdf: 4.1Mb,
   title: Service Oriented Architecture (SOA) for DoD, url: '2008-1-9.pdf'}
 - {date: '2007-11-19', desc: 'Lecture, George Mason University (slides)', ppt: 1.9Mb,
   title: What is a Service Oriented Architecture, url: '2007-11-slides.ppt'}
+- {date: '2007-11-19', desc: 'Lecture, George Mason University (video)',
+  title: What is a Service Oriented Architecture,
+  url: 'https://www.youtube.com/watch?v=nRayJZmj2oY' }
 - {date: 2007-10-5, desc: Customer Briefing (slides), pdf: 944kb, title: The Economics
     of Outsourcing, url: 'outsourcing-v61.pdf'}
 - {date: 2007-3-27, desc: 'Lecture, George Mason University (slides)', pdf: 2Mb, title: Information
