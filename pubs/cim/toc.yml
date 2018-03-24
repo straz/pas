@@ -1,11 +1,20 @@
-- {date: 1991-4-23, desc: by Paul Strassmann, 
+- {date: 1993-5,
+   desc: '(CIM Explained) National Defense University',
+   title: Lifting the Fog of Corporate Information Management,
+   author: 'Lt. Col. Charles D. Miller, US Army',
+   pdf: 1.8mb,
+   url: 'CIM-explained.pdf'}
+- {date: 1991-4-23, desc: by Paul Strassmann,
+   tags: [Senate, Congress],
    title: Testimony before the House Armed Services Committee, url: 'cim.html'}
 - {date: 1991-4-24, desc: by Paul Strassmann, 
    original: 'http://www.defenselink.mil/nii/bpr/bprcd/278a.htm',
+   tags: [Senate, Congress],
    pdf: 636kb, 
    title: 'Statement Before the House Appropriations Committee, Defense Subcommittee', 
    url: '278a.pdf'}
 - {date: 1991-4-23, desc: by Paul Strassmann, 
+   tags: [Senate, Congress],
    original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
    pdf: 3.65Mb, 
    title: 'Statement Before House Armed Services Committee, Readiness Subcommittee', 

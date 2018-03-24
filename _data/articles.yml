@@ -923,14 +923,31 @@
     Issue: How to Explain and Justify the I.T. Budget (slides)', url: 'http://www.strassmann.com/pubs/gartner/howto-budgets.pdf'}
 - {date: 2003-9-22, desc: 'Keynote speech, Gartner AD Summit', full_date: 2003-09-22,
   title: 'The #1 CIO Issue: How to Explain and Justify the I.T. Budget', url: 'http://pair.strassmann.com/talks/one-talk.php?talk=109'}
-- {date: 1991-4-23, desc: by Paul Strassmann, full_date: 1991-04-23, title: Testimony
-    before the House Armed Services Committee, url: 'http://www.strassmann.com/pubs/cim/cim.html'}
-- {date: 1991-4-24, desc: by Paul Strassmann, full_date: 1991-04-24, original: 'http://www.defenselink.mil/nii/bpr/bprcd/278a.htm',
-  pdf: 636kb, title: 'Statement Before the House Appropriations Committee, Defense
-    Subcommittee', url: 'http://www.strassmann.com/pubs/cim/278a.pdf'}
-- {date: 1991-4-23, desc: by Paul Strassmann, full_date: 1991-04-23, original: 'http://www.defenselink.mil/nii/bpr/bprcd/269b.htm',
-  pdf: 3.65Mb, title: 'Statement Before House Armed Services Committee, Readiness
-    Subcommittee', url: 'http://www.strassmann.com/pubs/cim/269b.pdf'}
+- {author: 'Lt. Col. Charles D. Miller, US Army', date: 1993-5, desc: (CIM Explained)
+    National Defense University, full_date: 1993-05-01, pdf: 1.8mb, title: Lifting
+    the Fog of Corporate Information Management, url: 'http://www.strassmann.com/pubs/cim/CIM-explained.pdf'}
+- date: 1991-4-23
+  desc: by Paul Strassmann
+  full_date: 1991-04-23
+  tags: [Senate, Congress]
+  title: Testimony before the House Armed Services Committee
+  url: http://www.strassmann.com/pubs/cim/cim.html
+- date: 1991-4-24
+  desc: by Paul Strassmann
+  full_date: 1991-04-24
+  original: http://www.defenselink.mil/nii/bpr/bprcd/278a.htm
+  pdf: 636kb
+  tags: [Senate, Congress]
+  title: Statement Before the House Appropriations Committee, Defense Subcommittee
+  url: http://www.strassmann.com/pubs/cim/278a.pdf
+- date: 1991-4-23
+  desc: by Paul Strassmann
+  full_date: 1991-04-23
+  original: http://www.defenselink.mil/nii/bpr/bprcd/269b.htm
+  pdf: 3.65Mb
+  tags: [Senate, Congress]
+  title: Statement Before House Armed Services Committee, Readiness Subcommittee
+  url: http://www.strassmann.com/pubs/cim/269b.pdf
 - {date: 2005-3-29, desc: George Mason University, full_date: 2005-03-29, pdf: 2.5MB,
   title: The Structure of IT Spending as a Measure of Organizational Disorder, url: 'http://www.strassmann.com/pubs/gmu/2005-3-29.pdf'}
 - {date: 2010-4-22, desc: George Mason University, full_date: 2010-04-22, pdf: 7.8MB,
