@@ -1,7 +1,7 @@
 ---
 title: "Monkey Spectacles: An Allegorical Tale"
 desc: Cutter IT Journal
-date: 1997-8-2
+date: 1997-9-30
 original: "https://www.cutter.com/article/monkey-spectacles-allegorical-tale-406426"
 ---
 
@@ -82,8 +82,7 @@ or about one third of all profits earned by over 3,000 largest US
 Corporations in 1996.  This projection of Microsoft financial
 performance, for the next ten years, is based on 1996 growth
 rates. Ecologically it would be unreasonable to expect that monkeys
-can displace a large population of other animals.
-
+can displace a large population of other animals.<br/><br/>
 If that happens, Microsoft's revenues would be equal to three quarters
 of the combined global revenues of General Motors, Ford, Chrysler,
 Honda and Toyota in 1996.  Is it conceivable that Microsoft could
@@ -162,7 +161,7 @@ be an attractive source of revenue, especially as the complexity of
 software or hardware maintenance surpasses the competence of on-site
 experts.
 
-## The Cranial Implant Option:
+## The Cranial Implant Option
 
 The second approach to revenue and profit enhancement is much more
 promising, but more difficult to execute. What has been already
