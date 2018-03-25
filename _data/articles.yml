@@ -1066,6 +1066,8 @@
   url: 'http://www.strassmann.com/pubs/cable/future_of_cable.pdf'}
 - {date: '2005-10-10', desc: Multichannel Magazine, full_date: 2005-10-10, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
   pdf: 170kb, title: 'Is Google Cable''s Next Nightmare? No.', url: 'http://www.strassmann.com/pubs/cable/2005-10-google.pdf'}
+- {date: 1997-8-2, desc: Cutter IT Journal, full_date: 1997-08-02, original: 'https://www.cutter.com/article/monkey-spectacles-allegorical-tale-406426',
+  title: 'Monkey Spectacles: An Allegorical Tale', url: 'http://www.strassmann.com/pubs/cutter/monkey-spectacles.html'}
 - {date: 2004-8, desc: Cutter IT Journal, full_date: 2004-08-01, pdf: 144kb, title: Six
     Rules for Finding IT Value, url: 'http://www.strassmann.com/pubs/cutter/six-rules.pdf'}
 - {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Information Productivity
