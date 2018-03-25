@@ -1126,8 +1126,8 @@
     Capital&reg;', url: 'http://www.strassmann.com/pubs/bg/economics-of-information.pdf'}
 - {date: 2009-6-30, desc: Draft, full_date: 2009-06-30, pdf: 1.4MB, title: Cyber Security
     for the Department of Defense, url: 'http://www.strassmann.com/pubs/dod/cybersecurity-draft-v1.pdf'}
-- {date: 1992-5, desc: Draft, full_date: 1992-05-01, pdf: 7.3MB, title: Key Personnel
-    Locator, url: 'http://www.strassmann.com/pubs/dod/locator.pdf'}
+- {date: 1992-5, desc: US Department of Defense, full_date: 1992-05-01, pdf: 7.3MB,
+  title: Key Personnel Locator, url: 'http://www.strassmann.com/pubs/dod/locator.pdf'}
 - {date: 1994-9, desc: Datamation, full_date: 1994-09-01, title: CIOs Should Get Back
     To Basics, url: 'http://www.strassmann.com/pubs/datamation/cio-basics.html'}
 - {date: 1997-10, desc: 'Datamation, 40th Anniversary Special Issue', full_date: 1997-10-01,
