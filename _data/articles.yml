@@ -1066,7 +1066,7 @@
   url: 'http://www.strassmann.com/pubs/cable/future_of_cable.pdf'}
 - {date: '2005-10-10', desc: Multichannel Magazine, full_date: 2005-10-10, original: 'http://www.multichannel.com/news/orphan-articles/google-cables-next-nightmare-no/133142',
   pdf: 170kb, title: 'Is Google Cable''s Next Nightmare? No.', url: 'http://www.strassmann.com/pubs/cable/2005-10-google.pdf'}
-- {date: 1997-8-2, desc: Cutter IT Journal, full_date: 1997-08-02, original: 'https://www.cutter.com/article/monkey-spectacles-allegorical-tale-406426',
+- {date: 1997-9-30, desc: Cutter IT Journal, full_date: 1997-09-30, original: 'https://www.cutter.com/article/monkey-spectacles-allegorical-tale-406426',
   title: 'Monkey Spectacles: An Allegorical Tale', url: 'http://www.strassmann.com/pubs/cutter/monkey-spectacles.html'}
 - {date: 2004-8, desc: Cutter IT Journal, full_date: 2004-08-01, pdf: 144kb, title: Six
     Rules for Finding IT Value, url: 'http://www.strassmann.com/pubs/cutter/six-rules.pdf'}
@@ -1126,6 +1126,8 @@
     Capital&reg;', url: 'http://www.strassmann.com/pubs/bg/economics-of-information.pdf'}
 - {date: 2009-6-30, desc: Draft, full_date: 2009-06-30, pdf: 1.4MB, title: Cyber Security
     for the Department of Defense, url: 'http://www.strassmann.com/pubs/dod/cybersecurity-draft-v1.pdf'}
+- {date: 1992-5, desc: Draft, full_date: 1992-05-01, pdf: 7.3MB, title: Key Personnel
+    Locator, url: 'http://www.strassmann.com/pubs/dod/locator.pdf'}
 - {date: 1994-9, desc: Datamation, full_date: 1994-09-01, title: CIOs Should Get Back
     To Basics, url: 'http://www.strassmann.com/pubs/datamation/cio-basics.html'}
 - {date: 1997-10, desc: 'Datamation, 40th Anniversary Special Issue', full_date: 1997-10-01,
