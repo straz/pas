@@ -12,13 +12,14 @@ executive (1956-1978; 1990-1993, and 2002-2003), vice-president of
 strategic planning for office automation (1978-1985), and information
 systems researcher and professor (1986 to date).
 
-Mr. Strassmann is an Adjunct Research Advisor for the **International
-Data Corporation** and was Distinguished Professor of Information Sciences at
-**George Mason School of Information Technology**. He is Contributing Editor of
-the **Armed Forces Communications & Electronics Association Signal**
-magazine and serves as the Chairman of the Board of Directors of
-**Queralt**, a company that offers Radio Frequency Tag identification
-services for high-value objects.
+Mr. Strassmann was Distinguished Professor of Information Sciences at
+**George Mason School of Information Technology**. He is Contributing
+Editor of the **Armed Forces Communications & Electronics Association
+Signal** magazine and serves as the Chairman of the Board of Directors
+of **Queralt**, a company that offers Radio Frequency Tag
+identification services for high-value objects. He was leader of the
+InfoSecurity practice at the **International Data Corporation** and
+retired after that organization was sold to an international firm.
 
 He holds registered U.S. Trademarks for Return-on-Management&reg;,
 R-O-M&reg;, Information Productivity&reg; and Knowledge Capital&reg;.
