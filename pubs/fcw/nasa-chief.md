@@ -3,7 +3,8 @@ title: NASA tech chief defines new mission
 original: 'https://fcw.com/articles/2002/08/05/nasa-tech-chief-defines-new-mission.aspx'
 author: William Matthews
 date: 2002-8-5
-desc: FCW
+desc: Federal Computer Week
+tags: FCW
 ---
 
 NASA's acting chief information officer plans a dramatic overhaul of

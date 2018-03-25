@@ -3,7 +3,8 @@ title: Whatever happened to CIM?
 original: 'http://fcw.com/Articles/2004/03/14/Whatever-happened-to-CIM.aspx'
 author: John Moore
 date: 2004-3-14
-desc: FCW
+desc: Federal Computer Week
+tags: FCW
 ---
 
 The Pentagon's Corporate Information Management (CIM) initiative
