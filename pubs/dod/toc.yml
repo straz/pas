@@ -1,9 +1,11 @@
-- {date: 2009-6-30, 
-   desc: Draft, pdf: 1.4MB, 
-   title: Cyber Security for the Department of Defense, 
-   url: 'cybersecurity-draft-v1.pdf'}
-- {date: 1992-5,
-   pdf: 7.3MB,
-   desc: US Department of Defense,
-   title: Key Personnel Locator,
-   url: 'locator.pdf'}
+- date: 2009-6-30
+  desc: Draft
+  pdf: '1.4MB'
+  title: Cyber Security for the Department of Defense
+  url: 'cybersecurity-draft-v1.pdf'
+- date: 1992-5-1
+  pdf: '7.3MB'
+  desc: US Department of Defense
+  title: Key Personnel Locator
+  original: 'http://dcmo.defense.gov/Portals/47/Documents/PDSD/LocatorCharts/1992_MAY_01.pdf'
+  url: 'locator.pdf'

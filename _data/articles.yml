@@ -1090,6 +1090,18 @@
     Return On Management (ROM&reg;) Analysis, url: 'http://www.strassmann.com/pubs/consulting/ROM-intro/Intro_to_ROM.html'}
 - {date: &id010 2009-11-02, desc: Cooper Union, full_date: *id010, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
   pdf: 90KB, title: Pioneer Profile, url: 'http://www.strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
+- {date: 2017-3-5, desc: New Canaan SMC Investment Club, full_date: 2017-03-05, title: Rebalancing
+    Retirement Portfolio, url: 'http://www.strassmann.com/pubs/smc/2017-3-5 Rebalancing
+    Retirement Portfolio.pptx'}
+- {date: 2017-11-6, desc: New Canaan SMC Investment Club, full_date: 2017-11-06, title: Managing
+    a portfolio during a recession, url: 'http://www.strassmann.com/pubs/smc/2017-11-6
+    Managing during recession.pptx'}
+- {date: 2017-12-9, desc: New Canaan SMC Investment Club, full_date: 2017-12-09, title: Wealth
+    and Income inequality, url: 'http://www.strassmann.com/pubs/smc/2017-12-9 Wealth
+    and Income inequality.pptx'}
+- {date: 2018-2-7, desc: New Canaan SMC Investment Club, full_date: 2018-02-07, title: Economics
+    of Health Care, url: 'http://www.strassmann.com/pubs/smc/2018-2-7 Economics of
+    Health Care.pptx'}
 - {date: 2016-5, desc: New Canaan SMC Investment Club, full_date: 2016-05-01, title: Review
     of the Current Economic Situation, url: 'http://www.strassmann.com/pubs/smc/2016-6
     Review of Economy.pptx'}
@@ -1126,8 +1138,8 @@
     Capital&reg;', url: 'http://www.strassmann.com/pubs/bg/economics-of-information.pdf'}
 - {date: 2009-6-30, desc: Draft, full_date: 2009-06-30, pdf: 1.4MB, title: Cyber Security
     for the Department of Defense, url: 'http://www.strassmann.com/pubs/dod/cybersecurity-draft-v1.pdf'}
-- {date: 1992-5, desc: US Department of Defense, full_date: 1992-05-01, pdf: 7.3MB,
-  title: Key Personnel Locator, url: 'http://www.strassmann.com/pubs/dod/locator.pdf'}
+- {date: 1992-5-1, desc: US Department of Defense, full_date: 1992-05-01, original: 'http://dcmo.defense.gov/Portals/47/Documents/PDSD/LocatorCharts/1992_MAY_01.pdf',
+  pdf: 7.3MB, title: Key Personnel Locator, url: 'http://www.strassmann.com/pubs/dod/locator.pdf'}
 - {date: 1994-9, desc: Datamation, full_date: 1994-09-01, title: CIOs Should Get Back
     To Basics, url: 'http://www.strassmann.com/pubs/datamation/cio-basics.html'}
 - {date: 1997-10, desc: 'Datamation, 40th Anniversary Special Issue', full_date: 1997-10-01,
