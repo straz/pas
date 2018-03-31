@@ -1091,14 +1091,14 @@
 - {date: &id010 2009-11-02, desc: Cooper Union, full_date: *id010, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
   pdf: 90KB, title: Pioneer Profile, url: 'http://www.strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
 - {date: 2017-3-5, desc: New Canaan SMC Investment Club, full_date: 2017-03-05, title: Rebalancing
-    Retirement Portfolio, url: 'http://www.strassmann.com/pubs/smc/2017-3-5 Rebalancing
+    a Retirement Portfolio, url: 'http://www.strassmann.com/pubs/smc/2017-3-5 Rebalancing
     Retirement Portfolio.pptx'}
 - {date: 2017-11-6, desc: New Canaan SMC Investment Club, full_date: 2017-11-06, title: Managing
     a portfolio during a recession, url: 'http://www.strassmann.com/pubs/smc/2017-11-6
     Managing during recession.pptx'}
 - {date: 2017-12-9, desc: New Canaan SMC Investment Club, full_date: 2017-12-09, title: Wealth
-    and Income inequality, url: 'http://www.strassmann.com/pubs/smc/2017-12-9 Wealth
-    and Income inequality.pptx'}
+    and Income Inequality, url: 'http://www.strassmann.com/pubs/smc/2017-12-9 Wealth
+    and Income Inequality.pptx'}
 - {date: 2018-2-7, desc: New Canaan SMC Investment Club, full_date: 2018-02-07, title: Economics
     of Health Care, url: 'http://www.strassmann.com/pubs/smc/2018-2-7 Economics of
     Health Care.pptx'}
