@@ -1,3 +1,13 @@
+- {date: 2017-4-3,
+   desc: JBS,
+   tags: ['video'],
+   title: 'Witness: Paul Strassmann (part 1)',
+   url: 'https://www.youtube.com/watch?v=G-ejnCWNklY'}
+- {date: 2017-4-3,
+   desc: JBS,
+   tags: ['video'],
+   title: 'Witness: Paul Strassmann (part 2)',
+   url: 'https://www.youtube.com/watch?v=7ZjVyzMKLI8'}
 - {date: 2004-5, 
    author: 'Luca De Biase',
    desc: 'Il Sole 24 Ore', 
