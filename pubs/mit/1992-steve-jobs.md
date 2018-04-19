@@ -2,6 +2,7 @@
 desc: MIT Sloan School, Distinguished Speaker Series
 author: Steve Jobs, President & CEO, NeXT Computer Corp.
 title: Steve Jobs explains Paul Strassmann
+tags: [video]
 date: 1992-05
 original: https://youtu.be/Gk-9Fd2mEnI?t=218
 ---

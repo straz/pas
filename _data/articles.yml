@@ -1224,8 +1224,13 @@
     economics', url: 'http://www.strassmann.com/pubs/iej/2004-06-b.pdf'}
 - {date: 2004-3, desc: Information Economics Journal, full_date: 2004-03-01, pdf: 88kb,
   title: 'Foundations of Information Economics, Part I', url: 'http://www.strassmann.com/pubs/iej/2004-03.pdf'}
-- {author: 'Steve Jobs, President & CEO, NeXT Computer Corp.', date: 1992-05, desc: 'MIT
-    Sloan School, Distinguished Speaker Series', full_date: 1992-05-01, original: 'https://youtu.be/Gk-9Fd2mEnI?t=218',
-  title: Steve Jobs explains Paul Strassmann, url: 'http://www.strassmann.com/pubs/mit/1992-steve-jobs.html'}
+- author: Steve Jobs, President & CEO, NeXT Computer Corp.
+  date: 1992-05
+  desc: MIT Sloan School, Distinguished Speaker Series
+  full_date: 1992-05-01
+  original: https://youtu.be/Gk-9Fd2mEnI?t=218
+  tags: [video]
+  title: Steve Jobs explains Paul Strassmann
+  url: http://www.strassmann.com/pubs/mit/1992-steve-jobs.html
 - {date: 1954-9, desc: Memoir, full_date: 1954-09-01, title: The Thesis at M.I.T.
     1953-1954, url: 'http://www.strassmann.com/pubs/mit/early-computing.html'}

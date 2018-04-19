@@ -155,9 +155,10 @@ function render_extension(article){
 }
 
 function is_youtube(url){
-  var parser = document.createElement('a');
-  parser.href = url;
-  return parser.hostname.indexOf('youtube.com') != -1;
+    var parser = document.createElement('a');
+    parser.href = url;
+    return parser.hostname.indexOf('youtube.com') != -1 ||
+	   parser.hostname.indexOf('youtu.be') != -1;
 }
 
 function render_original(article, ext){
