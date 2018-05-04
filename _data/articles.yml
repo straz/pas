@@ -718,6 +718,8 @@
 - {date: 2004-1-8, desc: United States Holocaust Memorial Museum, full_date: 2004-01-08,
   note: audio (only) also available, original: 'http://collections.ushmm.org/search/catalog/irn514869',
   ref: RG-50.549.02*0076, title: Interview with Paul Strassmann (2004), url: 'http://www.strassmann.com/pubs/ushmm/2004-interview.doc'}
+- {date: 2017-4-6, desc: Interview with Rabbi Mark Golub, full_date: 2017-04-06, original: 'https://www.amazon.com/WWII-Memoirs-Interview-Rabbi-Golub/dp/1521967822',
+  title: WWII Memoirs - 1938 to 1945, url: 'https://www.amazon.com/WWII-Memoirs-Interview-Rabbi-Golub/dp/1521967822'}
 - {date: 1999-3-21, desc: BizCase, full_date: 1999-03-21, title: Introduction to BizCase
     Software, url: 'http://www.strassmann.com/pubs/bizcase/intro.html'}
 - {date: 2003-4-1, desc: 'Executive panel, GSA', full_date: 2003-04-01, title: The
