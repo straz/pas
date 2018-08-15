@@ -272,7 +272,7 @@ function get_blog_rss(callback_name){
   var params = {alt: 'json-in-script',
 		callback: callback_name,
 		'max-results': 9999};
-  var url = 'http://'+blogname+'/feeds/posts/default?'+$.param(params);
+  var url = 'https://'+blogname+'/feeds/posts/default?'+$.param(params);
   $.ajax({type:'GET',
 	  dataType:'jsonp',
 	  jsonp:'jsonp',
