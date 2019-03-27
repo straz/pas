@@ -268,7 +268,7 @@ function getParameterByName(name) {
 // https://developers.google.com/blogger/code
 // https://developers.google.com/gdata/samples/blogger_sample
 function get_blog_rss(callback_name){
-  var blogname = 'pstrassmann.blogspot.com';
+  var blogname = 'www.pstrassmannblogspot.org';
   var params = {alt: 'json-in-script',
 		callback: callback_name,
 		'max-results': 9999};
