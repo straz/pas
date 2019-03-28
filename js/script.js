@@ -267,45 +267,113 @@ function getParameterByName(name) {
 //
 // https://developers.google.com/blogger/code
 // https://developers.google.com/gdata/samples/blogger_sample
-function get_blog_rss(callback_name){
-  var blogname = 'www.pstrassmannblogspot.org';
-  var params = {alt: 'json-in-script',
-		callback: callback_name,
-		'max-results': 9999};
-  var url = 'https://'+blogname+'/feeds/posts/default?'+$.param(params);
-  $.ajax({type:'GET',
-	  dataType:'jsonp',
-	  jsonp:'jsonp',
-	  url: url});
-}
-
+// paging capped to 150 items per API call
+const START_BLOCKS = [0, 150, 300, 450, 600, 750]
+var LOADING = [];
 
 function show_blogs(){
-  get_blog_rss('rss_callback');
+    var blogname = 'www.pstrassmannblogspot.org';
+    var params = {alt: 'json-in-script',
+		  'max-results': 150};
+    // kick off a bunch of ajax calls, one per block of 150 posts
+    $.each(START_BLOCKS, function(i, start){
+	params['start-index'] = start+1; // start at 1, not 0
+	url = 'https://'+blogname+'/feeds/posts/default?'+$.param(params);
+	$.ajax({type:'GET',
+		dataType:'jsonp',
+		jsonp:'callback',
+		success: function(data){
+		    rss_callback(i, data);
+		    check_done(i)
+		},
+		url: url});
+	LOADING.push(i);
+    });
 }
 
-function rss_callback(data){
-  $('.blog-posts').html('');
-  $.each(data.feed.entry, function(index, item){
-	   var title = item.title.$t;
-	   var published = item.published.$t;
-	   var content = item.content.$t;
-	   var link = rss_get_permalink(item);
-	   if (title == ''){
-	     title = '<i>untitled</i>';
-	   }
-	   var post = $('<li/>').append(
-					$('<a/>').attr('href', link).html(title),
-					' ',
-					$('<span/>').addClass('extension').text(date_fmt(published))
-				       );
+function check_done(i){
+    // remove i from LOADING
+    LOADING = LOADING.filter(function(value, index, arr){
+	return value != i;
+    });
+    // hide spinner when all pending jobs are done
+    if (LOADING.length == 0){
+	var count = $('.blog-posts .year li').length;
+	$('.blog-posts').append($('<li/>').addClass('count').text(count + ' posts'));
+	sort_posts();
+	$('.loading').hide();
+	console.log('done!');
+    }
+}
 
+function sort_posts(){
+    $('.blog-posts .year').each(function(i, year){
+	var posts = $(year).children('li');
+	[].sort.call(posts, function(a, b) {
+	    adate = new Date($(a).attr('date'));
+	    bdate = new Date($(b).attr('date'));
+	    return a = b;
+	});
+	$(posts).each(function(){
+	    $(year).append(this);
+	});
+    });
+}
 
+// year is an integer
+function post_year(year, posts){
+    var yeardiv = $('#Y'+year);
+    if (yeardiv.length==0){
+	yeardiv = $('<div/>').attr({id: 'Y'+year, year: year}).addClass('year');
+	yeardiv.append($('<div/>').text(year));
+	$(posts).each(function(j, post) {yeardiv.append(post)});
+    }
+    var yeardivs = $('.blog-posts .year');
+    if (yeardivs.length == 0) {
+	$('.blog-posts').append(yeardiv.append(posts));
+    } else {
+	yeardivs.each(function(i, item){
+	    var pos = $(item).attr('year');
+	    if (pos == year){
+		// merge posts
+		$(posts).each(function(j, post) {$(item).append(post)});
+		return false;
+	    } else if (pos < year) {
+		$(item).before(yeardiv);
+		return false;
+	    } else {
+		console.log('ERROR, failed to position', year);
+	    }
+	});
+    }
+}
 
-	   $('.blog-posts').append(post);
-	 });
-  $('.blog-posts').append($('<li/>').addClass('count')
-			            .text(data.feed.entry.length + ' posts'));
+function rss_callback(n, data){
+    if (typeof data.feed.entry == 'undefined') return;
+    var years = {}
+    $.each(data.feed.entry, function(index, item){
+	var title = item.title.$t;
+	var published = item.published.$t;
+	var pubYear = new Date(published).getFullYear();
+	var content = item.content.$t;
+	var link = rss_get_permalink(item);
+	if (title == ''){
+	    title = '<i>untitled</i>';
+	}
+	var post = $('<li/>').append(
+	    $('<a/>').attr('href', link).html(title),
+	    ' ',
+	    $('<span/>').addClass('extension').text(date_fmt(published))
+	);
+	post.attr('date', date_fmt(published));
+	if (typeof years[pubYear] == "undefined"){
+	    years[pubYear] = []
+	}
+	years[pubYear].push(post);
+    });
+    for (y in years){
+	post_year(y, years[y]);
+    }
 }
 
 function rss_get_permalink(item){
