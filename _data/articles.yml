@@ -715,6 +715,8 @@
     to Value Information Security Risks, url: 'http://www.strassmann.com/pubs/km/2001-2.html'}
 - {date: 2001-3, desc: Knowledge Management Magazine, full_date: 2001-03-01, title: Prophecies
     Don't Serve Knowledge Capital, url: 'http://www.strassmann.com/pubs/km/2001-3.html'}
+- {date: 2005-10-8, desc: WWII, full_date: 2005-10-08, original: PartizanWarfareV5.ppt,
+  pdf: 9.8MB, title: Jewish Partizan Warfare in Slovakia, url: 'http://www.strassmann.com/pubs/ushmm/PartizanWarfare.pdf'}
 - {date: 1990-7-11, desc: United States Holocaust Memorial Museum, full_date: 1990-07-11,
   note: full video also available, original: 'http://collections.ushmm.org/oh_findingaids/RG-50.030.0227_trs_en.pdf',
   pdf: 125KB, ref: RG-50.030*0227, title: Interview with Paul Strassmann (1990), url: 'http://www.strassmann.com/pubs/ushmm/1990-interview.pdf'}
@@ -804,6 +806,9 @@
     Journal of The Institute of Management Sciences', full_date: 1962-08-01, pdf: 1.1MB,
   title: A Plant-Warehouse System with Variable Lead-Times and Variable Re-Order Levels,
   url: 'http://www.strassmann.com/pubs/62-77/001-plant-warehouse-system.pdf'}
+- {date: &id005 2001-09-12, desc: Information Economics Press, full_date: *id005,
+  original: 2001-09-12-Employee-worth.ppt, ppt: 11.2MB, title: 'What are your employees
+    worth?', url: 'http://www.strassmann.com/pubs/talks/2001-09-12 Employee worth.pdf'}
 - {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', full_date: 2005-05-19,
   ppt: 2.5MB, title: The Structure of IT Spending as a Measure of Organizational Disorder,
   url: 'http://www.strassmann.com/pubs/talks/2005-disorder.ppt'}
@@ -830,9 +835,9 @@
 - {date: 2015-1-1, desc: New Canaan Open Access TV, full_date: 2015-01-01, title: 'Cyber
     Crime: Threats and Protections', url: 'https://vimeo.com/117651967'}
 - author: Robert Hertzberg
-  date: &id005 2007-04-11
+  date: &id006 2007-04-11
   desc: eWeek
-  full_date: *id005
+  full_date: *id006
   original: http://www.eweek.com/article2/0,1895,2113008,00.asp
   pdf: 749kb
   tags: [Baseline]
@@ -923,10 +928,10 @@
   pdf: 28kb, title: 'Measuring Value: Does Your Tech Budget Have Teeth?', url: 'http://www.strassmann.com/pubs/baseline/2005-05-b.pdf'}
 - {date: 2005-3, desc: Baseline Magazine, full_date: 2005-03-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Does-Outsourcing-Deliver-the-Goods/',
   pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: 'http://www.strassmann.com/pubs/baseline/2005-03.pdf'}
-- {author: Larry Dignan with Paul Strassmann, date: &id006 2004-10-18, desc: Baseline,
-  full_date: *id006, title: The 500 Companies That Manage Information Best, url: 'http://www.strassmann.com/pubs/baseline/2004-10-a.html'}
 - {author: Larry Dignan with Paul Strassmann, date: &id007 2004-10-18, desc: Baseline,
-  full_date: *id007, title: Who Led the Baseline 500 and Why, url: 'http://www.strassmann.com/pubs/baseline/2004-10-b.html'}
+  full_date: *id007, title: The 500 Companies That Manage Information Best, url: 'http://www.strassmann.com/pubs/baseline/2004-10-a.html'}
+- {author: Larry Dignan with Paul Strassmann, date: &id008 2004-10-18, desc: Baseline,
+  full_date: *id008, title: Who Led the Baseline 500 and Why, url: 'http://www.strassmann.com/pubs/baseline/2004-10-b.html'}
 - {date: 2005-3-7, desc: Baseline Magazine, full_date: 2005-03-07, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Outsourcing-What-Ratio-Is-Right',
   title: 'Outsourcing: What Ratio Is Right?', url: 'http://www.strassmann.com/pubs/baseline/2005-3-a.html'}
 - {date: 2005-1-13, desc: Baseline Magazine, full_date: 2005-01-13, original: 'http://www.baselinemag.com/c/a/Projects-Management/Why-JP-Morgan-Chase-Really-Dropped-IBM/',
@@ -1047,7 +1052,7 @@
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, full_date: 2012-11-07,
   original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
   title: Commentary, url: 'http://www.strassmann.com/pubs/usni/2012-7.html'}
-- {author: Thomas C. Hayes, date: &id008 1981-10-11, desc: The New York Times, full_date: *id008,
+- {author: Thomas C. Hayes, date: &id009 1981-10-11, desc: The New York Times, full_date: *id009,
   original: 'http://www.nytimes.com/1981/10/11/jobs/the-office-of-the-future-is-it-a-new-land-of-opportunity.html',
   title: 'The Office Of The Future: Is It A New Land Of Opportunity?', url: 'http://www.strassmann.com/pubs/nytimes/1981-office-future.html'}
 - {author: Steve Lohr, date: 1999-4-14, desc: The New York Times, full_date: 1999-04-14,
@@ -1056,7 +1061,7 @@
 - {author: Steve Lohr, date: 2003-6-23, desc: The New York Times, full_date: 2003-06-23,
   original: 'http://www.nytimes.com/2003/06/23/business/the-tech-rebound-that-isn-t-quite.html',
   title: The Tech Rebound That Isn't Quite, url: 'http://www.strassmann.com/pubs/nytimes/2003-rebound.html'}
-- {author: Editorial staff, date: &id009 1990-12-31, desc: The New York Times, full_date: *id009,
+- {author: Editorial staff, date: &id010 1990-12-31, desc: The New York Times, full_date: *id010,
   original: 'http://www.nytimes.com/1990/12/31/business/a-few-words-about-corporate-america.html',
   title: A Few Words About Corporate America, url: 'http://www.strassmann.com/pubs/nytimes/1990-corp-america.html'}
 - {author: Andrew Pollack, date: 1999-5-3, desc: The New York Times, full_date: 1999-05-03,
@@ -1105,7 +1110,7 @@
     Rankings 1995: Global', url: 'http://www.strassmann.com/pubs/consulting/ipglobal95.pdf'}
 - {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Introduction to
     Return On Management (ROM&reg;) Analysis, url: 'http://www.strassmann.com/pubs/consulting/ROM-intro/Intro_to_ROM.html'}
-- {date: &id010 2009-11-02, desc: Cooper Union, full_date: *id010, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
+- {date: &id011 2009-11-02, desc: Cooper Union, full_date: *id011, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
   pdf: 90KB, title: Pioneer Profile, url: 'http://www.strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
 - {date: 2017-3-5, desc: New Canaan SMC Investment Club, full_date: 2017-03-05, title: Rebalancing
     a Retirement Portfolio, url: 'http://www.strassmann.com/pubs/smc/2017-3-5 Rebalancing
