@@ -715,7 +715,7 @@
     to Value Information Security Risks, url: 'http://www.strassmann.com/pubs/km/2001-2.html'}
 - {date: 2001-3, desc: Knowledge Management Magazine, full_date: 2001-03-01, title: Prophecies
     Don't Serve Knowledge Capital, url: 'http://www.strassmann.com/pubs/km/2001-3.html'}
-- {date: 2005-10-8, desc: WWII, full_date: 2005-10-08, original: PartizanWarfareV5.ppt,
+- {date: 2005-10-8, desc: WWII, full_date: 2005-10-08, original: pubs/ushmm/PartizanWarfareV5.ppt,
   pdf: 9.8MB, title: Jewish Partizan Warfare in Slovakia, url: 'http://www.strassmann.com/pubs/ushmm/PartizanWarfare.pdf'}
 - {date: 1990-7-11, desc: United States Holocaust Memorial Museum, full_date: 1990-07-11,
   note: full video also available, original: 'http://collections.ushmm.org/oh_findingaids/RG-50.030.0227_trs_en.pdf',
@@ -807,8 +807,9 @@
   title: A Plant-Warehouse System with Variable Lead-Times and Variable Re-Order Levels,
   url: 'http://www.strassmann.com/pubs/62-77/001-plant-warehouse-system.pdf'}
 - {date: &id005 2001-09-12, desc: Information Economics Press, full_date: *id005,
-  original: 2001-09-12-Employee-worth.ppt, ppt: 11.2MB, title: 'What are your employees
-    worth?', url: 'http://www.strassmann.com/pubs/talks/2001-09-12 Employee worth.pdf'}
+  original: pubs/talks/2001-09-12-Employee-worth.ppt, ppt: 11.2MB, title: 'What are
+    your employees worth?', url: 'http://www.strassmann.com/pubs/talks/2001-09-12
+    Employee worth.pdf'}
 - {date: 2005-5-19, desc: 'Lecture, Stevens Institute of Technology (slides)', full_date: 2005-05-19,
   ppt: 2.5MB, title: The Structure of IT Spending as a Measure of Organizational Disorder,
   url: 'http://www.strassmann.com/pubs/talks/2005-disorder.ppt'}
