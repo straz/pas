@@ -1,0 +1,66 @@
+BODY
+{
+font-family : Arial, Helvetica, sans-serif;
+font-size : 14px;
+scrollbar-face-color: #284A8B;
+scrollbar-track-color: #DFE4EE;
+scrollbar-arrow-color: white;
+scrollbar-shadow-color: #284A8B;
+scrollbar-highlight-color: #284A8B;
+scrollbar-3dlight-color: #DFE4EE;
+scrollbar-darkshadow-color: #DFE4EE;
+}
+
+.nadpis
+{
+font-family : Arial, Helvetica, sans-serif;
+font-size : 20px;
+font-weight : bold;
+}
+
+A:link
+{
+font-family : Arial, Helvetica, sans-serif;
+font-size : 14px;
+text-decoration: none;
+color: #284A8B;
+font-weight : bold;
+}
+
+A:active
+{
+font-family : Arial, Helvetica, sans-serif;
+font-size : 14px;
+text-decoration: none;
+color: #284A8B;
+font-weight : bold;
+}
+
+A:visited
+{
+font-family : Arial, Helvetica, sans-serif;
+font-size : 14px;
+text-decoration: none;
+color: #284A8B;
+font-weight : bold;
+}
+
+A:hover
+{
+font-family : Arial, Helvetica, sans-serif;
+font-size : 14px;
+text-decoration: underline;
+color: #C42A13;
+font-weight : bold;
+}
+
+P
+{
+text-align: justify;
+margin-right: 5;
+}
+
+Table
+{
+text-align: justify;
+}
