@@ -1224,6 +1224,9 @@
   url: http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf
 - {author: Richard Pastore, date: &id015 1997-09-15, desc: CIO Magazine, full_date: *id015,
   original: 'https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html',
+  title: 'CIO Hall of Fame: Paul A. Strassmann', url: 'http://www.strassmann.com/pubs/cio/1997-save.html'}
+- {author: Richard Pastore, date: &id016 1997-09-15, desc: CIO Magazine, full_date: *id016,
+  original: 'https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html',
   title: 'CIO Hall of Fame: Paul A. Strassmann', url: 'http://www.strassmann.com/pubs/cio/1997-hof.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
   original: 'https://web.archive.org/web/19991103204706/http://www.cio.com/archive/091597_strassman_content.html',

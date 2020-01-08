@@ -28,7 +28,9 @@ University.
 
 After serving as an advisor to the Deputy Secretary of Defense since 
 1990 he was appointed to a newly created position of Director 
-of Defense Information and member of the US Senior Executive Service.  
+of Defense Information and member of the US Senior Executive Service,
+an appointment awarded to only 0.3% of DoD staff.
+
 He was responsible for organizing and managing the corporate information
 management (CIM) program across the **Department of Defense** which
 included a major cost reduction and business reengineering program
@@ -36,8 +38,9 @@ of the defense information infrastructure. Strassmann had policy
 oversight for Defense Department&rsquo;s information technology
 expenditures.
 
-He is a 1993 recipient of the **Defense Medal for Distinguished 
-Public Service** - the Defense Department&rsquo;s highest civilian recognition.
+He is a 1993 recipient of the **Defense Medal for Distinguished Public
+Service** - the Defense Department&rsquo;s highest civilian
+recognition, also awarded to four presidents.
 
 In 2002 he was recalled to government service as the
 acting Chief Information Officer of the **National Aeronautics
