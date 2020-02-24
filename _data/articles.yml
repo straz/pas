@@ -725,6 +725,8 @@
     Shoah Foundation</a>', full_date: *id007, original: 'https://www.facebook.com/USCSFI/videos/holcaust-survivor-paul-strassmann/10154656301605850/',
   publication: 'X1 Xfinity Comcast: The Will to Resist', title: Holocaust survivor
     Paul Strassmann, url: 'http://www.strassmann.com/pubs/ushmm/usc.html'}
+- {date: &id008 1989-07-10, desc: United States Holocaust Memorial Museum, full_date: *id008,
+  title: Czech Partisan medal awarded to a Jewish fighter, url: 'https://collections.ushmm.org/search/catalog/irn514164'}
 - {date: 2005-10-8, desc: WWII, full_date: 2005-10-08, original: pubs/ushmm/PartizanWarfareV5.ppt,
   pdf: 9.8MB, title: Jewish Partizan Warfare in Slovakia, url: 'http://www.strassmann.com/pubs/ushmm/PartizanWarfare.pdf'}
 - {date: 1990-7-11, desc: United States Holocaust Memorial Museum, full_date: 1990-07-11,
@@ -816,7 +818,7 @@
     Journal of The Institute of Management Sciences', full_date: 1962-08-01, pdf: 1.1MB,
   title: A Plant-Warehouse System with Variable Lead-Times and Variable Re-Order Levels,
   url: 'http://www.strassmann.com/pubs/62-77/001-plant-warehouse-system.pdf'}
-- {date: &id008 2001-09-12, desc: Information Economics Press, full_date: *id008,
+- {date: &id009 2001-09-12, desc: Information Economics Press, full_date: *id009,
   original: pubs/talks/2001-09-12-Employee-worth.ppt, ppt: 11.2MB, title: 'What are
     your employees worth?', url: 'http://www.strassmann.com/pubs/talks/2001-09-12
     Employee worth.pdf'}
@@ -846,9 +848,9 @@
 - {date: 2015-1-1, desc: New Canaan Open Access TV, full_date: 2015-01-01, title: 'Cyber
     Crime: Threats and Protections', url: 'https://vimeo.com/117651967'}
 - author: Robert Hertzberg
-  date: &id009 2007-04-11
+  date: &id010 2007-04-11
   desc: eWeek
-  full_date: *id009
+  full_date: *id010
   original: http://www.eweek.com/article2/0,1895,2113008,00.asp
   pdf: 749kb
   tags: [Baseline]
@@ -939,10 +941,10 @@
   pdf: 28kb, title: 'Measuring Value: Does Your Tech Budget Have Teeth?', url: 'http://www.strassmann.com/pubs/baseline/2005-05-b.pdf'}
 - {date: 2005-3, desc: Baseline Magazine, full_date: 2005-03-01, original: 'http://www.baselinemag.com/c/a/Projects-Management/Does-Outsourcing-Deliver-the-Goods/',
   pdf: 574kb, title: 'Real Numbers: Does Outsourcing Deliver the Goods?', url: 'http://www.strassmann.com/pubs/baseline/2005-03.pdf'}
-- {author: Larry Dignan with Paul Strassmann, date: &id010 2004-10-18, desc: Baseline,
-  full_date: *id010, title: The 500 Companies That Manage Information Best, url: 'http://www.strassmann.com/pubs/baseline/2004-10-a.html'}
 - {author: Larry Dignan with Paul Strassmann, date: &id011 2004-10-18, desc: Baseline,
-  full_date: *id011, title: Who Led the Baseline 500 and Why, url: 'http://www.strassmann.com/pubs/baseline/2004-10-b.html'}
+  full_date: *id011, title: The 500 Companies That Manage Information Best, url: 'http://www.strassmann.com/pubs/baseline/2004-10-a.html'}
+- {author: Larry Dignan with Paul Strassmann, date: &id012 2004-10-18, desc: Baseline,
+  full_date: *id012, title: Who Led the Baseline 500 and Why, url: 'http://www.strassmann.com/pubs/baseline/2004-10-b.html'}
 - {date: 2005-3-7, desc: Baseline Magazine, full_date: 2005-03-07, original: 'http://www.baselinemag.com/c/a/Tools-Calculators-hold/Outsourcing-What-Ratio-Is-Right',
   title: 'Outsourcing: What Ratio Is Right?', url: 'http://www.strassmann.com/pubs/baseline/2005-3-a.html'}
 - {date: 2005-1-13, desc: Baseline Magazine, full_date: 2005-01-13, original: 'http://www.baselinemag.com/c/a/Projects-Management/Why-JP-Morgan-Chase-Really-Dropped-IBM/',
@@ -1063,7 +1065,7 @@
 - {date: '2012-11-07', desc: US Naval Institute Proceedings, full_date: 2012-11-07,
   original: 'http://www.usni.org/magazines/proceedings/2012-11/comment-discussion',
   title: Commentary, url: 'http://www.strassmann.com/pubs/usni/2012-7.html'}
-- {author: Thomas C. Hayes, date: &id012 1981-10-11, desc: The New York Times, full_date: *id012,
+- {author: Thomas C. Hayes, date: &id013 1981-10-11, desc: The New York Times, full_date: *id013,
   original: 'http://www.nytimes.com/1981/10/11/jobs/the-office-of-the-future-is-it-a-new-land-of-opportunity.html',
   title: 'The Office Of The Future: Is It A New Land Of Opportunity?', url: 'http://www.strassmann.com/pubs/nytimes/1981-office-future.html'}
 - {author: Steve Lohr, date: 1999-4-14, desc: The New York Times, full_date: 1999-04-14,
@@ -1072,7 +1074,7 @@
 - {author: Steve Lohr, date: 2003-6-23, desc: The New York Times, full_date: 2003-06-23,
   original: 'http://www.nytimes.com/2003/06/23/business/the-tech-rebound-that-isn-t-quite.html',
   title: The Tech Rebound That Isn't Quite, url: 'http://www.strassmann.com/pubs/nytimes/2003-rebound.html'}
-- {author: Editorial staff, date: &id013 1990-12-31, desc: The New York Times, full_date: *id013,
+- {author: Editorial staff, date: &id014 1990-12-31, desc: The New York Times, full_date: *id014,
   original: 'http://www.nytimes.com/1990/12/31/business/a-few-words-about-corporate-america.html',
   title: A Few Words About Corporate America, url: 'http://www.strassmann.com/pubs/nytimes/1990-corp-america.html'}
 - {author: Andrew Pollack, date: 1999-5-3, desc: The New York Times, full_date: 1999-05-03,
@@ -1121,7 +1123,7 @@
     Rankings 1995: Global', url: 'http://www.strassmann.com/pubs/consulting/ipglobal95.pdf'}
 - {date: 1999-11, desc: Consulting, full_date: 1999-11-01, title: Introduction to
     Return On Management (ROM&reg;) Analysis, url: 'http://www.strassmann.com/pubs/consulting/ROM-intro/Intro_to_ROM.html'}
-- {date: &id014 2009-11-02, desc: Cooper Union, full_date: *id014, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
+- {date: &id015 2009-11-02, desc: Cooper Union, full_date: *id015, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
   pdf: 90KB, title: Pioneer Profile, url: 'http://www.strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
 - {date: 2017-3-5, desc: New Canaan SMC Investment Club, full_date: 2017-03-05, title: Rebalancing
     a Retirement Portfolio, url: 'http://www.strassmann.com/pubs/smc/2017-3-5 Rebalancing
@@ -1222,10 +1224,10 @@
   tags: [Senate, Congress]
   title: 'Senate Committee hearings: Impact of Information Technology on Employment'
   url: http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf
-- {author: Richard Pastore, date: &id015 1997-09-15, desc: CIO Magazine, full_date: *id015,
+- {author: Richard Pastore, date: &id016 1997-09-15, desc: CIO Magazine, full_date: *id016,
   original: 'https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html',
   title: 'CIO Hall of Fame: Paul A. Strassmann', url: 'http://www.strassmann.com/pubs/cio/1997-save.html'}
-- {author: Richard Pastore, date: &id016 1997-09-15, desc: CIO Magazine, full_date: *id016,
+- {author: Richard Pastore, date: &id017 1997-09-15, desc: CIO Magazine, full_date: *id017,
   original: 'https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html',
   title: 'CIO Hall of Fame: Paul A. Strassmann', url: 'http://www.strassmann.com/pubs/cio/1997-hof.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
