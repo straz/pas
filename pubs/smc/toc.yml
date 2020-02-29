@@ -2,18 +2,27 @@
   desc: Greenwich Retired Men's Association
   title: Partisan Warfare in WWII
   url: "https://vimeo.com/80066760"
+  video: true
 - date: 2013-01-04
   desc: Greenwich Retired Men's Association
   title: Cyberwarfare
   url: "https://vimeo.com/56752827"
+  video: true
 - date: 2012-04-13
   desc: New Canaan Senior Mens Club
   url: "https://vimeo.com/40800064"
   title: Cyberwarfare
+  video: true  
+- date: 2013-01-01
+  desc: New Canaan Senior Mens Club
+  url: "https://vimeo.com/64777457"
+  title: "We Fought Back: Experience of a Partisan"
+  video: true  
 - date: 2015-02
   desc: New Canaan Senior Mens Club
   url: "https://vimeo.com/117651967"
   title: "Cyber Crime: Threats and Protections"
+  video: true  
 - date: 2017-3-5
   desc: New Canaan SMC Investment Club
   title: 'Rebalancing a Retirement Portfolio'

@@ -1126,13 +1126,16 @@
 - {date: &id015 2009-11-02, desc: Cooper Union, full_date: *id015, original: 'http://www.cooper.edu/about/printed-publications/fall-winter-2009/paul-strassmann',
   pdf: 90KB, title: Pioneer Profile, url: 'http://www.strassmann.com/pubs/cooper/ACUfw09alumni.pdf'}
 - {date: &id016 2013-11-22, desc: Greenwich Retired Men's Association, full_date: *id016,
-  title: Partisan Warfare in WWII, url: 'https://vimeo.com/80066760'}
+  title: Partisan Warfare in WWII, url: 'https://vimeo.com/80066760', video: true}
 - {date: &id017 2013-01-04, desc: Greenwich Retired Men's Association, full_date: *id017,
-  title: Cyberwarfare, url: 'https://vimeo.com/56752827'}
+  title: Cyberwarfare, url: 'https://vimeo.com/56752827', video: true}
 - {date: &id018 2012-04-13, desc: New Canaan Senior Mens Club, full_date: *id018,
-  title: Cyberwarfare, url: 'https://vimeo.com/40800064'}
+  title: Cyberwarfare, url: 'https://vimeo.com/40800064', video: true}
+- {date: &id019 2013-01-01, desc: New Canaan Senior Mens Club, full_date: *id019,
+  title: 'We Fought Back: Experience of a Partisan', url: 'https://vimeo.com/64777457',
+  video: true}
 - {date: 2015-02, desc: New Canaan Senior Mens Club, full_date: 2015-02-01, title: 'Cyber
-    Crime: Threats and Protections', url: 'https://vimeo.com/117651967'}
+    Crime: Threats and Protections', url: 'https://vimeo.com/117651967', video: true}
 - {date: 2017-3-5, desc: New Canaan SMC Investment Club, full_date: 2017-03-05, title: Rebalancing
     a Retirement Portfolio, url: 'http://www.strassmann.com/pubs/smc/2017-3-5 Rebalancing
     Retirement Portfolio.pptx'}
@@ -1232,10 +1235,10 @@
   tags: [Senate, Congress]
   title: 'Senate Committee hearings: Impact of Information Technology on Employment'
   url: http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf
-- {author: Richard Pastore, date: &id019 1997-09-15, desc: CIO Magazine, full_date: *id019,
+- {author: Richard Pastore, date: &id020 1997-09-15, desc: CIO Magazine, full_date: *id020,
   original: 'https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html',
   title: 'CIO Hall of Fame: Paul A. Strassmann', url: 'http://www.strassmann.com/pubs/cio/1997-save.html'}
-- {author: Richard Pastore, date: &id020 1997-09-15, desc: CIO Magazine, full_date: *id020,
+- {author: Richard Pastore, date: &id021 1997-09-15, desc: CIO Magazine, full_date: *id021,
   original: 'https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html',
   title: 'CIO Hall of Fame: Paul A. Strassmann', url: 'http://www.strassmann.com/pubs/cio/1997-hof.html'}
 - {author: Richard Pastore, date: 1997-9-15, desc: CIO Magazine, full_date: 1997-09-15,
