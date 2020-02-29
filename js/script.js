@@ -148,10 +148,18 @@ function render_extension(article){
   var ext = url.substr(url.lastIndexOf('.') + 1);
   if (reg.test(ext.toLowerCase())){
     return $('<span/>').addClass('extension').text('['+ext+']');
+  } else if (is_vimeo(url)){
+    return $('<span/>').addClass('extension').text('[video]');
   } else if (is_youtube(url)){
     return $('<span/>').addClass('extension').text('[youtube]');
   }
   return '';
+}
+
+function is_vimeo(url){
+    var parser = document.createElement('a');
+    parser.href = url;
+    return parser.hostname.indexOf('vimeo.com') != -1;
 }
 
 function is_youtube(url){
