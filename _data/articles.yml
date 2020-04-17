@@ -180,6 +180,8 @@
 - {author: Steve O'Brien, date: 2001-9-19, desc: ComputerWeekly, full_date: 2001-09-19,
   key: computerweekly.com, original: 'http://www.computerweekly.com/news/2240042351/Microsoft-defends-its-security',
   title: Microsoft defends its security, url: 'http://www.strassmann.com/pubs/misc/ms-security.html'}
+- {date: 1984-10-1, desc: Harvard University, full_date: 1984-10-01, title: Memorial
+    Bench for Eric Strassmann, url: 'http://harvardplanning.emuseum.com/objects/100343/detail-view-of-eric-strassman-bench-engraving'}
 - {date: &id002 2000-11-08, desc: Presentation to Boy Scout Troop 70, full_date: *id002,
   original: pubs/misc/2000-11-08 PrehistoricWeapons.ppt, title: Prehistoric Weapons,
   url: 'http://www.strassmann.com/pubs/misc/2000-11-08 PrehistoricWeapons.pdf'}
