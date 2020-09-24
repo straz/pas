@@ -1841,8 +1841,7 @@
   full_date: 2001-03-01
   title: Prophecies Don't Serve Knowledge Capital
   url: http://www.strassmann.com/pubs/km/2001-3.html
-- category: Computerworld
-  date: &id007 2016-10-21
+- date: &id007 2016-10-21
   desc: <a href="https://sfi.usc.edu/">USC Shoah Foundation</a>
   full_date: *id007
   original: https://www.facebook.com/USCSFI/videos/holcaust-survivor-paul-strassmann/10154656301605850/

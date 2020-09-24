@@ -2,7 +2,6 @@
 title: Holocaust survivor Paul Strassmann
 date: 2016-10-21
 publication: "X1 Xfinity Comcast: The Will to Resist"
-category: Computerworld
 desc: <a href="https://sfi.usc.edu/">USC Shoah Foundation</a>
 original: "https://www.facebook.com/USCSFI/videos/holcaust-survivor-paul-strassmann/10154656301605850/"
 ---
