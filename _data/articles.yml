@@ -2926,7 +2926,7 @@
 - date: &id022 2012-04-13
   desc: New Canaan Senior Mens Club
   full_date: *id022
-  title: Cyberwarfare
+  title: Cyberwarfare (vimeo)
   url: https://vimeo.com/40800064
   video: true
 - date: &id023 2013-01-01
@@ -3039,6 +3039,12 @@
   title: 'The Economics of Information: The Relationship Between IT Spending, Profits,
     and Knowledge Capital&reg;'
   url: http://www.strassmann.com/pubs/bg/economics-of-information.pdf
+- date: &id024 1992-05-12
+  desc: Automated Planning System Integration Symposium
+  full_date: *id024
+  pdf: 4.6MB
+  title: Linking Business Strategies to Information Technology - The CIM Case
+  url: http://www.strassmann.com/pubs/dod/1992-05-12-CIM.pdf
 - date: 2009-6-30
   desc: Draft
   full_date: 2009-06-30
@@ -3157,16 +3163,16 @@
   title: 'Senate Committee hearings: Impact of Information Technology on Employment'
   url: http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf
 - author: Richard Pastore
-  date: &id024 1997-09-15
+  date: &id025 1997-09-15
   desc: CIO Magazine
-  full_date: *id024
+  full_date: *id025
   original: https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html
   title: 'CIO Hall of Fame: Paul A. Strassmann'
   url: http://www.strassmann.com/pubs/cio/1997-save.html
 - author: Richard Pastore
-  date: &id025 1997-09-15
+  date: &id026 1997-09-15
   desc: CIO Magazine
-  full_date: *id025
+  full_date: *id026
   original: https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html
   title: 'CIO Hall of Fame: Paul A. Strassmann'
   url: http://www.strassmann.com/pubs/cio/1997-hof.html
