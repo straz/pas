@@ -41,6 +41,7 @@
   date: '1975-6'
   pdf: '4.4MB'
 - title: 'Stochastic Decision Trees for the Analysis of Investment Decisions'
+  author: Richard F. Hespos and Paul A. Strassmann
   desc: 'Management Science'
   url: '015-stochastic-decision-trees.pdf'
   date: '1965-8'
