@@ -1848,6 +1848,12 @@
   publication: 'X1 Xfinity Comcast: The Will to Resist'
   title: Holocaust survivor Paul Strassmann
   url: http://www.strassmann.com/pubs/ushmm/usc.html
+- date: 1990-7-11
+  desc: United States Holocaust Memorial Museum oral history (video)
+  full_date: 1990-07-11
+  interviewer: Linda G. Kuzmack
+  title: Interview with Paul Strassmann
+  url: https://collections.ushmm.org/search/catalog/irn504717
 - date: &id008 1989-07-10
   desc: United States Holocaust Memorial Museum
   full_date: *id008
