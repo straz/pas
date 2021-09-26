@@ -75,7 +75,15 @@ plans involving the corporation&rsquo;s world-wide electronic businesses.
 Afterwards he became an author, lecturer and consultant to
 firms such as **AT&T**, **Citicorp**, **Digital Equipment**,
 **General Electric**, **General Motors**, **IBM**, **ING**,
-**SAIC**, **Shell Oil**, **Sun Microsystems**, and **Texas Instruments**.
+**SAIC**, **Shell Oil**, **Sun Microsystems**, and **Texas Instruments**,
+with lectures in: Washington, Chicago, Boston, Pittsburgh, San
+Francisco, San Diego, Las Vegas, Phoenix, Dallas, Orlando, London,
+Edinburgh, Paris, Nice, Milan, Rome, Brussels, Amsterdam, Oslo,
+Berlin, Warsaw, Moscow, Prague, Vienna, Jerusalem, Tel Aviv,
+Johannesburg, Tokyo, Osaka, San Jose, Rio de Janeiro, Santiago,
+Caracas, Brasilia, Shanghai, Peking, Sydney, Toronto, Ottawa,
+Montreal, Canberra, Vancouver, Calgary, Wellington, Kuala Lumpur, and
+Singapore.
 
 He has held appointments as Adjunct Professor at the **U.S.  Military 
 Academy at West Point**, Visiting Professor at the **University of 
