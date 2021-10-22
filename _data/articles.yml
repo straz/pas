@@ -3046,6 +3046,11 @@
   title: 'The Economics of Information: The Relationship Between IT Spending, Profits,
     and Knowledge Capital&reg;'
   url: http://www.strassmann.com/pubs/bg/economics-of-information.pdf
+- date: 1993-01
+  desc: Director, CIA
+  full_date: 1993-01-01
+  title: Letter from Robert M. Gates, DCI
+  url: http://www.strassmann.com/pubs/dod/gates-letter.jpg
 - date: &id024 1992-05-12
   desc: Automated Planning System Integration Symposium
   full_date: *id024
