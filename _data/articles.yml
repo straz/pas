@@ -3175,13 +3175,6 @@
   title: 'Senate Committee hearings: Impact of Information Technology on Employment'
   url: http://www.strassmann.com/pubs/congress/1983-4-6-bw.pdf
 - author: Richard Pastore
-  date: &id025 1997-09-15
-  desc: CIO Magazine
-  full_date: *id025
-  original: https://www.cio.com/article/2439375/cio-hall-of-fame--paul-a--strassmann.html
-  title: 'CIO Hall of Fame: Paul A. Strassmann'
-  url: http://www.strassmann.com/pubs/cio/1997-save.html
-- author: Richard Pastore
   date: &id026 1997-09-15
   desc: CIO Magazine
   full_date: *id026
