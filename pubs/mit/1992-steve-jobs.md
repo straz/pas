@@ -35,6 +35,19 @@ img.youtube {
   border-width: 50px 0 50px 86.6px;
   border-color: transparent transparent transparent rgba(255, 255, 255, 0.3);
 }
+.drop-cap::first-letter {
+  float: left;
+  line-height: 35px;
+  font-size: 55px;
+  color: #555;
+  padding-top: .2em;
+  padding-bottom: 5px;
+  padding-right: 2px;
+  padding-left: 5px;
+  margin-right: 0px;
+  margin-bottom: -5px;
+}
+
 </style>
 
 <div class="youtube-wrapper">
@@ -48,12 +61,12 @@ img.youtube {
 
 ### Partial transcript from the opening of Steve Jobs' talk:
 
-There's a really interesting book that was written by a guy named
-[Paul Strassmann](http://strassmann.com), and Paul has one of the more
+<p class="drop-cap">“There's a really interesting book that was written by a guy named
+<a href="http://strassmann.com">Paul Strassmann</a>, and Paul has one of the more
 interesting jobs on the planet. He's the chief information officer -
 CIO - of a very large organization called the Pentagon. And they
 really understand software there. I had a conversation with him not
-too long ago.
+too long ago.</p>
 
 He said the lesson from the Gulf War was that the best software will
 win the war. So they're trying to do a lot of work in the software area.
@@ -84,4 +97,4 @@ the majority of their money on operational productivity.
 Now, this was not very pleasant for me to read because I spent
 the first 10 years of my life on management productivity, which
 was PCs. PCs and Macs never attacked operational productivity, 
-they just attacked management productivity...
+they just attacked management productivity...”
