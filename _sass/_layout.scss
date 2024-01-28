@@ -119,7 +119,7 @@
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: math.div($spacing-unit, 2);
+    margin-bottom: calc($spacing-unit / 2);
 }
 
 .contact-list,
@@ -131,14 +131,14 @@
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: math.div(-$spacing-unit, 2);
+    margin-left: calc($spacing-unit / -2);
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: math.div($spacing-unit, 2);
-    padding-left: math.div($spacing-unit, 2);
+    margin-bottom: calc($spacing-unit / 2);
+    padding-left: calc($spacing-unit / 2);
 }
 
 .footer-col-1 {
