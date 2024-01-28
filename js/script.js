@@ -60,7 +60,7 @@ function render_articles(articles, tag, by_years){
   // retro - huh?
   $('ul.toc').html('');
   $.each(result, function(i, r){
-	   $('ul.toc').append(r);});
+    $('ul.toc').append(r);});
   add_year_picker(decades, min, max);
 }
 
@@ -120,7 +120,7 @@ function add_year_picker(decades, min, max){
   for (var d = max; d >= min; d--) {
     if (d in decades){
       $('.years').append($('<a/>').attr({href: '#'+min_year(d)}).html(d + "&rsquo;s"));
-   }
+    }
   }
 }
 
@@ -129,14 +129,14 @@ function add_year_picker(decades, min, max){
 function min_year(decade) {
   var min = 9999;
   $('a').each(function(i, elt) {
-		var year = $(elt).attr('name');
-		if (year != undefined &&
-		    get_decade(year) == decade &&
-		    year < min){
-		  min = year;
-		}
-	       }
-	      );
+    var year = $(elt).attr('name');
+    if (year != undefined &&
+	get_decade(year) == decade &&
+	year < min){
+      min = year;
+    }
+  }
+	     );
   return min;
 }
 
@@ -157,16 +157,16 @@ function render_extension(article){
 }
 
 function is_vimeo(url){
-    var parser = document.createElement('a');
-    parser.href = url;
-    return parser.hostname.indexOf('vimeo.com') != -1;
+  var parser = document.createElement('a');
+  parser.href = url;
+  return parser.hostname.indexOf('vimeo.com') != -1;
 }
 
 function is_youtube(url){
-    var parser = document.createElement('a');
-    parser.href = url;
-    return parser.hostname.indexOf('youtube.com') != -1 ||
-	   parser.hostname.indexOf('youtu.be') != -1;
+  var parser = document.createElement('a');
+  parser.href = url;
+  return parser.hostname.indexOf('youtube.com') != -1 ||
+    parser.hostname.indexOf('youtu.be') != -1;
 }
 
 function render_original(article, ext){
@@ -202,10 +202,10 @@ function parse_date(date){
       year = parseInt(val[0], 10),
       month = parseInt(val[1], 10) - 1,
       day = parseInt(val[2], 10);
- if (isNaN(day)){
-   day = 1;
- }
- return new Date(year, month, day, 0, 0, 0);
+  if (isNaN(day)){
+    day = 1;
+  }
+  return new Date(year, month, day, 0, 0, 0);
 }
 
 // returns something like 'January 2005'
@@ -216,8 +216,8 @@ function pretty_date(article){
 
 function sort_by_date(array){
   array.sort(function(a,b){
-	       return b.date_obj - a.date_obj;
-	     });
+    return b.date_obj - a.date_obj;
+  });
 }
 
 // Date is an ISO date string like '2010-05-01T18:29:00.000-04:00'
@@ -267,7 +267,7 @@ function detect_tag(){
 function getParameterByName(name) {
   name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
   var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-  results = regex.exec(location.search);
+      results = regex.exec(location.search);
   return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
@@ -280,118 +280,122 @@ const START_BLOCKS = [0, 150, 300, 450, 600, 750]
 var LOADING = [];
 
 function show_blogs(){
-    var blogname = 'www.pstrassmannblogspot.org';
-    var params = {alt: 'json-in-script',
-		  'max-results': 150};
-    // kick off a bunch of ajax calls, one per block of 150 posts
-    $.each(START_BLOCKS, function(i, start){
-	params['start-index'] = start+1; // start at 1, not 0
-	url = 'https://'+blogname+'/feeds/posts/default?'+$.param(params);
-	$.ajax({type:'GET',
-		dataType:'jsonp',
-		jsonp:'callback',
-		success: function(data){
-		    rss_callback(i, data);
-		    check_done(i)
-		},
-		url: url});
-	LOADING.push(i);
-    });
+  var blogname = 'pstrassmann.blogspot.com';
+  var params = {alt: 'json-in-script',
+		'max-results': 150};
+  // kick off a bunch of ajax calls, one per block of 150 posts
+  $.each(START_BLOCKS, function(i, start){
+    params['start-index'] = start+1; // start at 1, not 0
+    url = 'https://'+blogname+'/feeds/posts/default?'+$.param(params);
+    console.log('fetching', url);
+    $.ajax({type:'GET',
+	    dataType:'jsonp',
+	    jsonp:'callback',
+	    success: function(data){
+	      rss_callback(i, data);
+	      check_done(i)
+	    },
+	    url: url});
+    LOADING.push(i);
+  });
 }
 
 function check_done(i){
-    // remove i from LOADING
-    LOADING = LOADING.filter(function(value, index, arr){
-	return value != i;
-    });
-    // hide spinner when all pending jobs are done
-    if (LOADING.length == 0){
-	var count = $('.blog-posts .year li').length;
-	$('.blog-posts').append($('<li/>').addClass('count').text(count + ' posts'));
-	sort_posts();
-	$('.loading').hide();
-	console.log('done!');
-    }
+  // remove i from LOADING
+  LOADING = LOADING.filter(function(value, index, arr){
+    return value != i;
+  });
+  // hide spinner when all pending jobs are done
+  if (LOADING.length == 0){
+    var count = $('.blog-posts .year li').length;
+    $('.blog-posts').append($('<li/>').addClass('count').text(count + ' posts'));
+    sort_posts();
+    $('.loading').hide();
+    console.log('done!');
+  }
 }
 
 function sort_posts(){
-    $('.blog-posts .year').each(function(i, year){
-	var posts = $(year).children('li');
-	[].sort.call(posts, function(a, b) {
-	    adate = new Date($(a).attr('date'));
-	    bdate = new Date($(b).attr('date'));
-	    return a = b;
-	});
-	$(posts).each(function(){
-	    $(year).append(this);
-	});
+  $('.blog-posts .year').each(function(i, year){
+    var posts = $(year).children('li');
+    [].sort.call(posts, function(a, b) {
+      adate = new Date($(a).attr('date'));
+      bdate = new Date($(b).attr('date'));
+      return a = b;
     });
+    $(posts).each(function(){
+      $(year).append(this);
+    });
+  });
 }
 
 // year is an integer
 function post_year(year, posts){
-    var yeardiv = $('#Y'+year);
-    if (yeardiv.length==0){
-	yeardiv = $('<div/>').attr({id: 'Y'+year, year: year}).addClass('year');
-	yeardiv.append($('<div/>').text(year));
-	$(posts).each(function(j, post) {yeardiv.append(post)});
-    }
-    var yeardivs = $('.blog-posts .year');
-    if (yeardivs.length == 0) {
-	$('.blog-posts').append(yeardiv.append(posts));
-    } else {
-	yeardivs.each(function(i, item){
-	    var pos = $(item).attr('year');
-	    if (pos == year){
-		// merge posts
-		$(posts).each(function(j, post) {$(item).append(post)});
-		return false;
-	    } else if (pos < year) {
-		$(item).before(yeardiv);
-		return false;
-	    } else {
-		console.log('ERROR, failed to position', year);
-	    }
-	});
-    }
+  var yeardiv = $('#Y'+year);
+  if (yeardiv.length==0){
+    yeardiv = $('<div/>').attr({id: 'Y'+year, year: year}).addClass('year');
+    yeardiv.append($('<div/>').text(year));
+    $(posts).each(function(j, post) {yeardiv.append(post)});
+  }
+  var yeardivs = $('.blog-posts .year');
+  if (yeardivs.length == 0) {
+    $('.blog-posts').append(yeardiv.append(posts));
+  } else {
+    yeardivs.each(function(i, item){
+      console.log('adding item', item);
+      var pos = $(item).attr('year');
+      if (pos == year){
+	// merge posts
+	$(posts).each(function(j, post) {$(item).append(post)});
+	return false;
+      } else if (pos < year) {
+	$(item).before(yeardiv);
+	return false;
+      } else {
+	console.log('ERROR, failed to position', year, 'for item', item);
+      }
+    });
+  }
 }
 
-function rss_callback(n, data){
-    if (typeof data.feed.entry == 'undefined') return;
-    var years = {}
-    $.each(data.feed.entry, function(index, item){
-	var title = item.title.$t;
-	var published = item.published.$t;
-	var pubYear = new Date(published).getFullYear();
-	var content = item.content.$t;
-	var link = rss_get_permalink(item);
-	if (title == ''){
-	    title = '<i>untitled</i>';
-	}
-	var post = $('<li/>').append(
-	    $('<a/>').attr('href', link).html(title),
-	    ' ',
-	    $('<span/>').addClass('extension').text(date_fmt(published))
-	);
-	post.attr('date', date_fmt(published));
-	if (typeof years[pubYear] == "undefined"){
-	    years[pubYear] = []
-	}
-	years[pubYear].push(post);
-    });
-    for (y in years){
-	post_year(y, years[y]);
+async function rss_callback(n, data){
+  // we get several callbacks, one per block. up to 150 posts per callback.
+  if (typeof data.feed.entry == 'undefined') return;
+  var years = {}
+  $.each(data.feed.entry, function(index, item){
+    var title = item.title.$t;
+    var published = item.published.$t;
+    var pubYear = new Date(published).getFullYear();
+    var content = item.content.$t;
+    var link = rss_get_permalink(item);
+    if (title == ''){
+      title = '<i>untitled</i>';
     }
+    var post = $('<li/>').append(
+      $('<a/>').attr('href', link).html(title),
+      ' ',
+      $('<span/>').addClass('extension').text(date_fmt(published))
+    );
+    post.attr('date', date_fmt(published));
+    if (typeof years[pubYear] == "undefined"){
+      years[pubYear] = []
+    }
+    years[pubYear].push(post);
+  });
+  for (y in years){
+    console.log('post_year(', y, years[y].length,')');
+    post_year(y, years[y]);
+  }
 }
 
 function rss_get_permalink(item){
   var result = undefined;
   $.each(item.link, function(index, link){
-	   if (link.rel == 'alternate'){
-	     result = link.href;
-	     return false;
-	   }
-	 });
+    if (link.rel == 'alternate'){
+      result = link.href;
+      return false;
+    }
+  });
   return result;
 }
 
