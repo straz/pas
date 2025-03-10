@@ -7,6 +7,8 @@ url: "http://www.strassmann.com" # the base hostname & protocol for your site
 
 timezone: America/New_York
 exclude: ['Gemfile', 'Gemfile.lock']
+include:
+  - .well-known
 
 collections:
   afcea: {output: true, permalink: 'pubs/afcea/:name.html'}
